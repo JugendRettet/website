@@ -1,0 +1,179 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" prefix="og: http://ogp.me/ns#">
+    <head>
+        <title>Rescue — Jugend Rettet</title>
+        <meta name="description" content="Wir sind eine Organisation von jungen Erwachsenen für junge Erwachsene. Wir sammeln Gelder für den Erwerb eines Schiffes und mit diesem Schiff werden wir private Seenotrettung auf dem Mittelmeer betreiben." />
+        <meta charset="utf-8">
+        <meta name="author" content="Jugend Rettet" />
+        <meta name="keywords" content="Jugend, Rettet, Jugend Rettet, Jugend Rettet e. V., Seenotrettung, Mittelmeer, Flüchtlinge, Spenden, Europa, Organisation" />
+        <meta name="google-site-verification" content="KMNzTcq9zAtZpPFU4205bFNZx-FZKyiSFaNqrbi4XPI" />
+        <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+
+        <meta property="og:title" content="Jugend Rettet" />
+        <meta property="og:description" content="Wir sind eine Organisation von jungen Erwachsenen für junge Erwachsene. Wir sammeln Gelder für den Erwerb eines Schiffes und mit diesem Schiff werden wir private Seenotrettung auf dem Mittelmeer betreiben." />
+        <meta property="og:url" content="http://en.jugendrettet.org/aendern" />
+        <meta property="og:image" content="http://jugendrettet.org/images/jr-banner.jpg" />
+        <meta property="og:type" content="website" />
+        <meta property="og:site_name" content="Jugend Rettet" />
+
+        <link rel="shortcut icon" type="image/x-icon" href="http://jugendrettet.org/graphics/jr.ico" />
+        <link rel="mask-icon" href="http://www.jugendrettet.org/graphics/jr-mask.svg" color="rgb(40,100,130)">
+        <link rel="apple-touch-icon" href="http://jugendrettet.org/graphics/apple-touch-icon.png"/>
+        <link rel="stylesheet" href="http://jugendrettet.org/css/waves.css" type="text/css" />
+
+        <link rel="stylesheet" href="http://jugendrettet.org/css/general.css" type="text/css" />
+        <link rel="stylesheet" href="http://jugendrettet.org/css/main.css" type="text/css" />
+        <link rel="stylesheet" href="http://jugendrettet.org/css/desktop.css" media="screen and (min-device-width: 769px)" type="text/css" />
+        <link rel="stylesheet" href="http://jugendrettet.org/css/mobile.css" media="screen and (max-device-width: 768px)" type="text/css" />
+
+        <script src="http://jugendrettet.org/js/jquery-1.10.2.min.js"></script>
+        <script type="text/javascript">
+            $(window).load(function() {
+                $('body').fadeIn(400);
+            });
+        </script>
+        <style type="text/css">
+            #was {
+                background-image: url(http://jugendrettet.org/images/board.jpg);
+            }
+            #warum {
+                background-image: url(http://jugendrettet.org/images/shoe.jpg);
+            }
+            #wie {
+                background-image: url(http://jugendrettet.org/images/sepa.jpg);
+            }
+        </style>
+    </head>
+
+    <body>
+        <div id="pop-back"></div>
+        <div id="header-back"></div>
+	    <div id="wrap">
+            <header>
+                <a id="logo-wrap" href="index">
+                    <img id="logo" src="http://jugendrettet.org/graphics/logo.svg" alt="Jugend Rettet">
+                    <div id="title">Jugend <b>Rettet</b></div>
+                </a>
+                <div id="bread">
+                    <div class="stroke" id="br-top-stroke"></div>
+                    <div class="stroke" id="br-bottom-stroke"></div>
+                </div>
+                <div id="popup-close">
+                    <div id="cross">
+                        <div class="stroke rotate-open-top rotate-close-top" id="cr-top-stroke"></div>
+                        <div class="stroke rotate-open-bottom rotate-close-bottom" id="cr-bottom-stroke"></div>
+                    </div>
+                </div>
+                <nav>
+                    <ul class="hidden">
+                        <li><a href="news">News</a></li>
+                        <li><a href="schiff">The Ship</a></li>
+                        <li><a href="aendern" class="indicator">Rescue</a></li>
+                        <li><a href="spenden">Donate</a></li>
+                        <li><a href="europe">Jugend Rettet <span class="lowercase">europe</span></a></li>
+                    </ul>
+                </nav>
+            </header>
+            <div id="content">
+                <div id="menu" class="triple">
+                    <div class="child" id="was"><div class="show" id="denken" style="height: 100%;">
+                        <div class="tint">
+                            <div class="helper">
+                                <h3>Think</h3>
+                                <hr class="narrow">
+                                <div class="description">
+                                    <p>Get involved with your own ideas and proposals.</p>
+                                </div>
+                            </div>
+                        </div></div>
+                    </div>
+                    <div class="child" id="warum"><div class="show" id="tun" style="height: 100%;">
+                        <div class="tint">
+                            <div class="helper">
+                                <h3>Act</h3>
+                                <hr class="narrow">
+                                <div class="description">
+                                    <p>Get informed to effectively do someting.</p>
+                                </div>
+                            </div>
+                        </div></div>
+                    </div>
+                    <div class="child" id="wie"><a href="spenden">
+                        <div class="tint">
+                            <div class="helper">
+                                <h3>Donate</h3>
+                                <hr class="narrow">
+                                <div class="description">
+                                    <p>Every supporter gets us closer to our first rescue mission.</p>
+                                </div>
+                            </div>
+                        </div>
+                    </a></div>
+                </div>
+                <footer>
+                    <div id="peek-container"></div>
+                    <nav class="footer">
+                        <ul>
+                            <li><a href="faq">FAQ</a></li>
+                            <li><a class="peek" id="kontakt">Contact</a></li>
+                            <li><a href="impressum">Legal Notice</a></li>
+                            <li class="br"></li>
+                            <li><a href="http://en.jugendrettet.org/aendern">English</a></li>
+                            <li><a href="http://de.jugendrettet.org/aendern">Deutsch</a></li>
+                        </ul>
+                    </nav>
+                </footer>
+            </div>
+            <div class="popup" id="denken-pop">
+                <div class="single">
+                    <h3>Think</h3>
+                    <p>You have a vision for the future of Asylum policy? <a href="europe" class="link">Jugend Rettet europe</a> offers you a Platform for that.<br><br>You can send us your concrete proposals and suggestions on how we can improve our project to <a href="mailto:info@jugendrettet.org" class="link">info@jugendrettet.org</a>.</p>
+                </div>
+                <div class="container single">
+                    <div class="column">
+                    </div>
+                </div>
+            </div>
+            <div class="popup" id="tun-pop">
+                <div class="triple">
+                    <h3>Act</h3>
+                </div>
+                <div class="container triple plus-map">
+                    <div class="column mehr" id="botschafter">
+                        <h4><img class="icon" src="http://jugendrettet.org/graphics/bot.svg">Ambassador</h4>
+                        <p>You want to represent <i>Jugend Rettet</i> in your city?</p>
+                        <div class="mehr-klappe"><br>
+                            <p>Then join us and become a local ambassador of our movement in your locale. Organize fundraisers, charities and donations or campaigns and find supporters for our idea. Together with other <a class="mehr" id="kl-retter" style="display: inline; opacity: 1 !important;">Fellow Retter</a> in your vicinity you will take charge of projects. You will be equipped and supplied with the necessary materials and will also assist you upon any questions or enquiry. You can find our ambassadors from the map.<p><br>
+                        <iframe id="map" src='https://a.tiles.mapbox.com/v4/leonvogler.nd99673k/attribution,zoompan,zoomwheel.html?access_token=pk.eyJ1IjoibGVvbnZvZ2xlciIsImEiOiI0MTI2MDcxMzk2MWI2NDczYzRjNzY5OWI4ZmRmODUyYiJ9.Bys3jr3YtztwTuGQ30NLug'></iframe>
+                        </div>
+                        <a class="mehr-btn">more ...</a></p>
+                    </div>
+                    <div class="column mehr" id="kl-retter">
+                        <h4><img class="icon" src="http://jugendrettet.org/graphics/fla.svg">Fellow Retter</h4>
+                        <p>You would like to get involved in a unique project?</p>
+                        <div class="mehr-klappe"><br>
+                            <p>Then apply to become a fellow Retter by getting in touch with your local Ambassador and turn your idea into reality. Is there no Ambassador in your proximity, contact us. Tell us about your project and collect money for our ship or support us through material and goods donations. You may find what we are currently looking for on our <a href="https://www.facebook.com/JugendRettet" target="_blank">Facebook page</a> or in the <a class="link" href="news">News section</a>.</p><br>
+                        </div>
+                        <a class="mehr-btn">more ...</a></p>
+                    </div>
+                    <div class="column mehr" id="retter">
+                        <h4><img class="icon" src="http://jugendrettet.org/graphics/cap.svg">Retter</h4>
+                        <p>You would like to join us as a crew member on our rescue missions in the Mediteranean?</p>
+                        <div class="mehr-klappe"><br>
+                            <p>We look for people with job experiences that involved high risks and rescue operations. Ask yourself if you can bear these settings. It’s on these grounds that we are really picky and considerate on whom to choose as a crew member.<br><br>
+                        <p> We currently seek:</p>
+                        <p>- Doctors</p>
+                        <p>- first aid medical units</p><br>
+                        <a href="mailto:retter@jugendrettet.org" class="link">retter@jugendrettet.org</a><br><br>
+                        <p>Contact us only if you are really interested. We look forward to your application.</p>
+                        </div>
+                        <a class="mehr-btn">more ...</a></p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- Scripts -->
+        <script src="http://jugendrettet.org/js/main.js"></script>
+        <script src="js/peekfield.js"></script>
+    </body>
+</html>

@@ -1,0 +1,16 @@
+**/jquery*.js
+
+graphics/*
+images/*
+videos/*
+
+de/graphics/*
+de/images/*
+de/videos/*
+
+en/graphics/*
+en/images/*
+en/videos/*
+
+fonts/*
+de/fonts/*
