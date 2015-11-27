@@ -72,11 +72,26 @@
                 </nav>
             </header>
             <div class="popup-flat">
-                <div class="double">
+                <div class="triple">
                     <h3>Neuigkeiten</h3>
                 </div>
-                <div class="container double">
+                <div class="container triple">
                     <div class="column">
+                      <a class="faq" id="0"><h4>→ NEWSLETTER ABONNIEREN</h4></a>
+                      <div class="faq-klappe" id="0-klappe">
+                          <b>Bleib auf dem neusten Stand</b>
+                          <p>Was gibt es Neues bei <i>Jugend Rettet</i>? Änderungen und Fortschritte findest du hier. Abonniere unseren Newsletter und besuche uns auf <a target="_blank" href="https://www.facebook.com/JugendRettet" class="link">Facebook</a> und <a href="https://twitter.com/jugendrettet" class="link">Twitter</a>.</p><br>
+                          <div id="mc_embed_signup">
+                              <form action="//jugendrettet.us11.list-manage.com/subscribe/post?u=f6a6af2c458db9585a65cbee8&amp;id=cf9c18faae" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+                                  <div id="mc_embed_signup_scroll">
+                                      <input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="Deine E-Mail-Adresse" required>
+                                      <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+                                      <div style="position: absolute; left: -5000px;"><input type="text" name="b_f6a6af2c458db9585a65cbee8_cf9c18faae" tabindex="-1" value=""></div>
+                                      <div class="clear"><input type="submit" value="OK" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
+                                  </div>
+                              </form>
+                          </div>
+                      </div><br>
                       <a class="faq" id="27"><b>26. November</b> Besuch beim Theater und Komödie am Kurfürstendamm</a>
                       <div class="faq-klappe" id="27-klappe">
                           <p>Heute Abend waren wir wieder beim <a target="_blank" href="https://www.facebook.com/theaterundkomoedieamkurfuerstendamm/">Theater und Komödie am Kurfürstendamm</a> bei dem Stück "Eine Familie" dabei. Großes Dankeschön an die <a target="_blank" href="https://www.facebook.com/SantinisProduction/">Santinis Production</a>, die uns hierbei durch das Sammeln von Spenden unterstützt.</p>
@@ -194,18 +209,23 @@
                         </div>
                     </div>
                     <div class="column">
-                        <h4>Bleib auf dem neusten Stand</h4>
-                        <p>Was gibt es Neues bei <i>Jugend Rettet</i>? Änderungen und Fortschritte findest du hier. Abonniere unseren Newsletter und besuche uns auf <a target="_blank" href="https://www.facebook.com/JugendRettet" class="link">Facebook</a> und <a href="https://twitter.com/jugendrettet" class="link">Twitter</a>.</p><br>
-                        <div id="mc_embed_signup">
-                            <form action="//jugendrettet.us11.list-manage.com/subscribe/post?u=f6a6af2c458db9585a65cbee8&amp;id=cf9c18faae" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
-                                <div id="mc_embed_signup_scroll">
-                                    <input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="Deine E-Mail-Adresse" required>
-                                    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
-                                    <div style="position: absolute; left: -5000px;"><input type="text" name="b_f6a6af2c458db9585a65cbee8_cf9c18faae" tabindex="-1" value=""></div>
-                                    <div class="clear"><input type="submit" value="OK" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
-                                </div>
-                            </form>
-                        </div>
+                      <h4>Was wir geschafft haben</h4>
+                        <ul>
+                          <li>&#10003; Wir haben mit der MS Humanitas ein Schiff für unsere Zwecke gefunden und besichtigt. Die Umbaupläne für den Umbau ab April sind erstellt.</li><br>
+                          <li>&#10003; Wir haben eine 11-köpfige Crew inklusive Kapitän gefunden und gemeinsam unsere halbjährige Operation geplant.</li><br>
+                          <li>&#10003; Wir haben ein Netz von Botschaftern in über 15 deutschen Städten aufgebaut.</li><br>
+                          <li>&#10003; Wir haben Maria Furtwängler, Armin Rohde und Jasmin Gerat als Stimmen für <i>Jugend Rettet</i> gewinnen können.</li><br>
+                          <li>&#10003; Wir haben in Berlin ein Kernteam von 11 Menschen aufgebaut.</li>
+                        </ul>
+                    </div>
+                    <div class="column">
+                      <h4>Was wir noch schaffen werden</h4>
+                        <ul>
+                          <li>&#9633; Dass Seenotrettung in der jungen Generation ein Thema bleibt und die Situation der Menschen auf dem Mittelmeer weiterhin in der Öffentlichkeit eine Rolle spielt.</li><br>
+                          <li>&#9633; Dass wir unser Netzwerk an europäischen Botschaftern ausweiten.</li><br>
+                          <li>&#9633; Dass wir die Spendenphase bis Februar meistern und unsere Crowdfunding-Kampagne erfolgreich abschließen.</li><br>
+                          <li>&#9633; Dass wir Partnerschulen und Partner-Jugendorganisationen gewinnen.</li>
+                        </ul>
                     </div>
                 </div>
                 <!--
