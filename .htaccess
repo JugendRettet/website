@@ -26,9 +26,9 @@
   ExpiresByType image/jpeg "access plus 1 month 1 days"
   ExpiresByType image/png "access plus 1 month 1 days"
   ExpiresByType image/svg "access plus 1 month 1 days"
-  #ExpiresByType text/css "access plus 1 month 1 days"
-  ExpiresByType text/javascript "access plus 1 month 1 weeks"
-  ExpiresByType application/x-javascript "access plus 1 month 1 days"
+  #ExpiresByType text/css "access 1 days"
+  ExpiresByType text/javascript "access 1 days"
+  ExpiresByType application/x-javascript "access 1 days"
   ExpiresByType text/xml "access plus 1 seconds"
 </IfModule>
 <ifmodule mod_headers.c>
