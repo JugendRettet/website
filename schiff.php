@@ -8,7 +8,7 @@
         <meta name="keywords" content="Jugend, Rettet, Jugend Rettet, Jugend Rettet e. V., Seenotrettung, Mittelmeer, Flüchtlinge, Spenden, Europa, Organisation" />
         <meta name="google-site-verification" content="KMNzTcq9zAtZpPFU4205bFNZx-FZKyiSFaNqrbi4XPI" />
         <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
-        
+
         <meta property="og:title" content="Jugend Rettet" />
         <meta property="og:description" content="Wir sind eine Organisation von jungen Erwachsenen für junge Erwachsene. Wir sammeln Gelder für den Erwerb eines Schiffes und mit diesem Schiff werden wir private Seenotrettung auf dem Mittelmeer betreiben." />
         <meta property="og:url" content="http://de.jugendrettet.org/schiff" />
@@ -18,14 +18,14 @@
 
         <link rel="shortcut icon" type="image/x-icon" href="http://jugendrettet.org/graphics/jr.ico" />
         <link rel="mask-icon" href="http://www.jugendrettet.org/graphics/jr-mask.svg" color="rgb(40,100,130)">
-        <link rel="apple-touch-icon" href="http://jugendrettet.org/graphics/apple-touch-icon.png"/>       
+        <link rel="apple-touch-icon" href="http://jugendrettet.org/graphics/apple-touch-icon.png"/>
         <link rel="stylesheet" href="http://jugendrettet.org/css/waves.css" type="text/css" />
 
         <link rel="stylesheet" href="http://jugendrettet.org/css/general.css" type="text/css" />
         <link rel="stylesheet" href="http://jugendrettet.org/css/main.css" type="text/css" />
         <link rel="stylesheet" href="http://jugendrettet.org/css/desktop.css" media="screen and (min-device-width: 769px)" type="text/css" />
         <link rel="stylesheet" href="http://jugendrettet.org/css/mobile.css" media="screen and (max-device-width: 768px)" type="text/css" />
-          
+
         <script src="http://jugendrettet.org/js/jquery-1.10.2.min.js"></script>
         <script type="text/javascript">
             $(window).load(function() {
@@ -34,7 +34,7 @@
         </script>
         <style type="text/css" class="cushycms">
             #was {
-                background-image: url(http://jugendrettet.org/images/ocean.jpg);            
+                background-image: url(http://jugendrettet.org/images/ocean.jpg);
             }
             #warum {
                 background-image: url(http://jugendrettet.org/images/man.jpg);
@@ -75,7 +75,7 @@
                 </nav>
             </header>
             <div id="content">
-                <div id="menu" class="triple"> 
+                <div id="menu" class="triple">
                     <div class="child" id="was">
                         <div class="show" id="was-btn" style="height: 100%;">
                             <div class="tint">
@@ -128,7 +128,7 @@
                             <li class="br"></li>
                             <li><a href="http://en.jugendrettet.org/schiff">English</a></li>
                             <li><a href="http://de.jugendrettet.org/schiff">Deutsch</a></li>
-                        </ul> 
+                        </ul>
                     </nav>
                 </footer>
             </div>
@@ -138,9 +138,9 @@
                 </div>
                 <div class="container single">
                     <div class="column cushycms">
-                        <p>Wir sind eine Organisation von jungen Erwachsenen, die Gelder für den Erwerb eines Schiffes sammeln. Mit diesem Schiff werden wir private Seenotrettung auf dem Mittelmeer betreiben. Wir werden Menschen in Seenot lokalisieren, sie aufnehmen und sicher in den nächstgelegenen Hafen bringen. Unser Ziel ist klar: weniger Tote im Mittelmeer.</p> 
+                        <p>Wir sind eine Organisation von jungen Erwachsenen, die Gelder für den Erwerb eines Schiffes sammeln. Mit diesem Schiff werden wir private Seenotrettung auf dem Mittelmeer betreiben. Wir werden Menschen in Seenot lokalisieren, sie aufnehmen und sicher in den nächstgelegenen Hafen bringen. Unser Ziel ist klar: weniger Tote im Mittelmeer.</p>
                         <p>Darüber hinaus werden wir mit <a href="europe">Jugend Rettet europe</a> eine Diskussionsplattform über die europäische Asylpolitik für junge Erwachsene schaffen. Wir glauben an das Potenzial unserer jungen Generation, die aktuelle Situation durch eine breite asylpolitische Diskussion in ganz Europa zu verbessern.</p><br>
-                    </div>    
+                    </div>
                 </div>
             </div>
             <div class="popup" id="warum-btn-pop">
@@ -154,17 +154,17 @@
                         <p>Wir haben zwei Gründungsmitglieder von <i>Jugend Rettet</i> und Menschen, die über das Mittelmeer geflüchtet sind diese Frage beantworten lassen.</p>
                         <div class="mehr-klappe"><br>
                             <!--
-                            
+
                             <div class="popup-img" style="background-image: url('http://jugendrettet.org/images/news.jpg');"></div>
-                            
+
                             -->
                             <img class="portrait" src="http://jugendrettet.org/images/Lena.jpg" alt="Lena">
                             <p>Lena: „Ich engagiere mich seit langem in einem Flüchtlingsheim in dem viele Menschen leben, die über das Mittelmeer geflüchtet sind. In mir entstand der Wunsch, mich für die Menschen auf dem Mittelmeer einzusetzen. Bei <i>Jugend Rettet</i> habe ich ein konkretes Aktionsfeld gefunden, um mich konstruktiv für meine politischen Ideale einzusetzen.“
                             </p><br>
                             <!--
-                            
+
                             <div class="popup-img" style="background-image: url('http://jugendrettet.org/images/neu.jpg');"></div>
-                            
+
                             -->
                             <img class="portrait" src="http://jugendrettet.org/images/Jakob.jpg" alt="Jakob">
                             <p>Jakob: „Ich kann die täglichen Meldungen über neue Schiffsunglücke nicht mehr stillschweigend hinnehmen. <i>Jugend Rettet</i> hat als Zusammenschluss junger Leute das Potenzial etwas zu verändern. Europaweit vernetzen wir motivierte Jugendliche und zeigen, wie wichtig es ist, einen gemeinsamen, europäischen Entwurf für eine humanere Asylpolitik zu finden. Unser Schiff ist keine langfristige Lösung, aber es wird Menschenleben retten und es wird die Frage aufwerfen, warum Jugendliche anstelle der europäischen Regierungen diese Aufgabe in privater Initiative übernehmen müssen.“</p><br>
@@ -173,7 +173,7 @@
                         <a class="mehr-btn">Mehr ...</a>
                     </div>
                     <div class="column cushycms mehr" id="sit">
-                        <h4><img class="icon" src="http://jugendrettet.org/graphics/sit.svg" alt="Aktuelle Situation">Aktuelle Situation</h4>  
+                        <h4><img class="icon" src="http://jugendrettet.org/graphics/sit.svg" alt="Aktuelle Situation">Aktuelle Situation</h4>
                         <p>218.000 Menschen sind 2014 über das Mittelmeer geflüchtet. 3500 von ihnen haben es nicht geschafft.</p>
                         <div class="mehr-klappe"><br>
                             <p>Die Dunkelziffer an Opfern ist hoch. 2015 sollen, laut Frontex, 500.000 bis zu 1 Millionen Menschen die Flucht über das Meer wagen. Die zentrale Mittelmeerroute bleibt dabei die wichtigste Fluchtroute. Sie führt von Libyen nach Lampedusa, Malta oder Sardinien und wurde 2014 von 78% der Geflüchteten, die über das Meer kommen, genutzt.  Diese große Zahl an Menschen, die über das Mittelmeer flüchten, ist das Ergebnis geschlossener europäischer Außengrenzen und Botschaften, die nur die illegale und somit gefährliche Einreise als letzte Option lassen. (<a href="http://www.zeit.de/gesellschaft/zeitgeschehen/2015-03/frontex-rekordzahl-fluechtlinge" target="_blank">ZEIT, März 2015</a>)</p><br>
@@ -208,7 +208,7 @@ Unser Schiff soll etwa 30 Meter lang sein und so bis zu 100 Personen aufnehmen k
                 </div>
             </div>
         </div>
-        <!-- Scripts -->  
+        <!-- Scripts -->
         <script src="http://jugendrettet.org/js/main.js"></script>
         <script src="js/peekfield.js"></script>
     </body>
