@@ -92,6 +92,17 @@
                               </form>
                           </div>
                       </div><br>
+                      <a class="faq" id="29"><b>01. Dezember 2015</b> Offenes Treffen im Baiz Berlin</a>
+                      <div class="faq-klappe" id="29-klappe">
+                          <p>Gestern waren wir im Baiz in Berlin! Wir haben das Projekt vorgestellt und viele Fragen beantwortet! Wir freuen uns über die neuen Unterstützer.</p><br>
+                          <p>Ihr wart nicht dabei? Wir haben in der nächsten Zeit noch einige offenen Treffen, bei denen ihr uns direkt Fragen stellen könnt und mit uns diskutieren könnt.</p>
+                          <a href="http://jugendrettet.org/images/20151201.jpg" target="_blank"><img class="news" src= 'http://jugendrettet.org/images/20151201.jpg'></img></a>
+                      </div><br>
+                      <a class="faq" id="28"><b>29. November</b> Besuch im Paul-Löbe-Haus Berlin</a>
+                      <div class="faq-klappe" id="28-klappe">
+                          <p>Am Samstag waren wir bei der "Konferenz »Refugees welcome«" im Paul-Löbe-Haus in Berlin! In dem Workshop haben sich Privatleute, Organisationen und Vereine über ihre Arbeit ausgetauscht. Bei den unterschiedlichen Themen war für uns die internationale Flucht und Veränderung der Fluchtwege sehr interessant. Wir freuen uns auf weiteren Austausch!</p>
+                          <a href="http://jugendrettet.org/images/20151129.jpg" target="_blank"><img class="news" src= 'http://jugendrettet.org/images/20151129.jpg'></img></a>
+                      </div><br>
                       <a class="faq" id="27"><b>26. November</b> Besuch beim Theater und Komödie am Kurfürstendamm</a>
                       <div class="faq-klappe" id="27-klappe">
                           <p>Heute Abend waren wir wieder beim <a target="_blank" href="https://www.facebook.com/theaterundkomoedieamkurfuerstendamm/">Theater und Komödie am Kurfürstendamm</a> bei dem Stück "Eine Familie" dabei. Großes Dankeschön an die <a target="_blank" href="https://www.facebook.com/SantinisProduction/">Santinis Production</a>, die uns hierbei durch das Sammeln von Spenden unterstützt.</p>
