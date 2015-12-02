@@ -92,11 +92,17 @@
                               </form>
                           </div>
                       </div><br>
-                      <a class="faq" id="29"><b>01. Dezember 2015</b> Offenes Treffen im Baiz Berlin</a>
+                      <a class="faq" id="30"><b>02. Dezember</b> Schulvortrag in der b.traven Oberschule</a>
+                      <div class="faq-klappe" id="30-klappe">
+                          <p>"Warum können die Menschen nicht einfach mit dem Flugzeug kommen?" - diese und noch weitere Fragen durften wir heute bei unserem ersten Schulvortrag in der b.traven Oberschule beantworten!</p>
+                      </div><br>
+                      <a class="faq" id="29"><b>01. Dezember 2015</b> Offenes Treffen im Baiz Berlin und Interview FOCUS Online</a>
                       <div class="faq-klappe" id="29-klappe">
                           <p>Gestern waren wir im Baiz in Berlin! Wir haben das Projekt vorgestellt und viele Fragen beantwortet! Wir freuen uns über die neuen Unterstützer.</p><br>
                           <p>Ihr wart nicht dabei? Wir haben in der nächsten Zeit noch einige offenen Treffen, bei denen ihr uns direkt Fragen stellen könnt und mit uns diskutieren könnt.</p>
                           <a href="http://jugendrettet.org/images/20151201.jpg" target="_blank"><img class="news" src= 'http://jugendrettet.org/images/20151201.jpg'></img></a>
+                          <br>
+                          <p>Unser Gründungsmitglied Jakob wurde außerdem vom FOCUS Online interviewt! Bei dem Artikel geht es unter anderem um die Gründung und wie wir uns die Zeit auf dem Schiff vorstellen. Sehr lesenswert! <a href="http://www.focus.de/regional/berlin/mich-beruehrt-die-lage-sehr-jugendlicher-rettet-auf-eigene-faust-fluechtlinge-im-mittelmeer_id_5113218.html" target="_blank">Link</a></p>
                       </div><br>
                       <a class="faq" id="28"><b>29. November</b> Besuch im Paul-Löbe-Haus Berlin</a>
                       <div class="faq-klappe" id="28-klappe">
