@@ -69,7 +69,20 @@
                     <h3>Danke!</h3>
                     <p>Danke! Mit deiner Unterstützung kommen wir unserem Ziel und unserer ersten Rettungsaktion näher.</p>
                     <p>Die Menschen sterben jetzt. Deswegen dürfen wir nicht zögern. Wir wollen noch im Juni 2016 mit unserem Schiff auf das Mittelmeer raus fahren um dort aktive Seenotrettung zu betreiben. Um dieses Ziel zu erreichen ist jede Unterstützung wichtig. </p><br>
-                    <p>Unser Schiff besteht aus mehreren Teilen und Abschnitten. Wir haben das Schiff in acht Abschnitte eingeteilt. Jeder Unterstützter sieht damit konkret, was er ermöglicht. Sobald der erste Abschnitt und damit auch die ersten Meter finanziert wurden, geht es weiter zu dem nächsten Abschnitt, bis das Schiff und damit unsere erste Spendenphase finanziert wurde.</p>
+                    <p>Unser Schiff besteht aus mehreren Teilen und Abschnitten. Wir haben das Schiff in acht Abschnitte eingeteilt. Jede_r Unterstützter_In sieht damit konkret, was er ermöglicht. Sobald der erste Abschnitt und damit auch die ersten Meter finanziert wurden, geht es weiter zu dem nächsten Abschnitt, bis das Schiff und damit unsere erste Spendenphase finanziert wurde.</p><br>
+
+                    <h4>Ich möchte auf dem neuesten Stand bleiben</h4>
+                    <div id="mc_embed_signup">
+                        <form action="//jugendrettet.us11.list-manage.com/subscribe/post?u=f6a6af2c458db9585a65cbee8&amp;id=365192f3dc" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+                            <div id="mc_embed_signup_scroll">
+                                <input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="Deine E-Mail-Adresse" required>
+                                <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+                                <div style="position: absolute; left: -5000px;"><input type="text" name="b_f6a6af2c458db9585a65cbee8_365192f3dc" tabindex="-1" value=""></div>
+                                <div class="clear"><input type="submit" value="OK" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
+                            </div>
+                        </form>
+                    </div>
+                    </div>
                 </div>
             </div>
             <div id="content">
