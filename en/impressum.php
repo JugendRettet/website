@@ -8,7 +8,7 @@
         <meta name="keywords" content="Jugend, Rettet, Jugend Rettet, Jugend Rettet e. V., Seenotrettung, Mittelmeer, Flüchtlinge, Spenden, Europa, Organisation" />
         <meta name="google-site-verification" content="KMNzTcq9zAtZpPFU4205bFNZx-FZKyiSFaNqrbi4XPI" />
         <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
-        
+
         <meta property="og:title" content="Jugend Rettet" />
         <meta property="og:description" content="Wir sind eine Organisation von jungen Erwachsenen für junge Erwachsene. Wir sammeln Gelder für den Erwerb eines Schiffes und mit diesem Schiff werden wir private Seenotrettung auf dem Mittelmeer betreiben." />
         <meta property="og:url" content="http://en.jugendrettet.org/impressum" />
@@ -18,14 +18,14 @@
 
         <link rel="shortcut icon" type="image/x-icon" href="http://jugendrettet.org/graphics/jr.ico" />
         <link rel="mask-icon" href="http://www.jugendrettet.org/graphics/jr-mask.svg" color="rgb(40,100,130)">
-        <link rel="apple-touch-icon" href="http://jugendrettet.org/graphics/apple-touch-icon.png"/>       
+        <link rel="apple-touch-icon" href="http://jugendrettet.org/graphics/apple-touch-icon.png"/>
         <link rel="stylesheet" href="http://jugendrettet.org/css/waves.css" type="text/css" />
 
         <link rel="stylesheet" href="http://jugendrettet.org/css/general.css" type="text/css" />
         <link rel="stylesheet" href="http://jugendrettet.org/css/main.css" type="text/css" />
         <link rel="stylesheet" href="http://jugendrettet.org/css/desktop.css" media="screen and (min-device-width: 769px)" type="text/css" />
         <link rel="stylesheet" href="http://jugendrettet.org/css/mobile.css" media="screen and (max-device-width: 768px)" type="text/css" />
-        
+
         <script src="http://jugendrettet.org/js/jquery-1.10.2.min.js"></script>
         <script type="text/javascript">
             $(window).load(function() {
@@ -67,7 +67,7 @@
                 <div class="triple">
                     <h3>Legal Notice</h3><br>
                     <h4>Diese Website wird betrieben von</h4>
-                    <p>Jugend Rettet</p>
+                    <p>Jugend Rettet e.V.i.G.</p>
                     <p>Ruhlsdorferstr. 120</p>
                     <p>14513 Teltow</p><br>
                     <h4>Vertreten durch</h4>
@@ -102,7 +102,7 @@
                             <li class="br"></li>
                             <li><a href="http://en.jugendrettet.org/impressum">English</a></li>
                             <li><a href="http://de.jugendrettet.org/impressum">Deutsch</a></li>
-                        </ul> 
+                        </ul>
                     </nav>
                 </footer>
             </div>
