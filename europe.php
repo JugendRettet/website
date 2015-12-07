@@ -87,16 +87,6 @@
                         </a>
                         -->
 
-                        <a href="events?date=26-11-2015" class="event-container">
-                            <span class="event-date">Donnerstag, 26. November 2015</span>
-                            <span class="event-title">Offenes Treffen - Trier</span>
-                        </a>
-
-                        <a href="events?date=30-11-2015" class="event-container">
-                            <span class="event-date">Montag, 30. November 2015</span>
-                            <span class="event-title">Offenes Treffen - Baiz Berlin</span>
-                        </a>
-
                         <a href="events?date=08-12-2015" class="event-container">
                             <span class="event-date">Dienstag, 8. Dezember 2015</span>
                             <span class="event-title">Offenes Treffen - Zum ersten Mal in Nürnberg</span>
@@ -107,6 +97,15 @@
                             <span class="event-title">First open meeting in English - Fehre6 Berlin</span>
                         </a>
 
+<!--                        <a href="events?date=26-11-2015" class="event-container">
+                            <span class="event-date">Donnerstag, 26. November 2015</span>
+                            <span class="event-title">Offenes Treffen - Trier</span>
+                        </a>
+
+                        <a href="events?date=30-11-2015" class="event-container">
+                            <span class="event-date">Montag, 30. November 2015</span>
+                            <span class="event-title">Offenes Treffen - Baiz Berlin</span>
+                        </a> -->
                     </div>
                 </div>
             </div>

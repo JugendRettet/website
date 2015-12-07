@@ -81,7 +81,7 @@
                         <h4><img class="icon" src="http://jugendrettet.org/graphics/eve.svg">Events</h4>
                         <p>Here you may find the schedules for the next meetings of Jugend Rettet europe and further education.</p><br>
 
-                        <a href="events?date=26-11-2015" class="event-container">
+<!--                        <a href="events?date=26-11-2015" class="event-container">
                             <span class="event-date">Thursday, 26th November 2015</span>
                             <span class="event-title">Open Meeting - Trier</span>
                         </a>
@@ -89,7 +89,7 @@
                         <a href="events?date=30-11-2015" class="event-container">
                             <span class="event-date">Monday, 30th November 2015</span>
                             <span class="event-title">Open Meeting - Baiz Berlin</span>
-                        </a>
+                        </a> -->
 
                         <a href="events?date=08-12-2015" class="event-container">
                             <span class="event-date">Tuesday, 8th December 2015</span>
