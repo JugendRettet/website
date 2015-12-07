@@ -73,6 +73,7 @@
                     <h4>Vertreten durch</h4>
                     <p>Jakob Schoen</p>
                     <p>Lena Waldhoff</p><br>
+                    <p>&#8594; <a href="http://jugendrettet.org/files/151207 Vereinssatzung_JR.pdf">vorläufige Vereinssatzung</a></p><br>
                 </div>
                 <div class="container triple">
                     <div class="scroller triple">
