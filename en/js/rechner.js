@@ -4,7 +4,7 @@ function rechnen(f){
 
 	var teilkosten = 16875
 	var kosten = 270000
-	var stand = 7500
+	var stand = 10200
 
 	var spende = +document.getElementById('spendeinput').value+0
 	var betrag = +spende+stand

@@ -4,7 +4,7 @@ function rechnen(f){
 
 	var teilkosten = 16875
 	var kosten = 270000
-	var stand = 8000
+	var stand = 10200
 
 	var balkenwidth = 300
 	var geldbalkenwidth = 260
