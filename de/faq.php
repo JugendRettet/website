@@ -91,7 +91,7 @@
                         </div><br>
                         <a class="faq" id="6"><b>6</b> Wohin bringt ihr die Menschen nach der Rettung?</a>
                         <div class="faq-klappe" id="6-klappe">
-                            <p>Laut dem 1979 in Kraft getretenem „Übereinkommen über den Such- und Rettungsdienst auf See“ sind wir dazu verpflichtet, die Menschen an einen sicheren Ort zu bringen. Kriterien für einen sicheren Ort sind dabei die Gewährleistung von Nahrung, Unterkunft und medizinischer Versorgung.<sup>4</sup> Außerdem darf keine Gefährdung durch Verfolgung bestehen.<sup>5</sup> Deswegen wird von uns die Insel Malta mit dem nächstliegenden sicheren Hafen angesteuert.</p>
+                            <p>Laut dem 1979 in Kraft getretenem „Übereinkommen über den Such- und Rettungsdienst auf See“ sind wir dazu verpflichtet, die Menschen an einen sicheren Ort zu bringen. Kriterien für einen sicheren Ort sind dabei die Gewährleistung von Nahrung, Unterkunft und medizinischer Versorgung.<sup>5</sup> Außerdem darf keine Gefährdung durch Verfolgung bestehen. Auf Anweisung des MRCC bringen wir die Geretteten zu einem italienischen Hafen.</p>
                         </div><br>
                         <a class="faq" id="7"><b>7</b> Warum werdet ihr die Rettung übernehmen?</a>
                         <div class="faq-klappe" id="7-klappe">

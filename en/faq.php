@@ -91,7 +91,7 @@
                         </div><br>
                         <a class="faq" id="6"><b>6</b> Where do you take the people after the rescue?</a>
                         <div class="faq-klappe" id="6-klappe">
-                            <p>According to the 1979 ratified International Convention on Maritime Search and Rescue, we are obliged to localize the people in a secure place. The criteria for a secure place are to provide for food, accommodation and medical care.<sup>4</sup> Furthermore there may not be a danger of persecution.<sup>5</sup> The Malta Island is hence the next closest safe port towards which the people are steered.</p>
+                            <p>According to the 1979 ratified International Convention on Maritime Search and Rescue, we are obliged to localize the people in a secure place. The criteria for a secure place are to provide for food, accommodation and medical care.<sup>4</sup> Furthermore there may not be a danger of persecution.<sup>5</sup> Based on the instructions of the MRCC we'll bring the rescued people to an Italian harbour.</p>
                         </div><br>
                         <a class="faq" id="7"><b>7</b> Why would you take over the rescue operations?</a>
                         <div class="faq-klappe" id="7-klappe">
