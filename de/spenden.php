@@ -110,7 +110,7 @@
                   <div style="margin-right:10px"class="column">
                     <div style="padding-left:5px;padding-right:5px" id="spendenbox">
                       <h4 id="spendenkonto">Spendenkonto</h4>
-                      <p><b>Empfänger:</b> Jugend Rettet</p>
+                      <p><b>Empfänger:</b> Jugend Rettet e.V.</p>
                       <p><b>Kontonummer:</b> 0190465743</p>
                       <p><b>IBAN:</b> DE28 1005 0000 0190 4657 43</p>
                       <p><b>BIC:</b> BELADEBEXXX</p>

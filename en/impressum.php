@@ -67,7 +67,7 @@
                 <div class="triple">
                     <h3>Legal Notice</h3><br>
                     <h4>Diese Website wird betrieben von</h4>
-                    <p>Jugend Rettet e.V.i.G.</p>
+                    <p>Jugend Rettet e.V.</p>
                     <p>Ruhlsdorferstr. 120</p>
                     <p>14513 Teltow</p><br>
                     <h4>Vertreten durch</h4>

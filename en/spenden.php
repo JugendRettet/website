@@ -75,7 +75,7 @@
                         -->
                         <p>The people in the mediteranean are dying as of this moment. We need to raise money in order to buy our ship and to start the rescue. Time is of the essence. Become a donor now.</p><br>
                         <h4>Donations to:</h4>
-                        <p><b>Recipient:</b> Jugend Rettet e. V.</p>
+                        <p><b>Recipient:</b> Jugend Rettet e.V.</p>
                         <p><b>Bank account:</b> 0190465743</p>
                         <p><b>IBAN:</b> DE28 1005 0000 0190 4657 43</p>
                         <p><b>BIC:</b> BELADEBEXXX</p>
