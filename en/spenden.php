@@ -60,21 +60,21 @@
             #phase hr.load#ph-eins-progress {
                 transition: 800ms ease;
                 width: <?php
-                    $phase1 = file_get_contents('donations/phase1.txt');
+                    $phase1 = file_get_contents('../donations/phase1.txt');
                     $value1 = number_format(32 / 270000 * $phase1,2,",",".");                                 echo 100 / 270000 * $phase1;
                     ?>%;
             }
             #phase hr.load#ph-zwei-progress {
                 transition: 800ms ease;
                 width: <?php
-                        $phase2 = file_get_contents('donations/phase2.txt');
+                        $phase2 = file_get_contents('../donations/phase2.txt');
                         echo 100 / 240000 * $phase2;
                     ?>%;
             }
             #phase hr.load#ph-drei-progress {
                 transition: 800ms ease;
                 width: <?php
-                        $phase3 = file_get_contents('donations/phase3.txt');
+                        $phase3 = file_get_contents('../donations/phase3.txt');
                         echo 100 / 290000 * $phase3;
                     ?>%;
             }
@@ -132,7 +132,7 @@
                       <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
                       <input type="hidden" name="cmd" value="_s-xclick">
                       <input type="hidden" name="hosted_button_id" value="SBV6JB66SH52G">
-                      <input type="image" src="graphics/checkout-logo-69x26-alt-2x.png" name="submit" alt="Jetzt einfach, schnell und sicher online bezahlen – mit PayPal.">
+                      <input type="image" src="http://jugendrettet.org/graphics/checkout-logo-69x26-alt-2x.png" name="submit" alt="Jetzt einfach, schnell und sicher online bezahlen – mit PayPal.">
                       </form>
                       <p style="font-size:small">PayPal charges 1.5% + 0,35€ for each donation.</p>
                     </div>
@@ -191,7 +191,7 @@
 
                     <div id="schiff-ani">
                       <div class="schiff-klappe" id="1-klappe">
-                        <b>Ship’s propeller</b>
+                        <b>Ship's propeller</b>
                           <p>In the rear of the ship are the propeller and a tender.</p>
                       </div>
                       <div class="schiff-klappe" id="2-klappe">
@@ -225,10 +225,10 @@
                       <br>
                       <div id=schiff-container style="min-height:133px;width:300px;">
                         <div id="schiff" style="padding:5px;position:absolute">
-                          <img src="graphics/schiff-konturen-weiss.svg" alt="Das Schiff" style="width:300px;opacity:0.1">
+                          <img src="http://jugendrettet.org/graphics/schiff-konturen-weiss.svg" alt="Das Schiff" style="width:300px;opacity:0.1">
                         </div>
                         <div class="blink balken" id="schiff-gespendet" style="background-color:#286482;padding:5px;position:absolute;overflow:hidden;-webkit-transition: width 2s;transition: width 2s;width:calc(300px*10200/270000)">
-                          <img src="graphics/schiff-konturen-weiss.svg" alt="Das Schiff" style="width:300px" class="blink">
+                          <img src="http://jugendrettet.org/graphics/schiff-konturen-weiss.svg" alt="Das Schiff" style="width:300px" class="blink">
                         </div>
                         <div style="position:absolute;width:300px;">
                           <!--<span id="0" class="unterteilungen">0m</span>-->
