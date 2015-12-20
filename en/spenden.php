@@ -103,9 +103,9 @@
                 <nav>
                     <ul class="hidden">
                         <li><a href="news">News</a></li>
-                        <li><a href="schiff">Das Schiff</a></li>
-                        <li><a href="aendern">Retten</a></li>
-                        <li><a href="spenden" class="indicator">Spenden</a></li>
+                        <li><a href="schiff">The Ship</a></li>
+                        <li><a href="aendern">Rescue</a></li>
+                        <li><a href="spenden" class="indicator">Donate</a></li>
                         <li><a href="europe">Jugend Rettet <span class="lowercase">europe</span></a></li>
                     </ul>
                 </nav>
