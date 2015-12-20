@@ -139,7 +139,7 @@
 
                   <div class="column" style="min-width:235px">
                     <h4>Phasen</h4>
-                    <p>Unser Zeitplan steht. Ab Juni werden wir Menschenleben retten. Die Finanzierung unserer Rettungsmission läuft in drei Phasen ab. Verfolge hier, wie lange es noch ist bis zur ersten Rettungsmission.</p>
+                    <p>Unser Zeitplan steht. Ab Juni werden wir Menschenleben retten. Die Finanzierung unserer Rettungsmission läuft in drei Phasen ab. Verfolge hier, wie lange es bis zu unserer ersten Rettungsmission noch dauert</p>
                     <br>
                     <div id="phase">
                         <div class="ph-container" id="ph-eins">
@@ -148,7 +148,7 @@
                                 <hr id="ph-eins-progress"></hr>
                             </div>
                             <div class="content" id="ph-eins-content">
-                                <p>Bis zum 15. Februar werden wir die Gelder für den Kauf des Schiffs sammeln. Weitere Infos zu unserem Schiff findest du <a href="schiff#wie">hier</a>.
+                                <p>Bis zum 15. Februar 2016 werden wir die Gelder für den Kauf des Schiffs sammeln. Weitere Infos zu unserem Schiff findest du <a href="schiff#wie">hier</a>.
 
                                 Unser Schiff ist 32m lang. Bisher sind <?php echo $value1;?>m finanziert. Spende auch du 10 cm.</p>
                                 <br>
@@ -180,7 +180,7 @@
                             <div class="content" id="ph-drei-content">
                                 <p>In Phase 3 werden die laufenden Kosten für unsere halbjährige Rettungsmission gesammelt, die im Frühsommer starten soll.</p>
                                 <br>
-                                <p>Eine halbjährige Rettungsoperation auf dem Mittelmeer wird uns ca. <b>290.000 €</b> kosten.</p>
+                                <p>Eine halbjährige Rettungsoperation auf dem Mittelmeer wird etwa <b>290.000 €</b> kosten.</p>
                             </div>
                         </div>
                     </div><br>
