@@ -149,7 +149,7 @@
                                 <hr id="ph-eins-progress"></hr>
                             </div>
                             <div class="content" id="ph-eins-content">
-                                <p>Until 15th of February we will collect the funds for the purchase of the ship. You can find further information on our ship <a href="schiff#wie">here</a>.
+                                <p>Until 15th of February 2016 we will collect the funds for the purchase of the ship. You can find further information on our ship <a href="schiff#wie">here</a>.
 
                                 Our ship is 32m (105ft) long. By now, <?php echo $value1;?>m are funded. Donate 10cm for yourself!</p>
                                 <br>
