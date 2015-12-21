@@ -92,9 +92,46 @@
                               </form>
                           </div>
                       </div><br>
-                      <a class="faq" id="30"><b>02. Dezember</b> Schulvortrag in der b.traven Oberschule</a>
+
+                      <a class="faq" id="37"><b>17. Dezember</b> Offenes Treffen in Aachen und Filmvorstellung Asyland in Bonn</a>
+                      <div class="faq-klappe" id="37-klappe">
+                          <p>Jakob und Luisa halten ein offenes Treffen im RWTH Audimax ab und in Bonn sind wir abermals bei der Filmvorstellung <a href="http://www.asyland.de/">Asyland</a> dabei.</p>
+                      </div><br>
+                      <a class="faq" id="36"><b>15. Dezember</b> Zu Gast beim Hochschulradio Aachen</a>
+                      <div class="faq-klappe" id="36-klappe">
+                          <p>Heute Morgen war unsere Aachener Botschafterin beim <a href="http://www.hochschulradio-aachen.de/">Hochschulradio Aachen</a> zu hören!</p>
+                          <a href="http://jugendrettet.org/images/radioaachen.jpg" target="_blank"><img class="news" src= 'http://jugendrettet.org/images/radioaachen.jpg'></img></a>
+                      </div><br>
+                      <a class="faq" id="35"><b>14. Dezember</b> Offenes Treffen in Bonn</a>
+                      <div class="faq-klappe" id="35-klappe">
+                          <p>Unser Botschafter Tobi veranstaltete ein offenes Treffen im Institut für Anglistik und Amerikanistik in Bonn.</p>
+                      </div><br>
+                      <a class="faq" id="34"><b>13. Dezember</b> Spendenstand</a>
+                      <div class="faq-klappe" id="34-klappe">
+                          <p>Bisher haben wir 10.300€ sammeln können und damit sind über 1,20 m von unserem Schiff finanziert. Danke an alle, die uns bisher so tatkräftig unterstützen. Trotzdem brauchen wir aber noch mehr Geld, um das Schiff kaufen können. Teilt diesen Post mit euren Freunden und erzählt von unserem Vorhaben. Nur so können wir gemeinsam das Schiff kaufen und ein Zeichen gegen die Untätigkeit der Regierungen setzen.</p>
+                          <p>Jede Spende zählt! Wir danken allen Unterstützern.</p>
+                          <a href="/spenden">hier spenden</a>
+                      </div><br>
+                      <a class="faq" id="33"><b>12. Dezember</b> Filmvorstellung Asyland in Hamburg</a>
+                      <div class="faq-klappe" id="33-klappe">
+                          <p>In Hamburg waren wir wieder bei der Filmvorstellung von <a href="http://www.asyland.de/">Asyland</a> und der anschließenden Gesprächsrunde dabei.</p>
+                      <a href="http://jugendrettet.org/images/hhasyland.jpg" target="_blank"><img class="news" src= 'http://jugendrettet.org/images/hhasyland.jpg'></img></a>
+                      </div><br>
+                      <a class="faq" id="32"><b>09. Dezember</b> Weihnachtsmarkt in Trier</a>
+                      <div class="faq-klappe" id="32-klappe">
+                          <p>Auf dem Weihnachtsmarkt in Trier konnten Besucher_innen an 2 Tagen Weihnachtskarten basteln und uns so beim Retten unterstützen.</p>
+                          <p>Danke an Botschafterin Asa und alle Kleinen Retter in Trier.</p>
+                          <a href="http://jugendrettet.org/images/wmtrier.jpg" target="_blank"><img class="news" src= 'http://jugendrettet.org/images/wmtrier.jpg'></img></a>
+                      </div><br>
+                      <a class="faq" id="31"><b>08. Dezember</b> Offenes Treffen in Nürnberg</a>
+                      <div class="faq-klappe" id="31-klappe"> 
+                      </div><br>
+                      <a class="faq" id="30"><b>02. Dezember</b> Besuch von Jule Müller und Schulvortrag in der b.traven Oberschule</a>
                       <div class="faq-klappe" id="30-klappe">
-                          <p>"Warum können die Menschen nicht einfach mit dem Flugzeug kommen?" - diese und noch weitere Fragen durften wir heute bei unserem ersten Schulvortrag in der b.traven Oberschule beantworten!</p>
+                          <p>Heute bekamen wir Besuch von Jule von <a href="http://imgegenteil.de/">im gegenteil</a>!</p>
+                          <a href="http://jugendrettet.org/images/julem.jpg" target="_blank"><img class="news" src= 'http://jugendrettet.org/images/julem.jpg'></img></a>
+                          <br>
+                          <p>Außerdem: "Warum können die Menschen nicht einfach mit dem Flugzeug kommen?" - diese und noch weitere Fragen durften wir heute bei unserem ersten Schulvortrag in der b.traven Oberschule beantworten!</p>
                       </div><br>
                       <a class="faq" id="29"><b>01. Dezember 2015</b> Offenes Treffen im Baiz Berlin und Interview FOCUS Online</a>
                       <div class="faq-klappe" id="29-klappe">
