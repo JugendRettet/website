@@ -74,6 +74,7 @@
                     <p>Jakob Schoen</p>
                     <p>Lena Waldhoff</p><br>
                     <p>&#8594; <a href="http://jugendrettet.org/files/151207 Vereinssatzung_JR.pdf">vorläufige Vereinssatzung</a></p><br>
+                    <p>Vereinsregister: Amtsgericht Berlin (Charlottenburg) VR 34604</p>
                 </div>
                 <div class="container triple">
                     <div class="scroller triple">
