@@ -24,8 +24,8 @@
 
         <link href="http://jugendrettet.org/css/general.css" rel="stylesheet" type="text/css">
         <link href="http://jugendrettet.org/css/main.css" rel="stylesheet" type="text/css">
-        <link href="http://jugendrettet.org/css/desktop.css" media="screen and (min-device-width: 769px)" rel="stylesheet" type="text/css">
-        <link href="http://jugendrettet.org/css/mobile.css" media="screen and (max-device-width: 768px)" rel="stylesheet" type="text/css">
+        <link href="http://jugendrettet.org/css/desktop.css" media="screen and (min-device-width: 851px)" rel="stylesheet" type="text/css">
+        <link href="http://jugendrettet.org/css/mobile.css" media="screen and (max-device-width: 850px)" rel="stylesheet" type="text/css">
         <link rel="stylesheet" href="http://jugendrettet.org/css/animations.css" type="text/css" />
 
 
@@ -104,6 +104,7 @@
                     <ul class="hidden">
                         <li><a href="news">News</a></li>
                         <li><a href="schiff">The Ship</a></li>
+                        <!--<li><a href="team">Team</a></li>-->
                         <li><a href="aendern">Rescue</a></li>
                         <li><a href="spenden" class="indicator">Donate</a></li>
                         <li><a href="europe">Jugend Rettet <span class="lowercase">europe</span></a></li>
