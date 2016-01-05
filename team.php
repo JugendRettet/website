@@ -66,44 +66,42 @@
             </header>
             <div class="popup-flat">
                 <div class="single">
-                  <h3>Unterstützer</h3>
+                    <h3>Unterstützer</h3>
                 </div>
-                  <div class="container single">
-                    <div class="column">
-                      <h4></h4>
-                      <!--<a href="http://www.jugendpresse.de/">-->
-                        <img src="graphics/jpd.svg" alt="JPD" style="background-color:white;width:100%">
-                        <span>Jugendpresse.de</span>
-                      <!--</a>-->
-                      <!--<a href="http://www.santinis.de/"> -->
-                        <img src="graphics/Santini-Logo sw.svg" alt="Santini" style="background-color:white;width:100%;margin-top:20px;">
-                        <span>Santinis.de</span>
-                      <!--</a>-->
-                      <br><br>
-                      <p><u>Hinweis in eigener Sache:</u> Auf eine Verlinkung zu unseren Förderern und Unterstützern müssen wir leider verzichten, da dies (aus gesetzlicher Sicht) eine steuerlich wirksame Gegenleistung darstellt. Dadurch würde aus einer Spende eine Sponsoringleistung, für die wir Steuern entrichten müssten. Wir bitten herzlich um Verständnis.</p>
+                    <div class="container single">
+                        <div class="column">   
+                            <!--<a href="http://www.jugendpresse.de/">-->
+                            <img src="graphics/jpd.svg" alt="JPD" style="background-color:white;width:100%">
+                            <span>Jugendpresse.de</span>
+                            <!--</a>-->
+                            <!--<a href="http://www.santinis.de/"> -->
+                            <img src="graphics/Santini-Logo sw.svg" alt="Santini" style="background-color:white;width:100%;margin-top:20px;">
+                            <span>Santinis.de</span>
+                            <!--</a>-->
+                            <br><br>
+                            <p><u>Hinweis in eigener Sache:</u> Auf eine Verlinkung zu unseren Förderern und Unterstützern müssen wir leider verzichten, da dies (aus gesetzlicher Sicht) eine steuerlich wirksame Gegenleistung darstellt. Dadurch würde aus einer Spende eine Sponsoringleistung, für die wir Steuern entrichten müssten. Wir bitten herzlich um Verständnis.</p>
+                        </div>
+                        <!--<div class="column">
+                            <h3>Gesichter</h3>
+                        </div>-->
                     </div>
 
-                    <!--<div class="column">
-                      <h3>Gesichter</h3>
-                    </div>-->
-                  </div>
-
-            <div id="content">
-                <footer>
-                    <div id="peek-container"></div>
-                    <nav class="footer">
-                        <ul>
-                            <li><a href="faq">FAQ</a></li>
-                            <li><a class="peek" id="kontakt">Kontakt</a></li>
-                            <li><a href="impressum">Impressum</a></li>
-                            <li class="br"></li>
-                            <li><a href="http://en.jugendrettet.org/news">English</a></li>
-                        </ul>
-                    </nav>
-                </footer>
+                <div id="content">
+                    <footer>
+                        <div id="peek-container"></div>
+                        <nav class="footer">
+                            <ul>
+                                <li><a href="faq">FAQ</a></li>
+                                <li><a class="peek" id="kontakt">Kontakt</a></li>
+                                <li><a href="impressum">Impressum</a></li>
+                                <li class="br"></li>
+                                <li><a href="http://en.jugendrettet.org/news">English</a></li>
+                            </ul>
+                        </nav>
+                    </footer>
+                </div>
             </div>
         </div>
-      </div>
 
         <!-- Scripts -->
         <script src="http://jugendrettet.org/js/main.js"></script>
