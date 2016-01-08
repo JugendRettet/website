@@ -65,28 +65,114 @@
                 </nav>
             </header>
             <div class="popup-flat">
-                <div class="single">
-                    <h3>Unterstützer</h3>
+                <div class="triple">
+                    <h3>Team</h3>
                 </div>
-                  <div class="container single">
+                <div class="container triple">
                     <div class="column">
-                      <h4></h4>
-                      <!--<a href="http://www.jugendpresse.de/">-->
+                        <h4>Die Crew</h4>
+                        <ul style="list-style: inherit;">
+                            <li>Kapitän</li>
+                            <li>Steuermann</li>
+                        </ul>
+                        <p>(mit A1-Patent)</p>
+                        <br>
+                        <ul style="list-style: inherit;">
+                            <li>2 Maschinisten</li>
+                            <li>1 Funker</li>
+                            <li>2-3 Deckhands (Erste-Hilfe-Kurs, englische/französische Sprachkenntnisse)</li>
+                            <li>1 Sicherheitsbeauftragten</li>
+                            <li>2 Ärzte</li>
+                        </ul>
+                        <p>Unsere Deckhands legen STWC - Basic Safety Trainings ab.</p>
+                    </div>
+                    <div class="column">
+                        <h4>Das Team</h4>
+                        <ul>
+                            <li><b>Jakob und Lena</b>: Gründer</li>
+                        </ul>
+                        <p>
+                            Tel.:
+                            <br>
+                            <a href="tel:+49 160 95 68 38 73">+49 160 95 68 38 73</a>
+                            <br>
+                            <a href="tel:+49 151 68 44 63 98">+49 151 68 44 63 98</a>
+                        </p>
+                        <br>
+                        <ul>
+                            <b><li>Lena</b>:  Organisation, Koordination Botschafter, Konzeption</li>
+                            <b><li>Mohammed</b>:  Koordination europ. Botschafter</li>
+                            <b><li>Sahra</b>:  Organisation, Konzeption, Öffentlichkeit, Gestaltung</li>
+                            <b><li>Sonja</b>:  Organisation, Recht, Finanzen</li>
+                            <b><li>Jakob</b>:  Konzeption, Öffentlichkeit, Recht, Finanzen</li>
+                            <b><li>Pauline</b>:  Öffentlichkeit</li>
+                            <b><li>Johanna</b>:  Öffentlichkeit, Gestaltung</li>
+                            <b><li>Alex</b>:  IT, Gestaltung</li>
+                            <b><li>Matthias</b>:  Finanzen, Recherche</li>
+                            <b><li>Johanna</b>:  Öffentlichkeit</li>
+                            <b><li>Carlo</b>:  Öffentlichkeit</li>
+                            <b><li>Valeria</b>:  Öffentlichkeit, Finanzen</li>
+                            <b><li>Lars</b>:  IT</li>
+                            <b><li>Suse</b>:  Finanzen</li>
+                            <b><li>Elke</b>:  Finanzen</li>
+                            <b><li>Lukas</b>:  Finanzen</li>
+                            <b><li>Anna</b>:  Recherche</li>
+                            <b><li>Andreas</b>:  Recherche</li>
+                            <b><li>Jonas</b>:  Gestaltung</li>
+                            <b><li>Kjeld</b>:  Gestaltung</li>
+                            <b><li>Leon</b>:  Webdesign</li>
+                        </ul>
+                    </div>
+                    <div class="column">
+                        <h4>Botschafter</h4>
+                        <ul>
+                            <li>Aachen: <a href="mailto:Luisa@jugendrettet.org">Luisa</a></li>
+                            <li>Allgäu: <a href="mailto:Lioba@jugendrettet.org">Lioba</a></li>
+                            <li>Berlin: <a href="mailto:Lukas@jugendrettet.org">Lukas</a></li>
+                            <li>Berlin: <a href="mailto:Sonja@jugendrettet.org">Sonja</a></li>
+                            <li>Bonn: <a href="mailto:Tobias@jugendrettet.org">Tobias</a></li>
+                            <li>Flensburg: <a href="mailto:Pauline@jugendrettet.org">Pauline</a></li>
+                            <li>Hamburg: <a href="mailto:Marco@jugendrettet.org">Marco</a></li>
+                            <li>Heilbronn: <a href="mailto:Jon@jugendrettet.org">Jon</a></li>
+                            <li>Kiel: <a href="mailto:Matthis@jugendrettet.org">Matthis</a></li>
+                            <li>Koblenz: <a href="mailto:Alexw@jugendrettet.org">Alex</a></li>
+                            <li>Köln: <a href="mailto:Carlo@jugendrettet.org">Carlo</a></li>
+                            <li>Münster: <a href="mailto:Jana@jugendrettet.org">Jana</a></li>
+                            <li>Nürnberg: <a href="mailto:Johanna@jugendrettet.org">Johanna</a></li>
+                            <li>Paderborn: <a href="mailto:Wiebke@jugendrettet.org">Wiebke</a></li>
+                            <li>Paris: <a href="mailto:Patrick@jugendrettet.org">Patrick</a></li>
+                            <li>Potsdam: <a href="mailto:Alex@jugendrettet.org">Alex</a></li>
+                            <li>Reutlingen: <a href="mailto:Fatih@jugendrettet.org">Fatih</a></li>
+                            <li>Stuttgart: <a href="mailto:Harun@jugendrettet.org">Harun</a></li>
+                            <li>Trier: <a href="mailto:Asa@jugendrettet.org">Asa</a></li>
+                        </ul>
+                    </div>
+                </div>
+
+                <div class="container single">
+                    <!--<div class="column">
+                        <h4>Gesichter</h4>
+                    </div>-->
+                    <div class="column">
+                        <h4>Unterstützer</h4>
+                        <!--<a href="http://www.jugendpresse.de/">-->
                         <img src="graphics/jpd.svg" alt="JPD" style="background-color:white;width:100%;padding:5px">
                         <span>Jugendpresse.de</span>
-                      <!--</a>-->
-                      <!--<a href="http://www.santinis.de/"> -->
-                        <img src="graphics/Santini-Logo sw.svg" alt="Santini" style="background-color:white;width:100%;margin-top:20px">
+                        <!--</a>-->
+                        <!--<a href="http://www.santinis.de/"> -->
+                        <img src="graphics/Santini-Logo sw.svg" alt="Santini" style="background-color:white;width:100%;margin-top:20px;">
                         <span>Santinis.de</span>
-                      <!--</a>-->
+
                         <img src="graphics/Logo_Print Production_2c.svg" alt="Print Production" style="background-color:white;width:100%;margin-top:20px;padding:5px">
                         <span>printproduction.de</span>
 
                         <img src="graphics/nwsh.png" alt="Netzwerk Selbsthilfe" style="background-color:white;width:100%;margin-top:20px;padding:5px">
                         <span>netzwerk-selbsthilfe.de</span>
-                      <br><br>
-                      <p><u>Hinweis in eigener Sache:</u> Auf eine Verlinkung zu unseren Förderern und Unterstützern müssen wir leider verzichten, da dies (aus gesetzlicher Sicht) eine steuerlich wirksame Gegenleistung darstellt. Dadurch würde aus einer Spende eine Sponsoringleistung, für die wir Steuern entrichten müssten. Wir bitten herzlich um Verständnis.</p>
+                        <!--</a>-->
+                        <br><br>
+                        <p><u>Hinweis in eigener Sache:</u> Auf eine Verlinkung zu unseren Förderern und Unterstützern müssen wir leider verzichten, da dies (aus gesetzlicher Sicht) eine steuerlich wirksame Gegenleistung darstellt. Dadurch würde aus einer Spende eine Sponsoringleistung, für die wir Steuern entrichten müssten. Wir bitten herzlich um Verständnis.</p>
                     </div>
+                </div>
 
                 <div id="content">
                     <footer>
