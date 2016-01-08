@@ -89,21 +89,31 @@
                     <div class="column">
                         <h4>Das Kernteam</h4>
                         <ul>
-                            <li>Jakob: Buchhalter</li>
-                            <li>Carlo: Fotograf</li>
-                            <li>Jonas: Fotograf</li>
-                            <li>Mohammed: Koordinator der Kontakte zu Geflüchteten</li>
-                            <li>Leon: Web-Designer</li>
-                            <li>Kjeld: Grafiker</li>
-                            <li>Johanna: Social Media &amp; Botschafterin Nürnberg</li>
-                            <li>Mohammad: Koordinator europäischer Botschafter</li>
-                            <li>Lukas: Botschafter Berlin</li>
-                            <li>Matthias: Politische Recherchen</li>
                             <li>Jakob und Lena: Gründer</li>
-                            <li>Sonja: Stiftungen &amp; Botschafterin Berlin</li>
-                            <li>Sahra: Social Media</li>
-                            <li>Valentin: Social Media &amp; Crowdfunding</li>
-                            <li>Alex: Admin</li>
+                        </ul>
+                        <p>
+                            Tel.:
+                            <br>
+                            <a href="tel:+49 160 95 68 38 73">+49 160 95 68 38 73</a>
+                            <br>
+                            <a href="tel:+49 151 68 44 63 98">+49 151 68 44 63 98</a>
+                        </p>
+                        <br>
+                        <ul>
+                            <b><li>Jakob</b>:  Buchhalter</li>
+                            <b><li>Carlo</b>:  Fotograf</li>
+                            <b><li>Jonas</b>:  Fotograf</li>
+                            <b><li>Mohammed</b>:  Koordinator der Kontakte zu Geflüchteten</li>
+                            <b><li>Leon</b>:  Web-Designer</li>
+                            <b><li>Kjeld</b>:  Grafiker</li>
+                            <b><li>Johanna</b>:  Social Media &amp; Botschafterin Nürnberg</li>
+                            <b><li>Mohammad</b>:  Koordinator europäischer Botschafter</li>
+                            <b><li>Lukas</b>:  Botschafter Berlin</li>
+                            <b><li>Matthias</b>:  Politische Recherchen</li>
+                            <b><li>Sonja</b>:  Stiftungen &amp; Botschafterin Berlin</li>
+                            <b><li>Sahra</b>:  Social Media</li>
+                            <b><li>Valentin</b>:  Social Media &amp; Crowdfunding</li>
+                            <b><li>Alex</b>:  Admin</li>
                         </ul>
                     </div>
                     <div class="column">
