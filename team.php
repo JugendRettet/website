@@ -120,6 +120,7 @@
                             <b><li>Andreas</b>:  Recherche</li>
                             <b><li>Jonas</b>:  Gestaltung</li>
                             <b><li>Kjeld</b>:  Gestaltung</li>
+                            <b><li>Leon</b>:  Webdesign</li>
                         </ul>
                     </div>
                     <div class="column">
