@@ -23,8 +23,8 @@
 
         <link rel="stylesheet" href="http://jugendrettet.org/css/general.css" type="text/css" />
         <link rel="stylesheet" href="http://jugendrettet.org/css/main.css" type="text/css" />
-        <link rel="stylesheet" href="http://jugendrettet.org/css/desktop.css" media="screen and (min-device-width: 769px)" type="text/css" />
-        <link rel="stylesheet" href="http://jugendrettet.org/css/mobile.css" media="screen and (max-device-width: 768px)" type="text/css" />
+        <link rel="stylesheet" href="http://jugendrettet.org/css/desktop.css" media="screen and (min-device-width: 851px)" type="text/css" />
+        <link rel="stylesheet" href="http://jugendrettet.org/css/mobile.css" media="screen and (max-device-width: 850px)" type="text/css" />
 
         <script src="http://jugendrettet.org/js/jquery-1.10.2.min.js"></script>
         <script type="text/javascript">
@@ -57,6 +57,7 @@
                     <ul class="hidden">
                         <li><a href="news">News</a></li>
                         <li><a href="schiff">Das Schiff</a></li>
+                        <li><a href="team">Team</a></li>
                         <li><a href="aendern">Retten</a></li>
                         <li><a href="spenden">Spenden</a></li>
                         <li><a href="europe" class="indicator">Jugend Rettet <span class="lowercase">europe</span></a></li>
@@ -117,8 +118,6 @@
                             <li><a href="faq">FAQ</a></li>
                             <li><a class="peek" id="kontakt">Kontakt</a></li>
                             <li><a href="impressum">Impressum</a></li>
-                            <li class="br"></li>
-                            <li><a href="unterstuetzer">Unterstützer</a></li>
                             <li class="br"></li>
                             <li><a href="http://en.jugendrettet.org/europe">English</a></li>
                             <li><a href="http://de.jugendrettet.org/europe">Deutsch</a></li>
