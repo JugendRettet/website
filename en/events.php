@@ -208,6 +208,18 @@ Euer Jugend Rettet Team</p><br>
                         </div><br>
                     </div>
 
+                    <div class="date-container" id="09-01-2016">
+                        <h4>Party for the ship: Jugend Rettet in 'Schreina'</h4>
+                        <br>
+                        <div class="event-container">
+                            <div class="event-date">Saturday, 9th January 2016</div>
+                            <div class="event-icon"><img src="http://jugendrettet.org/graphics/location.png" width="14px" alt="Location"></div>
+                            <div class="event-title"><a href="https://www.google.de/maps/place/Schreinerstra%C3%9Fe+47,+10247+Berlin/@52.5173332,13.465236,17z/data=!3m1!4b1!4m2!3m1!1s0x47a84e8a797de185:0x300e4822d386c620" target="_blank">Schreina<br>Schreinerstr. 47<br> 10247 Berlin</a></div><br>
+                            <div class="event-icon"><img src="http://jugendrettet.org/graphics/time.png" height="14px" alt="Time"></div>
+                            <div class="event-title">08:00 pm</div>
+                        </div><br>
+                    </div>
+
             </div>
             <div id="content">
                 <footer>

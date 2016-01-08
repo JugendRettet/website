@@ -90,7 +90,7 @@
                         <a href="events?date=30-11-2015" class="event-container">
                             <span class="event-date">Monday, 30th November 2015</span>
                             <span class="event-title">Open Meeting - Baiz Berlin</span>
-                        </a> -->
+                        </a>
 
                         <a href="events?date=08-12-2015" class="event-container">
                             <span class="event-date">Tuesday, 8th December 2015</span>
@@ -101,7 +101,11 @@
                             <span class="event-date">Wednesday, 9th December 2015</span>
                             <span class="event-title">First open meeting in English - Fehre6 Berlin</span>
                         </a>
-
+-->
+                        <a href="events?date=09-01-2016" class="event-container">
+                            <span class="event-date">Saturday, 9th January 2016</span>
+                            <span class="event-title">Party for the ship: Jugend Rettet in 'Schreina'</span>
+                        </a>
                     </div>
 
                     </div>
