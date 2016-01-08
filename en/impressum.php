@@ -66,15 +66,21 @@
             </header>
             <div class="popup-flat">
                 <div class="triple">
-                    <h3>Legal Notice</h3><br>
+                    <h3>Legal Notice</h3>
+                    <br>
                     <h4>Diese Website wird betrieben von</h4>
                     <p>Jugend Rettet e.V.</p>
                     <p>Ruhlsdorferstr. 120</p>
-                    <p>14513 Teltow</p><br>
+                    <p>14513 Teltow</p>
+                    <p>Vereinsregister: Amtsgericht Berlin (Charlottenburg) VR 34604</p>
+                    <p>&#8594; <a href="http://jugendrettet.org/files/151207 Vereinssatzung_JR.pdf">Vereinssatzung</a></p>
+                    <br>
                     <h4>Vertreten durch</h4>
                     <p>Jakob Schoen</p>
-                    <p>Lena Waldhoff</p><br>
-                    <p>&#8594; <a href="http://jugendrettet.org/files/151207 Vereinssatzung_JR.pdf">vorläufige Vereinssatzung</a></p><br>
+                    <p>Lena Waldhoff</p>
+                    <br>
+                    <h4>inhaltlich verantwortlich</h4>
+                    <p>Lena Waldhoff</p>
                 </div>
                 <div class="container triple">
                     <div class="scroller triple">
