@@ -87,9 +87,9 @@
                         <p>Unsere Deckhands legen STWC - Basic Safety Trainings ab.</p>
                     </div>
                     <div class="column">
-                        <h4>Das Kernteam</h4>
+                        <h4>Das Team</h4>
                         <ul>
-                            <li>Jakob und Lena: Gründer</li>
+                            <li><b>Jakob und Lena</b>: Gründer</li>
                         </ul>
                         <p>
                             Tel.:
@@ -100,20 +100,26 @@
                         </p>
                         <br>
                         <ul>
-                            <b><li>Jakob</b>:  Buchhalter</li>
-                            <b><li>Carlo</b>:  Fotograf</li>
-                            <b><li>Jonas</b>:  Fotograf</li>
-                            <b><li>Mohammed</b>:  Koordinator der Kontakte zu Geflüchteten</li>
-                            <b><li>Leon</b>:  Web-Designer</li>
-                            <b><li>Kjeld</b>:  Grafiker</li>
-                            <b><li>Johanna</b>:  Social Media &amp; Botschafterin Nürnberg</li>
-                            <b><li>Mohammad</b>:  Koordinator europäischer Botschafter</li>
-                            <b><li>Lukas</b>:  Botschafter Berlin</li>
-                            <b><li>Matthias</b>:  Politische Recherchen</li>
-                            <b><li>Sonja</b>:  Stiftungen &amp; Botschafterin Berlin</li>
-                            <b><li>Sahra</b>:  Social Media</li>
-                            <b><li>Valentin</b>:  Social Media &amp; Crowdfunding</li>
-                            <b><li>Alex</b>:  Admin</li>
+                            <b><li>Lena</b>:  Organisation, Koordination Botschafter, Konzeption</li>
+                            <b><li>Mohammed</b>:  Koordination europ. Botschafter</li>
+                            <b><li>Sahra</b>:  Organisation, Konzeption, Öffentlichkeit, Gestaltung</li>
+                            <b><li>Sonja</b>:  Organisation, Recht, Finanzen</li>
+                            <b><li>Jakob</b>:  Konzeption, Öffentlichkeit, Recht, Finanzen</li>
+                            <b><li>Pauline</b>:  Öffentlichkeit</li>
+                            <b><li>Johanna</b>:  Öffentlichkeit, Gestaltung</li>
+                            <b><li>Alex</b>:  IT, Gestaltung</li>
+                            <b><li>Matthias</b>:  Finanzen, Recherche</li>
+                            <b><li>Johanna</b>:  Öffentlichkeit</li>
+                            <b><li>Carlo</b>:  Öffentlichkeit</li>
+                            <b><li>Valeria</b>:  Öffentlichkeit, Finanzen</li>
+                            <b><li>Lars</b>:  IT</li>
+                            <b><li>Suse</b>:  Finanzen</li>
+                            <b><li>Elke</b>:  Finanzen</li>
+                            <b><li>Lukas</b>:  Finanzen</li>
+                            <b><li>Anna</b>:  Recherche</li>
+                            <b><li>Andreas</b>:  Recherche</li>
+                            <b><li>Jonas</b>:  Gestaltung</li>
+                            <b><li>Kjeld</b>:  Gestaltung</li>
                         </ul>
                     </div>
                     <div class="column">
