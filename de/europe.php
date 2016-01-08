@@ -86,7 +86,6 @@
                             <span class="event-date">Montag, 9. November 2015</span>
                             <span class="event-title">3. Offenes Treffen</span>
                         </a>
-                        -->
 
                         <a href="events?date=08-12-2015" class="event-container">
                             <span class="event-date">Dienstag, 8. Dezember 2015</span>
@@ -98,7 +97,7 @@
                             <span class="event-title">First open meeting in English - Fehre6 Berlin</span>
                         </a>
 
-<!--                        <a href="events?date=26-11-2015" class="event-container">
+                       <a href="events?date=26-11-2015" class="event-container">
                             <span class="event-date">Donnerstag, 26. November 2015</span>
                             <span class="event-title">Offenes Treffen - Trier</span>
                         </a>
@@ -107,6 +106,11 @@
                             <span class="event-date">Montag, 30. November 2015</span>
                             <span class="event-title">Offenes Treffen - Baiz Berlin</span>
                         </a> -->
+
+                        <a href="events?date=09-01-2016" class="event-container">
+                            <span class="event-date">Samstag, 9. Januar 2016</span>
+                            <span class="event-title">Feiern fürs Schiff: Jugend Rettet in der Schreina</span>
+                        </a>
                     </div>
                 </div>
             </div>

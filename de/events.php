@@ -242,6 +242,38 @@ Euer Jugend Rettet Team</p><br>
                         </div><br>
                     </div>
 
+                    <div class="date-container" id="09-01-2016">
+                        <h4>Feiern fürs Schiff: Jugend Rettet in der Schreina</h4>
+                        <br>
+
+                        <p>Soli-Sause in der Antifabrik von und für <i>Jugend Rettet</i></p>
+                        <br>
+                        <p>
+                            Wir sind seit einigen Monaten dabei ein Projekt auf die Beine zu stellen, 
+                            mit dem Ziel gegen das Sterben auf dem Mittelmeer vorzugehen. Durch Spendengelder 
+                            wollen wir ein Schiff erwerben, um damit Seenotrettung zu betreiben und Geflüchtete 
+                            zum nächstgelegenen sicheren Hafen zu bringen. Gleichzeitig nehmen wir es nicht 
+                            stillschweigend hin, dass diese Aufgabe von staatlicher Seite weiterhin ignoriert 
+                            wird: Es müssen endlich staatliche Rettungsprogramme eingerichtet werden, die 
+                            Gleichgültigkeit gegenüber dem Sterben auf dem Mittelmeer muss aufhören!
+                        </p>
+                        <p>
+                            Anlässlich unserer Spendenphase für den Erwerb eines Schiffs laden wir euch ein, 
+                            uns mit eurer Gesellschaft in der Schreina47 zu beglücken: 
+                            Es erwarten euch ein Billard, Kicker, Warmes, Eisgekühltes und Infos zu unserem
+                            Projekt sowie zum aktuellen Arbeitsstand.
+                        </p>
+                        <p>Wir freuen uns auf euch!</p>
+                        <br>
+                        <div class="event-container">
+                            <div class="event-date">Samstag, 9. Januar 2016</div>
+                            <div class="event-icon"><img src="http://jugendrettet.org/graphics/location.png" width="14px" alt="Location"></div>
+                            <div class="event-title"><a href="https://www.google.de/maps/place/Schreinerstra%C3%9Fe+47,+10247+Berlin/@52.5173332,13.465236,17z/data=!3m1!4b1!4m2!3m1!1s0x47a84e8a797de185:0x300e4822d386c620" target="_blank">Schreina<br>Schreinerstr. 47<br> 10247 Berlin</a></div><br>
+                            <div class="event-icon"><img src="http://jugendrettet.org/graphics/time.png" height="14px" alt="Time"></div>
+                            <div class="event-title">20:00 Uhr</div>
+                        </div><br>
+                    </div>
+
             </div>
             <div id="content">
                 <footer>
