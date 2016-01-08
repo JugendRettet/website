@@ -1,6 +1,6 @@
 var email = 'info@jugendrettet.org',
     postfach = '36 03 55, 10973 Berlin',
-    telefon = '+49 151 68 44 63 98';
+    telefon = '+49 160 95 68 38 73';
 
 var impressum_h1 = 'Diese Website wird betrieben von:',
     verein = 'Jugend Rettet e. V.',
