@@ -71,13 +71,18 @@
                     <div class="column">
                       <h4></h4>
                       <!--<a href="http://www.jugendpresse.de/">-->
-                        <img src="graphics/jpd.svg" alt="JPD" style="background-color:white;width:100%">
+                        <img src="graphics/jpd.svg" alt="JPD" style="background-color:white;width:100%;padding:5px">
                         <span>Jugendpresse.de</span>
                       <!--</a>-->
                       <!--<a href="http://www.santinis.de/"> -->
-                        <img src="graphics/Santini-Logo sw.svg" alt="Santini" style="background-color:white;width:100%;margin-top:20px;">
+                        <img src="graphics/Santini-Logo sw.svg" alt="Santini" style="background-color:white;width:100%;margin-top:20px">
                         <span>Santinis.de</span>
                       <!--</a>-->
+                        <img src="graphics/Logo_Print Production_2c.svg" alt="Print Production" style="background-color:white;width:100%;margin-top:20px;padding:5px">
+                        <span>printproduction.de</span>
+
+                        <img src="graphics/nwsh.png" alt="Netzwerk Selbsthilfe" style="background-color:white;width:100%;margin-top:20px;padding:5px">
+                        <span>netzwerk-selbsthilfe.de</span>
                       <br><br>
                       <p><u>Hinweis in eigener Sache:</u> Auf eine Verlinkung zu unseren Förderern und Unterstützern müssen wir leider verzichten, da dies (aus gesetzlicher Sicht) eine steuerlich wirksame Gegenleistung darstellt. Dadurch würde aus einer Spende eine Sponsoringleistung, für die wir Steuern entrichten müssten. Wir bitten herzlich um Verständnis.</p>
                     </div>
