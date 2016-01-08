@@ -57,6 +57,7 @@
                     <ul class="hidden">
                         <li><a href="news">News</a></li>
                         <li><a href="schiff">Das Schiff</a></li>
+                        <li><a href="team">Team</a></li>
                         <li><a href="aendern">Retten</a></li>
                         <li><a href="spenden">Spenden</a></li>
                         <li><a href="europe">Jugend Rettet <span class="lowercase">europe</span></a></li>
@@ -190,8 +191,6 @@ Last update: 28-07-2015 <a href="http://europa.eu/rapid/press-release_MEMO-15-32
                             <li style="box-shadow: 0 1px #fff;"><a href="faq">FAQ</a></li>
                             <li><a class="peek" id="kontakt">Kontakt</a></li>
                             <li><a href="impressum">Impressum</a></li>
-                            <li class="br"></li>
-                            <li><a href="unterstuetzer">Unterstützer</a></li>
                             <li class="br"></li>
                             <li><a href="http://en.jugendrettet.org/faq">English</a></li>
                             <li><a href="http://de.jugendrettet.org/faq">Deutsch</a></li>

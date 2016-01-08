@@ -57,6 +57,7 @@
                     <ul class="hidden">
                         <li><a href="news">News</a></li>
                         <li><a href="schiff">Das Schiff</a></li>
+                        <li><a href="team">Team</a></li>
                         <li><a href="aendern">Retten</a></li>
                         <li><a href="spenden">Spenden</a></li>
                         <li><a href="europe">Jugend Rettet <span class="lowercase">europe</span></a></li>
@@ -250,8 +251,6 @@ Euer Jugend Rettet Team</p><br>
                             <li><a href="faq">FAQ</a></li>
                             <li><a class="peek" id="kontakt">Kontakt</a></li>
                             <li><a href="impressum">Impressum</a></li>
-                            <li class="br"></li>
-                            <li><a href="unterstuetzer">Unterstützer</a></li>
                             <li class="br"></li>
                             <li><a class="language-events" id="en">English</a></li>
                             <li><a class="language-events" id="de">Deutsch</a></li>
