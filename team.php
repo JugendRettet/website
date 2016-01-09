@@ -78,11 +78,11 @@
                         <p>(mit A1-Patent)</p>
                         <br>
                         <ul style="list-style: inherit;">
-                            <li>2 Maschinisten</li>
-                            <li>1 Funker</li>
+                            <li>2 Maschinist_innen</li>
+                            <li>1 Funker_in</li>
                             <li>2-3 Deckhands (Erste-Hilfe-Kurs, englische/französische Sprachkenntnisse)</li>
-                            <li>1 Sicherheitsbeauftragten</li>
-                            <li>2 Ärzte</li>
+                            <li>1 Sicherheitsbeauftragte_r</li>
+                            <li>2 Ärzt_innen</li>
                         </ul>
                         <p>Unsere Deckhands legen STWC - Basic Safety Trainings ab.</p>
                     </div>
