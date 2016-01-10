@@ -4,42 +4,47 @@ function rechnen(f){
 
 	var teilkosten = 16875
 	var kosten = 270000
-	var stand = 10200
+	var stand = 16500
+
+	var balkenwidth = 300
+	var geldbalkenwidth = 260
+
+	var laenge = 32
+	var breite = 5
+	// in m
 
 	var spende = +document.getElementById('spendeinput').value+0
 	var betrag = +spende+stand
-
-	var spendenbalkenp = Math.round(betrag / kosten * 100) / 100
-	if (spendenbalkenp > 1) {
-		spendenbalkenp = 1
-	}
-
-	var spendenbalken = spendenbalkenp*300
-
-	if (spendenbalken > 260) {
-		geldbalken = 260
-	} else {
-		geldbalken = spendenbalken
-	}
-
-	var ziels = '0'
-
-	if (betrag > kosten) {
-		ziels = '1'
-	}
+// workaround to force number type
 
 	var zielb = '0'
-
 	if (spende > kosten) {
 		zielb = '1'
 	}
+// we want to know if input money reached funding goal for later
 
-	if (ziels == '1') {
-		standtext = '&gt;' + Math.round(kosten/1000 * 10) / 10+ ' Tsd. €'
+	var ziels = '0'
+	if (betrag > kosten) {
+		ziels = '1'
 	}
+// we want to know if funded money+input money reached funding goal for later
+
+	function setstandtext(standtextzahl){
+		standtext = Math.round(standtextzahl/1000 * 10) / 10+ ' Tsd. €'
+		if (zielb == '1') {
+			standtext = '&gt;' + standtext
+		} // if input money reached funding goal, we want to mark it in the text
+	}
+
+	if (zielb == '1') {
+		setstandtext(kosten);
+	} // if input money reached funding goal we want to show the funding goal
+	  // on the marker as the upper limit
 	else {
-		standtext = Math.round(betrag/1000 * 10) / 10+ ' Tsd. €'
+		setstandtext(betrag);
 	}
+	// else we want to show the input money on the marker
+	// anyway: fire function setstandtext at least once
 
 	var texterror = 'none'
 	var textok = 'none'
@@ -50,10 +55,25 @@ function rechnen(f){
 	var textschiffsteilmehr = 'none'
 	var button = 'none'
 
-	//document.getElementById("amount").value = spende
+	function setbalken(standzahl){
 
-	function setbalken(){
-		document.getElementById("qmeter").innerHTML = Math.round(nqmeter * 100) / 100
+		var spendenbalkenp = Math.round(standzahl / kosten * 100) / 100
+		if (spendenbalkenp > 1) {
+			spendenbalkenp = 1
+		}
+		// reached funding goal in percentage
+		// make sure that it never goes above 1
+
+		var spendenbalken = spendenbalkenp*balkenwidth
+		// translate into pixels in width to cover. graphic is fixed to 300px right now
+
+		if (spendenbalken > geldbalkenwidth) {
+			geldbalken = geldbalkenwidth
+		} else {
+			geldbalken = spendenbalken
+		}
+		// marker for the reached funding in euros follows the bar
+		// only when it reaches 260px it stops, to fit into the column
 
 		document.getElementById("schiff-gespendet").style.width = spendenbalken + 'px'
 		document.getElementById("stand").style.left = geldbalken + 'px'
@@ -86,6 +106,7 @@ function rechnen(f){
 		button = 'none'
 		// next if returns false
 	}
+	// if input is NaN, show errot-text and hide all others
 
 	if (spende == '' || spende <= 0 || isNaN(spende)) {
 		textok = 'none'
@@ -95,52 +116,52 @@ function rechnen(f){
 		textschiffkomplett = 'none'
 		textschiffsteilmehr = 'none'
 		button = 'none'
+		// hide all texts except error
 
-		spendenbalken = stand/kosten
-		geldbalken = stand/kosten
-		standtext = Math.round(stand/1000 * 10) / 10+ ' Tsd. €'
-
-		setbalken();
+		setstandtext(stand);
+		// reset bar, moneymarker and text
+		setbalken(stand);
 		settexte();
-		//if (mq.matches) {
-		// window width is at least 500px
-
-		//}
-		//else {
-			// window width is less than 500px
-		//}
 		return false;
+		// stop here
 	}
+	// if input is NaN, <=0 or empty
 
-	if (zielb == '1') {
+	if (ziels == '1') {
 		eurotext = 'mehr als ' + kosten
 	}
 	else {
 		eurotext = spende
 	}
+//	if funded money+input money reached funding goal, we want to mark it in the
+// text and set the funding goal as the upper limit in the response text
 
 	var euros = document.getElementsByClassName("EUR"),
 		i = euros.length;
 	while(i--) {
 		euros[i].innerHTML = eurotext;
 	}
+	// cycle through all elements with class=EUR and set the new value
 
 	textok = 'inherit'
 	textschiffsteilprozent = 'inherit'
 	textschiffmeter = 'inherit'
 	textschiffsteilmehr = 'none'
 	button = 'inherit'
+	// texts shown or hidden in standard case (everthing goes right)
 
 	if (betrag >= teilkosten) {
 		textschiffsteilprozent = 'none'
 		textschiffsteilkomplett = 'inherit'
 		button = 'inherit'
 	}
+	// case: part of ship from current campaign would be funded
 
 	if (betrag > teilkosten) {
 		textschiffsteilmehr = 'inherit'
 		button = 'inherit'
 	}
+	// case: part of ship from current campaign would be over-funded
 
 	if (betrag >= kosten) {
 		textschiffsteilkomplett = 'none'
@@ -150,10 +171,11 @@ function rechnen(f){
 		textschiffkomplett = 'inherit'
 		button = 'inherit'
 	}
+	// case: whole ship would be funded
 
 	var nprozent = spende / teilkosten * 100
 	document.getElementById("prozent").innerHTML = Math.round(nprozent * 100) / 100
-	var nmeter = betrag / kosten * 32
+	var nmeter = betrag / kosten * laenge
 
 	document.getElementById("unitmeter").innerHTML = "m"
 	if (nmeter <= 0.01) {
@@ -162,13 +184,21 @@ function rechnen(f){
 	}
 
 	document.getElementById("meter").innerHTML = Math.round(nmeter * 100) / 100
-	var nqmeter = betrag / kosten * 32 * 5
+	var nqmeter = betrag / kosten * laenge * breite
 
 	document.getElementById("unitqmeter").innerHTML = "m²"
 	if (nqmeter <= 0.01) {
 		nqmeter = nqmeter * 100
 		document.getElementById("unitqmeter").innerHTML = "cm²"
 	}
+
+	document.getElementById("qmeter").innerHTML = Math.round(nqmeter * 100) / 100
+
+	// left over maths for the info text
+
+	setbalken(betrag);
+	settexte();
+}
 	//if (mq.matches) {
 	// window width is at least 500px
 
@@ -176,8 +206,3 @@ function rechnen(f){
 	//else {
 		// window width is less than 500px
 	//}
-
-	setbalken();
-	settexte();
-
-}
