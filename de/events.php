@@ -277,15 +277,16 @@ Euer Jugend Rettet Team</p><br>
                     <div class="date-container" id="14-01-2016">
                         <h4>Leuchtfeuerworte - Supportslam für Jugend Rettet e.V.</h4>
                         <br>
-
                         <p>
                             Wir sind eine Organisation von jungen Erwachsenen, die Gelder für den Erwerb eines Schiffes sammeln. Mit diesem Schiff werden wir private Seenotrettung auf dem Mittelmeer betreiben. Wir werden Menschen in Seenot lokalisieren, sie aufnehmen und sicher in den nächstgelegenen Hafen bringen. Unser Ziel ist klar: weniger Tote im Mittelmeer.
 Darüber hinaus werden wir mit Jugend Rettet europe eine Diskussionsplattform über die europäische Asylpolitik für junge Erwachsene schaffen. Wir glauben an das Potenzial unserer jungen Generation, die aktuelle Situation durch eine breite asylpolitische Diskussion in ganz Europa zu verbessern. 
                         </p>
+                        <br>
                         <p>
                             Aus diesem Grund findet in der zweiten Januarwoche ein vorerst einmaliger Benefizslam für Jugend rettet statt.
 Botschafter des Vereins werden auch vor Ort über das Projekt informieren und der gesamte Erlös der Veranstaltung wird als Unterstützung gespendet.
                         </p>
+                        <br>
                         <p>
                             Die Poeten, die euch hierfür einen wundervollen Abend bescheren werden sind:
                         </p>
@@ -298,15 +299,17 @@ Botschafter des Vereins werden auch vor Ort über das Projekt informieren und de
                             <li>Luise</li>
                             <li>Ortwin Bader-Iskraut</li>
                         </ul>
+                        <br>
                         <p>Musikalischer Support kommt von Nicole Carter Cash</p>
+                        <br>
                         <p>Die Moderation des Abends übernimmt RedeVux</p>
-                        
+                        <br>
                         <p>
                             Der Eintritt liegt bei 7€/5€ ermäßigt
                             <br>
                             Einlass ist ab 17:30, Beginn um 18:00
                         </p>
-
+                        <br>
                         <p>Wir freuen uns auf euch!</p>
                         <br>
                         <div class="event-container">

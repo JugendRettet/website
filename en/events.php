@@ -236,9 +236,11 @@ Euer Jugend Rettet Team</p><br>
                             <li>Luise</li>
                             <li>Ortwin Bader-Iskraut</li>
                         </ul>
+                        <br>
                         <p>Music: Nicole Carter Cash</p>
+                        <br>
                         <p>Moderation: RedeVux</p>
-                        
+                        <br>
                         <p>
                             Price: 7€/5€ discount
                             <br>
