@@ -201,14 +201,14 @@
                         <h4>Das Schiff</h4>
                         <img src="http://jugendrettet.org/images/mittelmeerroute1.jpg" alt="Schiffsbesuch in den Niederlanden" style="max-width:100%">
                         <br>
-                        <p>Unser Schiff MS Humanitas erfüllt die Voraussetzungen für eine Seenotrettungsoperation auf dem Mittelmeer sehr gut. Hier einige Beispiele:</p><br>
+                        <p>Wir haben im Oktober Schiffe unseres gewünschten Schiffstyps - holländische Fischtrawler - besichtigt. Wenn wir das Schiff kaufen sind folgende technische Eigenheiten von Bedeutung für uns:</p><br>
                         <img src="http://jugendrettet.org/graphics/theship.svg" alt="Schiffsbesuch in den Niederlanden" style="max-width:100%"><br>
                         <ul>
-                          <li>&#10003; Unser Schiff verfügt über eine Große Ladefläche (Bild) an Deck. So können wir 80-100 Menschen an Bord nehmen. Über die Deckfläche wird eine LKW-Plane gespannt sein, die die Menschen an Deck vor Sonneneinstrahlung oder Regen schützt. Im Winter wird diese Plane an den Seiten nach unten gespannt sein, wodurch ein geschlossener Innenbereich entsteht.</li><br>
+                          <li>&#10003; Unser Schiff soll über eine Große Ladefläche (Bild) an Deck verfügen. So können wir 80-100 Menschen an Bord nehmen. Über die Deckfläche wird eine LKW-Plane gespannt sein, die die Menschen an Deck vor Sonneneinstrahlung oder Regen schützt. Im Winter wird diese Plane an den Seiten nach unten gespannt sein, wodurch ein geschlossener Innenbereich entsteht.</li><br>
                           <img src="http://jugendrettet.org/images/nl1.jpg" alt="Schiffsbesuch in den Niederlanden" style="max-width:100%"><br>
-                          <li>&#10003; Unser Schiff hat eine niedrige Bordwand. Wir können so Menschen leicht und flexibel an Bord nehmen und auch unsere Beiboote sind bei einer niedrigen Bordwand leichter ins Wasser zu heben.</li><br>
-                          <li>&#10003; An Deck haben wir einen Hydraulikkran installiert, der die Beiboote schnell ins Wasser heben kann. Wir werden zwei Beiboote an Bord haben. So können wir einem Schiff in Seenot mit zwei Beibooten zur Hilfe kommen. So entsteht auf dem untergehenden Schiff keine Panik, die z.B. ausgelöst werden würde, wenn sich nur ein Beiboot dem Schiff nähern würde. </li><br>
-                          <li>&#10003; Unser Schiff bietet Platz für ausreichend Frischwassertanks. Einige Menschen in Not werden mehrere Tage ohne Wasser auf ihrem Boot verbracht haben. Um die Dehydrierung zu lindern, werden die Menschen mit Wasser versorgt.</li><br>
+                          <li>&#10003; Unser Schiff soll eine niedrige Bordwand haben. So können wir Menschen leicht und flexibel an Bord nehmen und auch unsere Beiboote werden bei einer niedrigen Bordwand leichter ins Wasser zu heben sein.</li><br>
+                          <li>&#10003; An Deck wird ein Hydraulikkran installiert, der die Beiboote schnell ins Wasser heben kann. Wir werden zwei Beiboote an Bord haben. So können wir einem Schiff in Seenot mit zwei Beibooten zur Hilfe kommen. So entsteht auf dem untergehenden Schiff keine Panik, die z.B. ausgelöst werden würde, wenn sich nur ein Beiboot dem Schiff nähern würde. </li><br>
+                          <li>&#10003; Unser Schiff soll Platz für ausreichend Frischwassertanks bieten. Einige Menschen in Not werden mehrere Tage ohne Wasser auf ihrem Boot verbracht haben. Um die Dehydrierung zu lindern, werden die Menschen mit Wasser versorgt.</li><br>
                           <img src="http://jugendrettet.org/images/nl4.jpg" alt="Schiffsbesuch in den Niederlanden" style="max-width:100%">
                         </ul>
 
