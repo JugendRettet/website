@@ -257,12 +257,14 @@ Euer Jugend Rettet Team</p><br>
                             wird: Es müssen endlich staatliche Rettungsprogramme eingerichtet werden, die 
                             Gleichgültigkeit gegenüber dem Sterben auf dem Mittelmeer muss aufhören!
                         </p>
+                        <br>
                         <p>
                             Anlässlich unserer Spendenphase für den Erwerb eines Schiffs laden wir euch ein, 
                             uns mit eurer Gesellschaft in der Schreina47 zu beglücken: 
                             Es erwarten euch ein Billard, Kicker, Warmes, Eisgekühltes und Infos zu unserem
                             Projekt sowie zum aktuellen Arbeitsstand.
                         </p>
+                        <br>
                         <p>Wir freuen uns auf euch!</p>
                         <br>
                         <div class="event-container">
@@ -330,12 +332,15 @@ Botschafter des Vereins werden auch vor Ort über das Projekt informieren und de
                             Unser Ziel ist klar: weniger Tote im Mittelmeer.
                             Gleichzeitig werden wir uns im asylpolitischen Diskurs klar positionieren und fordern die EU zu einem Ende der Gleichgültigkeit gegenüber dem Sterben auf dem Mittelmeer auf.
                         </p>
+                        <br>
                         <p>
                             Wir suchen in ganz Deutschland und Europa nach engagierten Leuten, die Jugend Rettet bekannt machen und durch Spendenaktionen unser Schiff ermöglichen.
                         </p>
+                        <br>
                         <p>
                             Am 19.01.2016 kommt Jugend Rettet zum ersten Mal mit einem offenen Treffen nach Kiel. Lena wird das Projekt und den aktuellen Arbeitstand vorstellen. Anschließend geht es um die Suche nach weiteren Unterstützer_innen in Kiel und es darf diskutiert werden. Unser Botschafter Matthis ist auch als Ansprechpartner vor Ort.
                         </p>
+                        <br>
                         <p>Wir freuen uns auf euch!</p>
                         <br>
                         <div class="event-container">

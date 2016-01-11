@@ -261,8 +261,11 @@ Euer Jugend Rettet Team</p><br>
                         <h4>Invitation to open meeting in Kiel</h4>
                         <br>
                         <p><i>Jugend Rettet</i> is a recently founded non-profit organization of young adults from Berlin. We are collecting money to buy ship to perform sea rescue missions on the Mediterranean. We will localize people in distress, take them on board and safely carry them to the next safe harbour. Our is goal is clear: less deaths at the Mediterranean Sea. At the same time, we will take a stand within the asylum political discussion and request the EU to stop the disinterest regarding the dying on the Mediterranean.</p><br>
+                        <br>
                         <p>We are looking for young people to help us to get well-known and to support us by collecting money for the ship all over Germany and Europe. </p><br>
+                        <br>
                         <p>We’re looking forward meeting you!</p>
+                        <br>
                         <p>Your Jugend Rettet Team</p><br>
                         <br>
                         <div class="event-container">
