@@ -23,8 +23,8 @@
 
         <link rel="stylesheet" href="http://jugendrettet.org/css/general.css" type="text/css" />
         <link rel="stylesheet" href="http://jugendrettet.org/css/main.css" type="text/css" />
-        <link rel="stylesheet" href="http://jugendrettet.org/css/desktop.css" media="screen and (min-device-width: 769px)" type="text/css" />
-        <link rel="stylesheet" href="http://jugendrettet.org/css/mobile.css" media="screen and (max-device-width: 768px)" type="text/css" />
+        <link rel="stylesheet" href="http://jugendrettet.org/css/desktop.css" media="screen and (min-device-width: 851px)" type="text/css" />
+        <link rel="stylesheet" href="http://jugendrettet.org/css/mobile.css" media="screen and (max-device-width: 850px)" type="text/css" />
 
         <script src="http://jugendrettet.org/js/jquery-1.10.2.min.js"></script>
         <script type="text/javascript">
@@ -57,6 +57,7 @@
                     <ul class="hidden">
                         <li><a href="news">News</a></li>
                         <li><a href="schiff">Das Schiff</a></li>
+                        <li><a href="team">Team</a></li>
                         <li><a href="aendern">Retten</a></li>
                         <li><a href="spenden">Spenden</a></li>
                         <li><a href="europe" class="indicator">Jugend Rettet <span class="lowercase">europe</span></a></li>
@@ -85,7 +86,6 @@
                             <span class="event-date">Montag, 9. November 2015</span>
                             <span class="event-title">3. Offenes Treffen</span>
                         </a>
-                        -->
 
                         <a href="events?date=08-12-2015" class="event-container">
                             <span class="event-date">Dienstag, 8. Dezember 2015</span>
@@ -97,7 +97,7 @@
                             <span class="event-title">First open meeting in English - Fehre6 Berlin</span>
                         </a>
 
-<!--                        <a href="events?date=26-11-2015" class="event-container">
+                       <a href="events?date=26-11-2015" class="event-container">
                             <span class="event-date">Donnerstag, 26. November 2015</span>
                             <span class="event-title">Offenes Treffen - Trier</span>
                         </a>
@@ -106,6 +106,11 @@
                             <span class="event-date">Montag, 30. November 2015</span>
                             <span class="event-title">Offenes Treffen - Baiz Berlin</span>
                         </a> -->
+
+                        <a href="events?date=09-01-2016" class="event-container">
+                            <span class="event-date">Samstag, 9. Januar 2016</span>
+                            <span class="event-title">Feiern fürs Schiff: Jugend Rettet in der Schreina</span>
+                        </a>
                     </div>
                 </div>
             </div>
@@ -117,8 +122,6 @@
                             <li><a href="faq">FAQ</a></li>
                             <li><a class="peek" id="kontakt">Kontakt</a></li>
                             <li><a href="impressum">Impressum</a></li>
-                            <li class="br"></li>
-                            <li><a href="unterstuetzer">Unterstützer</a></li>
                             <li class="br"></li>
                             <li><a href="http://en.jugendrettet.org/europe">English</a></li>
                             <li><a href="http://de.jugendrettet.org/europe">Deutsch</a></li>

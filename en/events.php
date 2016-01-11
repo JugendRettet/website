@@ -23,8 +23,8 @@
 
         <link rel="stylesheet" href="http://jugendrettet.org/css/general.css" type="text/css" />
         <link rel="stylesheet" href="http://jugendrettet.org/css/main.css" type="text/css" />
-        <link rel="stylesheet" href="http://jugendrettet.org/css/desktop.css" media="screen and (min-device-width: 769px)" type="text/css" />
-        <link rel="stylesheet" href="http://jugendrettet.org/css/mobile.css" media="screen and (max-device-width: 768px)" type="text/css" />
+        <link rel="stylesheet" href="http://jugendrettet.org/css/desktop.css" media="screen and (min-device-width: 851px)" type="text/css" />
+        <link rel="stylesheet" href="http://jugendrettet.org/css/mobile.css" media="screen and (max-device-width: 850px)" type="text/css" />
 
         <script src="http://jugendrettet.org/js/jquery-1.10.2.min.js"></script>
         <script type="text/javascript">
@@ -57,6 +57,7 @@
                     <ul class="hidden">
                         <li><a href="news">News</a></li>
                         <li><a href="schiff.">The Ship</a></li>
+                        <!--<li><a href="team">Team</a></li>-->
                         <li><a href="aendern">Rescue</a></li>
                         <li><a href="spenden">Donate</a></li>
                         <li><a href="europe">Jugend Rettet <span class="lowercase">europe</span></a></li>
@@ -204,6 +205,18 @@ Euer Jugend Rettet Team</p><br>
                             <div class="event-title"><a href="https://www.google.de/maps/place/Fehrbelliner+Str.+6,+10119+Berlin/@52.53119,13.4077613,17z/data=!3m1!4b1!4m2!3m1!1s0x47a851e2b62257db:0x193bfd38b39e961c" target="_blank">FEHRE 6<br>Fehrbelliner Str. 6<br> 10119 Berlin</a></div><br>
                             <div class="event-icon"><img src="http://jugendrettet.org/graphics/time.png" height="14px" alt="Time"></div>
                             <div class="event-title">07:30 pm</div>
+                        </div><br>
+                    </div>
+
+                    <div class="date-container" id="09-01-2016">
+                        <h4>Party for the ship: Jugend Rettet in 'Schreina'</h4>
+                        <br>
+                        <div class="event-container">
+                            <div class="event-date">Saturday, 9th January 2016</div>
+                            <div class="event-icon"><img src="http://jugendrettet.org/graphics/location.png" width="14px" alt="Location"></div>
+                            <div class="event-title"><a href="https://www.google.de/maps/place/Schreinerstra%C3%9Fe+47,+10247+Berlin/@52.5173332,13.465236,17z/data=!3m1!4b1!4m2!3m1!1s0x47a84e8a797de185:0x300e4822d386c620" target="_blank">Schreina<br>Schreinerstr. 47<br> 10247 Berlin</a></div><br>
+                            <div class="event-icon"><img src="http://jugendrettet.org/graphics/time.png" height="14px" alt="Time"></div>
+                            <div class="event-title">08:00 pm</div>
                         </div><br>
                     </div>
 

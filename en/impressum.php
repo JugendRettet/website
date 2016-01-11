@@ -23,8 +23,8 @@
 
         <link rel="stylesheet" href="http://jugendrettet.org/css/general.css" type="text/css" />
         <link rel="stylesheet" href="http://jugendrettet.org/css/main.css" type="text/css" />
-        <link rel="stylesheet" href="http://jugendrettet.org/css/desktop.css" media="screen and (min-device-width: 769px)" type="text/css" />
-        <link rel="stylesheet" href="http://jugendrettet.org/css/mobile.css" media="screen and (max-device-width: 768px)" type="text/css" />
+        <link rel="stylesheet" href="http://jugendrettet.org/css/desktop.css" media="screen and (min-device-width: 851px)" type="text/css" />
+        <link rel="stylesheet" href="http://jugendrettet.org/css/mobile.css" media="screen and (max-device-width: 850px)" type="text/css" />
 
         <script src="http://jugendrettet.org/js/jquery-1.10.2.min.js"></script>
         <script type="text/javascript">
@@ -57,6 +57,7 @@
                     <ul class="hidden">
                         <li><a href="news">News</a></li>
                         <li><a href="schiff">The Ship</a></li>
+                        <!--<li><a href="team">Team</a></li>-->
                         <li><a href="aendern">Rescue</a></li>
                         <li><a href="spenden">Donate</a></li>
                         <li><a href="europe">Jugend Rettet <span class="lowercase">europe</span></a></li>
@@ -65,15 +66,25 @@
             </header>
             <div class="popup-flat">
                 <div class="triple">
-                    <h3>Legal Notice</h3><br>
+                    <h3>Legal Notice</h3>
+                    <br>
                     <h4>Diese Website wird betrieben von</h4>
                     <p>Jugend Rettet e.V.</p>
                     <p>Ruhlsdorferstr. 120</p>
-                    <p>14513 Teltow</p><br>
+                    <p>14513 Teltow</p>
+                    <br>
+                    <p>Vereinsregister: Amtsgericht Berlin (Charlottenburg) VR 34604</p>
+                    <p>&#8594; <a href="http://jugendrettet.org/files/Vereinssatzung_v1.pdf">Vereinssatzung</a></p>
+                    <br>
+                    <p>Tel.: <a href="tel:+49 160 95 68 38 73">+49 160 95 68 38 73</a></p>
+                    <p>E-Mail: <a href="mailto:info@jugendrettet.org">info@jugendrettet.org</a></p>
+                    <br>
                     <h4>Vertreten durch</h4>
-                    <p>Jakob Schoen</p>
-                    <p>Lena Waldhoff</p><br>
-                    <p>&#8594; <a href="http://jugendrettet.org/files/151207 Vereinssatzung_JR.pdf">vorläufige Vereinssatzung</a></p><br>
+                    <p>Jakob Schoen, 1. Vorsitzender, Adresse siehe oben</p>
+                    <p>Lena Waldhoff, 2. Vorsitzende, Adresse siehe oben</p>
+                    <br>
+                    <h4>inhaltlich verantwortlich</h4>
+                    <p>Lena Waldhoff</p>
                 </div>
                 <div class="container triple">
                     <div class="scroller triple">

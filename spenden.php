@@ -23,8 +23,8 @@
 
         <link href="http://jugendrettet.org/css/general.css" rel="stylesheet" type="text/css">
         <link href="http://jugendrettet.org/css/main.css" rel="stylesheet" type="text/css">
-        <link href="http://jugendrettet.org/css/desktop.css" media="screen and (min-device-width: 769px)" rel="stylesheet" type="text/css">
-        <link href="http://jugendrettet.org/css/mobile.css" media="screen and (max-device-width: 768px)" rel="stylesheet" type="text/css">
+        <link href="http://jugendrettet.org/css/desktop.css" media="screen and (min-device-width: 851px)" rel="stylesheet" type="text/css">
+        <link href="http://jugendrettet.org/css/mobile.css" media="screen and (max-device-width: 850px)" rel="stylesheet" type="text/css">
         <link rel="stylesheet" href="http://jugendrettet.org/css/animations.css" type="text/css" />
 
 
@@ -103,6 +103,7 @@
                     <ul class="hidden">
                         <li><a href="news">News</a></li>
                         <li><a href="schiff">Das Schiff</a></li>
+                        <li><a href="team">Team</a></li>
                         <li><a href="aendern">Retten</a></li>
                         <li><a href="spenden" class="indicator">Spenden</a></li>
                         <li><a href="europe">Jugend Rettet <span class="lowercase">europe</span></a></li>
@@ -226,7 +227,7 @@
                         <div id="schiff" style="padding:5px;position:absolute">
                           <img src="graphics/schiff-konturen-weiss.svg" alt="Das Schiff" style="width:300px;opacity:0.1">
                         </div>
-                        <div class="blink balken" id="schiff-gespendet" style="background-color:#286482;padding:5px;position:absolute;overflow:hidden;-webkit-transition: width 2s;transition: width 2s;width:calc(300px*10200/270000)">
+                        <div class="blink balken" id="schiff-gespendet" style="background-color:#286482;padding:5px;position:absolute;overflow:hidden;-webkit-transition: width 2s;transition: width 2s;width:calc(300px*16500/270000)">
                           <img src="graphics/schiff-konturen-weiss.svg" alt="Das Schiff" style="width:300px" class="blink">
                         </div>
                         <div style="position:absolute;width:300px;">
@@ -242,7 +243,7 @@
                         </div>
                         <div style="position:absolute;width:300px">
                           <!--<span id="0" class="unterteilungen">0m</span>-->
-                          <span id="stand" class="spendenstand schiff" style="white-space: nowrap;position:absolute;left: calc(-15px + 300px*10200/270000)">10.2 Tsd. €</span>
+                          <span id="stand" class="spendenstand schiff" style="white-space: nowrap;position:absolute;left: calc(-15px + 300px*16500/270000)">16.5 Tsd. €</span>
                         </div>
 
                       </div><br>
@@ -288,8 +289,6 @@
                             <li><a href="faq">FAQ</a></li>
                             <li><a class="peek" id="kontakt">Kontakt</a></li>
                             <li><a href="impressum">Impressum</a></li>
-                            <li class="br"></li>
-                            <li><a href="unterstuetzer">Unterstützer</a></li>
                             <li class="br"></li>
                             <li><a href="http://en.jugendrettet.org/spenden">English</a></li>
                             <li><a href="http://de.jugendrettet.org/spenden">Deutsch</a></li>

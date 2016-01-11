@@ -23,8 +23,8 @@
 
         <link rel="stylesheet" href="http://jugendrettet.org/css/general.css" type="text/css" />
         <link rel="stylesheet" href="http://jugendrettet.org/css/main.css" type="text/css" />
-        <link rel="stylesheet" href="http://jugendrettet.org/css/desktop.css" media="screen and (min-device-width: 769px)" type="text/css" />
-        <link rel="stylesheet" href="http://jugendrettet.org/css/mobile.css" media="screen and (max-device-width: 768px)" type="text/css" />
+        <link rel="stylesheet" href="http://jugendrettet.org/css/desktop.css" media="screen and (min-device-width: 851px)" type="text/css" />
+        <link rel="stylesheet" href="http://jugendrettet.org/css/mobile.css" media="screen and (max-device-width: 850px)" type="text/css" />
 
         <script src="http://jugendrettet.org/js/jquery-1.10.2.min.js"></script>
         <script type="text/javascript">
@@ -57,6 +57,7 @@
                     <ul class="hidden">
                         <li><a href="news">News</a></li>
                         <li><a href="schiff">The Ship</a></li>
+                        <!--<li><a href="team">Team</a></li>-->
                         <li><a href="aendern">Rescue</a></li>
                         <li><a href="spenden">Donate</a></li>
                         <li><a href="europe" class="indicator">Jugend Rettet <span class="lowercase">europe</span></a></li>
@@ -89,7 +90,7 @@
                         <a href="events?date=30-11-2015" class="event-container">
                             <span class="event-date">Monday, 30th November 2015</span>
                             <span class="event-title">Open Meeting - Baiz Berlin</span>
-                        </a> -->
+                        </a>
 
                         <a href="events?date=08-12-2015" class="event-container">
                             <span class="event-date">Tuesday, 8th December 2015</span>
@@ -100,7 +101,11 @@
                             <span class="event-date">Wednesday, 9th December 2015</span>
                             <span class="event-title">First open meeting in English - Fehre6 Berlin</span>
                         </a>
-
+-->
+                        <a href="events?date=09-01-2016" class="event-container">
+                            <span class="event-date">Saturday, 9th January 2016</span>
+                            <span class="event-title">Party for the ship: Jugend Rettet in 'Schreina'</span>
+                        </a>
                     </div>
 
                     </div>
