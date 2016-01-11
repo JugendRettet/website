@@ -220,6 +220,58 @@ Euer Jugend Rettet Team</p><br>
                         </div><br>
                     </div>
 
+                    <div class="date-container" id="14-01-2016">
+                        <h4>'Leuchtfeuerworte' - support slam for Jugend Rettet e.V.</h4>
+                        <br>
+
+                        <p>
+                            Poetry slam lineup:
+                        </p>
+                        <ul>
+                            <li>Jesse James Lafleur</li>
+                            <li>Pauline Cebulla</li>
+                            <li>Sebastian Randjunge</li>
+                            <li>Alice Siblewski (sblwsk)</li>
+                            <li>Max Gebhard</li>
+                            <li>Luise</li>
+                            <li>Ortwin Bader-Iskraut</li>
+                        </ul>
+                        <p>Music: Nicole Carter Cash</p>
+                        <p>Moderation: RedeVux</p>
+                        
+                        <p>
+                            Price: 7€/5€ discount
+                            <br>
+                            Entry at 5:30 pm, beginning at 6:00 pm
+                        </p>
+
+                        <br>
+                        <div class="event-container">
+                            <div class="event-date">Thursday, 14th January 2016</div>
+                            <div class="event-icon"><img src="http://jugendrettet.org/graphics/location.png" width="14px" alt="Location"></div>
+                            <div class="event-title"><a href="https://www.google.de/maps/place/Zimmertheater+in+der+Kultschule/@52.4987432,13.499966,17z/data=!3m1!4b1!4m2!3m1!1s0x47a84edac9ca929d:0x51fdd3783ee5b09d" target="_blank">Zimmertheater in der Kultschule<br>Sewanstraße 43<br> 10319 Berlin-Lichtenberg</a></div><br>
+                            <div class="event-icon"><img src="http://jugendrettet.org/graphics/time.png" height="14px" alt="Time"></div>
+                            <div class="event-title">6:00 pm</div>
+                        </div><br>
+                    </div>
+
+                    <div class="date-container" id="19-01-2016">
+                        <h4>Invitation to open meeting in Kiel</h4>
+                        <br>
+                        <p><i>Jugend Rettet</i> is a recently founded non-profit organization of young adults from Berlin. We are collecting money to buy ship to perform sea rescue missions on the Mediterranean. We will localize people in distress, take them on board and safely carry them to the next safe harbour. Our is goal is clear: less deaths at the Mediterranean Sea. At the same time, we will take a stand within the asylum political discussion and request the EU to stop the disinterest regarding the dying on the Mediterranean.</p><br>
+                        <p>We are looking for young people to help us to get well-known and to support us by collecting money for the ship all over Germany and Europe. </p><br>
+                        <p>We’re looking forward meeting you!</p>
+                        <p>Your Jugend Rettet Team</p><br>
+                        <br>
+                        <div class="event-container">
+                            <div class="event-date">Tuesday, 19th January 2016</div>
+                            <div class="event-icon"><img src="http://jugendrettet.org/graphics/location.png" width="14px" alt="Location"></div>
+                            <div class="event-title"><a href="https://www.google.de/maps?safe=off&q=hansa48+Hansastra%C3%9Fe+48,+24118+Kiel&bav=on.2,or.r_cp.&bvm=bv.111396085,d.bGg&biw=1289&bih=805&dpr=1&um=1&ie=UTF-8&sa=X&ved=0ahUKEwjE1J6draLKAhWEDSwKHZkkDjwQ_AUIBigB" target="_blank">hansa48<br>Hansastraße 48<br> 24118 Kiel</a></div><br> 
+                            <div class="event-icon"><img src="http://jugendrettet.org/graphics/time.png" height="14px" alt="Time"></div>
+                            <div class="event-title">20:00 Uhr</div>
+                        </div><br>
+                    </div>
+
             </div>
             <div id="content">
                 <footer>

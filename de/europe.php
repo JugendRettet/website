@@ -105,12 +105,23 @@
                         <a href="events?date=30-11-2015" class="event-container">
                             <span class="event-date">Montag, 30. November 2015</span>
                             <span class="event-title">Offenes Treffen - Baiz Berlin</span>
-                        </a> -->
+                        </a>
 
                         <a href="events?date=09-01-2016" class="event-container">
                             <span class="event-date">Samstag, 9. Januar 2016</span>
                             <span class="event-title">Feiern fürs Schiff: Jugend Rettet in der Schreina</span>
+                        </a> -->
+
+                        <a href="events?date=14-01-2016" class="event-container">
+                            <span class="event-date">Donnerstag, 14. Januar 2016</span>
+                            <span class="event-title">Leuchtfeuerworte - Supportslam für Jugend Rettet e.V.</span>
                         </a>
+
+                        <a href="events?date=19-01-2016" class="event-container">
+                            <span class="event-date">Dienstag, 19. Januar 2016</span>
+                            <span class="event-title">Offenes Treffen Kiel</span>
+                        </a>
+
                     </div>
                 </div>
             </div>
