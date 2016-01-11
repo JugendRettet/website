@@ -72,12 +72,16 @@
                     <p>Jugend Rettet e.V.</p>
                     <p>Ruhlsdorferstr. 120</p>
                     <p>14513 Teltow</p>
+                    <br>
                     <p>Vereinsregister: Amtsgericht Berlin (Charlottenburg) VR 34604</p>
-                    <p>&#8594; <a href="http://jugendrettet.org/files/151207 Vereinssatzung_JR.pdf">Vereinssatzung</a></p>
+                    <p>&#8594; <a href="http://jugendrettet.org/files/Vereinssatzung_v1.pdf">Vereinssatzung</a></p>
+                    <br>
+                    <p>Tel.: <a href="tel:+49 160 95 68 38 73">+49 160 95 68 38 73</a></p>
+                    <p>E-Mail: <a href="mailto:info@jugendrettet.org">info@jugendrettet.org</a></p>
                     <br>
                     <h4>Vertreten durch</h4>
-                    <p>Jakob Schoen</p>
-                    <p>Lena Waldhoff</p>
+                    <p>Jakob Schoen, 1. Vorsitzender, Adresse siehe oben</p>
+                    <p>Lena Waldhoff, 2. Vorsitzende, Adresse siehe oben</p>
                     <br>
                     <h4>inhaltlich verantwortlich</h4>
                     <p>Lena Waldhoff</p>
