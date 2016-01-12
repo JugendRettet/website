@@ -79,10 +79,10 @@
                 </div>
                 <div class="container triple">
                     <div class="column">
-                      <a class="faq" id="0"><h4>→ SUBSCRIBE TO NEWSLETTER</h4></a>
+                      <a class="faq" id="0"><h4>→ FOLLOW US</h4></a>
                       <div class="faq-klappe" id="0-klappe">
                           <b>Stay up to date</b>
-                          <p>What is new at <i>Jugend Rettet</i>? You can find changes and progress here. Subscribe to our newsletter and visit us at <a target="_blank" href="https://www.facebook.com/JugendRettet" class="link">Facebook</a> and <a href="https://twitter.com/jugendrettet" class="link">Twitter</a>.</p><br>
+                          <p>What is new at <i>Jugend Rettet</i>? You can find changes and progress here. Subscribe to our newsletter and visit us at <a target="_blank" href="https://www.facebook.com/JugendRettet" class="link">Facebook</a>, <a href="https://twitter.com/jugendrettet" class="link">Twitter</a> and <a href="https://www.instagram.com/jugendrettet/" class="link">Instagram</a>.</p><br>
                           <div id="mc_embed_signup">
                               <form action="//jugendrettet.us11.list-manage.com/subscribe/post?u=f6a6af2c458db9585a65cbee8&amp;id=cf9c18faae" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
                                   <div id="mc_embed_signup_scroll">
