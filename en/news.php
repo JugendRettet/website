@@ -75,7 +75,7 @@
             </header>
             <div class="popup-flat">
                 <div class="triple">
-                    <h3>Neuigkeiten</h3>
+                    <h3>News</h3>
                 </div>
                 <div class="container triple">
                     <div class="column">
