@@ -94,6 +94,19 @@
                           </div>
                       </div><br>
 
+                      <a class="faq" id="40"><b>09. Januar</b> Soliparty in Berlin</a>
+                      <div class="faq-klappe" id="40-klappe">
+                          <p>Gestern Abend sind bei unserer ersten Soliparty 349,55€ zusammengekommen! Vielen Dank an alle, die mit uns gefeiert haben, sowie an unsere Berliner Botschafterin Sonja und ihre Kleinen Retter!</p>
+                          <a href="http://jugendrettet.org/images/schreina.jpg" target="_blank"><img class="news" src= 'http://jugendrettet.org/images/schreina.jpg'></img></a>
+                      </div><br>
+                      <a class="faq" id="39"><b>05. Januar</b> Party in Aachen</a>
+                      <div class="faq-klappe" id="39-klappe">
+                          <a href="http://jugendrettet.org/images/partyaachen.jpg" target="_blank"><img class="news" src= 'http://jugendrettet.org/images/partyaachen.jpg'></img></a>
+                      </div><br>
+                      <a class="faq" id="38"><b>04. Januar 2016</b> Bericht im K50 - Magazin für Köln und Region</a>
+                      <div class="faq-klappe" id="38-klappe">
+                          <p>Im K50 - Magazin für Köln und Region ist ein kleiner Bericht über uns erschienen. Wenn ihr bei uns dabei sein wollt, dann meldet euch bei unserem Kölner Botschafter <a href="mailto:carlo@jugendrettet.org">Carlo</a>.</p>
+                      </div><br>
                       <a class="faq" id="37"><b>17. Dezember</b> Offenes Treffen in Aachen und Filmvorstellung Asyland in Bonn</a>
                       <div class="faq-klappe" id="37-klappe">
                           <p>Jakob und Luisa halten ein offenes Treffen im RWTH Audimax ab und in Bonn sind wir abermals bei der Filmvorstellung <a href="http://www.asyland.de/">Asyland</a> dabei.</p>
