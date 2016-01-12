@@ -355,6 +355,6 @@
 
         <!-- Scripts -->
         <script src="http://jugendrettet.org/js/main.js"></script>
-        <script src="js/peekfield.js"></script>
+        <script src="http://jugendrettet.org/js/peekfield.js"></script>
     </body>
 </html>
