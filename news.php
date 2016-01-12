@@ -81,7 +81,7 @@
                       <a class="faq" id="0"><h4>→ NEWSLETTER ABONNIEREN</h4></a>
                       <div class="faq-klappe" id="0-klappe">
                           <b>Bleib auf dem neusten Stand</b>
-                          <p>Was gibt es Neues bei <i>Jugend Rettet</i>? Änderungen und Fortschritte findest du hier. Abonniere unseren Newsletter und besuche uns auf <a target="_blank" href="https://www.facebook.com/JugendRettet" class="link">Facebook</a> und <a href="https://twitter.com/jugendrettet" class="link">Twitter</a>.</p><br>
+                          <p>Was gibt es Neues bei <i>Jugend Rettet</i>? Änderungen und Fortschritte findest du hier. Abonniere unseren Newsletter und besuche uns auf <a target="_blank" href="https://www.facebook.com/JugendRettet" class="link">Facebook</a>, <a href="https://twitter.com/jugendrettet" class="link">Twitter</a> und <a href="https://www.instagram.com/jugendrettet/" class="link">Instagram</a>.</p><br>
                           <div id="mc_embed_signup">
                               <form action="//jugendrettet.us11.list-manage.com/subscribe/post?u=f6a6af2c458db9585a65cbee8&amp;id=cf9c18faae" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
                                   <div id="mc_embed_signup_scroll">
