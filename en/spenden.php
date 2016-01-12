@@ -292,7 +292,7 @@
                             <li><a href="impressum">Legal Notice</a></li>
                             <li class="br"></li>
                             <li><a href="http://en.jugendrettet.org/spenden">English</a></li>
-                            <li><a href="http://de.jugendrettet.org/spenden">Deutsch</a></li>
+                            <li><a href="http://jugendrettet.org/spenden">Deutsch</a></li>
                         </ul>
                     </nav>
                 </footer>
