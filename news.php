@@ -232,7 +232,7 @@
                         </div><br>
                         <a class="faq" id="14"><b>31. Oktober</b> Besuch von <i>Jugend Rettet</i> und seiner Berater an der holländischen Küste</a>
                         <div class="faq-klappe" id="14-klappe">
-                            <p>Unsere erste Rettungsmission wird immer greifbarer. Bei einem Besuch von Jugend Rettet und seiner Berater an der holländischen Küste wurden vier Schiffe besichtigt. Wir schauten uns besonders genau die Fläche an Deck, Lagerräume unter Deck und die Kräne an Bord an, ob diese für unser Vorhaben geeignet sind. Für uns war die Reise nach Holland ein großer Schritt, denn wir können zufrieden feststellen, wie unser Vorhaben tag für Tag konkreter wird. Bei der nächsten Reise nach Holland, werden wir den Rückweg mit unserem Schiff zurücklegen. Dafür sammeln wir ab Montag die Gelder. Noch 2 Tage bis zur 1. Spendenphase!</p>
+                            <p>Unsere erste Rettungsmission wird immer greifbarer. Bei einem Besuch von Jugend Rettet und seiner Berater an der holländischen Küste wurden vier Schiffe besichtigt. Wir schauten uns besonders genau die Fläche an Deck, Lagerräume unter Deck und die Kräne an Bord an, ob diese für unser Vorhaben geeignet sind. Für uns war die Reise nach Holland ein großer Schritt, denn wir können zufrieden feststellen, wie unser Vorhaben Tag für Tag konkreter wird. Bei der nächsten Reise nach Holland werden wir den Rückweg mit unserem Schiff zurücklegen. Dafür sammeln wir ab Montag die Gelder. Noch 2 Tage bis zur 1. Spendenphase!</p>
                         </div><br>
                         <a class="faq" id="13"><b>19. Oktober</b> Start Twitter + Unser Spendenkonto ist eröffnet!</a>
                         <div class="faq-klappe" id="13-klappe">
