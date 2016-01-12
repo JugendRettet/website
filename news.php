@@ -202,8 +202,8 @@
                         </div><br>
                         <a class="faq" id="20"><b>11. November</b> Einladung in den Haimathafen Neukoelln</a>
                         <div class="faq-klappe" id="20-klappe">
-                            <p>Wir wurden von der Regisseurin des Stücks "Ultimo Ratio" in den Heimathafen Neukoelln eingeladen.</p>
-                            <p>Ultimo Ratio beruht auf einer wahren Geschichte und wurde anhand von Original-Dokumenten geschrieben. Erzählt wird die Geschichte von Aliyah und ihrem Mann Rooble, die aufgrund von Dublin III abgeschoben werden sollen. Aliyah ist am Ende ihrer Kräfte: Flucht aus Somalia. Durch die Sahara. Lampedusa. Obdachlos und vollkommen schutzlos war sie auf den Straßen Catanias Gewalt und Misshandlung ausgesetzt. - Das kann sie nicht noch einmal ertragen. Die Gemeinde Christophorus stellt sich mit dem Kirchenasyl gegen die Anordnung der Behörden und kämpft dafür, dass die Geschichte von Aliyah angehört wird.
+                            <p>Wir wurden von der Regisseurin des Stücks "Ultima Ratio" in den Heimathafen Neukoelln eingeladen.</p>
+                            <p>Ultima Ratio beruht auf einer wahren Geschichte und wurde anhand von Original-Dokumenten geschrieben. Erzählt wird die Geschichte von Aliyah und ihrem Mann Rooble, die aufgrund von Dublin III abgeschoben werden sollen. Aliyah ist am Ende ihrer Kräfte: Flucht aus Somalia. Durch die Sahara. Lampedusa. Obdachlos und vollkommen schutzlos war sie auf den Straßen Catanias Gewalt und Misshandlung ausgesetzt. - Das kann sie nicht noch einmal ertragen. Die Gemeinde Christophorus stellt sich mit dem Kirchenasyl gegen die Anordnung der Behörden und kämpft dafür, dass die Geschichte von Aliyah angehört wird.
                             Im Anschluss an das Stück durften wir uns kurz vorstellen und waren außerdem mit einem Infostand dabei.‬</p>
                         </div><br>
                         <a class="faq" id="19"><b>9. November</b> Offenes Treffen Köln + erste Woche der Spendenphase</a>
@@ -232,7 +232,7 @@
                         </div><br>
                         <a class="faq" id="14"><b>31. Oktober</b> Besuch von <i>Jugend Rettet</i> und seiner Berater an der holländischen Küste</a>
                         <div class="faq-klappe" id="14-klappe">
-                            <p>Unsere erste Rettungsmission wird immer greifbarer. Bei einem Besuch von Jugend Rettet und seiner Berater an der holländischen Küste wurden vier Schiffe besichtigt. Wir schauten uns besonders genau die Fläche an Deck, Lagerräume unter Deck und die Kräne an Bord an, ob diese für unser Vorhaben geeignet sind. Für uns war die Reise nach Holland ein großer Schritt, denn wir merken und sind zufrieden,dass wie konkret und handfest unser Vorhaben Tag für Tag wird. Bei der nächsten Reise nach Holland, werden wir den Rückweg mit unserem Schiff zurücklegen. Dafür sammeln wir ab Montag die Gelder. Noch 2 Tage bis zur 1. Spendenphase!</p>
+                            <p>Unsere erste Rettungsmission wird immer greifbarer. Bei einem Besuch von Jugend Rettet und seiner Berater an der holländischen Küste wurden vier Schiffe besichtigt. Wir schauten uns besonders genau die Fläche an Deck, Lagerräume unter Deck und die Kräne an Bord an, ob diese für unser Vorhaben geeignet sind. Für uns war die Reise nach Holland ein großer Schritt, denn wir können zufrieden feststellen, wie unser Vorhaben tag für Tag konkreter wird. Bei der nächsten Reise nach Holland, werden wir den Rückweg mit unserem Schiff zurücklegen. Dafür sammeln wir ab Montag die Gelder. Noch 2 Tage bis zur 1. Spendenphase!</p>
                         </div><br>
                         <a class="faq" id="13"><b>19. Oktober</b> Start Twitter + Unser Spendenkonto ist eröffnet!</a>
                         <div class="faq-klappe" id="13-klappe">
