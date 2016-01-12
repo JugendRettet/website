@@ -287,7 +287,7 @@
                     <div class="column">
                       <h4>What we accomplished</h4>
                         <ul>
-                          <li>&#10003; Wir haben Schiffe unseres gewünschten Schiffstyps - holländische Fischtrawler - besichtigt. Sobald wir uns für ein Schiff entschieden haben erstellen wir die Pläne für den Umbau im April.</li><br>
+                          <li>&#10003; We inspected ships of our chosen kind, dutch fishtrawler. As soon as we have decided for a ship, we will make plans for the conversion in april.</li><br>
                           <li>&#10003; We found an 11-person crew including captain and planned our six month mission.</li><br>
                           <li>&#10003; We built a network of ambassadors in more than 15 german cities.</li><br>
                           <li>&#10003; We won Maria Furtwängler, Armin Rohde and Jasmin Gerat as advocates for <i>Jugend Rettet</i>.</li><br>
