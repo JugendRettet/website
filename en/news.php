@@ -1,17 +1,18 @@
 <!DOCTYPE html>
-<html xmlns="http://www.w3.org/1999/xhtml" lang="de" prefix="og: http://ogp.me/ns#">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" prefix="og: http://ogp.me/ns#">
     <head>
         <title>News — Jugend Rettet</title>
-        <meta name="description" content="Wir sind eine Organisation von jungen Erwachsenen für junge Erwachsene. Wir sammeln Gelder für den Erwerb eines Schiffes und mit diesem Schiff werden wir private Seenotrettung auf dem Mittelmeer betreiben." />
         <meta charset="utf-8">
-        <meta name="author" content="Jugend Rettet" />
-        <meta name="keywords" content="Jugend, Rettet, Jugend Rettet, Jugend Rettet e. V., Seenotrettung, Mittelmeer, Flüchtlinge, Spenden, Europa, Organisation" />
-        <meta name="google-site-verification" content="KMNzTcq9zAtZpPFU4205bFNZx-FZKyiSFaNqrbi4XPI" />
         <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+        <meta name="google-site-verification" content="KMNzTcq9zAtZpPFU4205bFNZx-FZKyiSFaNqrbi4XPI" />
+
+        <meta name="description" content="We are an organization of young adults for young adults. We collect funds to buy a ship. With this ship, we will conduct private sea rescue on the Mediterranean Sea" />
+        <meta name="author" content="Jugend Rettet" />
+        <meta name="keywords" content="Jugend, Rettet, Jugend Rettet, Jugend Rettet e. V., Seenotrettung, Mittelmeer, Flüchtlinge, Spenden, Europa, Organisation, sea, rescue, Mediterranean, refugee, fund, donate, europe" />
 
         <meta property="og:title" content="Jugend Rettet" />
         <meta property="og:description" content="Wir sind eine Organisation von jungen Erwachsenen für junge Erwachsene. Wir sammeln Gelder für den Erwerb eines Schiffes und mit diesem Schiff werden wir private Seenotrettung auf dem Mittelmeer betreiben." />
-        <meta property="og:url" content="http://de.jugendrettet.org/news" />
+        <meta property="og:url" content="http://en.jugendrettet.org/news" />
         <meta property="og:image" content="http://jugendrettet.org/images/jr-banner.jpg" />
         <meta property="og:type" content="website" />
         <meta property="og:site_name" content="Jugend Rettet" />
@@ -25,7 +26,7 @@
         <link rel="stylesheet" href="http://jugendrettet.org/css/main.css" type="text/css" />
         <link rel="stylesheet" href="http://jugendrettet.org/css/desktop.css" media="screen and (min-device-width: 851px)" type="text/css" />
         <link rel="stylesheet" href="http://jugendrettet.org/css/mobile.css" media="screen and (max-device-width: 850px)" type="text/css" />
-        
+
         <script src="http://jugendrettet.org/js/jquery-1.10.2.min.js"></script>
         <script type="text/javascript">
             $(window).load(function() {
@@ -223,7 +224,7 @@
                         </div><br>
                         <a class="faq" id="12"><b>October 15th</b> 2. open meeting in Berlin</a>
                         <div class="faq-klappe" id="12-klappe">
-                            <p>We had many discussions at yesterdays meeting at Mehringhof. Especially the mission of the german marine was an important topic. For six weeks, two ships from the german marine where on a sea rescue mission. Now they are ought to be part of EU-mission "Sophia", to destroy smuggler networks. We research the background of this decision and have already met with a representative of the ministry of defense. Jetzt sollen sie als Teil der EU-Mission "Sophia" die Schmugglernetzwerke zerstören. Wir recherchieren zu den Hintergründen dieser Entscheidung und haben uns dazu bereits mit einem Vertreter des Verteidigundministeriums getroffen. Within short, a meeting with representatives of the Bundeswehr will follow.<br>At our open meetings, we always bring you up to date.</p>
+                            <p>We had many discussions at yesterdays meeting at Mehringhof. Especially the mission of the german marine was an important topic. For six weeks, two ships from the german marine where on a sea rescue mission. Now they are ought to be part of EU-mission "Sophia", to destroy smuggler networks. We research the background of this decision and have already met with a representative of the ministry of defense. Within short, a meeting with representatives of the Bundeswehr will follow.<br>At our open meetings, we always bring you up to date.</p>
                         </div><br>
                         <a class="faq" id="11"><b>October 12th</b> Ambassador action Nuremberg</a>
                         <div class="faq-klappe" id="11-klappe">
@@ -267,7 +268,7 @@
                     <div class="column">
                       <h4>What we accomplished</h4>
                         <ul>
-                          <li>&#10003; We found and visited a ship for our needs - the MS Humanitas. Plans for the conversion from april on are made.</li><br>
+                          <li>&#10003; Wir haben Schiffe unseres gewünschten Schiffstyps - holländische Fischtrawler - besichtigt. Sobald wir uns für ein Schiff entschieden haben erstellen wir die Pläne für den Umbau im April.</li><br>
                           <li>&#10003; We found an 11-person crew including captain and planned our six month mission.</li><br>
                           <li>&#10003; We built a network of ambassadors in more than 15 german cities.</li><br>
                           <li>&#10003; We won Maria Furtwängler, Armin Rohde and Jasmin Gerat as advocates for <i>Jugend Rettet</i>.</li><br>
