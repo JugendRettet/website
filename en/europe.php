@@ -101,12 +101,22 @@
                             <span class="event-date">Wednesday, 9th December 2015</span>
                             <span class="event-title">First open meeting in English - Fehre6 Berlin</span>
                         </a>
--->
+
                         <a href="events?date=09-01-2016" class="event-container">
                             <span class="event-date">Saturday, 9th January 2016</span>
                             <span class="event-title">Party for the ship: Jugend Rettet in 'Schreina'</span>
                         </a>
-                    </div>
+-->
+
+                        <a href="events?date=14-01-2016" class="event-container">
+                            <span class="event-date">Thursday, 14th January 2016</span>
+                            <span class="event-title">'Leuchtfeuerworte' - support slam for Jugend Rettet e.V.</span>
+                        </a>
+
+                        <a href="events?date=19-01-2016" class="event-container">
+                            <span class="event-date">Tuesday, 19th January 2016</span>
+                            <span class="event-title">Invitation to open meeting in Kiel</span>
+                        </a>
 
                     </div>
                 </div>
@@ -121,7 +131,7 @@
                             <li><a href="impressum">Legal Notice</a></li>
                             <li class="br"></li>
                             <li><a href="http://en.jugendrettet.org/europe">English</a></li>
-                            <li><a href="http://de.jugendrettet.org/europe">Deutsch</a></li>
+                            <li><a href="http://jugendrettet.org/europe">Deutsch</a></li>
                         </ul>
                     </nav>
                 </footer>

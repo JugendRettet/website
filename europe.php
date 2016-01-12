@@ -11,7 +11,7 @@
 
         <meta property="og:title" content="Jugend Rettet" />
         <meta property="og:description" content="Wir sind eine Organisation von jungen Erwachsenen für junge Erwachsene. Wir sammeln Gelder für den Erwerb eines Schiffes und mit diesem Schiff werden wir private Seenotrettung auf dem Mittelmeer betreiben." />
-        <meta property="og:url" content="http://de.jugendrettet.org/europe" />
+        <meta property="og:url" content="http://jugendrettet.org/europe" />
         <meta property="og:image" content="http://jugendrettet.org/images/jr-banner.jpg" />
         <meta property="og:type" content="website" />
         <meta property="og:site_name" content="Jugend Rettet" />
@@ -105,12 +105,23 @@
                         <a href="events?date=30-11-2015" class="event-container">
                             <span class="event-date">Montag, 30. November 2015</span>
                             <span class="event-title">Offenes Treffen - Baiz Berlin</span>
-                        </a> -->
+                        </a>
 
                         <a href="events?date=09-01-2016" class="event-container">
                             <span class="event-date">Samstag, 9. Januar 2016</span>
                             <span class="event-title">Feiern fürs Schiff: Jugend Rettet in der Schreina</span>
+                        </a> -->
+
+                        <a href="events?date=14-01-2016" class="event-container">
+                            <span class="event-date">Donnerstag, 14. Januar 2016</span>
+                            <span class="event-title">Leuchtfeuerworte - Supportslam für Jugend Rettet e.V.</span>
                         </a>
+
+                        <a href="events?date=19-01-2016" class="event-container">
+                            <span class="event-date">Dienstag, 19. Januar 2016</span>
+                            <span class="event-title">Offenes Treffen Kiel</span>
+                        </a>
+
                     </div>
                 </div>
             </div>
@@ -124,7 +135,7 @@
                             <li><a href="impressum">Impressum</a></li>
                             <li class="br"></li>
                             <li><a href="http://en.jugendrettet.org/europe">English</a></li>
-                            <li><a href="http://de.jugendrettet.org/europe">Deutsch</a></li>
+                            <li><a href="http://jugendrettet.org/europe">Deutsch</a></li>
                         </ul>
                     </nav>
                 </footer>
