@@ -117,7 +117,6 @@
                             <span class="event-date">Tuesday, 19th January 2016</span>
                             <span class="event-title">Invitation to open meeting in Kiel</span>
                         </a>
-                    </div>
 
                     </div>
                 </div>
