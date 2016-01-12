@@ -95,24 +95,24 @@
                           </div>
                       </div><br>
                       
-                      <a class="faq" id="41"><b>09. Januar</b> Bericht in Hochschulzeitung "Der Albrecht"</a>
+                      <a class="faq" id="41"><b>January 9th</b> Article in university magazine "Der Albrecht"</a>
                       <div class="faq-klappe" id="41-klappe">
-                          <p>Der Albrecht, Hochschulzeitung der Christian-Albrechts-Universität in Kiel, hat einen Bericht über uns geschrieben, der auch wunderbar als vorbereitende Lektüre für unser erstes offenes Treffen am 19.1 in Kiel dienen kann. Unser Botschafter <a href="mailto:matthis@jugendrettet.org">Matthis</a> steht euch dort mit Rat und Tat zur Seite, meldet euch also wenn ihr dabei sein wollt!</p>
+                          <p>Der Albrecht, university magazine of the Christian Albrechts University in Kiel, published and article about us. This too is a wonderful preparating lecture for our first open meeting in Kiel on january 19th. Our ambassador <a href="mailto:matthis@jugendrettet.org">Matthis</a> will answer you any questions you might have, notify him if you want to join!</p>
                           <br>
-                          <a href="http://www.der-albrecht.net/jeder-kann-etwas-machen/">Bericht in "Der Albrecht"</a>
+                          <a href="http://www.der-albrecht.net/jeder-kann-etwas-machen/">Article in "Der Albrecht"</a>
                       </div><br>
-                      <a class="faq" id="40"><b>09. Januar</b> Soliparty in Berlin</a>
+                      <a class="faq" id="40"><b>January 9th</b> Support party in Berlin</a>
                       <div class="faq-klappe" id="40-klappe">
-                          <p>Gestern Abend sind bei unserer ersten Soliparty 349,55€ zusammengekommen! Vielen Dank an alle, die mit uns gefeiert haben, sowie an unsere Berliner Botschafterin Sonja und ihre Kleinen Retter!</p>
+                          <p>Yesterday night we collected 349,55€ at our first support party! Thanks to everyone who celebrated with us, as well as to our Berlin ambassador Sonja and her little rescuers!</p>
                           <a href="http://jugendrettet.org/images/schreina.jpg" target="_blank"><img class="news" src= 'http://jugendrettet.org/images/schreina.jpg'></img></a>
                       </div><br>
-                      <a class="faq" id="39"><b>05. Januar</b> Party in Aachen</a>
+                      <a class="faq" id="39"><b>January 5th</b> Party in Aachen</a>
                       <div class="faq-klappe" id="39-klappe">
                           <a href="http://jugendrettet.org/images/partyaachen.jpg" target="_blank"><img class="news" src= 'http://jugendrettet.org/images/partyaachen.jpg'></img></a>
                       </div><br>
-                      <a class="faq" id="38"><b>04. Januar 2016</b> Bericht im K50 - Magazin für Köln und Region</a>
+                      <a class="faq" id="38"><b>January 4th 2016</b> Article in K50 - Magazin für Köln und Region</a>
                       <div class="faq-klappe" id="38-klappe">
-                          <p>Im K50 - Magazin für Köln und Region ist ein kleiner Bericht über uns erschienen. Wenn ihr bei uns dabei sein wollt, dann meldet euch bei unserem Kölner Botschafter <a href="mailto:carlo@jugendrettet.org">Carlo</a>.</p>
+                          <p>The K50 - Magazin für Köln und Region recently published a small article about us. If you want to join our cause, contact our ambassador from Cologne <a href="mailto:carlo@jugendrettet.org">Carlo</a>.</p>
                       </div><br>
                       <a class="faq" id="37"><b>December 17th</b> Open meeting in Aachen and presentation of the movie Asyland in Bonn</a>
                       <div class="faq-klappe" id="37-klappe">
