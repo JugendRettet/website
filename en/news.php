@@ -35,10 +35,10 @@
         </script>
         <style type="text/css">
             #was {
-                background-image: url(images/neu.jpg);
+                background-image: url(http://jugendrettet.org/images/neu.jpg);
             }
             #warum {
-                background-image: url(images/news.jpg);
+                background-image: url(http://jugendrettet.org/images/news.jpg);
             }
         </style>
     </head>
