@@ -50,7 +50,10 @@ ErrorDocument 404 http://jugendrettet.org/notfound
 RewriteEngine On
 
 RewriteCond %{HTTP_HOST} =de.jugendrettet.org
-RewriteRule (.*) http://jugendrettet.org/$1 [R=301,L]
+RewriteRule (.*) http://jugendrettet.org/$1 [R=301]
+
+RewriteCond %{THE_REQUEST} ^GET\ /de/
+RewriteRule ^de/(.*) /$1 [R=301]
 
 RewriteCond %{REQUEST_FILENAME} !-f
 RewriteRule ^([^\.]+)$ $1.php [NC,L]
