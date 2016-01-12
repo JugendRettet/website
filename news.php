@@ -94,6 +94,12 @@
                           </div>
                       </div><br>
 
+                      <a class="faq" id="41"><b>09. Januar</b> Bericht in Hochschulzeitung "Der Albrecht"</a>
+                      <div class="faq-klappe" id="41-klappe">
+                          <p>Der Albrecht, Hochschulzeitung der Christian-Albrechts-Universität in Kiel, hat einen Bericht über uns geschrieben, der auch wunderbar als vorbereitende Lektüre für unser erstes offenes Treffen am 19.1 in Kiel dienen kann. Unser Botschafter <a href="mailto:matthis@jugendrettet.org">Matthis</a> steht euch dort mit Rat und Tat zur Seite, meldet euch also wenn ihr dabei sein wollt!</p>
+                          <br>
+                          <a href="http://www.der-albrecht.net/jeder-kann-etwas-machen/">Bericht in "Der Albrecht"</a>
+                      </div><br>
                       <a class="faq" id="40"><b>09. Januar</b> Soliparty in Berlin</a>
                       <div class="faq-klappe" id="40-klappe">
                           <p>Gestern Abend sind bei unserer ersten Soliparty 349,55€ zusammengekommen! Vielen Dank an alle, die mit uns gefeiert haben, sowie an unsere Berliner Botschafterin Sonja und ihre Kleinen Retter!</p>
