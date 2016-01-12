@@ -35,10 +35,10 @@
         </script>
         <style type="text/css">
             #was {
-                background-image: url(images/neu.jpg);
+                background-image: url(http://jugendrettet.org/images/neu.jpg);
             }
             #warum {
-                background-image: url(images/news.jpg);
+                background-image: url(http://jugendrettet.org/images/news.jpg);
             }
         </style>
     </head>
@@ -75,7 +75,7 @@
             </header>
             <div class="popup-flat">
                 <div class="triple">
-                    <h3>Neuigkeiten</h3>
+                    <h3>News</h3>
                 </div>
                 <div class="container triple">
                     <div class="column">
