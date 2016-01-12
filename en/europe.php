@@ -132,7 +132,7 @@
                             <li><a href="impressum">Legal Notice</a></li>
                             <li class="br"></li>
                             <li><a href="http://en.jugendrettet.org/europe">English</a></li>
-                            <li><a href="http://de.jugendrettet.org/europe">Deutsch</a></li>
+                            <li><a href="http://jugendrettet.org/europe">Deutsch</a></li>
                         </ul>
                     </nav>
                 </footer>

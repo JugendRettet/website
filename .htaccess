@@ -49,6 +49,12 @@ ErrorDocument 404 http://jugendrettet.org/notfound
 #turns off necessity of html extention
 RewriteEngine On
 
+RewriteCond %{HTTP_HOST} =de.jugendrettet.org
+RewriteRule (.*) http://jugendrettet.org/$1 [R=301]
+
+RewriteCond %{THE_REQUEST} ^GET\ /de/
+RewriteRule ^de/(.*) /$1 [R=301]
+
 RewriteCond %{REQUEST_FILENAME} !-f
 RewriteRule ^([^\.]+)$ $1.php [NC,L]
 
@@ -56,6 +62,6 @@ RewriteRule ^([^\.]+)$ $1.php [NC,L]
 #RewriteCond %{HTTP:Accept-Language} ^en [NC]
 #RewriteRule .* http://en.jugendrettet.org [R,L]
 
-#RewriteCond %{HTTP_HOST} !^de.jugendrettet.org$ [NC]
+#RewriteCond %{HTTP_HOST} !^jugendrettet.org$ [NC]
 #RewriteCond %{HTTP:Accept-Language} ^de [NC]
-#RewriteRule .* http://de.jugendrettet.org [R,L]
+#RewriteRule .* http://jugendrettet.org [R,L]

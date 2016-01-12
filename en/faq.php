@@ -188,7 +188,7 @@ Last update: 28-07-2015 <a href="http://europa.eu/rapid/press-release_MEMO-15-32
                             <li><a href="impressum">Legal Notice</a></li>
                             <li class="br"></li>
                             <li><a href="http://en.jugendrettet.org/faq">English</a></li>
-                            <li><a href="http://de.jugendrettet.org/faq">Deutsch</a></li>
+                            <li><a href="http://jugendrettet.org/faq">Deutsch</a></li>
                         </ul> 
                     </nav>
                 </footer>
