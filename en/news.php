@@ -208,79 +208,79 @@
                             <p>The people on the Mediterranean are dying. We want and will not watch passively. This is why today the first of our three funding stages takes off. Until February 2016, we will collect a total of 270.000 Euro, to buy the ship and bring it to Hamburg for conversion. Each time a donation comes in, another part of the ship's design will be revealed: <a target="_blank" href="spenden">http://jugendrettet.org/spenden</a>.</p>
                                 <p>We need your donation, to set something against the European indifference and the situation on the Mediterranean to rescure people. Donate now!</p>
                         </div><br>
-                        <a class="faq" id="15"><b>1. November 2015</b> Nowkoelln Flowmarkt</a>
+                        <a class="faq" id="15"><b>November 1st</b> Nowkoelln Flowmarkt</a>
                         <div class="faq-klappe" id="15-klappe">
-                            <p>Heute konnten wir auf dem Nowkoelln Flowmarkt über unser Projekt berichten! Gleichzeitig konnten wir mit eurer Unterstützung ganze 600€ zusammen bekommen, die direkt in unser Schiff fließen.</p>
+                            <p>Today we presented our project at the Nowkoelln Flowmarkt! With your support we were able to collect 600€, which are fully invested into our ship.</p>
                         </div><br>
-                        <a class="faq" id="14"><b>31. Oktober</b> Besuch von <i>Jugend Rettet</i> und seiner Berater an der holländischen Küste</a>
+                        <a class="faq" id="14"><b>October 31st</b> Visit from<i>Jugend Rettet</i> our consultants to the dutch coast</a>
                         <div class="faq-klappe" id="14-klappe">
-                            <p>Unsere erste Rettungsmission wird immer greifbarer. Bei einem Besuch von Jugend Rettet und seiner Berater an der holländischen Küste wurden vier Schiffe besichtigt. Wir schauten uns besonders genau die Fläche an Deck, Lagerräume unter Deck und die Kräne an Bord an, ob diese für unser Vorhaben geeignet sind. Für uns war die Reise nach Holland ein großer Schritt, denn wir merken und sind zufrieden,dass wie konkret und handfest unser Vorhaben Tag für Tag wird. Bei der nächsten Reise nach Holland, werden wir den Rückweg mit unserem Schiff zurücklegen. Dafür sammeln wir ab Montag die Gelder. Noch 2 Tage bis zur 1. Spendenphase!</p>
+                            <p>We are steadily moving towards our first rescue mission. During a visit from Jugend Rettet and our consultants to the dutch coast, we inspected four ships. We took a closer look to the space on deck, the storage rooms and cranes aboard, to check whether they match our intent. The trip to the Netherlands was a big step for us. We are satisfied to see our plans become more tangible each day. Next time we visit the Netherlands, our way back will be aboard our ship. From monday on, we collect funds for that. Only two days until our first funding stage! </p>
                         </div><br>
-                        <a class="faq" id="13"><b>19. Oktober</b> Start Twitter + Unser Spendenkonto ist eröffnet!</a>
+                        <a class="faq" id="13"><b>October 19th</b> Start Twitter + opening of our donation account!</a>
                         <div class="faq-klappe" id="13-klappe">
-                            <p>Ab sofort könnt ihr uns auch auf Twitter folgen, Fragen stellen und mit uns diskutieren: <a target="_blank" href="https://twitter.com/jugendrettet">https://twitter.com/jugendrettet</a></p><br>
-                            <p>Außerdem ist unser Spendenkonto eröffnet!</p>
+                            <p>From now on you can follow us on Twitter, ask questions and discuss with us: <a target="_blank" href="https://twitter.com/jugendrettet">https://twitter.com/jugendrettet</a></p><br>
+                            <p>Aswell, we opened our donation account!</p>
                         </div><br>
-                        <a class="faq" id="12"><b>15. Oktober</b> 2. Offenes Treffen in Berlin</a>
+                        <a class="faq" id="12"><b>October 15th</b> 2. open meeting in Berlin</a>
                         <div class="faq-klappe" id="12-klappe">
-                            <p>Beim gestrigen Treffen im Mehringhof wurde viel diskutiert. Besonders der Einsatz der deutschen Marine auf dem Mittelmeer war ein wichtiges Thema. 6 Wochen lang waren zwei deutsche Marineschiffe ausschließlich zur Seenotrettung eingesetzt. Jetzt sollen sie als Teil der EU-Mission "Sophia" die Schmugglernetzwerke zerstören. Wir recherchieren zu den Hintergründen dieser Entscheidung und haben uns dazu bereits mit einem Vertreter des Verteidigundministeriums getroffen. In Kürze folgt ein Gespräch mit Vertretern der Bundeswehr.<br>Bei unseren offenen Treffen werdet ihr immer auf den neusten Stand gebracht.</p>
+                            <p>We had many discussions at yesterdays meeting at Mehringhof. Especially the mission of the german marine was an important topic. For six weeks, two ships from the german marine where on a sea rescue mission. Now they are ought to be part of EU-mission "Sophia", to destroy smuggler networks. We research the background of this decision and have already met with a representative of the ministry of defense. Jetzt sollen sie als Teil der EU-Mission "Sophia" die Schmugglernetzwerke zerstören. Wir recherchieren zu den Hintergründen dieser Entscheidung und haben uns dazu bereits mit einem Vertreter des Verteidigundministeriums getroffen. Within short, a meeting with representatives of the Bundeswehr will follow.<br>At our open meetings, we always bring you up to date.</p>
                         </div><br>
-                        <a class="faq" id="11"><b>12. Oktober</b> Botschafteraktion Nürnberg</a>
+                        <a class="faq" id="11"><b>October 12th</b> Ambassador action Nuremberg</a>
                         <div class="faq-klappe" id="11-klappe">
-                            <p>Wir sind gerade mit unserer <a target="_blank" href="aendern#botschafter">Botschafterin</a> in Nürnberg und starten die erste Flugblattaktion vor Ort.</p>
+                            <p>Right now we are present with our ambassador in Nuremberg and start the first flyer action.</p>
                         <a href="http://jugendrettet.org/images/nuernberg-flugblaetter.jpg" target="_blank"><div class="popup-img" style="background-image: url('http://jugendrettet.org/images/nuernberg-flugblaetter.jpg');"></div></a>
                         </div><br>
-                        <a class="faq" id="10"><b>10. Oktober</b> Vertreter der Bundeswehr berichten von ihrem Einsatz auf dem Mitttelmeer</a>
+                        <a class="faq" id="10"><b>October 10th</b> Bundeswehr representatives report from their mission on the Mediterranean Sea</a>
                         <div class="faq-klappe" id="10-klappe">
-                            <p>Austausch mit Vertretern des Bundesministeriums der Verteidigung über den Bundeswehreinsatz im Rahmen der Operation Sophia, und Besuch des Einsatzführungskommandos.</p>
+                            <p>Exchange with representatives from the germany ministry of defense regarding the Bundeswehr participation in Operation Sophia and visit of the Joint Operations Command.</p>
                         </div><br>
-                        <a class="faq" id="9"><b>3. Oktober 2015</b> Gründung und 1. Offenes Treffen</a>
+                        <a class="faq" id="9"><b>October 3rd</b> Launch and first open meeting</a>
                         <div class="faq-klappe" id="9-klappe">
-                            <p>Gründung des Vereins Jugend Rettet, Eintragung ins Vereinsregister.</p><br>
-                            <p>Unser erstes offenes Treffen gestern Abend war ein voller Erfolg. Vielen Dank an alle, die da waren.</p>
-                            <p>Wir werden den Vortrag regelmäßig wiederholen. Wer noch Tipps für Räumlichkeiten in Berlin oder anderen deutschen Städten hat, in denen wir uns vorstellen könnten, schreibt uns bitte an <a href="mailto:info@jugendrettet.org" class="link">info@jugendrettet.org</a>.</p>
+                            <p>Founding of the association Jugend Rettet, entry to register of associations.</p><br>
+                            <p>Our first open meeting yesterday evening as a big success. Thanks everyone for attending.</p>
+                            <p>We will regularly repeat the presentation. If you have suggestions for locations in Berlin or other cities where we can present our cause, please mail to <a href="mailto:info@jugendrettet.org" class="link">info@jugendrettet.org</a>.</p>
                         <a href="http://jugendrettet.org/images/erstes_treffen.jpg" target="_blank"><div class="popup-img" style="background-image: url('http://jugendrettet.org/images/erstes_treffen.jpg');"></div></a>
                         </div><br>
-                        <a class="faq" id="8"><b>27. September</b>  Jugendrettet.org geht online</a>
+                        <a class="faq" id="8"><b>September 27th</b>  Jugendrettet.org goes online</a>
                         <div class="faq-klappe" id="8-klappe">
-                            <p>Start der Webpräsenz www.jugendrettet.org und des Facebook-Auftritts.</p>
+                            <p>Start of the website www.jugendrettet.org and Facebook page.</p>
                         </div><br>
-                        <a class="faq" id="7"><b>20. September 2015</b> Gemeinnützigkeit geschafft!</a>
+                        <a class="faq" id="7"><b>September 20th</b> Common Good status accomplished!</a>
                         <div class="faq-klappe" id="7-klappe">
-                            <p>Anerkennung der Gemeinnützigkeit durch die Finanzbehörden.</p>
+                            <p>Acceptance of our common public interest through financial authorities.</p>
                         </div><br>
-                        <a class="faq" id="5"><b>20. Juli</b> Festlegung auf Schiff!</a>
+                        <a class="faq" id="5"><b>July 20th</b> Shiptype determined!</a>
                         <div class="faq-klappe" id="5-klappe">
-                            <p>Festlegung auf einen holländischen Fischtrawler als geeignetes Schiff für die Ziele der Organisation.</p>
+                            <p>We determined a dutch fishtrawler is the best ship to fulfill our needs.</p>
                         </div><br>
-                        <p><b>Juli 2015</b> Bildung des Kernteams und Aufbau eines Botschafternetzwerks in Deutschland
+                        <p><b>July 2015</b> Founding of core team and building an ambassador network in Germany
                         </p><br>
-                        <a class="faq" id="3"><b>Juni 2015</b> Prüfung unseres Konzeptes</a>
+                        <a class="faq" id="3"><b>June 2015</b> Examination of our concept</a>
                         <div class="faq-klappe" id="3-klappe">
-                            <p>Überprüfung des Konzepts von <i>Jugend Rettet</i> auf technische und finanzielle Machbarkeit. Kostenvoranschläge werden erarbeitet, die rechtliche Grundlage unseres Einsatzes  geklärt.</p>
+                            <p>Examination of the concept from <i>Jugend Rettet</i> for financial and technical practicality. Estimates of cost are worked out, the legal base for our mission got clarified.</p>
                         </div><br>
-                        <a class="faq" id="1"><b>Anfang Juni 2015</b> Idee zu <i>Jugend Rettet</i> entsteht</a>
+                        <a class="faq" id="1"><b>Early June 2015</b> The idea for <i>Jugend Rettet</i> originates.</a>
                         <div class="faq-klappe" id="1-klappe">
-                            <p>Meldungen über Tote im Mittelmeer jeden Tag. Die Idee <i>Jugend Rettet</i> zu gründen, entsteht. Meinungen zum Vorhaben werden eingeholt. Experten und Mitstreiter gesucht. Über Reeder, Verbände, Kapitäne werden Kontakte aufgebaut.</p>
+                            <p>News about dead in the Mediterranean every day. The idea to found <i>Jugend Rettet</i> originates. Opinions on the intent are obtained, experts and fellows sought. Contacts are established through captains, ship owners and organizations.</p>
                         </div>
                     </div>
                     <div class="column">
-                      <h4>Was wir geschafft haben</h4>
+                      <h4>What we accomplished</h4>
                         <ul>
-                          <li>&#10003; Wir haben mit der MS Humanitas ein Schiff für unsere Zwecke gefunden und besichtigt. Die Umbaupläne für den Umbau ab April sind erstellt.</li><br>
-                          <li>&#10003; Wir haben eine 11-köpfige Crew inklusive Kapitän gefunden und gemeinsam unsere halbjährige Operation geplant.</li><br>
-                          <li>&#10003; Wir haben ein Netz von Botschaftern in über 15 deutschen Städten aufgebaut.</li><br>
-                          <li>&#10003; Wir haben Maria Furtwängler, Armin Rohde und Jasmin Gerat als Stimmen für <i>Jugend Rettet</i> gewinnen können.</li><br>
-                          <li>&#10003; Wir haben in Berlin ein Kernteam von 11 Menschen aufgebaut.</li>
+                          <li>&#10003; We found and visited a ship for our needs - the MS Humanitas. Plans for the conversion from april on are made.</li><br>
+                          <li>&#10003; We found an 11-person crew including captain and planned our six month mission.</li><br>
+                          <li>&#10003; We built a network of ambassadors in more than 15 german cities.</li><br>
+                          <li>&#10003; We won Maria Furtwängler, Armin Rohde and Jasmin Gerat as advocates for <i>Jugend Rettet</i>.</li><br>
+                          <li>&#10003; We established a core team of 11 persons in Berlin.</li>
                         </ul>
                     </div>
                     <div class="column">
-                      <h4>Was wir noch schaffen werden</h4>
+                      <h4>What we will accomplish</h4>
                         <ul>
-                          <li>&#9633; Dass Seenotrettung in der jungen Generation ein Thema bleibt und die Situation der Menschen auf dem Mittelmeer weiterhin in der Öffentlichkeit eine Rolle spielt.</li><br>
-                          <li>&#9633; Dass wir unser Netzwerk an europäischen Botschaftern ausweiten.</li><br>
-                          <li>&#9633; Dass wir die Spendenphase bis Februar meistern und unsere Crowdfunding-Kampagne erfolgreich abschließen.</li><br>
-                          <li>&#9633; Dass wir Partnerschulen und Partner-Jugendorganisationen gewinnen.</li>
+                          <li>&#9633; That sea rescure sticks as a topic with the young generation and the situation of the people on the Mediterranean Sea stays in the public discourse. </li><br>
+                          <li>&#9633; That we expand our network of european ambassadors.</li><br>
+                          <li>&#9633; That we master the funding phase until february and successfully finish our crowdfunding campaign.</li><br>
+                          <li>&#9633; That we win schools and youth organizations as partners.</li>
                         </ul>
                     </div>
                 </div>
