@@ -78,7 +78,7 @@
                 </div>
                 <div class="container triple">
                     <div class="column">
-                      <a class="faq" id="0"><h4>→ NEWSLETTER ABONNIEREN</h4></a>
+                      <a class="faq" id="0"><h4>→ FOLGE UNS</h4></a>
                       <div class="faq-klappe" id="0-klappe">
                           <b>Bleib auf dem neusten Stand</b>
                           <p>Was gibt es Neues bei <i>Jugend Rettet</i>? Änderungen und Fortschritte findest du hier. Abonniere unseren Newsletter und besuche uns auf <a target="_blank" href="https://www.facebook.com/JugendRettet" class="link">Facebook</a>, <a href="https://twitter.com/jugendrettet" class="link">Twitter</a> und <a href="https://www.instagram.com/jugendrettet/" class="link">Instagram</a>.</p><br>
