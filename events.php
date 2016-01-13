@@ -307,19 +307,21 @@ Botschafter des Vereins werden auch vor Ort über das Projekt informieren und de
                         <p>Die Moderation des Abends übernimmt RedeVux</p>
                         <br>
                         <p>
-                            Der Eintritt liegt bei 7€/5€ ermäßigt
+                            Der Eintritt liegt bei 5€/3€ ermäßigt
                             <br>
-                            Einlass ist ab 17:30, Beginn um 18:00
+                            Einlass ist ab 18:00, Beginn um 19:00
                         </p>
                         <br>
                         <p>Wir freuen uns auf euch!</p>
+                        <br>
+                        <a href="https://www.facebook.com/events/760541610735284/776769519112493/">Veranstaltung auf Facebook</a>
                         <br>
                         <div class="event-container">
                             <div class="event-date">Donnerstag, 14. Januar 2016</div>
                             <div class="event-icon"><img src="http://jugendrettet.org/graphics/location.png" width="14px" alt="Location"></div>
                             <div class="event-title"><a href="https://www.google.de/maps/place/Zimmertheater+in+der+Kultschule/@52.4987432,13.499966,17z/data=!3m1!4b1!4m2!3m1!1s0x47a84edac9ca929d:0x51fdd3783ee5b09d" target="_blank">Zimmertheater in der Kultschule<br>Sewanstraße 43<br> 10319 Berlin-Lichtenberg</a></div><br>
                             <div class="event-icon"><img src="http://jugendrettet.org/graphics/time.png" height="14px" alt="Time"></div>
-                            <div class="event-title">18:00 Uhr</div>
+                            <div class="event-title">19:00 Uhr</div>
                         </div><br>
                     </div>
 

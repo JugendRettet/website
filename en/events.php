@@ -242,18 +242,19 @@ Euer Jugend Rettet Team</p><br>
                         <p>Moderation: RedeVux</p>
                         <br>
                         <p>
-                            Price: 7€/5€ discount
+                            Price: 5€/3€ discount
                             <br>
-                            Entry at 5:30 pm, beginning at 6:00 pm
+                            Entry at 6:00 pm, beginning at 7:00 pm
                         </p>
-
+                        <br>
+                        <a href="https://www.facebook.com/events/760541610735284/776769519112493/">Veranstaltung auf Facebook</a>
                         <br>
                         <div class="event-container">
                             <div class="event-date">Thursday, 14th January 2016</div>
                             <div class="event-icon"><img src="http://jugendrettet.org/graphics/location.png" width="14px" alt="Location"></div>
                             <div class="event-title"><a href="https://www.google.de/maps/place/Zimmertheater+in+der+Kultschule/@52.4987432,13.499966,17z/data=!3m1!4b1!4m2!3m1!1s0x47a84edac9ca929d:0x51fdd3783ee5b09d" target="_blank">Zimmertheater in der Kultschule<br>Sewanstraße 43<br> 10319 Berlin-Lichtenberg</a></div><br>
                             <div class="event-icon"><img src="http://jugendrettet.org/graphics/time.png" height="14px" alt="Time"></div>
-                            <div class="event-title">6:00 pm</div>
+                            <div class="event-title">7:00 pm</div>
                         </div><br>
                     </div>
 
