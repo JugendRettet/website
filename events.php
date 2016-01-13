@@ -314,7 +314,7 @@ Botschafter des Vereins werden auch vor Ort über das Projekt informieren und de
                         <br>
                         <p>Wir freuen uns auf euch!</p>
                         <br>
-                        <a href="https://www.facebook.com/events/760541610735284/776769519112493/">Veranstaltung auf Facebook</a>
+                        <p><a href="https://www.facebook.com/events/760541610735284/776769519112493/">Veranstaltung auf Facebook</a></p>
                         <br>
                         <div class="event-container">
                             <div class="event-date">Donnerstag, 14. Januar 2016</div>

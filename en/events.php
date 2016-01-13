@@ -247,7 +247,7 @@ Euer Jugend Rettet Team</p><br>
                             Entry at 6:00 pm, beginning at 7:00 pm
                         </p>
                         <br>
-                        <a href="https://www.facebook.com/events/760541610735284/776769519112493/">Veranstaltung auf Facebook</a>
+                        <p><a href="https://www.facebook.com/events/760541610735284/776769519112493/">Event on Facebook</a></p>
                         <br>
                         <div class="event-container">
                             <div class="event-date">Thursday, 14th January 2016</div>
