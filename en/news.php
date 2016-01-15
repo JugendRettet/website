@@ -66,7 +66,7 @@
                     <ul class="hidden">
                         <li><a href="news" class="indicator">News</a></li>
                         <li><a href="schiff">The Ship</a></li>
-                        <!--<li><a href="team">Team</a></li>-->
+                        <li><a href="team">Team</a></li>
                         <li><a href="aendern">Rescue</a></li>
                         <li><a href="spenden">Donate</a></li>
                         <li><a href="europe">Jugend Rettet <span class="lowercase">europe</span></a></li>
