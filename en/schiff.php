@@ -201,14 +201,14 @@
                         <h4>The Ship</h4>
                         <img src="http://jugendrettet.org/images/mittelmeerroute1.jpg" alt="Schiffsbesuch in den Niederlanden" style="max-width:100%">
                         <br>
-                        <p>Wir haben im Oktober Schiffe unseres gewünschten Schiffstyps - holländische Fischtrawler - besichtigt. Wenn wir das Schiff kaufen sind folgende technische Eigenheiten von Bedeutung für uns:</p><br>
+                        <p>In october, we inspected ships of our desired kind, the dutch fishtrawler. Once we buy the ship, the following technical specifications are of importance:</p><br>
                         <img src="http://jugendrettet.org/graphics/theship.svg" alt="Schiffsbesuch in den Niederlanden" style="max-width:100%"><br>
                         <ul>
-                          <li>&#10003; Unser Schiff soll über eine Große Ladefläche (Bild) an Deck verfügen. So können wir 80-100 Menschen an Bord nehmen. Über die Deckfläche wird eine LKW-Plane gespannt sein, die die Menschen an Deck vor Sonneneinstrahlung oder Regen schützt. Im Winter wird diese Plane an den Seiten nach unten gespannt sein, wodurch ein geschlossener Innenbereich entsteht.</li><br>
+                          <li>&#10003; Our ship must have a big loading space on deck. That way we can take 80-100 people aboard. Above the deck space, a truck plane will be hanged, to protect the people from sun or rain. In winter this plane will be fixed on the sides, through which a closed interior is gained. </li><br>
                           <img src="http://jugendrettet.org/images/nl1.jpg" alt="Schiffsbesuch in den Niederlanden" style="max-width:100%"><br>
-                          <li>&#10003; Unser Schiff soll eine niedrige Bordwand haben. So können wir Menschen leicht und flexibel an Bord nehmen und auch unsere Beiboote werden bei einer niedrigen Bordwand leichter ins Wasser zu heben sein.</li><br>
-                          <li>&#10003; An Deck wird ein Hydraulikkran installiert, der die Beiboote schnell ins Wasser heben kann. Wir werden zwei Beiboote an Bord haben. So können wir einem Schiff in Seenot mit zwei Beibooten zur Hilfe kommen. So entsteht auf dem untergehenden Schiff keine Panik, die z.B. ausgelöst werden würde, wenn sich nur ein Beiboot dem Schiff nähern würde. </li><br>
-                          <li>&#10003; Unser Schiff soll Platz für ausreichend Frischwassertanks bieten. Einige Menschen in Not werden mehrere Tage ohne Wasser auf ihrem Boot verbracht haben. Um die Dehydrierung zu lindern, werden die Menschen mit Wasser versorgt.</li><br>
+                          <li>&#10003; Our ship is ought to have a low ceiling. That eases bringing people on board, as well as lower our tenders into the water. </li><br>
+                          <li>&#10003; On deck a hydraulic crane will be installed, which can lower the tenders to water fast. We will have two tenders aboard. A ship in sea distress can be helped faster that way. Also, a possible panic aboard the distressed ship avoided. This might occur, when only one tender - with too less space for everyone - would verge. </li><br>
+                          <li>&#10003; Our ship has to have enough space for fresh water tanks. Some people in distress will have spent several days without drinking water on their boat. To alleviate possible dehydration, the people are to be supplied with fresh water. </li><br>
                           <img src="http://jugendrettet.org/images/nl4.jpg" alt="Schiffsbesuch in den Niederlanden" style="max-width:100%">
                         </ul>
                     </div>
