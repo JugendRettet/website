@@ -117,6 +117,11 @@
                             <span class="event-title">Invitation to open meeting in Kiel</span>
                         </a>
 
+                        <a href="events?date=11-02-2016" class="event-container">
+                            <span class="event-date">Thursday, 11th February 2016</span>
+                            <span class="event-title">Gedenken an die Todesopfer während der Flucht 2015 in Bonn</span>
+                        </a>
+
                     </div>
                 </div>
             </div>
