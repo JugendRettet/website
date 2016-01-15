@@ -184,7 +184,7 @@
                                 <li><a class="peek" id="kontakt">Kontakt</a></li>
                                 <li><a href="impressum">Impressum</a></li>
                                 <li class="br"></li>
-                                <li><a href="http://en.jugendrettet.org/news">English</a></li>
+                                <li><a href="http://en.jugendrettet.org/team">English</a></li>
                             </ul>
                         </nav>
                     </footer>
