@@ -231,7 +231,7 @@
                         <a class="faq" id="16"><b>November 2nd</b> Start of 1. phase</a>
                         <div class="faq-klappe" id="16-klappe">
                             <p>The people on the Mediterranean are dying. We want and will not watch passively. This is why today the first of our three funding stages takes off. Until February 2016, we will collect a total of 270.000 Euro, to buy the ship and bring it to Hamburg for conversion. Each time a donation comes in, another part of the ship's design will be revealed: <a target="_blank" href="spenden">http://jugendrettet.org/spenden</a>.</p>
-                                <p>We need your donation, to set something against the European indifference and the situation on the Mediterranean to rescure people. Donate now!</p>
+                                <p>We need your donation, to set something against the European indifference and the situation on the Mediterranean to rescue people. Donate now!</p>
                         </div><br>
                         <a class="faq" id="15"><b>November 1st</b> Nowkoelln Flowmarkt</a>
                         <div class="faq-klappe" id="15-klappe">
@@ -302,7 +302,7 @@
                     <div class="column">
                       <h4>What we will accomplish</h4>
                         <ul>
-                          <li>&#9633; That sea rescure sticks as a topic with the young generation and the situation of the people on the Mediterranean Sea stays in the public discourse. </li><br>
+                          <li>&#9633; That sea rescue sticks as a topic with the young generation and the situation of the people on the Mediterranean Sea stays in the public discourse. </li><br>
                           <li>&#9633; That we expand our network of european ambassadors.</li><br>
                           <li>&#9633; That we master the funding phase until february and successfully finish our crowdfunding campaign.</li><br>
                           <li>&#9633; That we win schools and youth organizations as partners.</li>
