@@ -90,7 +90,7 @@
                     <div class="column">
                         <h4>The Team</h4>
                         <ul>
-                            <li><b>Jakob and Lena</b>: Founder</li>
+                            <li><b>Jakob and Lena</b>: Founders</li>
                         </ul>
                         <p>
                             Tel.:
@@ -155,7 +155,7 @@
                         <h4>Gesichter</h4>
                     </div>-->
                     <div class="column">
-                        <h4>Supporter</h4>
+                        <h4>Supporters</h4>
                         <!--<a href="http://www.jugendpresse.de/">-->
                         <img src="graphics/jpd.svg" alt="JPD" style="background-color:white;width:100%;padding:5px">
                         <span>Jugendpresse.de</span>
