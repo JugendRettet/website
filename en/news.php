@@ -106,10 +106,10 @@
                           <p>Yesterday night we collected 349,55€ at our first support party! Thanks to everyone who celebrated with us, as well as to our Berlin ambassador Sonja and her little rescuers!</p>
                           <a href="http://jugendrettet.org/images/schreina.jpg" target="_blank"><img class="news" src= 'http://jugendrettet.org/images/schreina.jpg'></img></a>
                       </div><br>
-                      <a class="faq" id="40"><b>07. Januar</b> Bericht in den Aachener Nachrichten</a>
+                      <a class="faq" id="40"><b>January 7th</b> Article in Aachener Nachrichten</a>
                       <div class="faq-klappe" id="40-klappe">
-                          <p>Die Aachener Nachrichten haben unser Team vor Ort besucht und über uns geschrieben! Wer gerne Teil des Aachen-Teams werden möchte, meldet sich bei <a href="mailto:luisa@jugendrettet.org">Luisa</a>.</p>
-                          <a href="http://www.aachener-nachrichten.de/lokales/aachen/gruppe-jugend-rettet-ein-seetuechtiges-boot-bis-april-1.1262881">Bericht in den Aachener Nachrichten</a>
+                          <p>The Aachener Nachrichten, a local newspaper, visitet our team in Aachen and published an article about us! If you want to join our team in Aachen, send a mail to <a href="mailto:luisa@jugendrettet.org">Luisa</a>.</p>
+                          <a href="http://www.aachener-nachrichten.de/lokales/aachen/gruppe-jugend-rettet-ein-seetuechtiges-boot-bis-april-1.1262881">Article in Aachener Nachrichten</a>
                       </div><br>
                       <a class="faq" id="39"><b>January 5th</b> Party in Aachen</a>
                       <div class="faq-klappe" id="39-klappe">
