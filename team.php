@@ -141,6 +141,7 @@
                             <li>Nürnberg: <a href="mailto:Johanna@jugendrettet.org">Johanna</a></li>
                             <li>Paderborn: <a href="mailto:Wiebke@jugendrettet.org">Wiebke</a></li>
                             <li>Paris: <a href="mailto:Patrick@jugendrettet.org">Patrick</a></li>
+                            <li>Potsdam: <a href="mailto:Christoph@jugendrettet.org">Christoph</a></li>
                             <li>Potsdam: <a href="mailto:Alex@jugendrettet.org">Alex</a></li>
                             <li>Reutlingen: <a href="mailto:Fatih@jugendrettet.org">Fatih</a></li>
                             <li>Stuttgart: <a href="mailto:Harun@jugendrettet.org">Harun</a></li>
