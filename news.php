@@ -94,16 +94,21 @@
                           </div>
                       </div><br>
 
-                      <a class="faq" id="41"><b>09. Januar</b> Bericht in Hochschulzeitung "Der Albrecht"</a>
-                      <div class="faq-klappe" id="41-klappe">
+                      <a class="faq" id="42"><b>09. Januar</b> Bericht in Hochschulzeitung "Der Albrecht"</a>
+                      <div class="faq-klappe" id="42-klappe">
                           <p>Der Albrecht, Hochschulzeitung der Christian-Albrechts-Universität in Kiel, hat einen Bericht über uns geschrieben, der auch wunderbar als vorbereitende Lektüre für unser erstes offenes Treffen am 19.1 in Kiel dienen kann. Unser Botschafter <a href="mailto:matthis@jugendrettet.org">Matthis</a> steht euch dort mit Rat und Tat zur Seite, meldet euch also wenn ihr dabei sein wollt!</p>
                           <br>
                           <a href="http://www.der-albrecht.net/jeder-kann-etwas-machen/">Bericht in "Der Albrecht"</a>
                       </div><br>
-                      <a class="faq" id="40"><b>09. Januar</b> Soliparty in Berlin</a>
-                      <div class="faq-klappe" id="40-klappe">
+                      <a class="faq" id="41"><b>09. Januar</b> Soliparty in Berlin</a>
+                      <div class="faq-klappe" id="41-klappe">
                           <p>Gestern Abend sind bei unserer ersten Soliparty 349,55€ zusammengekommen! Vielen Dank an alle, die mit uns gefeiert haben, sowie an unsere Berliner Botschafterin Sonja und ihre Kleinen Retter!</p>
                           <a href="http://jugendrettet.org/images/schreina.jpg" target="_blank"><img class="news" src= 'http://jugendrettet.org/images/schreina.jpg'></img></a>
+                      </div><br>
+                      <a class="faq" id="40"><b>07. Januar</b> Bericht in den Aachener Nachrichten</a>
+                      <div class="faq-klappe" id="40-klappe">
+                          <p>Die Aachener Nachrichten haben unser Team vor Ort besucht und über uns geschrieben! Wer gerne Teil des Aachen-Teams werden möchte, meldet sich bei <a href="mailto:luisa@jugendrettet.org">Luisa</a>.</p>
+                          <a href="http://www.aachener-nachrichten.de/lokales/aachen/gruppe-jugend-rettet-ein-seetuechtiges-boot-bis-april-1.1262881">Bericht in den Aachener Nachrichten</a>
                       </div><br>
                       <a class="faq" id="39"><b>05. Januar</b> Party in Aachen</a>
                       <div class="faq-klappe" id="39-klappe">
