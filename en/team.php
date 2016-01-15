@@ -158,17 +158,17 @@
                     <div class="column">
                         <h4>Supporters</h4>
                         <!--<a href="http://www.jugendpresse.de/">-->
-                        <img src="graphics/jpd.svg" alt="JPD" style="background-color:white;width:100%;padding:5px">
+                        <img src="http://jugendrettet.org/graphics/jpd.svg" alt="JPD" style="background-color:white;width:100%;padding:5px">
                         <span>Jugendpresse.de</span>
                         <!--</a>-->
                         <!--<a href="http://www.santinis.de/"> -->
-                        <img src="graphics/Santini-Logo sw.svg" alt="Santini" style="background-color:white;width:100%;margin-top:20px;">
+                        <img src="http://jugendrettet.org/graphics/Santini-Logo sw.svg" alt="Santini" style="background-color:white;width:100%;margin-top:20px;">
                         <span>Santinis.de</span>
 
-                        <img src="graphics/Logo_Print Production_2c.svg" alt="Print Production" style="background-color:white;width:100%;margin-top:20px;padding:5px">
+                        <img src="http://jugendrettet.org/graphics/Logo_Print Production_2c.svg" alt="Print Production" style="background-color:white;width:100%;margin-top:20px;padding:5px">
                         <span>printproduction.de</span>
 
-                        <img src="graphics/nwsh.png" alt="Netzwerk Selbsthilfe" style="background-color:white;width:100%;margin-top:20px;padding:5px">
+                        <img src="http://jugendrettet.org/graphics/nwsh.png" alt="Netzwerk Selbsthilfe" style="background-color:white;width:100%;margin-top:20px;padding:5px">
                         <span>netzwerk-selbsthilfe.de</span>
                         <!--</a>-->
                         <br><br>
