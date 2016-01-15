@@ -71,26 +71,26 @@
                 </div>
                 <div class="container triple">
                     <div class="column">
-                        <h4>Die Crew</h4>
+                        <h4>The Crew</h4>
                         <ul style="list-style: inherit;">
-                            <li>Kapitän</li>
-                            <li>Steuermann</li>
+                            <li>Captain</li>
+                            <li>Navigator</li>
                         </ul>
-                        <p>(mit A1-Patent)</p>
+                        <p>(A1-Patent)</p>
                         <br>
                         <ul style="list-style: inherit;">
-                            <li>2 Maschinist_innen</li>
-                            <li>1 Funker_in</li>
-                            <li>2-3 Deckhands (Erste-Hilfe-Kurs, englische/französische Sprachkenntnisse)</li>
-                            <li>1 Sicherheitsbeauftragte_r</li>
-                            <li>2 Ärzt_innen</li>
+                            <li>2 Machinist</li>
+                            <li>1 Radio Operator</li>
+                            <li>2-3 Deckhands (First Aid course, english/french language skills)</li>
+                            <li>1 Safety Advisor</li>
+                            <li>2 Medical Doctors</li>
                         </ul>
-                        <p>Unsere Deckhands legen STWC - Basic Safety Trainings ab.</p>
+                        <p>Our Deckhands have STWC - Basic Safety Trainings.</p>
                     </div>
                     <div class="column">
-                        <h4>Das Team</h4>
+                        <h4>The Team</h4>
                         <ul>
-                            <li><b>Jakob und Lena</b>: Gründer</li>
+                            <li><b>Jakob and Lena</b>: Founders</li>
                         </ul>
                         <p>
                             Tel.:
@@ -101,31 +101,31 @@
                         </p>
                         <br>
                         <ul>
-                            <b><li>Lena</b>:  Organisation, Koordination Botschafter, Konzeption</li>
-                            <b><li>Mohammed</b>:  Koordination europ. Botschafter</li>
-                            <b><li>Sahra</b>:  Organisation, Konzeption, Öffentlichkeit, Gestaltung</li>
-                            <b><li>Sonja</b>:  Organisation, Recht, Finanzen</li>
-                            <b><li>Jakob</b>:  Konzeption, Öffentlichkeit, Recht, Finanzen</li>
-                            <b><li>Pauline</b>:  Öffentlichkeit</li>
-                            <b><li>Johanna</b>:  Öffentlichkeit, Gestaltung</li>
-                            <b><li>Alex</b>:  IT, Gestaltung</li>
-                            <b><li>Matthias</b>:  Finanzen, Recherche</li>
-                            <b><li>Johanna</b>:  Öffentlichkeit</li>
-                            <b><li>Carlo</b>:  Öffentlichkeit</li>
-                            <b><li>Valeria</b>:  Öffentlichkeit, Finanzen</li>
+                            <b><li>Lena</b>:  Organisation, Coordination of Ambassadors, Concept</li>
+                            <b><li>Mohammed</b>:  Coordination europ. Ambassadors</li>
+                            <b><li>Sahra</b>:  Organisation, Concept, Public Relations, Layout</li>
+                            <b><li>Sonja</b>:  Organisation, Law, Finance</li>
+                            <b><li>Jakob</b>:  Concept, Public Relations, Law, Finance</li>
+                            <b><li>Pauline</b>:  Public Relations</li>
+                            <b><li>Johanna</b>:  Public Relations, Layout</li>
+                            <b><li>Alex</b>:  IT, Layout</li>
+                            <b><li>Matthias</b>:  Finance, Research</li>
+                            <b><li>Johanna</b>:  Public Relations</li>
+                            <b><li>Carlo</b>:  Public Relations</li>
+                            <b><li>Valeria</b>:  Public Relations, Finance</li>
                             <b><li>Lars</b>:  IT</li>
-                            <b><li>Suse</b>:  Finanzen</li>
-                            <b><li>Elke</b>:  Finanzen</li>
-                            <b><li>Lukas</b>:  Finanzen</li>
-                            <b><li>Anna</b>:  Recherche</li>
-                            <b><li>Andreas</b>:  Recherche</li>
-                            <b><li>Jonas</b>:  Gestaltung</li>
-                            <b><li>Kjeld</b>:  Gestaltung</li>
+                            <b><li>Suse</b>:  Finance</li>
+                            <b><li>Elke</b>:  Finance</li>
+                            <b><li>Lukas</b>:  Finance</li>
+                            <b><li>Anna</b>:  Research</li>
+                            <b><li>Andreas</b>:  Research</li>
+                            <b><li>Jonas</b>:  Layout</li>
+                            <b><li>Kjeld</b>:  Layout</li>
                             <b><li>Leon</b>:  Webdesign</li>
                         </ul>
                     </div>
                     <div class="column">
-                        <h4>Botschafter</h4>
+                        <h4>Ambassadors</h4>
                         <ul>
                             <li>Aachen: <a href="mailto:Luisa@jugendrettet.org">Luisa</a></li>
                             <li>Allgäu: <a href="mailto:Lioba@jugendrettet.org">Lioba</a></li>
@@ -137,9 +137,9 @@
                             <li>Heilbronn: <a href="mailto:Jon@jugendrettet.org">Jon</a></li>
                             <li>Kiel: <a href="mailto:Matthis@jugendrettet.org">Matthis</a></li>
                             <li>Koblenz: <a href="mailto:Alexw@jugendrettet.org">Alex</a></li>
-                            <li>Köln: <a href="mailto:Carlo@jugendrettet.org">Carlo</a></li>
+                            <li>Cologne: <a href="mailto:Carlo@jugendrettet.org">Carlo</a></li>
                             <li>Münster: <a href="mailto:Jana@jugendrettet.org">Jana</a></li>
-                            <li>Nürnberg: <a href="mailto:Johanna@jugendrettet.org">Johanna</a></li>
+                            <li>Nuremberg: <a href="mailto:Johanna@jugendrettet.org">Johanna</a></li>
                             <li>Paderborn: <a href="mailto:Wiebke@jugendrettet.org">Wiebke</a></li>
                             <li>Paris: <a href="mailto:Patrick@jugendrettet.org">Patrick</a></li>
                             <li>Potsdam: <a href="mailto:Alex@jugendrettet.org">Alex</a></li>
@@ -155,7 +155,7 @@
                         <h4>Gesichter</h4>
                     </div>-->
                     <div class="column">
-                        <h4>Unterstützer</h4>
+                        <h4>Supporters</h4>
                         <!--<a href="http://www.jugendpresse.de/">-->
                         <img src="graphics/jpd.svg" alt="JPD" style="background-color:white;width:100%;padding:5px">
                         <span>Jugendpresse.de</span>
@@ -171,7 +171,7 @@
                         <span>netzwerk-selbsthilfe.de</span>
                         <!--</a>-->
                         <br><br>
-                        <p><u>Hinweis in eigener Sache:</u> Auf eine Verlinkung zu unseren Förderern und Unterstützern müssen wir leider verzichten, da dies (aus gesetzlicher Sicht) eine steuerlich wirksame Gegenleistung darstellt. Dadurch würde aus einer Spende eine Sponsoringleistung, für die wir Steuern entrichten müssten. Wir bitten herzlich um Verständnis.</p>
+                        <p><u>Note:</u> We have to renounce linking our promoters and supporters, as this would - by law - constitute a tax effective service in return. This would change a donation into a sponsoring performance, for which we would be taxed. We ask for your comprehension.</p>
                     </div>
                 </div>
 
