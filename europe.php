@@ -122,6 +122,11 @@
                             <span class="event-title">Offenes Treffen Kiel</span>
                         </a>
 
+                        <a href="events?date=11-02-2016" class="event-container">
+                            <span class="event-date">Donnerstag, 11. Februar 2016</span>
+                            <span class="event-title">Gedenken an die Todesopfer während der Flucht 2015 in Bonn</span>
+                        </a>
+
                     </div>
                 </div>
             </div>
