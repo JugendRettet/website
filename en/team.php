@@ -142,6 +142,7 @@
                             <li>Nuremberg: <a href="mailto:Johanna@jugendrettet.org">Johanna</a></li>
                             <li>Paderborn: <a href="mailto:Wiebke@jugendrettet.org">Wiebke</a></li>
                             <li>Paris: <a href="mailto:Patrick@jugendrettet.org">Patrick</a></li>
+                            <li>Potsdam: <a href="mailto:Christoph@jugendrettet.org">Christoph</a></li>
                             <li>Potsdam: <a href="mailto:Alex@jugendrettet.org">Alex</a></li>
                             <li>Reutlingen: <a href="mailto:Fatih@jugendrettet.org">Fatih</a></li>
                             <li>Stuttgart: <a href="mailto:Harun@jugendrettet.org">Harun</a></li>
@@ -157,17 +158,17 @@
                     <div class="column">
                         <h4>Supporters</h4>
                         <!--<a href="http://www.jugendpresse.de/">-->
-                        <img src="graphics/jpd.svg" alt="JPD" style="background-color:white;width:100%;padding:5px">
+                        <img src="http://jugendrettet.org/graphics/jpd.svg" alt="JPD" style="background-color:white;width:100%;padding:5px">
                         <span>Jugendpresse.de</span>
                         <!--</a>-->
                         <!--<a href="http://www.santinis.de/"> -->
-                        <img src="graphics/Santini-Logo sw.svg" alt="Santini" style="background-color:white;width:100%;margin-top:20px;">
+                        <img src="http://jugendrettet.org/graphics/Santini-Logo sw.svg" alt="Santini" style="background-color:white;width:100%;margin-top:20px;">
                         <span>Santinis.de</span>
 
-                        <img src="graphics/Logo_Print Production_2c.svg" alt="Print Production" style="background-color:white;width:100%;margin-top:20px;padding:5px">
+                        <img src="http://jugendrettet.org/graphics/Logo_Print Production_2c.svg" alt="Print Production" style="background-color:white;width:100%;margin-top:20px;padding:5px">
                         <span>printproduction.de</span>
 
-                        <img src="graphics/nwsh.png" alt="Netzwerk Selbsthilfe" style="background-color:white;width:100%;margin-top:20px;padding:5px">
+                        <img src="http://jugendrettet.org/graphics/nwsh.png" alt="Netzwerk Selbsthilfe" style="background-color:white;width:100%;margin-top:20px;padding:5px">
                         <span>netzwerk-selbsthilfe.de</span>
                         <!--</a>-->
                         <br><br>
@@ -184,8 +185,8 @@
                                 <li><a class="peek" id="kontakt">Contact</a></li>
                                 <li><a href="impressum">Legal Notice</a></li>
                                 <li class="br"></li>
-                                <li><a href="http://en.jugendrettet.org/news">English</a></li>
-                                <li><a href="http://jugendrettet.org/news">Deutsch</a></li>
+                                <li><a href="http://en.jugendrettet.org/team">English</a></li>
+                                <li><a href="http://jugendrettet.org/team">Deutsch</a></li>
                             </ul> 
                         </nav>
                     </footer>

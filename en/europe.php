@@ -57,7 +57,7 @@
                     <ul class="hidden">
                         <li><a href="news">News</a></li>
                         <li><a href="schiff">The Ship</a></li>
-                        <!--<li><a href="team">Team</a></li>-->
+                        <li><a href="team">Team</a></li>
                         <li><a href="aendern">Rescue</a></li>
                         <li><a href="spenden">Donate</a></li>
                         <li><a href="europe" class="indicator">Jugend Rettet <span class="lowercase">europe</span></a></li>
@@ -81,8 +81,8 @@
                     <div class="column">
                         <h4><img class="icon" src="http://jugendrettet.org/graphics/eve.svg">Events</h4>
                         <p>Here you may find the schedules for the next meetings of Jugend Rettet europe and further education.</p><br>
-
-<!--                        <a href="events?date=26-11-2015" class="event-container">
+                        <!--
+                        <a href="events?date=26-11-2015" class="event-container">
                             <span class="event-date">Thursday, 26th November 2015</span>
                             <span class="event-title">Open Meeting - Trier</span>
                         </a>
@@ -106,12 +106,11 @@
                             <span class="event-date">Saturday, 9th January 2016</span>
                             <span class="event-title">Party for the ship: Jugend Rettet in 'Schreina'</span>
                         </a>
--->
 
                         <a href="events?date=14-01-2016" class="event-container">
                             <span class="event-date">Thursday, 14th January 2016</span>
                             <span class="event-title">'Leuchtfeuerworte' - support slam for Jugend Rettet e.V.</span>
-                        </a>
+                        </a> -->
 
                         <a href="events?date=19-01-2016" class="event-container">
                             <span class="event-date">Tuesday, 19th January 2016</span>

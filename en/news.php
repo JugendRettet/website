@@ -66,7 +66,7 @@
                     <ul class="hidden">
                         <li><a href="news" class="indicator">News</a></li>
                         <li><a href="schiff">The Ship</a></li>
-                        <!--<li><a href="team">Team</a></li>-->
+                        <li><a href="team">Team</a></li>
                         <li><a href="aendern">Rescue</a></li>
                         <li><a href="spenden">Donate</a></li>
                         <li><a href="europe">Jugend Rettet <span class="lowercase">europe</span></a></li>
@@ -125,7 +125,7 @@
                       </div><br>
                       <a class="faq" id="36"><b>December 15th</b> Guests at the university radio Aachen</a>
                       <div class="faq-klappe" id="36-klappe">
-                          <p>This morning you could hear our ambassador from Aachen at the local universitys radio<a href="http://www.hochschulradio-aachen.de/">Hochschulradio Aachen</a></p>
+                          <p>This morning you could hear our ambassador from Aachen at the local universitys radio <a href="http://www.hochschulradio-aachen.de/">Hochschulradio Aachen</a></p>
                           <a href="http://jugendrettet.org/images/radioaachen.jpg" target="_blank"><img class="news" src= 'http://jugendrettet.org/images/radioaachen.jpg'></img></a>
                       </div><br>
                       <a class="faq" id="35"><b>December 14th</b> Open meeting in Bonn</a>
