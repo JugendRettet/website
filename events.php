@@ -354,6 +354,27 @@ Botschafter des Vereins werden auch vor Ort über das Projekt informieren und de
                         </div><br>
                     </div>
 
+                    <div class="date-container" id="11-02-2016">
+                        <h4>Gedenken an die Todesopfer während der Flucht 2015 in Bonn</h4>
+                        <br>
+                        <p>
+                            3500 Menschen sind 2015 bei dem Versuch, das Mittelmeer zu überqueren ums Leben gekommen. Trotzdem gibt es kein staatliches Seenotrettungsprogramm der EU. Wir folgen dem Ideal, dass jeder Mensch die Rettung aus Seenot verdient und sehen wir uns dadurch in der Pflicht, die Rettung zu übernehmen. Aus diesem Grund sammeln wir Spenden für den Erwerb eines Schiffes, mit diesem wir ab Juni 2016 retten werden. 
+                            Am 11. Februar 2016 gedenken wir der Opfer, die den gefährlichen Weg über das Mittelmeer 2015 leider nicht geschafft haben.
+                        </p>
+                        <br>
+                        <p>
+                            Kommt um 18 Uhr vor die EU-Kommission und zeigt, dass ihr, wie wir, mit dem Fehlen eines EU-Rettungsprogramms nicht einverstanden seid.
+                        </p>
+                        <br>
+                        <div class="event-container">
+                            <div class="event-date">Donnerstag, 11. Februar 2016</div>
+                            <div class="event-icon"><img src="http://jugendrettet.org/graphics/location.png" width="14px" alt="Location"></div>
+                            <div class="event-title"><a href="https://www.google.de/maps/place/Bertha-von-Suttner-Platz+4,+53111+Bonn/@50.7371804,7.0997691,17z/data=!3m1!4b1!4m2!3m1!1s0x47bee1a0ec454993:0xa109749970c0e004" target="_blank">EU-Kommission<br>Bertha-von-Suttner-Platz 2-4<br> 53111 Bonn</a></div><br>
+                            <div class="event-icon"><img src="http://jugendrettet.org/graphics/time.png" height="14px" alt="Time"></div>
+                            <div class="event-title">18:00 Uhr</div>
+                        </div><br>
+                    </div>
+
             </div>
             <div id="content">
                 <footer>
