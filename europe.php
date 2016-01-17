@@ -115,12 +115,12 @@
                         <a href="events?date=14-01-2016" class="event-container">
                             <span class="event-date">Donnerstag, 14. Januar 2016</span>
                             <span class="event-title">Leuchtfeuerworte - Supportslam für Jugend Rettet e.V.</span>
-                        </a> -->
+                        </a>
 
                         <a href="events?date=19-01-2016" class="event-container">
                             <span class="event-date">Dienstag, 19. Januar 2016</span>
                             <span class="event-title">Offenes Treffen Kiel</span>
-                        </a>
+                        </a> -->
 
                         <a href="events?date=11-02-2016" class="event-container">
                             <span class="event-date">Donnerstag, 11. Februar 2016</span>
