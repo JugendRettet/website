@@ -262,8 +262,8 @@
                       <!-- <span id="aendern-field">!</span><br><br> -->
                       <br><br>
                       <div id="spendentext" style="display:none">
-                        <p id="text-schiffsteil-prozent">Mit deinen <b class="EUR"></b> <b>€</b> kämen <b id="prozent"></b> <b>%</b> zum ersten Schiffsteil - der Schiffsschraube - dazu.</p>
-                        <p id="text-schiffsteil-komplett">Mit deinen <b class="EUR"></b> <b>€</b> wäre das erste Schiffsteil - die Schiffsschraube - komplett!</p>
+                        <p id="text-schiffsteil-prozent">Mit deinen <b class="EUR"></b> <b>€</b> kämen <b id="prozent"></b> <b>%</b> zum zweiten Schiffsteil - Crewräume und Maschinenraum - dazu.</p>
+                        <p id="text-schiffsteil-komplett">Mit deinen <b class="EUR"></b> <b>€</b> wäre das zweite Schiffsteil - Crewräume und Maschinenraum - komplett!</p>
                         <p id="text-schiffsteil-mehr">Sogar noch mehr:</p>
 
                         <p id="text-schiff-meter">Insgesamt wären damit <b id="meter"></b> <b id="unitmeter">m</b> des Schiffs finanziert. Das sind <b id="qmeter"></b> <b id="unitqmeter">m²</b>, die Platz für die Seenotrettung bieten.</p>

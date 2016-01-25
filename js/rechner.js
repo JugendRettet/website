@@ -2,7 +2,7 @@ function rechnen(f){
 
 	//var mq = window.matchMedia( "(min-width: 750px)" )
 
-	var teilkosten = 16875
+	var teilkosten = 59063
 	var kosten = 270000
 	var stand = 17064
 

@@ -263,8 +263,8 @@
                       <!-- <span id="aendern-field">!</span><br><br> -->
                       <br><br>
                       <div id="spendentext" style="display:none">
-                        <p id="text-schiffsteil-prozent">With your <b class="EUR"></b> <b>€</b> a total of <b id="prozent"></b> <b>%</b> would be added to the first part of the ship – the ship’s propeller.</p>
-                        <p id="text-schiffsteil-komplett">With your <b class="EUR"></b> <b>€</b> the first part of the ship – the ship’s propeller – would be completed!</p>
+                        <p id="text-schiffsteil-prozent">With your <b class="EUR"></b> <b>€</b> a total of <b id="prozent"></b> <b>%</b> would be added to the second part of the ship – crew cabin and engine room.</p>
+                        <p id="text-schiffsteil-komplett">With your <b class="EUR"></b> <b>€</b> the second part of the ship – crew cabin and engine room – would be completed!</p>
                         <p id="text-schiffsteil-mehr">And even more:</p>
 
                         <p id="text-schiff-meter">Summed up, with this money <b id="meter"></b> <b id="unitmeter">m</b> of the ship are funded. That's <b id="qmeter"></b> <b id="unitqmeter">m²</b> for the sea rescue.</p>
