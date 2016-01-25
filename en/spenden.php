@@ -244,7 +244,7 @@
                         </div>
                         <div style="position:absolute;width:300px">
                           <!--<span id="0" class="unterteilungen">0m</span>-->
-                          <span id="stand" class="spendenstand schiff" style="white-space: nowrap;position:absolute;left: calc(-15px + 300px*17064/270000)">17 Tsd. €</span>
+                          <span id="stand" class="spendenstand schiff" style="white-space: nowrap;position:absolute;left: calc(-15px + 300px*17064/270000)">17.1 Th. €</span>
                         </div>
 
                       </div><br>
