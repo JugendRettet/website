@@ -69,8 +69,8 @@
                     <h3>Events</h3><br>
                     <div class="date-container" id="02-10-2015">
                         <h4>Invitation to the 1st Open Meeting</h4>
-                        <p><i>Jugend Rettet</i> ist eine frischgegründete Organisation von jungen Erwachsenen für junge Erwachsene. Wir sammeln Gelder für den Erwerb eines Schiffes zur privaten Seenotrettung auf dem Mittelmeer. Wir werden Menschen in Seenot lokalisieren, sie aufnehmen und sicher in den nächstgelegenen Hafen bringen. Unser Ziel ist klar: <b>weniger Tote im Mittelmeer</b>. Gleichzeitig werden wir uns im asylpolitischen Diskurs klar positionieren und fordern die EU zu einem Ende der Gleichgültigkeit gegenüber dem Sterben auf dem Mittelmeer auf.<br>
-Aus diesem Anlass laden wir alle Interessierten zu einem offenen Treffen ein, um unsere Organisation und unser Vorhaben vorzustellen, sowie neue Unterstützer zu gewinnen.</p><br>
+                        <p><i>Jugend Rettet</i> is a recently founded organization from young adults for young adults. We collect funds to buy a ship for private sea rescue on the Meditteranean Sea. We will localize people in sea distress, pick them up and bring them to the nearest harbour safely. Our objective is clear: <b>prevent death on the Meditteranean!</b> At the same time we will stand for a distinct position in the asylum discourse. We demand the EU to end its indifference towards the death on the Meditteranean.<br>
+On this occasion we invite everyone interested to our open meeting, to introduce our organization and cause, as well as to gain new supporters.</p><br>
                         <div class="event-container">
                             <div class="event-date">Friday, October 1st, 2015</div>
                             <div class="event-icon"><img src="http://jugendrettet.org/graphics/location.svg" width="14px" alt="Location"></div>
@@ -79,16 +79,16 @@ Aus diesem Anlass laden wir alle Interessierten zu einem offenen Treffen ein, um
                             <div class="event-title">6.00 pm - 10.00 pm</div>
                         </div><br>
                         <p><b>Ablauf</b></p><br>
-                        <p>6.00 pm - 7.00 pm<br>Vorstellung der Gründer und des Projekts</p><br>
-                        <p>7.00 pm - 8.00 pm<br>Aktueller Arbeitsstand und nächste Schritte</p><br>
-                        <p>8.00 pm - 9.00 pm<br>Suche nach neuen Unterstützern</p><br>
-                        <p>9.00 pm - 10.00 pm<br>Frage- und Diskussionsrunde</p>
+                        <p>6.00 pm - 7.00 pm<br>Introduction of founders and project</p><br>
+                        <p>7.00 pm - 8.00 pm<br>Current state of work and following steps</p><br>
+                        <p>8.00 pm - 9.00 pm<br>Quest for new supporters</p><br>
+                        <p>9.00 pm - 10.00 pm<br>Questions and discussions</p>
                     </div>
                     <div class="date-container" id="14-10-2015">
                         <h4>Invitation to the 2nd Open Meeting</h4><br>
                         <!--
-                        <p><i>Jugend Rettet</i> ist eine frischgegründete Organisation von jungen Erwachsenen für junge Erwachsene. Wir sammeln Gelder für den Erwerb eines Schiffes zur privaten Seenotrettung auf dem Mittelmeer. Wir werden Menschen in Seenot lokalisieren, sie aufnehmen und sicher in den nächstgelegenen Hafen bringen. Unser Ziel ist klar: <b>weniger Tote im Mittelmeer</b>. Gleichzeitig werden wir uns im asylpolitischen Diskurs klar positionieren und fordern die EU zu einem Ende der Gleichgültigkeit gegenüber dem Sterben auf dem Mittelmeer auf.<br>
-Aus diesem Anlass laden wir alle Interessierten zu einem offenen Treffen ein, um unsere Organisation und unser Vorhaben vorzustellen, sowie neue Unterstützer zu gewinnen.</p><br>
+                        <p><i>Jugend Rettet</i> ist eine frischgegründete Organisation von jungen Erwachsenen für junge Erwachsene. Wir sammeln Gelder für den Erwerb eines Schiffes zur privaten Seenotrettung auf dem Mittelmeer. Wir werden Menschen in Seenot lokalisieren, sie aufnehmen und sicher in den nächstgelegenen Hafen bringen. Unser Ziel ist klar: <b>weniger Tote im Mittelmeer</b>. Gleichzeitig werden wir uns im asylpolitischen Diskurs klar positionieren und fordern die EU zu einem Ende der Gleichgültigkeit gegenüber dem Sterben auf dem Mittelmeer auf.<br>
+Aus diesem Anlass laden wir alle Interessierten zu einem offenen Treffen ein, um unsere Organisation und unser Vorhaben vorzustellen, sowie neue Unterstützer zu gewinnen.</p><br>
                         -->
                         <div class="event-container">
                             <div class="event-date">Wednesday, 14th October 2015</div>
@@ -99,17 +99,17 @@ Aus diesem Anlass laden wir alle Interessierten zu einem offenen Treffen ein, um
                         </div><br>
                         <!--
                         <p><b>Ablauf</b></p><br>
-                        <p>18:00 - 19:00 Uhr<br>Vorstellung der Gründer und des Projekts</p><br>
-                        <p>19:00 - 20:00 Uhr<br>Aktueller Arbeitsstand und nächste Schritte</p><br>
-                        <p>20:00 - 21:00 Uhr<br>Suche nach neuen Unterstützern</p><br>
+                        <p>18:00 - 19:00 Uhr<br>Vorstellung der Gründer und des Projekts</p><br>
+                        <p>19:00 - 20:00 Uhr<br>Aktueller Arbeitsstand und nächste Schritte</p><br>
+                        <p>20:00 - 21:00 Uhr<br>Suche nach neuen Unterstützern</p><br>
                         <p>21:00 - 22:00 Uhr<br>Frage- und Diskussionsrunde</p>
                         -->
                     </div>
                     <div class="date-container" id="09-11-2015">
                         <h4>Invitation to the 3rd Open Meeting</h4><br>
                         <!--
-                        <p><i>Jugend Rettet</i> ist eine frischgegründete Organisation von jungen Erwachsenen für junge Erwachsene. Wir sammeln Gelder für den Erwerb eines Schiffes zur privaten Seenotrettung auf dem Mittelmeer. Wir werden Menschen in Seenot lokalisieren, sie aufnehmen und sicher in den nächstgelegenen Hafen bringen. Unser Ziel ist klar: <b>weniger Tote im Mittelmeer</b>. Gleichzeitig werden wir uns im asylpolitischen Diskurs klar positionieren und fordern die EU zu einem Ende der Gleichgültigkeit gegenüber dem Sterben auf dem Mittelmeer auf.<br>
-Aus diesem Anlass laden wir alle Interessierten zu einem offenen Treffen ein, um unsere Organisation und unser Vorhaben vorzustellen, sowie neue Unterstützer zu gewinnen.<br><br>
+                        <p><i>Jugend Rettet</i> ist eine frischgegründete Organisation von jungen Erwachsenen für junge Erwachsene. Wir sammeln Gelder für den Erwerb eines Schiffes zur privaten Seenotrettung auf dem Mittelmeer. Wir werden Menschen in Seenot lokalisieren, sie aufnehmen und sicher in den nächstgelegenen Hafen bringen. Unser Ziel ist klar: <b>weniger Tote im Mittelmeer</b>. Gleichzeitig werden wir uns im asylpolitischen Diskurs klar positionieren und fordern die EU zu einem Ende der Gleichgültigkeit gegenüber dem Sterben auf dem Mittelmeer auf.<br>
+Aus diesem Anlass laden wir alle Interessierten zu einem offenen Treffen ein, um unsere Organisation und unser Vorhaben vorzustellen, sowie neue Unterstützer zu gewinnen.<br><br>
                             Am 9. November findet unser drittes offenes Treffen statt. Wir freuen uns sehr, das erste Mal in Köln zu sein.<br><br>
 Wir werden das Projekt, das Team und unseren aktuellen Arbeitsstand vorstellen. Besonders wichtig ist die Suche nach Kölner Unterstützer_innen und Botschafter_innen.<br><br>
 
