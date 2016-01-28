@@ -76,12 +76,12 @@
                             <li>Captain</li>
                             <li>Navigator</li>
                         </ul>
-                        <p>(A1-Patent)</p>
+                        <p>(A1 commission)</p>
                         <br>
                         <ul style="list-style: inherit;">
-                            <li>2 Machinist</li>
+                            <li>2 Machinists</li>
                             <li>1 Radio Operator</li>
-                            <li>2-3 Deckhands (First Aid course, english/french language skills)</li>
+                            <li>2-3 Deckhands (first aid course, english/french language skills)</li>
                             <li>1 Safety Advisor</li>
                             <li>2 Medical Doctors</li>
                         </ul>
