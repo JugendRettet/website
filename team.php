@@ -105,7 +105,7 @@
                             <b><li>Sahra</b>:  Organisation, Konzeption, Öffentlichkeit, Gestaltung</li>
                             <b><li>Sonja</b>:  Organisation, Recht, Finanzen</li>
                             <b><li>Jakob</b>:  Konzeption, Öffentlichkeit, Recht, Finanzen</li>
-                            <b><li>Pauline</b>:  Öffentlichkeit</li>
+                            <b><li>Pauline</b>:  Öffentlichkeit, Presse</li>
                             <b><li>Johanna</b>:  Öffentlichkeit, Gestaltung</li>
                             <b><li>Alex</b>:  IT, Gestaltung</li>
                             <b><li>Matthias</b>:  Finanzen, Recherche</li>

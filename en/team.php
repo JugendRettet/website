@@ -106,7 +106,7 @@
                             <b><li>Sahra</b>:  Organisation, Concept, Public Relations, Layout</li>
                             <b><li>Sonja</b>:  Organisation, Law, Finance</li>
                             <b><li>Jakob</b>:  Concept, Public Relations, Law, Finance</li>
-                            <b><li>Pauline</b>:  Public Relations</li>
+                            <b><li>Pauline</b>:  Public Relations, Press</li>
                             <b><li>Johanna</b>:  Public Relations, Layout</li>
                             <b><li>Alex</b>:  IT, Layout</li>
                             <b><li>Matthias</b>:  Finance, Research</li>
