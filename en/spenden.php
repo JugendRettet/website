@@ -144,7 +144,7 @@
                       <p>We revise our financial plan and keep you up to date!</p>
                     </div>
                     <h4>RAISED FUNDS</h4>
-                    <p style="font-size:xx-large">17.600 €</p>
+                    <p style="font-size:xx-large">19.050 €</p>
                   </div>
                 </div>
             </div>

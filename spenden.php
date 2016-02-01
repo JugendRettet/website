@@ -144,7 +144,7 @@
                       <p>Wir überarbeiten unsere finanzielle Planung und teilen euch die Ergebnisse bald mit!</p>
                     </div>
                     <h4>SPENDENSTAND</h4>
-                    <p style="font-size:xx-large">17.600 €</p>
+                    <p style="font-size:xx-large">19.050 €</p>
                   </div>
             </div>
             <div id="content">
