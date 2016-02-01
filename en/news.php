@@ -236,6 +236,7 @@
                         <a class="faq" id="15"><b>November 1st</b> Nowkoelln Flowmarkt</a>
                         <div class="faq-klappe" id="15-klappe">
                             <p>Today we presented our project at the Nowkoelln Flowmarkt! With your support we were able to collect 600€, which are fully invested into our ship.</p>
+                            <a href="http://jugendrettet.org/images/flowmarkt.jpg" target="_blank"><img class="news" src= 'http://jugendrettet.org/images/flowmarkt.jpg'></img></a>
                         </div><br>
                         <a class="faq" id="14"><b>October 31st</b> Visit from<i>Jugend Rettet</i> our consultants to the dutch coast</a>
                         <div class="faq-klappe" id="14-klappe">
