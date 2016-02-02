@@ -44,7 +44,7 @@
 
         <div class="fullscreen-bg">
             <video id="waves-video" class="fullscreen-bg__video" loop="true" autoplay="true" preload="auto">
-                <source src="media/waves.mp4">
+                <source src="videos/waves.mp4">
                 <img src="http://jugendrettet.org/images/error.jpg"/>
             </video>
         </div>
