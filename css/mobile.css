@@ -136,7 +136,7 @@ nav ul.hidden li.scale {
 
 /* Simulation */
 
-#ui, #simulator, #wellen {
+#ui, #simulator, #wellen, .fullscreen-bg {
     display: none;
 }
 #sim-alt {
@@ -389,7 +389,7 @@ nav ul.hidden li.scale {
 
 /* Simulation */
 
-#ui, #simulator, #wellen {
+#ui, #simulator, #wellen, .fullscreen-bg {
     display: none;
 }
 #sim-alt {
