@@ -196,7 +196,6 @@ nav ul.hidden li.scale {
 }
 #union {
     height: calc(100vh - 40px);
-    width: 80%;
 	font-size: 30px;
 	transition: 200ms;
 }
