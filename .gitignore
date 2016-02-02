@@ -6,3 +6,5 @@ videos/*
 files/*
 
 fonts/*
+
+.DS_Store
