@@ -19,10 +19,10 @@
         <link rel="shortcut icon" type="image/x-icon" href="http://jugendrettet.org/graphics/jr.ico" />
         <link rel="mask-icon" href="http://www.jugendrettet.org/graphics/jr-mask.svg" color="rgb(40,100,130)">
         <link rel="apple-touch-icon" href="http://jugendrettet.org/graphics/apple-touch-icon.png"/>
-        <link rel="stylesheet" href="css/waves.css" type="text/css" />
+        <link rel="stylesheet" href="http://jugendrettet.org/css/waves.1.css" type="text/css" />
 
         <link rel="stylesheet" href="http://jugendrettet.org/css/general.css" type="text/css" />
-        <link rel="stylesheet" href="css/main.css" type="text/css" />
+        <link rel="stylesheet" href="http://jugendrettet.org/css/main.css" type="text/css" />
         <link rel="stylesheet" href="http://jugendrettet.org/css/desktop.css" media="screen and (min-device-width: 851px)" type="text/css" />
         <link rel="stylesheet" href="http://jugendrettet.org/css/mobile.css" media="screen and (max-device-width: 850px)" type="text/css" />
 
@@ -38,23 +38,23 @@
 
     <body class="start">
 
-    <div id="sim-alt"><img src="http://jugendrettet.org/images/error.jpg" alt="Wave Simulation"></div>
+        <div id="sim-alt"><img src="http://jugendrettet.org/images/error.jpg" alt="Wave Simulation"></div>
 
-	<div id="wrap" class="start">
+    	<div id="wrap" class="start">
 
-        <div class="fullscreen-bg">
-            <video id="waves-video" class="fullscreen-bg__video" loop="true" autoplay="true" preload="auto">
-                <source src="videos/waves.mp4">
-                <img src="http://jugendrettet.org/images/error.jpg"/>
-            </video>
-        </div>
+            <div class="fullscreen-bg">
+                <video id="waves-video" class="fullscreen-bg__video" loop="true" autoplay="true" preload="auto">
+                    <source src="http://jugendrettet.org/videos/waves.mp4">
+                    <img src="http://jugendrettet.org/images/error.jpg"/>
+                </video>
+            </div>
 
-        <header>
-            <a id="logo-wrap" href="index">
-                <img id="logo" src="http://jugendrettet.org/graphics/logo.svg" alt="Jugent Rettet">
-                <div id="title">Jugend <b>Rettet</b></div>
-            </a>
-        </header>
+            <header>
+                <a id="logo-wrap" href="index">
+                    <img id="logo" src="http://jugendrettet.org/graphics/logo.svg" alt="Jugent Rettet">
+                    <div id="title">Jugend <b>Rettet</b></div>
+                </a>
+            </header>
             <div id="union">
                 <p>Jeder Mensch<br>verdient die Rettung<br>aus Seenot.<hr class="wide">
                     <a id="aendern-btn" href="aendern">Ich rette mit!</a>
@@ -71,7 +71,6 @@
                     </nav>
                 </footer>
             </div>
-
         </div>
 
         <!-- Scripts -->
@@ -90,6 +89,5 @@
         <script src="http://jugendrettet.org/js/shared.js"></script>
         <script src="http://jugendrettet.org/js/main.js"></script>
         <script src="http://jugendrettet.org/js/peekfield.js"></script>
-    </div>
     </body>
 </html>

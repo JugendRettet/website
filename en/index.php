@@ -19,7 +19,7 @@
         <link rel="shortcut icon" type="image/x-icon" href="http://jugendrettet.org/graphics/jr.ico" />
         <link rel="mask-icon" href="http://www.jugendrettet.org/graphics/jr-mask.svg" color="rgb(40,100,130)">
         <link rel="apple-touch-icon" href="http://jugendrettet.org/graphics/apple-touch-icon.png"/>
-        <link rel="stylesheet" href="http://jugendrettet.org/css/waves.css" type="text/css" />
+        <link rel="stylesheet" href="http://jugendrettet.org/css/waves.1.css" type="text/css" />
 
         <link rel="stylesheet" href="http://jugendrettet.org/css/general.css" type="text/css" />
         <link rel="stylesheet" href="http://jugendrettet.org/css/main.css" type="text/css" />
@@ -35,15 +35,24 @@
     </head>
 
     <body class="start">
-    <div id="error"><img src="http://jugendrettet.org/images/error.jpg" alt=""></div>
-    <div id="sim-alt"><img src="http://jugendrettet.org/images/error.jpg" alt="Wave Simulation"></div>
-	<div id="wrap" class="start">
-        <header>
-            <a id="logo-wrap" href="index">
-                <img id="logo" src="http://jugendrettet.org/graphics/logo.svg" alt="Jugent Rettet">
-                <div id="title">Jugend <b>Rettet</b></div>
-            </a>
-        </header>
+
+        <div id="sim-alt"><img src="http://jugendrettet.org/images/error.jpg" alt="Wave Simulation"></div>
+
+        <div id="wrap" class="start">
+
+            <div class="fullscreen-bg">
+                <video id="waves-video" class="fullscreen-bg__video" loop="true" autoplay="true" preload="auto">
+                    <source src="http://jugendrettet.org/videos/waves.mp4">
+                    <img src="http://jugendrettet.org/images/error.jpg"/>
+                </video>
+            </div>
+
+            <header>
+                <a id="logo-wrap" href="index">
+                    <img id="logo" src="http://jugendrettet.org/graphics/logo.svg" alt="Jugent Rettet">
+                    <div id="title">Jugend <b>Rettet</b></div>
+                </a>
+            </header>
             <div id="union">
                 <p class="cushycms">Everyone<br>in maritime emergency<br>deserves rescue.<hr class="wide">
                     <a id="aendern-btn" href="aendern">I want to rescue too!</a>
@@ -60,21 +69,6 @@
                     </nav>
                 </footer>
             </div>
-        <div id="wellen">
-        <div id="ui" style="height: 100px;">
-            <div id="camera">
-                <canvas id="profile" width="350" height="105"></canvas>
-                <div id="wind">
-                    <span id="wind-speed"></span>
-                </div>
-                <div id="size">
-                    <span id="size-value"></span>
-                </div>
-                <div id="choppiness"></div>
-            </div>
-        </div>
-        <canvas id="simulator"></canvas>
-        </div>
 
         <!-- Scripts -->
         <script type="application/javascript">
@@ -90,11 +84,7 @@
             });
         </script>
         <script src="http://jugendrettet.org/js/shared.js"></script>
-        <script src="http://jugendrettet.org/js/simulation.js"></script>
-        <script src="http://jugendrettet.org/js/ui.js"></script>
-        <script src="http://jugendrettet.org/js/waves.js"></script>
         <script src="http://jugendrettet.org/js/main.js"></script>
         <script src="http://jugendrettet.org/js/peekfield.js"></script>
-    </div>
     </body>
 </html>
