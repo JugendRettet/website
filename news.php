@@ -126,7 +126,7 @@
                       </div><br>
                       <a class="faq" id="46"><b>10. Januar</b> Spendenstand</a>
                       <div class="faq-klappe" id="46-klappe">
-                          <p>Wir sagen DANKE zu 16.500€! Es gilt wie immer: teilt den Beitrag und erzählt euren Freunden und Bekannten von uns. Jede Spende zählt. Danke an euch alle für die tolle Unterstützung! <br> <a href="http://jugendrettet.org/spenden">spenden</a></p>
+                          <p>Wir sagen DANKE zu 16.500€! Es gilt wie immer: erzählt euren Freunden und Bekannten von uns! Jede Spende zählt. Danke an euch alle für die tolle Unterstützung! <br> <a href="http://jugendrettet.org/spenden">spenden</a></p>
                           <br>
                           <a href="http://jugendrettet.org/images/16500.jpg" target="_blank"><img class="news" src= 'http://jugendrettet.org/images/16500.jpg'></img></a>
                       </div><br>

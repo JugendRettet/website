@@ -105,7 +105,7 @@
                       </div><br>
                       <a class="faq" id="46"><b>January 10th</b> Donation status</a>
                       <div class="faq-klappe" id="46-klappe">
-                          <p>Thank you for 16,500€! As always: please share this posting and tell your friends about us. Every donation counts. Thank you all for your great support!  <br> <a href="http://jugendrettet.org/spenden">donate</a></p>
+                          <p>Thank you for 16,500€! As always: tell your friends about us! Every donation counts. Thank you all for your great support!  <br> <a href="http://jugendrettet.org/spenden">donate</a></p>
                           <br>
                           <a href="http://jugendrettet.org/images/16500.jpg" target="_blank"><img class="news" src= 'http://jugendrettet.org/images/16500.jpg'></img></a>
                       </div><br>
