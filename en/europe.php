@@ -110,12 +110,12 @@
                         <a href="events?date=14-01-2016" class="event-container">
                             <span class="event-date">Thursday, 14th January 2016</span>
                             <span class="event-title">'Leuchtfeuerworte' - support slam for Jugend Rettet e.V.</span>
-                        </a> -->
+                        </a>
 
                         <a href="events?date=19-01-2016" class="event-container">
                             <span class="event-date">Tuesday, 19th January 2016</span>
                             <span class="event-title">Invitation to open meeting in Kiel</span>
-                        </a>
+                        </a> -->
 
                         <a href="events?date=11-02-2016" class="event-container">
                             <span class="event-date">Thursday, 11th February 2016</span>

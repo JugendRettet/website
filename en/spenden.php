@@ -114,11 +114,11 @@
             <div class="popup-flat">
                 <div id=top>
                 </div>
-                <div class="triple">
+                <div class="double">
                     <h3>Donate</h3>
                     <p>People on the Meditarranean are dying right now. That’s why we need money to buy our ship and to start rescuing.</p>
                 </div>
-                <div class="container triple">
+                <div class="container double">
 
                   <div style="margin-right:10px"class="column">
                     <div style="padding-left:5px;padding-right:5px" id="spendenbox">
@@ -138,147 +138,13 @@
                       <p style="font-size:small">PayPal charges 1.5% + 0,35€ for each donation.</p>
                     </div>
                   </div>
-
-                  <div class="column" style="min-width:235px">
-                    <h4>Phases</h4>
-                    <p>Our timetable is set. From June on, we will save human lifes. The funding of our rescue mission will run in three phases. Trace here, how long it will take until our first rescue mission takes off.</p>
-                    <br>
-                    <div id="phase">
-                        <div class="ph-container" id="ph-eins">
-                            <div class="header">
-                                <span class="title">Phase 1</span><span class="percentage"><?php echo $value1;?>m / 32m</span>
-                                <hr id="ph-eins-progress"></hr>
-                            </div>
-                            <div class="content" id="ph-eins-content">
-                                <p>Until 15th of February 2016 we will collect the funds for the purchase of the ship. You can find further information on our ship <a href="schiff#wie">here</a>.
-
-                                Our ship is 32m (105ft) long. By now, <?php echo $value1;?>m are funded. Donate 10cm for yourself!</p>
-                                <br>
-                                <p>Accumulated cost for aquisition and transfer are <b>270.000 €</b>.</p>
-                            </div>
-                        </div>
-                        <div class="ph-container" id="ph-zwei">
-                            <div class="header">
-                                <span class="title">Phase 2</span><span class="percentage"><span style="color: red;">From 16th February 2016</span><!--<?php
-                                $phase2 = file_get_contents('donations/phase2.txt');
-                                echo round(100 / 240000 * $phase2);
-                                ?>%--></span>
-                                <hr id="ph-zwei-progress"></hr>
-                            </div>
-                            <div class="content" id="ph-zwei-content">
-                                <p>Phase 2 two will run until 31st of March.</p>
-                                <br>
-                                <p>For equipment and conversion of the ship for our needs, we will need <b>240.000 €</b>.</p>
-                            </div>
-                        </div>
-                        <div class="ph-container" id="ph-drei">
-                            <div class="header">
-                                <span class="title">Phase 3</span><span class="percentage"><span style="color: red;">From 1st April 2016</span><!--<?php
-                                $phase3 = file_get_contents('donations/phase3.txt');
-                                echo round(100 / 290000 * $phase3);
-                                ?>%--></span>
-                                <hr id="ph-drei-progress"></hr>
-                            </div>
-                            <div class="content" id="ph-drei-content">
-                                <p>In Phase 3 the running costs for our six-month rescue mission will be collected. The mission is set to take off in early summer.</p>
-                                <br>
-                                <p>A six-month rescue mission on the Mediterranean Sea will cost us about <b>290.000 €</b>.</p>
-                            </div>
-                        </div>
-                    </div><br>
-                </div>
-                <div class="column" style="min-width: 300px;">
-                  <h4>Phase 1 - Ship</h4>
-
-                    <div id="schiff-ani">
-                      <div class="schiff-klappe" id="1-klappe">
-                        <b>Ship's propeller</b>
-                          <p>In the rear of the ship are the propeller and a tender.</p>
-                      </div>
-                      <div class="schiff-klappe" id="2-klappe">
-                        <b>Crew cabin / engine room</b>
-                          <p>During our operation, our ship’s crew of 11 will live in the crew quarters. A small kitchen andsanitary installations also belong to the quarters.</p>
-                      </div>
-                      <div class="schiff-klappe" id="3-klappe">
-                        <b>Captains quarter / Bridge</b>
-                          <p>The quarter of our captain is in direct reach of the navigating bridge. Here, the captain and his surrogate, the helmsman, will steer the ship in four-hour shifts.</p>
-                      </div>
-                      <div class="schiff-klappe" id="4-klappe">
-                        <b>Medical quarters</b>
-                          <p>In front of the bridge, at deck’s height, is a room for medical supply. Typical symptoms on the Mediterranean Sea, like hypothermia, dehydration, itch or abrasion and lacerasion, will be treated on board by our doctor.</p>
-                      </div>
-                      <div class="schiff-klappe" id="5-klappe">
-                        <b>Deck with hydraulic crane</b>
-                          <p>The hydraulic crane lifts our tenders to the water. With those, we will get the people from their boats to our mothership. The space on deck is designated for the rescued people. Women, Men and families will be sheltered separately.</p>
-                      </div>
-                      <div class="schiff-klappe" id="6-klappe">
-                        <b>Deck</b>
-                          <p>A truck tarpaulin protects the rescued people from wind and weather. On deck will be space for approximately 90 people.</p>
-                      </div>
-                      <div class="schiff-klappe" id="7-klappe">
-                        <b>Storage for life vests / refrigerated hold for fare</b>
-                          <p>A refrigerated hold for provisions of crew and rescued as well as a storage for life vests is in this part of the ship.</p>
-                      </div>
-                      <div class="schiff-klappe" id="8-klappe">
-                        <b>Bow / fresh water tank</b>
-                          <p>In the bow of the ship are fresh water tanks to supply crew and rescued people.</p>
-                      </div>
-                      <br>
-                      <div id=schiff-container style="min-height:133px;width:300px;">
-                        <div id="schiff" style="padding:5px;position:absolute">
-                          <img src="http://jugendrettet.org/graphics/schiff-konturen-weiss.svg" alt="Das Schiff" style="width:300px;opacity:0.1">
-                        </div>
-                        <div class="blink balken" id="schiff-gespendet" style="background-color:#286482;padding:5px;position:absolute;overflow:hidden;-webkit-transition: width 2s;transition: width 2s;width:calc(300px*16500/270000)">
-                          <img src="http://jugendrettet.org/graphics/schiff-konturen-weiss.svg" alt="Das Schiff" style="width:300px" class="blink">
-                        </div>
-                        <div style="position:absolute;width:300px;">
-                          <!--<span id="0" class="unterteilungen">0m</span>-->
-                          <a id="1" class="unterteilungen schiff" style="position:absolute;left: calc(300px*2/32)">2m</a>
-                          <a id="2" class="unterteilungen schiff" style="position:absolute;left: calc(-5px + 300px*7/32)">7m</a>
-                          <a id="3" class="unterteilungen schiff" style="position:absolute;left: calc(-5px + 300px*10/32)">10m</a>
-                          <a id="4" class="unterteilungen schiff" style="position:absolute;left: calc(-5px + 300px*13/32)">12m</a>
-                          <a id="5" class="unterteilungen schiff" style="position:absolute;left: calc(-5px + 300px*19/32)">19m</a>
-                          <a id="6" class="unterteilungen schiff" style="position:absolute;left: calc(-15px + 300px*26/32)">26m</a>
-                          <a id="7" class="unterteilungen schiff" style="position:absolute;left: calc(-15px + 300px*29/32)">29m</a>
-                          <a id="8" class="unterteilungen schiff" style="position:absolute;left: calc(-15px + 300px)">32m</a>
-                        </div>
-                        <div style="position:absolute;width:300px">
-                          <!--<span id="0" class="unterteilungen">0m</span>-->
-                          <span id="stand" class="spendenstand schiff" style="white-space: nowrap;position:absolute;left: calc(-15px + 300px*16500/270000)">16.5 Tsd. €</span>
-                        </div>
-
-                      </div><br>
-                      <br>
-                      <p>Click on the meter marks, to see how the ship is divided.</p>
+                  <div class="column">
+                    <div style="background:#286482;padding:10px">
+                      <p>The ship trading sector has changed.</p>
+                      <p>We revise our financial plan and keep you up to date!</p>
                     </div>
-                    <br>
-                    <h4>Calculator</h4>
-                      <div id="rechner">
-                      <input type="Text" id="spendeinput" oninput="rechnen(this.form)"> €
-                      <!--
-                      <p>Die Menschen auf dem Mittelmeer sterben jetzt. Deshalb brauchen wir Geld, um unser Schiff zu kaufen und mit der Rettung zu beginnen. Wir dürfen keine Zeit verlieren. Werde jetzt Förderer.</p><br><br>
-                      <a id="aendern-btn" href="http://www.betterplace.org" target="_blank">Jetzt Spenden!</a><br><br>
-                      -->
-
-                      <!-- <span id="aendern-field">!</span><br><br> -->
-                      <br><br>
-                      <div id="spendentext" style="display:none">
-                        <p id="text-schiffsteil-prozent">With your <b class="EUR"></b> <b>€</b> a total of <b id="prozent"></b> <b>%</b> would be added to the first part of the ship – the ship’s propeller.</p>
-                        <p id="text-schiffsteil-komplett">With your <b class="EUR"></b> <b>€</b> the first part of the ship – the ship’s propeller – would be completed!</p>
-                        <p id="text-schiffsteil-mehr">And even more:</p>
-
-                        <p id="text-schiff-meter">Summed up, with this money <b id="meter"></b> <b id="unitmeter">m</b> of the ship are funded. That's <b id="qmeter"></b> <b id="unitqmeter">m²</b> for the sea rescue.</p>
-
-                        <p id="text-schiff-komplett">With your <b class="EUR"></b> <b>€</b> the whole ship would be funded! With a length of <b>32 m / 105ft</b> and <b>160 m² / 1722ft²</b> on deck, there is enough space for the sea rescue of up to <b>80 people</b> at once.</p>
-
-                        <p id="button"><br><br><a id="aendern-btn" onclick="changeColor('#spendenbox');toDiv('#top');">I WANT TO RESCUE TOO!</a></p>
-
-                      </div>
-                      <div id="spendentext-fehler" style="display:none">
-                        <p>Please try again with numbers only.</p>
-                      </div>
-                    </div>
-                    <br>
+                    <h4>RAISED FUNDS</h4>
+                    <p style="font-size:xx-large">19.050 €</p>
                   </div>
                 </div>
             </div>

@@ -326,32 +326,14 @@ Botschafter des Vereins werden auch vor Ort über das Projekt informieren und de
                     </div>
 
                     <div class="date-container" id="19-01-2016">
-                        <h4>Offenes Treffen Kiel</h4>
+                        <h4>Abgesagt! (Offenes Treffen Kiel)</h4>
                         <br>
                         <p>
-                            Im Jahr 2015 ertranken 3771 Menschen, bei dem Versuch über das Mittelmeer nach Europa zu flüchten. Diese Situation können wir nicht länger hinnehmen. Jeder Mensch verdient die Rettung aus Seenot.
-                            Jugend Rettet ist eine Organisation von jungen Erwachsenen, die Gelder für den Erwerb eines Schiffes sammelt, um auf der zentralen Mittelmeerroute zwischen Libyen und Italien Seenotrettung zu betreiben. 
-                            Unser Ziel ist klar: weniger Tote im Mittelmeer.
-                            Gleichzeitig werden wir uns im asylpolitischen Diskurs klar positionieren und fordern die EU zu einem Ende der Gleichgültigkeit gegenüber dem Sterben auf dem Mittelmeer auf.
+                            Die Veranstaltung musste leider abgesagt werden.
                         </p>
                         <br>
-                        <p>
-                            Wir suchen in ganz Deutschland und Europa nach engagierten Leuten, die Jugend Rettet bekannt machen und durch Spendenaktionen unser Schiff ermöglichen.
-                        </p>
+                        <p>Euer Jugend Rettet-Team</p>
                         <br>
-                        <p>
-                            Am 19.01.2016 kommt Jugend Rettet zum ersten Mal mit einem offenen Treffen nach Kiel. Lena wird das Projekt und den aktuellen Arbeitstand vorstellen. Anschließend geht es um die Suche nach weiteren Unterstützer_innen in Kiel und es darf diskutiert werden. Unser Botschafter Matthis ist auch als Ansprechpartner vor Ort.
-                        </p>
-                        <br>
-                        <p>Wir freuen uns auf euch!</p>
-                        <br>
-                        <div class="event-container">
-                            <div class="event-date">Dienstag, 19. Januar 2016</div>
-                            <div class="event-icon"><img src="http://jugendrettet.org/graphics/location.png" width="14px" alt="Location"></div>
-                            <div class="event-title"><a href="https://www.google.de/maps?safe=off&q=hansa48+Hansastra%C3%9Fe+48,+24118+Kiel&bav=on.2,or.r_cp.&bvm=bv.111396085,d.bGg&biw=1289&bih=805&dpr=1&um=1&ie=UTF-8&sa=X&ved=0ahUKEwjE1J6draLKAhWEDSwKHZkkDjwQ_AUIBigB" target="_blank">hansa48<br>Hansastraße 48<br> 24118 Kiel</a></div><br> 
-                            <div class="event-icon"><img src="http://jugendrettet.org/graphics/time.png" height="14px" alt="Time"></div>
-                            <div class="event-title">20:00 Uhr</div>
-                        </div><br>
                     </div>
 
                     <div class="date-container" id="11-02-2016">
@@ -372,6 +354,38 @@ Botschafter des Vereins werden auch vor Ort über das Projekt informieren und de
                             <div class="event-title"><a href="https://www.google.de/maps/place/Bertha-von-Suttner-Platz+4,+53111+Bonn/@50.7371804,7.0997691,17z/data=!3m1!4b1!4m2!3m1!1s0x47bee1a0ec454993:0xa109749970c0e004" target="_blank">EU-Kommission<br>Bertha-von-Suttner-Platz 2-4<br> 53111 Bonn</a></div><br>
                             <div class="event-icon"><img src="http://jugendrettet.org/graphics/time.png" height="14px" alt="Time"></div>
                             <div class="event-title">18:00 Uhr</div>
+                        </div><br>
+                    </div>
+
+                    <div class="date-container" id="19-01-2016">
+                        <h4>Abgesagt! (Offenes Treffen Kiel)</h4>
+                        <br>
+                        <p>
+                            Die Veranstaltung musste leider abgesagt werden.
+                        </p>
+                        <br>
+                        <p>Euer Jugend Rettet-Team</p>
+                        <br>
+                    </div>
+
+                    <div class="date-container" id="15-02-2016">
+                        <h4>Feiern fürs Schiff: Soliabend im newyorck59</h4>
+                        <br>
+                        <p>
+                            Jeder Mensch verdient die Rettung aus Seenot!
+                        </p>
+                        <p>
+                            Wir sind seit einigen Monaten dabei ein Projekt auf die Beine zu stellen, um gegen das Sterben auf dem Mittelmeer vorzugehen. Gemeinsam wollen wir sowohl mit einem eigenen Schiff in Seenot geratene Menschen retten, als auch klare Forderungen an die Regierungen nach einem staatlichen Rettungsporgramm formulieren. Unser Ziel ist klar: Weniger Tote auf dem Mittelmeer!
+                        </p>
+                        <br>
+                        <p>Wir laden euch herzlich ein bei leckerer veganer KüfA und Filmvorführung ("Asyland") zu diskutieren und sich zu vernetzen. Kommt vorbei und unterstützt unser Projekt!</p>
+                        <br>
+                        <div class="event-container">
+                            <div class="event-date">Montag, 15. Februar 2016</div>
+                            <div class="event-icon"><img src="http://jugendrettet.org/graphics/location.png" width="14px" alt="Location"></div>
+                            <div class="event-title"><a href="https://www.google.de/maps/search/%09+Karte+verbergen+Mariannenplatz+2a+10997+Berlin/@52.503787,13.4216433,17z/data=!3m1!4b1" target="_blank">newyorck59<br>Mariannenplatz 2a<br> 10997 Berlin</a></div><br>
+                            <div class="event-icon"><img src="http://jugendrettet.org/graphics/time.png" height="14px" alt="Time"></div>
+                            <div class="event-title">19:00 Uhr</div>
                         </div><br>
                     </div>
 

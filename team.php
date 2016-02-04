@@ -105,7 +105,7 @@
                             <b><li>Sahra</b>:  Organisation, Konzeption, Öffentlichkeit, Gestaltung</li>
                             <b><li>Sonja</b>:  Organisation, Recht, Finanzen</li>
                             <b><li>Jakob</b>:  Konzeption, Öffentlichkeit, Recht, Finanzen</li>
-                            <b><li>Pauline</b>:  Öffentlichkeit</li>
+                            <b><li>Pauline</b>:  Öffentlichkeit, Presse</li>
                             <b><li>Johanna</b>:  Öffentlichkeit, Gestaltung</li>
                             <b><li>Alex</b>:  IT, Gestaltung</li>
                             <b><li>Matthias</b>:  Finanzen, Recherche</li>
@@ -131,7 +131,9 @@
                             <li>Berlin: <a href="mailto:Lukas@jugendrettet.org">Lukas</a></li>
                             <li>Berlin: <a href="mailto:Sonja@jugendrettet.org">Sonja</a></li>
                             <li>Bonn: <a href="mailto:Tobias@jugendrettet.org">Tobias</a></li>
+                            <li>Emsland: <a href="mailto:Janniks@jugendrettet.org">Jannik</a></li>
                             <li>Flensburg: <a href="mailto:Pauline@jugendrettet.org">Pauline</a></li>
+                            <li>Groningen: <a href="mailto:LenaP@jugendrettet.org">Lena</a></li>
                             <li>Hamburg: <a href="mailto:Marco@jugendrettet.org">Marco</a></li>
                             <li>Heilbronn: <a href="mailto:Jon@jugendrettet.org">Jon</a></li>
                             <li>Kiel: <a href="mailto:Matthis@jugendrettet.org">Matthis</a></li>
@@ -144,6 +146,7 @@
                             <li>Potsdam: <a href="mailto:Christoph@jugendrettet.org">Christoph</a></li>
                             <li>Potsdam: <a href="mailto:Alex@jugendrettet.org">Alex</a></li>
                             <li>Reutlingen: <a href="mailto:Fatih@jugendrettet.org">Fatih</a></li>
+                            <li>Spiekeroog: <a href="mailto:annsophie@jugendrettet.org">Ann Sophie</a></li>
                             <li>Stuttgart: <a href="mailto:Harun@jugendrettet.org">Harun</a></li>
                             <li>Trier: <a href="mailto:Asa@jugendrettet.org">Asa</a></li>
                         </ul>

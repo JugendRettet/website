@@ -156,7 +156,7 @@ header ul.pop li:hover {
 }
 #sim-alt {
     display: none;
-    background-image: url(http://jugendrettet/images/error.jpg);
+    background-image: url(http://jugendrettet.org/images/error.jpg);
     background-size: cover;
 }
 #back-btn {

@@ -94,6 +94,42 @@
                           </div>
                       </div><br>
 
+                      <a class="faq" id="49"><b>30. Januar</b> "Bötchenaktion" des Team Aachen</a>
+                      <div class="faq-klappe" id="49-klappe">
+                          <p>Heute wollen wir euch die "Bötchenaktion" des Team Aachen vorstellen: Sie haben gestern mit den Klassen 5,6,7,8 & 9 am Einhard Gymnasium Aachen kleine Bötchen gefaltet, dadurch konnten die Schüler ihre Unterstützung demonstrieren. Insgesamt sind so mehr als 850 Bötchen gebastelt worden. Für 10€ kann man eine Patenschaft für eines der Bötchen übernehmen. Es sind noch ein paar Patenschaften übrig. Wer Lust hat eine Patenschaft zu übernehmen, schreibt bitte an <a href="mailto:luisa@jugendrettet.org">Luisa</a>! Wir freuen uns über eure Unterstützung!</p>
+                          <br>
+                          <a href="http://jugendrettet.org/images/boetchen.jpg" target="_blank"><img class="news" src= 'http://jugendrettet.org/images/boetchen.jpg'></img></a>
+                      </div><br>
+                      <a class="faq" id="45"><b>29. Januar</b> Konferenz zur Zukunft bürgerschaftlichen Engagements für Flüchtlinge</a>
+                      <div class="faq-klappe" id="45-klappe">
+                          <p>Wir waren heute Teil der "Konferenz zur Zukunft bürgerschaftlichen Engagements für Flüchtlinge" von Bündnis 90/Die Grünen. Es sind gute Kontakte zu anderen Organisationen entstanden und wir freuen uns auf mögliche, zukünftige Zusammenarbeiten.</p>
+                          <br>
+                          <a href="http://jugendrettet.org/images/20160129.jpg" target="_blank"><img class="news" src= 'http://jugendrettet.org/images/20160129.jpg'></img></a>
+                      </div><br>
+                      <a class="faq" id="44"><b>20. Januar</b> Vortrag beim Rotary Club Aachen</a>
+                      <div class="faq-klappe" id="44-klappe">
+                          <p>Team Aachen, hier ein Teil des Teams zusammen mit Rotary-Präsidenten Jens Zier, hat heute einen Vortrag über uns im Rotary Club gehalten. Tolle Arbeit, danke dafür! Wer sich dem Team anschließen möchte, meldet sich bitte bei <a href="mailto:luisa@jugendrettet.org">Luisa</a>!</p>
+                          <br>
+                          <a href="http://jugendrettet.org/images/rotary.jpg" target="_blank"><img class="news" src= 'http://jugendrettet.org/images/rotary.jpg'></img></a>
+                      </div><br>
+                      <a class="faq" id="43"><b>16. Januar</b> Bericht bei n-tv</a>
+                      <div class="faq-klappe" id="43-klappe">
+                          <p>"Wir wollen den Jugendaspekt als Druckmittel benutzen. Wenn wir das ohne Erfahrung schaffen, dann gibt es keine Ausrede für das Versagen von staatlichen Akteuren." <br> <a href="http://www.n-tv.de/panorama/Jugend-Rettet-hat-Fluechtlingssterben-satt-article16749591.html">"n-tv Der Nachrichtensender"</a> hat sich mit den Gründungsmitgliedern Lena und Jakob getroffen. Viel Spaß beim lesen!</p>
+                      </div><br>
+                      <a class="faq" id="48"><b>14. Januar</b> Jugend Rettet macht Worte!</a>
+                      <div class="faq-klappe" id="48-klappe">
+                          <p>Jugend Rettet macht Worte! <br>Heute fand ein Supportslam für uns statt. Unser Dank an "Leuchtfeuerworte"!</p>
+                      </div><br>
+                      <a class="faq" id="47"><b>12. Januar</b> Wir sind auf Instagram!</a>
+                      <div class="faq-klappe" id="47-klappe">
+                          <p>Ihr findet uns ab jetzt auch auf <a href="https://www.instagram.com/jugendrettet/">Instagram</a>! Folgt uns!</p>
+                      </div><br>
+                      <a class="faq" id="46"><b>10. Januar</b> Spendenstand</a>
+                      <div class="faq-klappe" id="46-klappe">
+                          <p>Wir sagen DANKE zu 16.500€! Es gilt wie immer: erzählt euren Freunden und Bekannten von uns! Jede Spende zählt. Danke an euch alle für die tolle Unterstützung! <br> <a href="http://jugendrettet.org/spenden">spenden</a></p>
+                          <br>
+                          <a href="http://jugendrettet.org/images/16500.jpg" target="_blank"><img class="news" src= 'http://jugendrettet.org/images/16500.jpg'></img></a>
+                      </div><br>
                       <a class="faq" id="42"><b>09. Januar</b> Bericht in Hochschulzeitung "Der Albrecht"</a>
                       <div class="faq-klappe" id="42-klappe">
                           <p>Der Albrecht, Hochschulzeitung der Christian-Albrechts-Universität in Kiel, hat einen Bericht über uns geschrieben, der auch wunderbar als vorbereitende Lektüre für unser erstes offenes Treffen am 19.1 in Kiel dienen kann. Unser Botschafter <a href="mailto:matthis@jugendrettet.org">Matthis</a> steht euch dort mit Rat und Tat zur Seite, meldet euch also wenn ihr dabei sein wollt!</p>
@@ -234,6 +270,7 @@
                         <a class="faq" id="15"><b>1. November 2015</b> Nowkoelln Flowmarkt</a>
                         <div class="faq-klappe" id="15-klappe">
                             <p>Heute konnten wir auf dem Nowkoelln Flowmarkt über unser Projekt berichten! Gleichzeitig konnten wir mit eurer Unterstützung ganze 600€ zusammen bekommen, die direkt in unser Schiff fließen.</p>
+                            <a href="http://jugendrettet.org/images/flowmarkt.jpg" target="_blank"><img class="news" src= 'http://jugendrettet.org/images/flowmarkt.jpg'></img></a>
                         </div><br>
                         <a class="faq" id="14"><b>31. Oktober</b> Besuch von <i>Jugend Rettet</i> und seiner Berater an der holländischen Küste</a>
                         <div class="faq-klappe" id="14-klappe">

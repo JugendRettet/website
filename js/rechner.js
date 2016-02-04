@@ -2,9 +2,9 @@ function rechnen(f){
 
 	//var mq = window.matchMedia( "(min-width: 750px)" )
 
-	var teilkosten = 16875
+	var teilkosten = 59063
 	var kosten = 270000
-	var stand = 16500
+	var stand = 17064
 
 	var balkenwidth = 300
 	var geldbalkenwidth = 260

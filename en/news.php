@@ -94,7 +94,21 @@
                               </form>
                           </div>
                       </div><br>
-                      
+
+                      <a class="faq" id="48"><b>January 14th</b> Jugend Rettet goes poetry!</a>
+                      <div class="faq-klappe" id="48-klappe">
+                          <p>Today a support poetry slam took place for us. Thank you very much "Leuchtfeuerworte" for organizing this for us!</p>
+                      </div><br>
+                      <a class="faq" id="47"><b>January 12th</b> We are on Instagram!</a>
+                      <div class="faq-klappe" id="47-klappe">
+                          <p>Follow us on <a href="https://www.instagram.com/jugendrettet/">Instagram</a>!</p>
+                      </div><br>
+                      <a class="faq" id="46"><b>January 10th</b> Donation status</a>
+                      <div class="faq-klappe" id="46-klappe">
+                          <p>Thank you for 16,500€! As always: tell your friends about us! Every donation counts. Thank you all for your great support!  <br> <a href="http://jugendrettet.org/spenden">donate</a></p>
+                          <br>
+                          <a href="http://jugendrettet.org/images/16500.jpg" target="_blank"><img class="news" src= 'http://jugendrettet.org/images/16500.jpg'></img></a>
+                      </div><br>
                       <a class="faq" id="42"><b>January 9th</b> Article in university magazine "Der Albrecht"</a>
                       <div class="faq-klappe" id="42-klappe">
                           <p>Der Albrecht, university magazine of the Christian Albrechts University in Kiel, published and article about us. This too is a wonderful preparating lecture for our first open meeting in Kiel on january 19th. Our ambassador <a href="mailto:matthis@jugendrettet.org">Matthis</a> will answer you any questions you might have, notify him if you want to join!</p>
@@ -236,6 +250,7 @@
                         <a class="faq" id="15"><b>November 1st</b> Nowkoelln Flowmarkt</a>
                         <div class="faq-klappe" id="15-klappe">
                             <p>Today we presented our project at the Nowkoelln Flowmarkt! With your support we were able to collect 600€, which are fully invested into our ship.</p>
+                            <a href="http://jugendrettet.org/images/flowmarkt.jpg" target="_blank"><img class="news" src= 'http://jugendrettet.org/images/flowmarkt.jpg'></img></a>
                         </div><br>
                         <a class="faq" id="14"><b>October 31st</b> Visit from<i>Jugend Rettet</i> our consultants to the dutch coast</a>
                         <div class="faq-klappe" id="14-klappe">
