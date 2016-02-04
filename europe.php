@@ -127,6 +127,11 @@
                             <span class="event-title">Gedenken an die Todesopfer während der Flucht 2015 in Bonn</span>
                         </a>
 
+                        <a href="events?date=15-02-2016" class="event-container">
+                            <span class="event-date">Montag, 15. Februar 2016</span>
+                            <span class="event-title">Feiern fürs Schiff: Soliabend im newyorck59</span>
+                        </a>
+
                     </div>
                 </div>
             </div>
