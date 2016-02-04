@@ -114,7 +114,7 @@
                       </div><br>
                       <a class="faq" id="43"><b>16. Januar</b> Bericht bei n-tv</a>
                       <div class="faq-klappe" id="43-klappe">
-                          <p>"Wir wollen den Jugendaspekt als Druckmittel benutzen. Wenn wir das ohne Erfahrung schaffen, dann gibt es keine Ausrede für das Versagen von staatlichen Akteuren." <a href="http://www.n-tv.de/panorama/Jugend-Rettet-hat-Fluechtlingssterben-satt-article16749591.html">n-tv</a> Der Nachrichtensender hat sich mit den Gründungsmitgliedern Lena und Jakob getroffen. Viel Spaß beim lesen!</p>
+                          <p>"Wir wollen den Jugendaspekt als Druckmittel benutzen. Wenn wir das ohne Erfahrung schaffen, dann gibt es keine Ausrede für das Versagen von staatlichen Akteuren." <a href="http://www.n-tv.de/panorama/Jugend-Rettet-hat-Fluechtlingssterben-satt-article16749591.html">'n-tv Der Nachrichtensender'</a> hat sich mit den Gründungsmitgliedern Lena und Jakob getroffen. Viel Spaß beim lesen!</p>
                       </div><br>
                       <a class="faq" id="42"><b>09. Januar</b> Bericht in Hochschulzeitung "Der Albrecht"</a>
                       <div class="faq-klappe" id="42-klappe">
