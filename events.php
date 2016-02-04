@@ -383,7 +383,7 @@ Botschafter des Vereins werden auch vor Ort über das Projekt informieren und de
                         <div class="event-container">
                             <div class="event-date">Montag, 15. Februar 2016</div>
                             <div class="event-icon"><img src="http://jugendrettet.org/graphics/location.png" width="14px" alt="Location"></div>
-                            <div class="event-title"><a href="https://www.google.de/maps/search/%09+Karte+verbergen+Mariannenplatz+2a+10997+Berlin/@52.503787,13.4216433,17z/data=!3m1!4b1" target="_blank">EU-Kommission<br>Mariannenplatz 2a<br> 10997 Berlin</a></div><br>
+                            <div class="event-title"><a href="https://www.google.de/maps/search/%09+Karte+verbergen+Mariannenplatz+2a+10997+Berlin/@52.503787,13.4216433,17z/data=!3m1!4b1" target="_blank">newyorck59<br>Mariannenplatz 2a<br> 10997 Berlin</a></div><br>
                             <div class="event-icon"><img src="http://jugendrettet.org/graphics/time.png" height="14px" alt="Time"></div>
                             <div class="event-title">19:00 Uhr</div>
                         </div><br>
