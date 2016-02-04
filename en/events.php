@@ -295,6 +295,27 @@ Euer Jugend Rettet Team</p><br>
                         </div><br>
                     </div>
 
+                    <div class="date-container" id="15-02-2016">
+                        <h4>Feiern fürs Schiff: Soliabend im newyorck59</h4>
+                        <br>
+                        <p>
+                            Jeder Mensch verdient die Rettung aus Seenot!
+                        </p>
+                        <p>
+                            Wir sind seit einigen Monaten dabei ein Projekt auf die Beine zu stellen, um gegen das Sterben auf dem Mittelmeer vorzugehen. Gemeinsam wollen wir sowohl mit einem eigenen Schiff in Seenot geratene Menschen retten, als auch klare Forderungen an die Regierungen nach einem staatlichen Rettungsporgramm formulieren. Unser Ziel ist klar: Weniger Tote auf dem Mittelmeer!
+                        </p>
+                        <br>
+                        <p>Wir laden euch herzlich ein bei leckerer veganer KüfA und Filmvorführung ("Asyland") zu diskutieren und sich zu vernetzen. Kommt vorbei und unterstützt unser Projekt!</p>
+                        <br>
+                        <div class="event-container">
+                            <div class="event-date">Montag, 15. Februar 2016</div>
+                            <div class="event-icon"><img src="http://jugendrettet.org/graphics/location.png" width="14px" alt="Location"></div>
+                            <div class="event-title"><a href="https://www.google.de/maps/search/%09+Karte+verbergen+Mariannenplatz+2a+10997+Berlin/@52.503787,13.4216433,17z/data=!3m1!4b1" target="_blank">newyorck59<br>Mariannenplatz 2a<br> 10997 Berlin</a></div><br>
+                            <div class="event-icon"><img src="http://jugendrettet.org/graphics/time.png" height="14px" alt="Time"></div>
+                            <div class="event-title">19:00 Uhr</div>
+                        </div><br>
+                    </div>
+
             </div>
             <div id="content">
                 <footer>
