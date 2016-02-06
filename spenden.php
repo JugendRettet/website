@@ -134,7 +134,7 @@
                       <input type="hidden" name="hosted_button_id" value="SBV6JB66SH52G">
                       <input type="image" src="graphics/checkout-logo-69x26-alt-2x.png" name="submit" alt="Jetzt einfach, schnell und sicher online bezahlen – mit PayPal.">
                       </form>
-                      <p style="font-size:small">PayPal erhebt für Spenden 1.5% + 0,35€</p>
+                      <p style="font-size:small">PayPal erhebt für Spenden 1,5% + 0,35€</p>
                     </div>
                   </div>
 
@@ -144,7 +144,7 @@
                       <p>Wir überarbeiten unsere finanzielle Planung und teilen euch die Ergebnisse bald mit!</p>
                     </div>
                     <h4>SPENDENSTAND</h4>
-                    <p style="font-size:xx-large">19.050 €</p>
+                    <p style="font-size:xx-large">19.230 €</p>
                   </div>
             </div>
             <div id="content">

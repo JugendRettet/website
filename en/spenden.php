@@ -135,7 +135,7 @@
                       <input type="hidden" name="hosted_button_id" value="SBV6JB66SH52G">
                       <input type="image" src="http://jugendrettet.org/graphics/checkout-logo-69x26-alt-2x.png" name="submit" alt="Jetzt einfach, schnell und sicher online bezahlen – mit PayPal.">
                       </form>
-                      <p style="font-size:small">PayPal charges 1.5% + 0,35€ for each donation.</p>
+                      <p style="font-size:small">PayPal charges 1.5% + 0.35€ for each donation.</p>
                     </div>
                   </div>
                   <div class="column">
@@ -144,7 +144,7 @@
                       <p>We revise our financial plan and keep you up to date!</p>
                     </div>
                     <h4>RAISED FUNDS</h4>
-                    <p style="font-size:xx-large">19.050 €</p>
+                    <p style="font-size:xx-large">19,230 €</p>
                   </div>
                 </div>
             </div>
