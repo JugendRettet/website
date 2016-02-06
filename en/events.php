@@ -275,24 +275,24 @@ Euer Jugend Rettet Team</p><br>
                     </div>
 
                     <div class="date-container" id="10-02-2016">
-                        <h4>Filmvorführung ASYLAND - Präsentiert von Jugend Rettet e.V.</h4>
+                        <h4>Movie screening ASYLAND - presented by Jugend Rettet e.V.</h4>
                         <br>
                         <p>
-                            Nach zahlreichen ausverkauften Filmpremieren von "ASYLAND" nochmal eine ganz besondere Vorstellung:
+                            Following numerous sold out premieres, a very special screening:
                         </p>
                         <p>
-                            Der Verein Jugend Rettet e.V. holt für Euch am 10.02.2016 den Kino-Dokumentarfilm ASYLAND kostenlos in die Stadt.
+                            On 10-02-2016 the association Jugend Rettet e.V. brings the cinema documentary ASYLAND to town, for free!
                         </p>
                         <br>
-                        <p>ASYLAND, DE 2015, 62min (deutsche Originalfassung)</p>
+                        <p>ASYLAND, DE 2015, 62min (german Original)</p>
                         <br>
-                        <p>"Ein ganz besonderer Dokumentarfilm, der nicht über Flüchtlinge – sondern mit ihnen redet." (WDR) </p>
+                        <p>"A very special documentary that does talk about, but with refugees." (WDR) </p>
                         <br>
-                        <p>"Durch die Augen der Flüchtlinge" (Rheinische Post)</p>
+                        <p>"Through the eyes of the refugees" (Rheinische Post)</p>
                         <br>
-                        <p>Eine Reise quer durch Deutschland mit dem Ziel, die Perspektive zu wechseln. Die Protagonisten: Menschen die aus ihrer Heimat fliehen mussten und sich nun, angekommen in Deutschland, mit unvorstellbaren Herausforderungen konfrontiert sehen. Das ASYLAND-Team begleitete über ein halbes Jahr den Alltag von Flüchtlingen, und dokumentiert dabei nicht nur ihren Tagesablauf, sondern auch ihre Motivationen, Gefühle und Gedanken. Auf der Suche nach Erklärungen beleuchtet der Film unterschiedliche Sichtweisen auf die Situation von Flüchtlingen in Deutschland. Interviewt wurden Schauspieler, Politiker und Menschen, die der Beweis dafür sind, dass Jeder bei der Bewältigung der Herausforderungen, denen sich Flüchtlinge gegenübergestellt sehen, helfen kann. Alles was man tun muss: Die Perspektive wechseln.</p>
+                        <p>A journey through Germany with the aim to switch perspectives. The protagonists: People who flee their homestead and now, after their arrival in germany, find themselves facing new and unforeseeable challenges.  The team from ASYLAND accompanied the everyday of refugees for more than half a year. They not only document the course of the refugees days, but aswell their motivation, their thoughts and emotions. On the quest for answers, the movie sheds light on different perspectives on the situation of refugees in Germany. In the interviews, actors, politicians and volunteers give proof, that everyone can help with the challenges refugees are facing. All you have to do, is change the perspective. </p>
                         <br>
-                        <p>TRAILER UND INFOS: <a href="http://www.asyland.de">www.asyland.de</a></p>
+                        <p>TRAILER AND INFOS: <a href="http://www.asyland.de">www.asyland.de</a></p>
                         <br>
                         <p>FACEBOOK: <a href="http://www.facebook.de/asyland">www.facebook.de/asyland</a></p>
                         <br>
