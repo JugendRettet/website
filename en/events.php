@@ -306,15 +306,15 @@ Euer Jugend Rettet Team</p><br>
                     </div>
 
                     <div class="date-container" id="11-02-2016">
-                        <h4>Gedenken an die Todesopfer während der Flucht 2015 in Bonn</h4>
+                        <h4>Remembrance for the fatalities during escape 2015, in Bonn</h4>
                         <br>
                         <p>
-                            3500 Menschen sind 2015 bei dem Versuch, das Mittelmeer zu überqueren ums Leben gekommen. Trotzdem gibt es kein staatliches Seenotrettungsprogramm der EU. Wir folgen dem Ideal, dass jeder Mensch die Rettung aus Seenot verdient und sehen wir uns dadurch in der Pflicht, die Rettung zu übernehmen. Aus diesem Grund sammeln wir Spenden für den Erwerb eines Schiffes, mit diesem wir ab Juni 2016 retten werden. 
-                            Am 11. Februar 2016 gedenken wir der Opfer, die den gefährlichen Weg über das Mittelmeer 2015 leider nicht geschafft haben.
+                            3500 people died in their attempt to cross the Meditteranean Sea in 2015. Nonetheless, the EU has not set up a schedule for governmental sea rescue. We follow the ideal, that every human deserves rescue from sea distress and see ourselves obligated to help. This is why we collect funds to buy a ship, with which wie will rescue from june 2016 on.  
+                            On february 11th 2016 we remember those who didn't make the dangerous way over the sea last year.
                         </p>
                         <br>
                         <p>
-                            Kommt um 18 Uhr vor die EU-Kommission und zeigt, dass ihr, wie wir, mit dem Fehlen eines EU-Rettungsprogramms nicht einverstanden seid.
+                            Come together in front of the EU-Commission at 6 pm to show your disagreement with the absence of a EU founded rescue program. 
                         </p>
                         <br>
                         <div class="event-container">
