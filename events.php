@@ -386,9 +386,9 @@ Botschafter des Vereins werden auch vor Ort über das Projekt informieren und de
                         <br>
                         <p>Eine Reise quer durch Deutschland mit dem Ziel, die Perspektive zu wechseln. Die Protagonisten: Menschen die aus ihrer Heimat fliehen mussten und sich nun, angekommen in Deutschland, mit unvorstellbaren Herausforderungen konfrontiert sehen. Das ASYLAND-Team begleitete über ein halbes Jahr den Alltag von Flüchtlingen, und dokumentiert dabei nicht nur ihren Tagesablauf, sondern auch ihre Motivationen, Gefühle und Gedanken. Auf der Suche nach Erklärungen beleuchtet der Film unterschiedliche Sichtweisen auf die Situation von Flüchtlingen in Deutschland. Interviewt wurden Schauspieler, Politiker und Menschen, die der Beweis dafür sind, dass Jeder bei der Bewältigung der Herausforderungen, denen sich Flüchtlinge gegenübergestellt sehen, helfen kann. Alles was man tun muss: Die Perspektive wechseln.</p>
                         <br>
-                        <p>TRAILER UND INFOS: <a href="www.asyland.de">www.asyland.de</a></p>
+                        <p>TRAILER UND INFOS: <a href="http://www.asyland.de">www.asyland.de</a></p>
                         <br>
-                        <p>FACEBOOK: <a href="www.facebook.de/asyland">www.facebook.de/asyland</a></p>
+                        <p>FACEBOOK: <a href="http://www.facebook.de/asyland">www.facebook.de/asyland</a></p>
                         <br>
                         <div class="event-container">
                             <div class="event-date">Mittwoch, 10. Februar 2016</div>
