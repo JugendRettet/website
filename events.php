@@ -368,6 +368,37 @@ Botschafter des Vereins werden auch vor Ort über das Projekt informieren und de
                         <br>
                     </div>
 
+                    <div class="date-container" id="10-02-2016">
+                        <h4>Filmvorführung ASYLAND - Präsentiert von Jugend Rettet e.V.</h4>
+                        <br>
+                        <p>
+                            Nach zahlreichen ausverkauften Filmpremieren von "ASYLAND" nochmal eine ganz besondere Vorstellung:
+                        </p>
+                        <p>
+                            Der Verein Jugend Rettet e.V. holt für Euch am 10.02.2016 den Kino-Dokumentarfilm ASYLAND kostenlos in die Stadt.
+                        </p>
+                        <br>
+                        <p>ASYLAND, DE 2015, 62min (deutsche Originalfassung)</p>
+                        <br>
+                        <p>"Ein ganz besonderer Dokumentarfilm, der nicht über Flüchtlinge – sondern mit ihnen redet." (WDR) </p>
+                        <br>
+                        <p>"Durch die Augen der Flüchtlinge" (Rheinische Post)</p>
+                        <br>
+                        <p>Eine Reise quer durch Deutschland mit dem Ziel, die Perspektive zu wechseln. Die Protagonisten: Menschen die aus ihrer Heimat fliehen mussten und sich nun, angekommen in Deutschland, mit unvorstellbaren Herausforderungen konfrontiert sehen. Das ASYLAND-Team begleitete über ein halbes Jahr den Alltag von Flüchtlingen, und dokumentiert dabei nicht nur ihren Tagesablauf, sondern auch ihre Motivationen, Gefühle und Gedanken. Auf der Suche nach Erklärungen beleuchtet der Film unterschiedliche Sichtweisen auf die Situation von Flüchtlingen in Deutschland. Interviewt wurden Schauspieler, Politiker und Menschen, die der Beweis dafür sind, dass Jeder bei der Bewältigung der Herausforderungen, denen sich Flüchtlinge gegenübergestellt sehen, helfen kann. Alles was man tun muss: Die Perspektive wechseln.</p>
+                        <br>
+                        <p>TRAILER UND INFOS: <a href="http://www.asyland.de">www.asyland.de</a></p>
+                        <br>
+                        <p>FACEBOOK: <a href="http://www.facebook.de/asyland">www.facebook.de/asyland</a></p>
+                        <br>
+                        <div class="event-container">
+                            <div class="event-date">Mittwoch, 10. Februar 2016</div>
+                            <div class="event-icon"><img src="http://jugendrettet.org/graphics/location.png" width="14px" alt="Location"></div>
+                            <div class="event-title"><a href="https://www.google.de/maps/place/Broadway/@49.7611327,6.643994,17z/data=!3m1!4b1!4m2!3m1!1s0x47957c8e04852b1b:0x771aa42816014f48" target="_blank">Broadway<br>Paulinstraße 18<br> 54292 Trier</a></div><br>
+                            <div class="event-icon"><img src="http://jugendrettet.org/graphics/time.png" height="14px" alt="Time"></div>
+                            <div class="event-title">18:00 Uhr</div>
+                        </div><br>
+                    </div>
+
                     <div class="date-container" id="15-02-2016">
                         <h4>Feiern fürs Schiff: Soliabend im newyorck59</h4>
                         <br>
