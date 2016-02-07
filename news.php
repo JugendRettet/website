@@ -94,6 +94,14 @@
                           </div>
                       </div><br>
 
+                      <a class="faq" id="50"><b>01. Februar 2016</b> Zu Gast bei Radio funkUP</a>
+                      <div class="faq-klappe" id="50-klappe">
+                          <p>Lena und unser Potsdamer Botschafter Alex waren bei funkUP zu Gast und haben u.a. über linken Deutschrap und das Gefühl, Teil einer Jugendorganisation zu sein gesprochen. 
+                          <br> Viel Spaß beim hören!
+                          <br><a href="http://www.funkup.me/2016/02/the-matik-119-jugend-rettet/">Link</a></p>
+                          <br>
+                          <a href="http://jugendrettet.org/images/boetchen.jpg" target="_blank"><img class="news" src= 'http://jugendrettet.org/images/boetchen.jpg'></img></a>
+                      </div><br>
                       <a class="faq" id="49"><b>30. Januar</b> "Bötchenaktion" des Team Aachen</a>
                       <div class="faq-klappe" id="49-klappe">
                           <p>Heute wollen wir euch die "Bötchenaktion" des Team Aachen vorstellen: Sie haben gestern mit den Klassen 5,6,7,8 & 9 am Einhard Gymnasium Aachen kleine Bötchen gefaltet, dadurch konnten die Schüler ihre Unterstützung demonstrieren. Insgesamt sind so mehr als 850 Bötchen gebastelt worden. Für 10€ kann man eine Patenschaft für eines der Bötchen übernehmen. Es sind noch ein paar Patenschaften übrig. Wer Lust hat eine Patenschaft zu übernehmen, schreibt bitte an <a href="mailto:luisa@jugendrettet.org">Luisa</a>! Wir freuen uns über eure Unterstützung!</p>
