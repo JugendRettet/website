@@ -118,13 +118,13 @@
                         </a> -->
 
                         <a href="events?date=10-02-2016" class="event-container">
-                            <span class="event-date">Mittwoch, 10. Februar 2016</span>
-                            <span class="event-title">Filmvorführung ASYLAND - Präsentiert von Jugend Rettet e.V.</span>
+                            <span class="event-date">Wednesday, February 10th 2016</span>
+                            <span class="event-title">Movie screening ASYLAND - presented by Jugend Rettet e.V.</span>
                         </a>
 
                         <a href="events?date=11-02-2016" class="event-container">
-                            <span class="event-date">Thursday, 11th February 2016</span>
-                            <span class="event-title">Gedenken an die Todesopfer während der Flucht 2015 in Bonn</span>
+                            <span class="event-date">Thursday, February 11th 2016</span>
+                            <span class="event-title">Remembrance for the fatalities during escape 2015, in Bonn</span>
                         </a>
 
                         <a href="events?date=15-02-2016" class="event-container">

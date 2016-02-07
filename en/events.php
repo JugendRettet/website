@@ -297,11 +297,11 @@ Euer Jugend Rettet Team</p><br>
                         <p>FACEBOOK: <a href="http://www.facebook.de/asyland">www.facebook.de/asyland</a></p>
                         <br>
                         <div class="event-container">
-                            <div class="event-date">Mittwoch, 10. Februar 2016</div>
+                            <div class="event-date">Wednesday, February 10th 2016</div>
                             <div class="event-icon"><img src="http://jugendrettet.org/graphics/location.png" width="14px" alt="Location"></div>
                             <div class="event-title"><a href="https://www.google.de/maps/place/Broadway/@49.7611327,6.643994,17z/data=!3m1!4b1!4m2!3m1!1s0x47957c8e04852b1b:0x771aa42816014f48" target="_blank">Broadway<br>Paulinstraße 18<br> 54292 Trier</a></div><br>
                             <div class="event-icon"><img src="http://jugendrettet.org/graphics/time.png" height="14px" alt="Time"></div>
-                            <div class="event-title">18:00 Uhr</div>
+                            <div class="event-title">6:00 pm</div>
                         </div><br>
                     </div>
 
@@ -318,7 +318,7 @@ Euer Jugend Rettet Team</p><br>
                         </p>
                         <br>
                         <div class="event-container">
-                            <div class="event-date">Thursday, 11th February 2016</div>
+                            <div class="event-date">Thursday, February 11th 2016</div>
                             <div class="event-icon"><img src="http://jugendrettet.org/graphics/location.png" width="14px" alt="Location"></div>
                             <div class="event-title"><a href="https://www.google.de/maps/place/Bertha-von-Suttner-Platz+4,+53111+Bonn/@50.7371804,7.0997691,17z/data=!3m1!4b1!4m2!3m1!1s0x47bee1a0ec454993:0xa109749970c0e004" target="_blank">EU-Kommission<br>Bertha-von-Suttner-Platz 2-4<br> 53111 Bonn</a></div><br>
                             <div class="event-icon"><img src="http://jugendrettet.org/graphics/time.png" height="14px" alt="Time"></div>
