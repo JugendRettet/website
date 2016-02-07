@@ -95,6 +95,16 @@
                           </div>
                       </div><br>
 
+                      <a class="faq" id="44"><b>January 20th</b> Talk at Rotary Club Aachen</a>
+                      <div class="faq-klappe" id="44-klappe">
+                          <p>Last night Team Aachen, here a part of the team together with Rotary-President Jens Zier, presented Jugend Rettet at the Rotary Club. Keep up the good work! If you want to join Team Aachen, send an e-mail to <a href="mailto:luisa@jugendrettet.org">Luisa</a>!</p>
+                          <br>
+                          <a href="http://jugendrettet.org/images/rotary.jpg" target="_blank"><img class="news" src= 'http://jugendrettet.org/images/rotary.jpg'></img></a>
+                      </div><br>
+                      <a class="faq" id="43"><b>Januar 16th</b> Article on n-tv</a>
+                      <div class="faq-klappe" id="43-klappe">
+                          <p>"We want to use the aspect of being a youth organization as a leverage. If we can do this without any expertise, there is no excuse for the failure of government agencies." <br> News broadcaster <a href="http://www.n-tv.de/panorama/Jugend-Rettet-hat-Fluechtlingssterben-satt-article16749591.html">"n-tv Der Nachrichtensender"</a> met the founding members Lena and Jakob. Enjoy reading!</p>
+                      </div><br>
                       <a class="faq" id="48"><b>January 14th</b> Jugend Rettet goes poetry!</a>
                       <div class="faq-klappe" id="48-klappe">
                           <p>Today a support poetry slam took place for us. Thank you very much "Leuchtfeuerworte" for organizing this for us!</p>
