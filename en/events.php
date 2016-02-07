@@ -265,6 +265,86 @@ Euer Jugend Rettet Team</p><br>
                         <br>
                         <p>Your Jugend Rettet Team</p><br>
                         <br>
+                        <div class="event-container">
+                            <div class="event-date">Tuesday, 19th January 2016</div>
+                            <div class="event-icon"><img src="http://jugendrettet.org/graphics/location.png" width="14px" alt="Location"></div>
+                            <div class="event-title"><a href="https://www.google.de/maps?safe=off&q=hansa48+Hansastra%C3%9Fe+48,+24118+Kiel&bav=on.2,or.r_cp.&bvm=bv.111396085,d.bGg&biw=1289&bih=805&dpr=1&um=1&ie=UTF-8&sa=X&ved=0ahUKEwjE1J6draLKAhWEDSwKHZkkDjwQ_AUIBigB" target="_blank">hansa48<br>Hansastraße 48<br> 24118 Kiel</a></div><br> 
+                            <div class="event-icon"><img src="http://jugendrettet.org/graphics/time.png" height="14px" alt="Time"></div>
+                            <div class="event-title">8:00 pm</div>
+                        </div><br>
+                    </div>
+
+                    <div class="date-container" id="10-02-2016">
+                        <h4>Movie screening ASYLAND - presented by Jugend Rettet e.V.</h4>
+                        <br>
+                        <p>
+                            Following numerous sold out premieres, a very special screening:
+                        </p>
+                        <p>
+                            On 10-02-2016 the association Jugend Rettet e.V. brings the cinema documentary ASYLAND to town, for free!
+                        </p>
+                        <br>
+                        <p>ASYLAND, DE 2015, 62min (german Original)</p>
+                        <br>
+                        <p>"A very special documentary that does talk about, but with refugees." (WDR) </p>
+                        <br>
+                        <p>"Through the eyes of the refugees" (Rheinische Post)</p>
+                        <br>
+                        <p>A journey through Germany with the aim to switch perspectives. The protagonists: People who flee their homestead and now, after their arrival in germany, find themselves facing new and unforeseeable challenges.  The team from ASYLAND accompanied the everyday of refugees for more than half a year. They not only document the course of the refugees days, but aswell their motivation, their thoughts and emotions. On the quest for answers, the movie sheds light on different perspectives on the situation of refugees in Germany. In the interviews, actors, politicians and volunteers give proof, that everyone can help with the challenges refugees are facing. All you have to do, is change the perspective. </p>
+                        <br>
+                        <p>TRAILER AND INFOS: <a href="http://www.asyland.de">www.asyland.de</a></p>
+                        <br>
+                        <p>FACEBOOK: <a href="http://www.facebook.de/asyland">www.facebook.de/asyland</a></p>
+                        <br>
+                        <div class="event-container">
+                            <div class="event-date">Wednesday, February 10th 2016</div>
+                            <div class="event-icon"><img src="http://jugendrettet.org/graphics/location.png" width="14px" alt="Location"></div>
+                            <div class="event-title"><a href="https://www.google.de/maps/place/Broadway/@49.7611327,6.643994,17z/data=!3m1!4b1!4m2!3m1!1s0x47957c8e04852b1b:0x771aa42816014f48" target="_blank">Broadway<br>Paulinstraße 18<br> 54292 Trier</a></div><br>
+                            <div class="event-icon"><img src="http://jugendrettet.org/graphics/time.png" height="14px" alt="Time"></div>
+                            <div class="event-title">6:00 pm</div>
+                        </div><br>
+                    </div>
+
+                    <div class="date-container" id="11-02-2016">
+                        <h4>Remembrance for the fatalities during escape 2015, in Bonn</h4>
+                        <br>
+                        <p>
+                            3500 people died in their attempt to cross the Meditteranean Sea in 2015. Nonetheless, the EU has not set up a schedule for governmental sea rescue. We follow the ideal, that every human deserves rescue from sea distress and see ourselves obligated to help. This is why we collect funds to buy a ship, with which wie will rescue from june 2016 on.  
+                            On february 11th 2016 we remember those who didn't make the dangerous way over the sea last year.
+                        </p>
+                        <br>
+                        <p>
+                            Come together in front of the EU-Commission at 6 pm to show your disagreement with the absence of a EU founded rescue program. 
+                        </p>
+                        <br>
+                        <div class="event-container">
+                            <div class="event-date">Thursday, February 11th 2016</div>
+                            <div class="event-icon"><img src="http://jugendrettet.org/graphics/location.png" width="14px" alt="Location"></div>
+                            <div class="event-title"><a href="https://www.google.de/maps/place/Bertha-von-Suttner-Platz+4,+53111+Bonn/@50.7371804,7.0997691,17z/data=!3m1!4b1!4m2!3m1!1s0x47bee1a0ec454993:0xa109749970c0e004" target="_blank">EU-Kommission<br>Bertha-von-Suttner-Platz 2-4<br> 53111 Bonn</a></div><br>
+                            <div class="event-icon"><img src="http://jugendrettet.org/graphics/time.png" height="14px" alt="Time"></div>
+                            <div class="event-title">6:00 pm</div>
+                        </div><br>
+                    </div>
+
+                    <div class="date-container" id="15-02-2016">
+                        <h4>Feiern fürs Schiff: Soliabend im newyorck59</h4>
+                        <br>
+                        <p>
+                            Jeder Mensch verdient die Rettung aus Seenot!
+                        </p>
+                        <p>
+                            Wir sind seit einigen Monaten dabei ein Projekt auf die Beine zu stellen, um gegen das Sterben auf dem Mittelmeer vorzugehen. Gemeinsam wollen wir sowohl mit einem eigenen Schiff in Seenot geratene Menschen retten, als auch klare Forderungen an die Regierungen nach einem staatlichen Rettungsporgramm formulieren. Unser Ziel ist klar: Weniger Tote auf dem Mittelmeer!
+                        </p>
+                        <br>
+                        <p>Wir laden euch herzlich ein bei leckerer veganer KüfA und Filmvorführung ("Asyland") zu diskutieren und sich zu vernetzen. Kommt vorbei und unterstützt unser Projekt!</p>
+                        <br>
+                        <div class="event-container">
+                            <div class="event-date">Montag, 15. Februar 2016</div>
+                            <div class="event-icon"><img src="http://jugendrettet.org/graphics/location.png" width="14px" alt="Location"></div>
+                            <div class="event-title"><a href="https://www.google.de/maps/search/%09+Karte+verbergen+Mariannenplatz+2a+10997+Berlin/@52.503787,13.4216433,17z/data=!3m1!4b1" target="_blank">newyorck59<br>Mariannenplatz 2a<br> 10997 Berlin</a></div><br>
+                            <div class="event-icon"><img src="http://jugendrettet.org/graphics/time.png" height="14px" alt="Time"></div>
+                            <div class="event-title">19:00 Uhr</div>
+                        </div><br>
                     </div>
 
             </div>

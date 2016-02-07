@@ -117,6 +117,21 @@
                             <span class="event-title">Invitation to open meeting in Kiel</span>
                         </a> -->
 
+                        <a href="events?date=10-02-2016" class="event-container">
+                            <span class="event-date">Wednesday, February 10th 2016</span>
+                            <span class="event-title">Movie screening ASYLAND - presented by Jugend Rettet e.V.</span>
+                        </a>
+
+                        <a href="events?date=11-02-2016" class="event-container">
+                            <span class="event-date">Thursday, February 11th 2016</span>
+                            <span class="event-title">Remembrance for the fatalities during escape 2015, in Bonn</span>
+                        </a>
+
+                        <a href="events?date=15-02-2016" class="event-container">
+                            <span class="event-date">Montag, 15. Februar 2016</span>
+                            <span class="event-title">Feiern fürs Schiff: Soliabend im newyorck59</span>
+                        </a>
+
                     </div>
                 </div>
             </div>
