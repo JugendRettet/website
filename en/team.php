@@ -136,6 +136,7 @@
                             <li>Flensburg: <a href="mailto:Pauline@jugendrettet.org">Pauline</a></li>
                             <li>Groningen: <a href="mailto:LenaP@jugendrettet.org">Lena</a></li>
                             <li>Hamburg: <a href="mailto:Marco@jugendrettet.org">Marco</a></li>
+                            <li>Hannover: <a href="mailto:Micheel@jugendrettet.org">Micheel</a></li>
                             <li>Heilbronn: <a href="mailto:Jon@jugendrettet.org">Jon</a></li>
                             <li>Kiel: <a href="mailto:Matthis@jugendrettet.org">Matthis</a></li>
                             <li>Koblenz: <a href="mailto:Alexw@jugendrettet.org">Alex</a></li>
