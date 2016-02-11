@@ -25,11 +25,11 @@
         <link href="http://jugendrettet.org/css/main.css" rel="stylesheet" type="text/css">
         <link href="http://jugendrettet.org/css/desktop.css" media="screen and (min-device-width: 851px)" rel="stylesheet" type="text/css">
         <link href="http://jugendrettet.org/css/mobile.css" media="screen and (max-device-width: 850px)" rel="stylesheet" type="text/css">
-        <link rel="stylesheet" href="http://jugendrettet.org/css/animations.css" type="text/css" />
+        <link rel="stylesheet" href="http://jugendrettet.org/css/animations.1.css" type="text/css" />
 
 
         <script src="http://jugendrettet.org/js/jquery-1.10.2.min.js"></script>
-        <script src="http://jugendrettet.org/js/rechner.js"></script>
+        <script src="http://jugendrettet.org/js/rechner.2.js"></script>
         <script type="text/javascript">
             $(window).load(function() {
                 $('body').fadeIn(400);
@@ -59,8 +59,9 @@
             #phase hr.load#ph-eins-progress {
                 transition: 800ms ease;
                 width: <?php
-                    $phase1 = file_get_contents('donations/phase1.txt');
-                    $value1 = number_format(32 / 270000 * $phase1,2,",",".");                                 echo 100 / 270000 * $phase1;
+                    $phase1 = file_get_contents('../donations/phase1.txt');
+                    $value1 = number_format(32 / 80000 * $phase1,2,",",".");
+                    echo 100 / 80000 * $phase1;
                     ?>%;
             }
             #phase hr.load#ph-zwei-progress {
@@ -132,20 +133,66 @@
                       <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
                       <input type="hidden" name="cmd" value="_s-xclick">
                       <input type="hidden" name="hosted_button_id" value="SBV6JB66SH52G">
-                      <input type="image" src="graphics/checkout-logo-69x26-alt-2x.png" name="submit" alt="Jetzt einfach, schnell und sicher online bezahlen – mit PayPal.">
+                      <input type="image" src="http://jugendrettet.org/graphics/checkout-logo-69x26-alt-2x.png" name="submit" alt="Jetzt einfach, schnell und sicher online bezahlen – mit PayPal.">
                       </form>
                       <p style="font-size:small">PayPal erhebt für Spenden 1,5% + 0,35€</p>
                     </div>
+
+                   <!-- <h4>Rechner</h4>
+                      <div id="rechner">
+                          <input type="Text" id="spendeinput" oninput="rechnen(this.form)"> €
+                          <br><br>
+                          <div id="spendentext" style="display:none">
+                            <p id="text-schiffsteil-prozent">Mit deinen <b class="EUR"></b> <b>€</b> kämen <b id="prozent"></b> <b>%</b> zum zweiten Schiffsteil - Crewräume und Maschinenraum - dazu.</p>
+                            <p id="text-schiffsteil-komplett">Mit deinen <b class="EUR"></b> <b>€</b> wäre das zweite Schiffsteil - Crewräume und Maschinenraum - komplett!</p>
+                            <p id="text-schiffsteil-mehr">Sogar noch mehr:</p>
+
+                            <p id="text-schiff-meter">Insgesamt wären damit <b id="meter"></b> <b id="unitmeter">m</b> des Schiffs finanziert. Das sind <b id="qmeter"></b> <b id="unitqmeter">m²</b>, die Platz für die Seenotrettung bieten.</p>
+
+                            <p id="text-schiff-komplett">Mit deinen <b class="EUR"></b> <b>€</b> wäre das gesamte Schiff finanziert! Mit einer Länge von <b>32 m</b> und einer Fläche von <b>160 m²</b> bietet es genug Platz, um mehr als <b>80 Menschen</b> auf einmal aus der Seenot zu retten.</p>
+
+                            <p id="button"><br><br><a id="aendern-btn" onclick="changeColor('#spendenbox');toDiv('#top');">ICH RETTE MIT!</a></p>
+
+                          </div>
+                          <div id="spendentext-fehler" style="display:none">
+                            <p>Bitte versuch es nur mit Zahlen.</p>
+                          </div>
+                        </div> -->
+
                   </div>
 
-                  <div class="column">
-                    <div style="background:#286482;padding:10px">
-                      <p>Der Schiffsmarkt hat sich verändert.</p>
-                      <p>Wir überarbeiten unsere finanzielle Planung und teilen euch die Ergebnisse bald mit!</p>
+                  <div class="column" style="min-width: 300px;">
+                    <h4>SPENDENSTAND: 20.703,21€</h4>
+                    <div id="schiff-ani">
+                        <div id=schiff-container style="min-height:133px;width:300px;">
+                            <div id="schiff" style="padding:5px;position:absolute">
+                              <img src="http://jugendrettet.org/graphics/schiff-konturen-weiss.svg" alt="Das Schiff" style="width:300px;opacity:0.1">
+                            </div>
+                            <div class="blink balken" id="schiff-gespendet" style="padding:5px;position:absolute;overflow:hidden;width:calc(300px * 20703 / 80000);">
+                              <img src="http://jugendrettet.org/graphics/schiff-blau-neu.svg" alt="Das Schiff" style="width:300px" class="blink">
+                            </div>
+                        </div>
+                        <br>
+                        <div id="phase">
+                            <div class="ph-container" id="ph-eins">
+                                <div class="header">
+                                    <span class="title">Phase 1</span><span class="percentage"><?php echo $value1;?>m / 32m</span>
+                                    <hr id="ph-eins-progress"></hr>
+                                </div>
+                                <div class="content" id="ph-eins-content">
+                                    <p>Wir haben uns bei der Kreuzberger Kinderstiftung auf ein Stiftungsgeld von 5000€ beworben. Der Gründer der Stiftung war so begeistert von unserem Projekt, dass er uns die 150.000€, die ein Schiff nach unseren Vorstellungen kostet, spendet. Bedingung ist allerdings, dass wir das Geld für den Umbau und die laufenden Kosten für den ersten Monat - <b>80.000€</b> - <b>bis 31. März 2016</b> zusammenkriegen. Wir sind überwältigt von dieser Großzügigkeit. Damit der Umbau ab 01. April planmäßig stattfinden kann, benötigen wir euch nun mehr denn je: Bitte unterstützt uns, indem ihr weiterhin von uns erzählt. Jede noch so kleine Spende bringt uns unserem Ziel, Menschenleben zu retten, weiter!</p>
+                                    <br>
+                                    <p>Danke an alle, die schon so fleißig gespendet und von uns erzählt haben. Es gilt jetzt, alles zu mobilisieren, damit der Umbau für die Rettungsmissionen umgesetzt werden kann.</p>
+                                    <br>
+                                    <p>Weitere Infos zu unserem Schiff findest du <a href="schiff#wie">hier</a>.</p>
+                                    <br>
+                                    <p>Unser Schiff wird etwa 32m lang sein. Bisher sind <?php echo $value1;?>m finanziert. Spende auch du 10 cm.</p>
+                                </div>
+                            </div>
+                        </div>
                     </div>
-                    <h4>SPENDENSTAND</h4>
-                    <p style="font-size:xx-large">20.703,21 €</p>
                   </div>
+
             </div>
             <div id="content">
                 <footer>
