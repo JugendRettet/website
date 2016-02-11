@@ -140,6 +140,7 @@
                             <li>Kiel: <a href="mailto:Matthis@jugendrettet.org">Matthis</a></li>
                             <li>Koblenz: <a href="mailto:Alexw@jugendrettet.org">Alex</a></li>
                             <li>Köln: <a href="mailto:Carlo@jugendrettet.org">Carlo</a></li>
+                            <li>Liechtenstein: <a href="mailto:Helena@jugendrettet.org">Helena</a></li>
                             <li>Münster: <a href="mailto:Jana@jugendrettet.org">Jana</a></li>
                             <li>Nürnberg: <a href="mailto:Johanna@jugendrettet.org">Johanna</a></li>
                             <li>Paderborn: <a href="mailto:Wiebke@jugendrettet.org">Wiebke</a></li>
