@@ -1,0 +1,153 @@
+#ph-eins-content {
+	-webkit-animation:2s phase ease-in-out 1;
+	-moz-animation:2s phase ease-in-out 1;
+	-ms-animation:2s phase ease-in-out 1;
+	-o-animation:2s phase ease-in-out 1;
+	animation:2s phase ease-in-out 1;
+}
+@keyframes "phase" {
+	from,to {
+		0% { opacity: 1; }
+		100% { opacity: 0; }
+	}
+}
+@-moz-keyframes phase {
+	from,to {
+		0% { opacity: 1; }
+		100% { opacity: 0; }
+	}
+}
+@-webkit-keyframes "phase" {
+	from,to {
+		0% { opacity: 1; }
+		100% { opacity: 0; }
+	}
+}
+@-ms-keyframes "phase" {
+	from,to {
+		0% { opacity: 1; }
+		100% { opacity: 0; }
+	}
+}
+@-o-keyframes "phase" {
+	from,to {
+		0% { opacity: 1; }
+		100% { opacity: 0; }
+	}
+}
+
+
+.blink {
+	-webkit-animation:3s blink ease-in-out infinite;
+	-moz-animation:3s blink ease-in-out infinite;
+	-ms-animation:3s blink ease-in-out infinite;
+	-o-animation:3s blink ease-in-out infinite;
+	animation:3s blink ease-in-out infinite;
+}
+@keyframes "blink" {
+	from,to {
+		opacity:0.5;
+	}
+	50% {
+		opacity:1;
+	}
+}
+@-moz-keyframes blink {
+	from,to {
+		opacity:0.5;
+	}
+	50% {
+		opacity:1;
+	}
+}
+@-webkit-keyframes "blink" {
+	from,to {
+		opacity:0.5;
+	}
+	50% {
+		opacity:1;
+	}
+}
+@-ms-keyframes "blink" {
+	from,to {
+		opacity:0.5;
+	}
+	50% {
+		opacity:1;
+	}
+}
+@-o-keyframes "blink" {
+	from,to {
+		opacity:0.5;
+	}
+	50% {
+		opacity:1;
+	}
+}
+
+.balken {
+	-webkit-animation:2s balken ease-in-out 1;
+	-moz-animation:2s balken ease-in-out 1;
+	-ms-animation:2s balken ease-in-out 1;
+	-o-animation:2s balken ease-in-out 1;
+	animation:2s balken ease-in-out 1;
+}
+@keyframes "balken" {
+	from,to {
+		width:0;
+	}
+	100% {
+		width:calc(300px * 20703 / 80000);
+	}
+}
+@-moz-keyframes balken {
+	from,to {
+		width:0;
+	}
+	100% {
+		width:calc(300px * 20703 / 80000);
+	}
+}
+@-webkit-keyframes "balken" {
+	from,to {
+		width:0;
+	}
+	100% {
+		width:calc(300px * 20703 / 80000);
+	}
+}
+@-ms-keyframes "balken" {
+	from,to {
+		width:0;
+	}
+	100% {
+		width:calc(300px * 20703 / 80000);
+	}
+}
+@-o-keyframes "balken" {
+	from,to {
+		width:0;
+	}
+	100% {
+		width:calc(300px * 20703 / 80000);
+	}
+}
+
+.unterteilungen{
+		font-size: x-small;
+}
+
+.spendenstand{
+		top:145px;
+		transition: left 1.5s;
+		font-size: small;
+}
+
+#spendenbox{
+		background-color: inherit;
+		-webkit-transition: background-color 1000ms linear;
+		-moz-transition: background-color 1000ms linear;
+		-o-transition: background-color 1000ms linear;
+		-ms-transition: background-color 1000ms linear;
+		transition: background-color 1000ms linear;
+}

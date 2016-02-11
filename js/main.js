@@ -281,6 +281,7 @@ $(document).ready(function () {
 });
 //phasen
 $('#phase .content').hide();
+$('#phase .content').delay(2000).fadeIn(500);
 $('#phase .ph-container').click(function () {
     var that = $(this),
         selection = window.getSelection();
