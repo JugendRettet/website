@@ -20,7 +20,7 @@
         <link rel="shortcut icon" type="image/x-icon" href="http://jugendrettet.org/graphics/jr.ico"/>
         <link rel="mask-icon" href="http://jugendrettet.org/graphics/jr-mask.svg" color="rgb(40,100,130)">
         <link rel="apple-touch-icon" href="http://jugendrettet.org/graphics/apple-touch-icon.png"/>
-        <link href="http://jugendrettet.org/css/waves.css" rel="stylesheet" type="text/css">
+        <link rel="stylesheet" href="http://jugendrettet.org/css/waves.1.css" type="text/css" />
 
         <link href="http://jugendrettet.org/css/general.css" rel="stylesheet" type="text/css">
         <link href="http://jugendrettet.org/css/main.css" rel="stylesheet" type="text/css">
