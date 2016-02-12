@@ -89,7 +89,7 @@
                             <li style="box-shadow: 0 1px #fff;"><a href="presse">Presse</a></li>
                             <li><a href="impressum">Impressum</a></li>
                             <li class="br"></li>
-                            <li><a class="language-events" id="en">English</a></li>
+                            <li><a href="http://en.jugendrettet.org/presse">English</a></li>
                         </ul>
                     </nav>
                 </footer>
