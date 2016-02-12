@@ -61,7 +61,8 @@
                 transition: 800ms ease;
                 width: <?php
                     $phase1 = file_get_contents('../donations/phase1.txt');
-                    $value1 = number_format(32 / 270000 * $phase1,2,",",".");                                 echo 100 / 270000 * $phase1;
+                    $value1 = number_format(32 / 80000 * $phase1,2,",",".");
+                    echo 100 / 80000 * $phase1;
                     ?>%;
             }
             #phase hr.load#ph-zwei-progress {
@@ -138,14 +139,34 @@
                       <p style="font-size:small">PayPal charges 1.5% + 0.35€ for each donation.</p>
                     </div>
                   </div>
-                  <div class="column">
-                    <div style="background:#286482;padding:10px">
-                      <p>The ship trading sector has changed.</p>
-                      <p>We revise our financial plan and keep you up to date!</p>
+
+                  <div class="column" style="min-width: 300px;">
+                    <h4>RAISED FUNDS: 20,703.21€</h4>
+                    <div id="schiff-ani">
+                        <div id=schiff-container style="min-height:133px;width:300px;">
+                            <div id="schiff" style="padding:5px;position:absolute">
+                              <img src="http://jugendrettet.org/graphics/schiff-konturen-weiss.svg" alt="The Ship" style="width:300px;opacity:0.1">
+                            </div>
+                            <div class="blink balken" id="schiff-gespendet" style="padding:5px;position:absolute;overflow:hidden;width:calc(300px * 20703 / 80000);">
+                              <img src="http://jugendrettet.org/graphics/schiff-blau-neu.svg" alt="The Ship" style="width:300px" class="blink">
+                            </div>
+                        </div>
+                        <br>
+                        <div id="phase">
+                            <div class="ph-container" id="ph-eins">
+                                <div class="header">
+                                    <span class="title">Phase 1</span><span class="percentage"><?php echo $value1;?>m / 32m</span>
+                                    <hr id="ph-eins-progress"></hr>
+                                </div>
+                                <div class="content" id="ph-eins-content">
+                                    <p>The ship trading sector has changed.</p>
+                                    <p>We revise our financial plan and keep you up to date!</p>
+                                </div>
+                            </div>
+                        </div>
                     </div>
-                    <h4>RAISED FUNDS</h4>
-                    <p style="font-size:xx-large">20,703.21 €</p>
                   </div>
+
                 </div>
             </div>
             <div id="content">
@@ -157,7 +178,6 @@
                             <li><a class="peek" id="kontakt">Contact</a></li>
                             <li><a href="impressum">Legal Notice</a></li>
                             <li class="br"></li>
-                            <li><a href="http://en.jugendrettet.org/spenden">English</a></li>
                             <li><a href="http://jugendrettet.org/spenden">Deutsch</a></li>
                         </ul>
                     </nav>
