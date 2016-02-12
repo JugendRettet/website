@@ -159,8 +159,24 @@
                                     <hr id="ph-eins-progress"></hr>
                                 </div>
                                 <div class="content" id="ph-eins-content">
-                                    <p>The ship trading sector has changed.</p>
-                                    <p>We revise our financial plan and keep you up to date!</p>
+                                    <p>Wir haben uns bei der Kreuzberger Kinderstiftung auf ein Stiftungsgeld von 5000€
+                                     beworben. Der Gründer der Stiftung war so begeistert von unserem Projekt, dass er
+                                      uns die 150.000€, die ein Schiff nach unseren Vorstellungen kostet, spendet.
+                                       Bedingung ist allerdings, dass wir das Geld für den Umbau und die laufenden
+                                        Kosten für den ersten Monat - <b>80.000€</b> - <b>bis 31. März 2016</b>
+                                         zusammenkriegen. Wir sind überwältigt von dieser Großzügigkeit. Damit der Umbau
+                                          ab 01. April planmäßig stattfinden kann, benötigen wir euch nun mehr denn je:
+                                           Bitte unterstützt uns, indem ihr weiterhin von uns erzählt. Jede noch so kleine
+                                            Spende bringt uns unserem Ziel, Menschenleben zu retten, weiter!</p>
+                                    <br>
+                                    <p>Danke an alle, die schon so fleißig gespendet und von uns erzählt haben. Es gilt
+                                     jetzt, alles zu mobilisieren, damit der Umbau für die Rettungsmissionen umgesetzt
+                                      werden kann.</p>
+                                    <br>
+                                    <p>You can find further information on our ship <a href="schiff#wie">here</a>.</p>
+                                    <br>
+                                    <p>Our ship will be 32m (105ft) long. By now, <?php echo $value1;?>m are funded.
+                                     Donate 10cm for yourself!</p>
                                 </div>
                             </div>
                         </div>
