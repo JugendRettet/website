@@ -63,8 +63,7 @@
                     <div id="peek-container"></div>
                     <nav class="footer">
                         <ul>
-                            <li><a href="http://en.jugendrettet.org/index">English</a></li>
-                            <li><a href="http://jugendrettet.org/index">Deutsch</a></li>
+                            <li><a href="http://jugendrettet.org/">Deutsch</a></li>
                         </ul>
                     </nav>
                 </footer>

@@ -375,7 +375,6 @@
                             <li><a class="peek" id="kontakt">Contact</a></li>
                             <li><a href="impressum">Legal Notice</a></li>
                             <li class="br"></li>
-                            <li><a href="http://en.jugendrettet.org/news">English</a></li>
                             <li><a href="http://jugendrettet.org/news">Deutsch</a></li>
                         </ul> 
                     </nav>

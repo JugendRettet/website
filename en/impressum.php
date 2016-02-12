@@ -112,7 +112,6 @@
                             <li><a class="peek" id="kontakt">Contact</a></li>
                             <li class="indicator foot"><a href="impressum">Legal Notice</a></li>
                             <li class="br"></li>
-                            <li><a href="http://en.jugendrettet.org/impressum">English</a></li>
                             <li><a href="http://jugendrettet.org/impressum">Deutsch</a></li>
                         </ul>
                     </nav>
