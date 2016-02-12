@@ -191,7 +191,6 @@ nav ul.hidden li.scale {
     opacity: 1;
 }
 #union {
-    width: 80%;
     padding: calc(20% + 100px) 10% 0;
     position: relative;
     display: block;
