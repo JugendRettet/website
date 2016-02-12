@@ -115,7 +115,7 @@
                         <a href="events?date=19-01-2016" class="event-container">
                             <span class="event-date">Tuesday, 19th January 2016</span>
                             <span class="event-title">Invitation to open meeting in Kiel</span>
-                        </a> -->
+                        </a>
 
                         <a href="events?date=10-02-2016" class="event-container">
                             <span class="event-date">Wednesday, February 10th 2016</span>
@@ -125,7 +125,7 @@
                         <a href="events?date=11-02-2016" class="event-container">
                             <span class="event-date">Thursday, February 11th 2016</span>
                             <span class="event-title">Remembrance for the fatalities during escape 2015, in Bonn</span>
-                        </a>
+                        </a> -->
 
                     </div>
                 </div>
