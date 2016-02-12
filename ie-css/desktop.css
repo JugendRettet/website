@@ -228,7 +228,7 @@ header ul li a, header ul.open li a {
 }
 }
 
-@media screen and (min-width: 769px) and (max-width: 1039px) {
+@media screen and (min-width: 850px) and (max-width: 1039px) {
 /* Main */
     
 #wrap {
@@ -395,7 +395,7 @@ header ul li a, header ul.open li a {
     margin-top: 50px;
 }
 }
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 851px) {
 
 /* Main */
 
