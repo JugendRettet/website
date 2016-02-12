@@ -334,6 +334,7 @@ Euer Jugend Rettet Team</p><br>
                         <ul>
                             <li><a href="faq">FAQ</a></li>
                             <li><a class="peek" id="kontakt">Kontakt</a></li>
+                            <li><a href="presse">Press</a></li>
                             <li><a href="impressum">Impressum</a></li>
                             <li class="br"></li>
                             <li><a class="language-events" id="de">Deutsch</a></li>

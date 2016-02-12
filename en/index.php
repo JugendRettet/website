@@ -63,6 +63,8 @@
                     <div id="peek-container"></div>
                     <nav class="footer">
                         <ul>
+                            <li><a href="presse">Press</a></li>
+                            <li class="br"></li>
                             <li><a href="http://jugendrettet.org/">Deutsch</a></li>
                         </ul>
                     </nav>
