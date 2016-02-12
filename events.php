@@ -431,7 +431,6 @@ Botschafter des Vereins werden auch vor Ort über das Projekt informieren und de
                             <li><a href="impressum">Impressum</a></li>
                             <li class="br"></li>
                             <li><a class="language-events" id="en">English</a></li>
-                            <li><a class="language-events" id="de">Deutsch</a></li>
                         </ul>
                     </nav>
                 </footer>

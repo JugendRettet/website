@@ -120,7 +120,6 @@
                             <li><a href="impressum">Impressum</a></li>
                             <li class="br"></li>
                             <li><a href="http://en.jugendrettet.org/aendern">English</a></li>
-                            <li><a href="http://jugendrettet.org/aendern">Deutsch</a></li>
                         </ul>
                     </nav>
                 </footer>
