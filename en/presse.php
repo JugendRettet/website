@@ -67,7 +67,7 @@
             <div class="popup-flat">
                 <div class="single">
                   <div class="column">
-                    <h3>Presse</h3>
+                    <h3>Press</h3>
 
                     <p>Pauline Schmidt</p>
                     <p>Head of Press Jugend Rettet</p>
