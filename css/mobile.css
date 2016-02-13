@@ -8,6 +8,9 @@ body {
     position: fixed !important;
     overflow: hidden !important;
 }
+.hideme {
+    opacity:0;
+}
 /* Header */
 header ul li:hover {
 	background-color: rgba(40,100,130,0.00);

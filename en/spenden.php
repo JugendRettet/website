@@ -31,6 +31,7 @@
 
         <script src="http://jugendrettet.org/js/jquery-1.10.2.min.js"></script>
         <script src="http://jugendrettet.org/js/rechner.2.js"></script>
+        <script src="http://jugendrettet.org/js/hideme.js"></script>
         <script type="text/javascript">
             $(window).load(function() {
                 $('body').fadeIn(400);
@@ -140,7 +141,7 @@
                     </div>
                   </div>
 
-                  <div class="column" style="min-width: 300px;">
+                  <div class="column hideme" style="min-width: 300px;">
                     <h4>RAISED FUNDS: 20,703.21€</h4>
                     <div id="schiff-ani">
                         <div id=schiff-container style="min-height:133px;width:300px;">
@@ -151,17 +152,17 @@
                               <img src="http://jugendrettet.org/graphics/schiff-blau-neu.svg" alt="The Ship" style="width:300px" class="blink">
                             </div>
                         </div>
-                        <br>
-                        <div id="phase">
-                            <div class="ph-container" id="ph-eins">
-                                <div class="header">
-                                    <span class="title">Phase 1</span><span class="percentage"><?php echo $value1;?>m / 32m</span>
-                                    <hr id="ph-eins-progress"></hr>
-                                </div>
-                                <div class="content" id="ph-eins-content">
-                                    <p>The ship trading sector has changed.</p>
-                                    <p>We revise our financial plan and keep you up to date!</p>
-                                </div>
+                    </div>
+                    <br>
+                    <div id="phase">
+                        <div class="ph-container" id="ph-eins">
+                            <div class="header">
+                                <span class="title">Phase 1</span><span class="percentage"><?php echo $value1;?>m / 32m</span>
+                                <hr id="ph-eins-progress"></hr>
+                            </div>
+                            <div class="content" id="ph-eins-content">
+                                <p>The ship trading sector has changed.</p>
+                                <p>We revise our financial plan and keep you up to date!</p>
                             </div>
                         </div>
                     </div>

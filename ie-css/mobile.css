@@ -11,6 +11,9 @@ body {
     position: fixed !important;
     overflow: hidden !important;
 }
+.hideme {
+    opacity:0;
+}
 @media screen and (max-height: 340px) {
 header ul li {
     padding: 5px 0 !important;
