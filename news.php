@@ -93,7 +93,17 @@
                               </form>
                           </div>
                       </div><br>
-
+                      <a class="faq" id="52"><b>10. Februar</b> Phase 1 fast abgeschlossen! </a>
+                      <div class="faq-klappe" id="52-klappe">
+                        <p>Wir haben uns bei der Kreuzberger Kinderstiftung auf ein Stiftungsgeld von 5000€ beworben. Der Gründer der Stiftung war so begeistert von unserem Projekt, dass er uns die 150.000€, die ein Schiff nach unseren Vorstellungen kostet, spendet. Bedingung ist allerdings, dass wir das Geld für den Umbau und die laufenden Kosten für den ersten Monat - <b>80.000€</b> - <b>bis 31. März 2016</b> zusammenkriegen. Wir sind überwältigt von dieser Großzügigkeit. Damit der Umbau ab 01. April planmäßig stattfinden kann, benötigen wir euch nun mehr denn je: Bitte unterstützt uns, indem ihr weiterhin von uns erzählt. Jede noch so kleine Spende bringt uns unserem Ziel, Menschenleben zu retten, weiter!</p>
+                        <br>
+                        <p>Danke an alle, die schon so fleißig gespendet und von uns erzählt haben. Es gilt jetzt, alles zu mobilisieren, damit der Umbau für die Rettungsmissionen umgesetzt werden kann.</p>
+                        <a href="http://jugendrettet.org/files/schiff.gif" target="_blank"><img class="news" src='http://jugendrettet.org/files/schiff_twitter.gif'></img></a>
+                      </div><br>
+                      <a class="faq" id="51"><b>09. Februar</b> Berwerbung bei "HelferHerzen" von dm</a>
+                      <div class="faq-klappe" id="51-klappe">
+                          <p>Unsere Münster Botschafterin Jana hat uns bei dem Projekt "HelferHerzen" von dm angemeldet. Wir haben hier die Chance, mit bis zu 1000€ gefördert zu werden. Danke Jana! Und wer Jana in Münster und Umgebung gerne unterstützen möchte, schreibt gerne eine Mail an <a href="mailto:jana@jugendrettet.org">Jana</a>.
+                      </div><br>
                       <a class="faq" id="50"><b>01. Februar 2016</b> Zu Gast bei Radio funkUP</a>
                       <div class="faq-klappe" id="50-klappe">
                           <p>Lena und unser Potsdamer Botschafter Alex waren bei funkUP zu Gast und haben u.a. über linken Deutschrap und das Gefühl, Teil einer Jugendorganisation zu sein gesprochen. 
@@ -102,7 +112,7 @@
                       </div><br>
                       <a class="faq" id="49"><b>30. Januar</b> "Bötchenaktion" des Team Aachen</a>
                       <div class="faq-klappe" id="49-klappe">
-                          <p>Heute wollen wir euch die "Bötchenaktion" des Team Aachen vorstellen: Sie haben gestern mit den Klassen 5,6,7,8 & 9 am Einhard Gymnasium Aachen kleine Bötchen gefaltet, dadurch konnten die Schüler ihre Unterstützung demonstrieren. Insgesamt sind so mehr als 850 Bötchen gebastelt worden. Für 10€ kann man eine Patenschaft für eines der Bötchen übernehmen. Es sind noch ein paar Patenschaften übrig. Wer Lust hat eine Patenschaft zu übernehmen, schreibt bitte an <a href="mailto:luisa@jugendrettet.org">Luisa</a>! Wir freuen uns über eure Unterstützung!</p>
+                          <p>Heute wollen wir euch die "Bötchenaktion" des Team Aachen vorstellen: Sie haben gestern mit den Klassen 5, 6, 7, 8 und 9 am Einhard Gymnasium Aachen kleine Bötchen gefaltet, dadurch konnten die Schüler ihre Unterstützung demonstrieren. Insgesamt sind so mehr als 850 Bötchen gebastelt worden. Für 10€ kann man eine Patenschaft für eines der Bötchen übernehmen. Es sind noch ein paar Patenschaften übrig. Wer Lust hat eine Patenschaft zu übernehmen, schreibt bitte an <a href="mailto:luisa@jugendrettet.org">Luisa</a>! Wir freuen uns über eure Unterstützung!</p>
                           <br>
                           <a href="http://jugendrettet.org/images/boetchen.jpg" target="_blank"><img class="news" src= 'http://jugendrettet.org/images/boetchen.jpg'></img></a>
                       </div><br>
