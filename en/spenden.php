@@ -159,15 +159,26 @@
                                     <hr id="ph-eins-progress"></hr>
                                 </div>
                                 <div class="content" id="ph-eins-content">
-                                    <p>We applied for a fund of 5000€ at the Kreuzberger Kinderstiftung. The founder of that initiative was so excited to hear about our plan, that he will donate the full 150.000€ which a ship will cost in our calculations. Condition to this, is that we collect the money for conversion and running costs for the first month - <b>80.000€ - until March 31st. We are stunned by this generosity. To make the conversion happen as planned, beginning April 1st, we need you more than ever: Please support us by telling about us. Every little donation will bring us closer to our aim, to save human lives!</b>
-                                       </p>
+                                    <p>
+                                        We applied for a fund of 5000€ at the Kreuzberger Kinderstiftung. The founder of that initiative 
+                                        was so excited to hear about our plan, that he will donate the full 150.000€ which a ship will 
+                                        cost in our calculations. Condition to this is, that we collect the money for conversion and running 
+                                        costs for the first month - <b>80.000€ - until March 31st</b>. We are stunned by this generosity. 
+                                        To make the conversion happen as planned, beginning April 1st, we need you more than ever: Please 
+                                        support us by telling about us. Every little donation will bring us closer to our aim, to save human lives!
+                                    </p>
                                     <br>
-                                    <p>Thank you so much everyone, who already donated to us and spread our word. It is important now to get everything going, so the conversion for rescue missions can be realized. </p>
+                                    <p>
+                                        Thank you so much everyone, who already donated to us and spread our word. It is important now to get 
+                                        everything going, so the conversion for rescue missions can be realized.
+                                    </p>
                                     <br>
                                     <p>You can find further information on our ship <a href="schiff#wie">here</a>.</p>
                                     <br>
-                                    <p>Our ship will be 32m (105ft) long. By now, <?php echo $value1;?>m are funded.
-                                     Donate 10cm for yourself!</p>
+                                    <p>
+                                        Our ship will be 32m (105ft) long. By now, <?php echo $value1;?>m are funded.
+                                        Donate 10cm for yourself!
+                                    </p>
                                 </div>
                             </div>
                         </div>
