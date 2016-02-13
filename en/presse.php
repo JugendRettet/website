@@ -75,7 +75,8 @@
                     <p>Mail: <a href="mailto:PaulineS@jugendrettet.org">PaulineS@jugendrettet.org</a></li></p>
                     <p>Fon: <a href="tel:+49 175 82 28 735">+49 175 822 87 35</a></p>
                     <br>
-                    <p>&#8594; <a href="http://jugendrettet.org/files/presse.vcf">save contact</a></p>
+                    <p>&#8594; <a href="http://jugendrettet.org/files/presse.vcf">save contact</a> or scan:</p>
+                    <a href="http://jugendrettet.org/files/presse_qr.png" target="_blank"><img class="news" src='http://jugendrettet.org/files/presse_qr.png'></img></a>
                     <!--<p>&#8594; <a href="http://jugendrettet.org/files/Vereinssatzung_v1.pdf">Presse-Kit</a></p>-->
                     </div>
                 </div>
