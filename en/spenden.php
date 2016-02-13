@@ -7,7 +7,7 @@
         <meta name="keywords" content="Jugend, Rettet, Jugend Rettet, Jugend Rettet e. V., Seenotrettung, Mittelmeer, Flüchtlinge, Spenden, Europa, Organisation, sea, rescue, Mediterranean, refugee, fund, donate, europe" />
 
         <meta property="og:title" content="Jugend Rettet" />
-        <meta property="og:description" content="Wir sind eine Organisation von jungen Erwachsenen für junge Erwachsene. Wir sammeln Gelder für den Erwerb eines Schiffes und mit diesem Schiff werden wir private Seenotrettung auf dem Mittelmeer betreiben." />
+        <meta property="og:description" content="We are an organization of young adults for young adults. We collect funds to buy a ship. With this ship, we will conduct private sea rescue on the Mediterranean Sea" />
         <meta property="og:url" content="http://en.jugendrettet.org/spenden" />
         <meta property="og:image" content="http://jugendrettet.org/images/jr-banner.jpg" />
         <meta property="og:type" content="website" />
@@ -20,7 +20,7 @@
         <link rel="shortcut icon" type="image/x-icon" href="http://jugendrettet.org/graphics/jr.ico"/>
         <link rel="mask-icon" href="http://jugendrettet.org/graphics/jr-mask.svg" color="rgb(40,100,130)">
         <link rel="apple-touch-icon" href="http://jugendrettet.org/graphics/apple-touch-icon.png"/>
-        <link href="http://jugendrettet.org/css/waves.css" rel="stylesheet" type="text/css">
+        <link rel="stylesheet" href="http://jugendrettet.org/css/waves.1.css" type="text/css" />
 
         <link href="http://jugendrettet.org/css/general.css" rel="stylesheet" type="text/css">
         <link href="http://jugendrettet.org/css/main.css" rel="stylesheet" type="text/css">
@@ -31,6 +31,7 @@
 
         <script src="http://jugendrettet.org/js/jquery-1.10.2.min.js"></script>
         <script src="http://jugendrettet.org/js/rechner.2.js"></script>
+        <script src="http://jugendrettet.org/js/hideme.js"></script>
         <script type="text/javascript">
             $(window).load(function() {
                 $('body').fadeIn(400);
@@ -140,7 +141,7 @@
                     </div>
                   </div>
 
-                  <div class="column" style="min-width: 300px;">
+                  <div class="column hideme" style="min-width: 300px;">
                     <h4>RAISED FUNDS: 20,703.21€</h4>
                     <div id="schiff-ani">
                         <div id=schiff-container style="min-height:133px;width:300px;">
@@ -151,35 +152,35 @@
                               <img src="http://jugendrettet.org/graphics/schiff-blau-neu.svg" alt="The Ship" style="width:300px" class="blink">
                             </div>
                         </div>
-                        <br>
-                        <div id="phase">
-                            <div class="ph-container" id="ph-eins">
-                                <div class="header">
-                                    <span class="title">Phase 1</span><span class="percentage"><?php echo $value1;?>m / 32m</span>
-                                    <hr id="ph-eins-progress"></hr>
-                                </div>
-                                <div class="content" id="ph-eins-content">
-                                    <p>
-                                        We applied for a fund of 5000€ at the Kreuzberger Kinderstiftung. The founder of that initiative 
-                                        was so excited to hear about our plan, that he will donate the full 150.000€ which a ship will 
-                                        cost in our calculations. Condition to this is, that we collect the money for conversion and running 
-                                        costs for the first month - <b>80.000€ - until March 31st</b>. We are stunned by this generosity. 
-                                        To make the conversion happen as planned, beginning April 1st, we need you more than ever: Please 
-                                        support us by telling about us. Every little donation will bring us closer to our aim, to save human lives!
-                                    </p>
-                                    <br>
-                                    <p>
-                                        Thank you so much everyone, who already donated to us and spread our word. It is important now to get 
-                                        everything going, so the conversion for rescue missions can be realized.
-                                    </p>
-                                    <br>
-                                    <p>You can find further information on our ship <a href="schiff#wie">here</a>.</p>
-                                    <br>
-                                    <p>
-                                        Our ship will be 32m (105ft) long. By now, <?php echo $value1;?>m are funded.
-                                        Donate 10cm for yourself!
-                                    </p>
-                                </div>
+                    </div>
+                    <br>
+                    <div id="phase">
+                        <div class="ph-container" id="ph-eins">
+                            <div class="header">
+                                <span class="title">Phase 1</span><span class="percentage"><?php echo $value1;?>m / 32m</span>
+                                <hr id="ph-eins-progress"></hr>
+                            </div>
+                            <div class="content" id="ph-eins-content">
+                                <p>
+                                    We applied for a fund of 5000€ at the Kreuzberger Kinderstiftung. The founder of that initiative 
+                                    was so excited to hear about our plan, that he will donate the full 150.000€ which a ship will 
+                                    cost in our calculations. Condition to this is, that we collect the money for conversion and running 
+                                    costs for the first month - <b>80.000€ - until March 31st</b>. We are stunned by this generosity. 
+                                    To make the conversion happen as planned, beginning April 1st, we need you more than ever: Please 
+                                    support us by telling about us. Every little donation will bring us closer to our aim, to save human lives!
+                                </p>
+                                <br>
+                                <p>
+                                    Thank you so much everyone, who already donated to us and spread our word. It is important now to get 
+                                    everything going, so the conversion for rescue missions can be realized.
+                                </p>
+                                <br>
+                                <p>You can find further information on our ship <a href="schiff#wie">here</a>.</p>
+                                <br>
+                                <p>
+                                    Our ship will be 32m (105ft) long. By now, <?php echo $value1;?>m are funded.
+                                    Donate 10cm for yourself!
+                                </p>
                             </div>
                         </div>
                     </div>
@@ -194,6 +195,7 @@
                         <ul>
                             <li><a href="faq">FAQ</a></li>
                             <li><a class="peek" id="kontakt">Contact</a></li>
+                            <li><a href="presse">Press</a></li>
                             <li><a href="impressum">Legal Notice</a></li>
                             <li class="br"></li>
                             <li><a href="http://jugendrettet.org/spenden">Deutsch</a></li>

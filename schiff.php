@@ -19,7 +19,7 @@
         <link rel="shortcut icon" type="image/x-icon" href="http://jugendrettet.org/graphics/jr.ico" />
         <link rel="mask-icon" href="http://www.jugendrettet.org/graphics/jr-mask.svg" color="rgb(40,100,130)">
         <link rel="apple-touch-icon" href="http://jugendrettet.org/graphics/apple-touch-icon.png"/>
-        <link rel="stylesheet" href="http://jugendrettet.org/css/waves.css" type="text/css" />
+        <link rel="stylesheet" href="http://jugendrettet.org/css/waves.1.css" type="text/css" />
 
         <link rel="stylesheet" href="http://jugendrettet.org/css/general.css" type="text/css" />
         <link rel="stylesheet" href="http://jugendrettet.org/css/main.css" type="text/css" />
@@ -123,6 +123,7 @@
                         <ul>
                             <li><a href="faq">FAQ</a></li>
                             <li><a class="peek" id="kontakt">Kontakt</a></li>
+                            <li><a href="presse">Presse</a></li>
                             <li><a href="impressum">Impressum</a></li>
                             <li class="br"></li>
                             <li><a href="http://en.jugendrettet.org/schiff">English</a></li>

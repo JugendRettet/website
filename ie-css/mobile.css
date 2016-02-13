@@ -11,6 +11,9 @@ body {
     position: fixed !important;
     overflow: hidden !important;
 }
+.hideme {
+    opacity:0;
+}
 @media screen and (max-height: 340px) {
 header ul li {
     padding: 5px 0 !important;
@@ -191,7 +194,6 @@ nav ul.hidden li.scale {
     opacity: 1;
 }
 #union {
-    width: 80%;
     padding: calc(20% + 100px) 10% 0;
     position: relative;
     display: block;

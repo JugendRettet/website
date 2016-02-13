@@ -19,7 +19,7 @@
         <link rel="shortcut icon" type="image/x-icon" href="http://jugendrettet.org/graphics/jr.ico" />
         <link rel="mask-icon" href="http://www.jugendrettet.org/graphics/jr-mask.svg" color="rgb(40,100,130)">
         <link rel="apple-touch-icon" href="http://jugendrettet.org/graphics/apple-touch-icon.png"/>
-        <link rel="stylesheet" href="http://jugendrettet.org/css/waves.css" type="text/css" />
+        <link rel="stylesheet" href="http://jugendrettet.org/css/waves.1.css" type="text/css" />
 
         <link rel="stylesheet" href="http://jugendrettet.org/css/general.css" type="text/css" />
         <link rel="stylesheet" href="http://jugendrettet.org/css/main.css" type="text/css" />
@@ -120,7 +120,7 @@
                         <a href="events?date=19-01-2016" class="event-container">
                             <span class="event-date">Dienstag, 19. Januar 2016</span>
                             <span class="event-title">Offenes Treffen Kiel</span>
-                        </a> -->
+                        </a>
 
                         <a href="events?date=10-02-2016" class="event-container">
                             <span class="event-date">Mittwoch, 10. Februar 2016</span>
@@ -130,7 +130,7 @@
                         <a href="events?date=11-02-2016" class="event-container">
                             <span class="event-date">Donnerstag, 11. Februar 2016</span>
                             <span class="event-title">Gedenken an die Todesopfer während der Flucht 2015 in Bonn</span>
-                        </a>
+                        </a> -->
 
                         <a href="events?date=15-02-2016" class="event-container">
                             <span class="event-date">Montag, 15. Februar 2016</span>
@@ -147,6 +147,7 @@
                         <ul>
                             <li><a href="faq">FAQ</a></li>
                             <li><a class="peek" id="kontakt">Kontakt</a></li>
+                            <li><a href="presse">Presse</a></li>
                             <li><a href="impressum">Impressum</a></li>
                             <li class="br"></li>
                             <li><a href="http://en.jugendrettet.org/europe">English</a></li>

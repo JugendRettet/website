@@ -19,7 +19,7 @@
         <link rel="shortcut icon" type="image/x-icon" href="http://jugendrettet.org/graphics/jr.ico"/>
         <link rel="mask-icon" href="http://jugendrettet.org/graphics/jr-mask.svg" color="rgb(40,100,130)">
         <link rel="apple-touch-icon" href="http://jugendrettet.org/graphics/apple-touch-icon.png"/>
-        <link href="http://jugendrettet.org/css/waves.css" rel="stylesheet" type="text/css">
+        <link rel="stylesheet" href="http://jugendrettet.org/css/waves.1.css" type="text/css" />
 
         <link href="http://jugendrettet.org/css/general.css" rel="stylesheet" type="text/css">
         <link href="http://jugendrettet.org/css/main.css" rel="stylesheet" type="text/css">
@@ -30,6 +30,7 @@
 
         <script src="http://jugendrettet.org/js/jquery-1.10.2.min.js"></script>
         <script src="http://jugendrettet.org/js/rechner.2.js"></script>
+        <script src="http://jugendrettet.org/js/hideme.js"></script>
         <script type="text/javascript">
             $(window).load(function() {
                 $('body').fadeIn(400);
@@ -161,7 +162,7 @@
 
                   </div>
 
-                  <div class="column" style="min-width: 300px;">
+                  <div class="column hideme" style="min-width: 300px;">
                     <h4>SPENDENSTAND: 20.703,21€</h4>
                     <div id="schiff-ani">
                         <div id=schiff-container style="min-height:133px;width:300px;">
@@ -172,22 +173,22 @@
                               <img src="http://jugendrettet.org/graphics/schiff-blau-neu.svg" alt="Das Schiff" style="width:300px" class="blink">
                             </div>
                         </div>
-                        <br>
-                        <div id="phase">
-                            <div class="ph-container" id="ph-eins">
-                                <div class="header">
-                                    <span class="title">Phase 1</span><span class="percentage"><?php echo $value1;?>m / 32m</span>
-                                    <hr id="ph-eins-progress"></hr>
-                                </div>
-                                <div class="content" id="ph-eins-content">
-                                    <p>Wir haben uns bei der Kreuzberger Kinderstiftung auf ein Stiftungsgeld von 5000€ beworben. Der Gründer der Stiftung war so begeistert von unserem Projekt, dass er uns die 150.000€, die ein Schiff nach unseren Vorstellungen kostet, spendet. Bedingung ist allerdings, dass wir das Geld für den Umbau und die laufenden Kosten für den ersten Monat - <b>80.000€</b> - <b>bis 31. März 2016</b> zusammenkriegen. Wir sind überwältigt von dieser Großzügigkeit. Damit der Umbau ab 01. April planmäßig stattfinden kann, benötigen wir euch nun mehr denn je: Bitte unterstützt uns, indem ihr weiterhin von uns erzählt. Jede noch so kleine Spende bringt uns unserem Ziel, Menschenleben zu retten, weiter!</p>
-                                    <br>
-                                    <p>Danke an alle, die schon so fleißig gespendet und von uns erzählt haben. Es gilt jetzt, alles zu mobilisieren, damit der Umbau für die Rettungsmissionen umgesetzt werden kann.</p>
-                                    <br>
-                                    <p>Weitere Infos zu unserem Schiff findest du <a href="schiff#wie">hier</a>.</p>
-                                    <br>
-                                    <p>Unser Schiff wird etwa 32m lang sein. Bisher sind <?php echo $value1;?>m finanziert. Spende auch du 10 cm.</p>
-                                </div>
+                    </div>
+                    <br>
+                    <div id="phase">
+                        <div class="ph-container" id="ph-eins">
+                            <div class="header">
+                                <span class="title">Phase 1</span><span class="percentage"><?php echo $value1;?>m / 32m</span>
+                                <hr id="ph-eins-progress"></hr>
+                            </div>
+                            <div class="content" id="ph-eins-content">
+                                <p>Wir haben uns bei der Kreuzberger Kinderstiftung auf ein Stiftungsgeld von 5000€ beworben. Der Gründer der Stiftung war so begeistert von unserem Projekt, dass er uns die 150.000€, die ein Schiff nach unseren Vorstellungen kostet, spendet. Bedingung ist allerdings, dass wir das Geld für den Umbau und die laufenden Kosten für den ersten Monat - <b>80.000€</b> - <b>bis 31. März 2016</b> zusammenkriegen. Wir sind überwältigt von dieser Großzügigkeit. Damit der Umbau ab 01. April planmäßig stattfinden kann, benötigen wir euch nun mehr denn je: Bitte unterstützt uns, indem ihr weiterhin von uns erzählt. Jede noch so kleine Spende bringt uns unserem Ziel, Menschenleben zu retten, weiter!</p>
+                                <br>
+                                <p>Danke an alle, die schon so fleißig gespendet und von uns erzählt haben. Es gilt jetzt, alles zu mobilisieren, damit der Umbau für die Rettungsmissionen umgesetzt werden kann.</p>
+                                <br>
+                                <p>Weitere Infos zu unserem Schiff findest du <a href="schiff#wie">hier</a>.</p>
+                                <br>
+                                <p>Unser Schiff wird etwa 32m lang sein. Bisher sind <?php echo $value1;?>m finanziert. Spende auch du 10 cm.</p>
                             </div>
                         </div>
                     </div>
@@ -201,6 +202,7 @@
                         <ul>
                             <li><a href="faq">FAQ</a></li>
                             <li><a class="peek" id="kontakt">Kontakt</a></li>
+                            <li><a href="presse">Presse</a></li>
                             <li><a href="impressum">Impressum</a></li>
                             <li class="br"></li>
                             <li><a href="http://en.jugendrettet.org/spenden">English</a></li>

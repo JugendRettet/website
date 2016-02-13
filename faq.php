@@ -19,7 +19,7 @@
         <link rel="shortcut icon" type="image/x-icon" href="http://jugendrettet.org/graphics/jr.ico" />
         <link rel="mask-icon" href="http://www.jugendrettet.org/graphics/jr-mask.svg" color="rgb(40,100,130)">
         <link rel="apple-touch-icon" href="http://jugendrettet.org/graphics/apple-touch-icon.png"/>       
-        <link rel="stylesheet" href="http://jugendrettet.org/css/waves.css" type="text/css" />
+        <link rel="stylesheet" href="http://jugendrettet.org/css/waves.1.css" type="text/css" />
 
         <link rel="stylesheet" href="http://jugendrettet.org/css/general.css" type="text/css" />
         <link rel="stylesheet" href="http://jugendrettet.org/css/main.css" type="text/css" />
@@ -190,6 +190,7 @@ Last update: 28-07-2015 <a href="http://europa.eu/rapid/press-release_MEMO-15-32
                         <ul>
                             <li style="box-shadow: 0 1px #fff;"><a href="faq">FAQ</a></li>
                             <li><a class="peek" id="kontakt">Kontakt</a></li>
+                            <li><a href="presse">Presse</a></li>
                             <li><a href="impressum">Impressum</a></li>
                             <li class="br"></li>
                             <li><a href="http://en.jugendrettet.org/faq">English</a></li>
