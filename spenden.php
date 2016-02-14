@@ -163,7 +163,7 @@
                   </div>
 
                   <div class="column hideme" style="min-width: 300px;">
-                    <h4>SPENDENSTAND: 20.703,21€</h4>
+                    <h4>SPENDENSTAND: 20.803,21€</h4>
                     <div id="schiff-ani">
                         <div id=schiff-container style="min-height:133px;width:300px;">
                             <div id="schiff" style="padding:5px;position:absolute">
