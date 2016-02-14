@@ -95,7 +95,7 @@
                           </div>
                       </div><br>
 
-                      <a class="faq" id="54"><b>13. Februar</b> Ship inspection! </a>
+                      <a class="faq" id="54"><b>February 13th</b> Ship inspection! </a>
                       <div class="faq-klappe" id="54-klappe">
                         <p>
                           We went to the Netherlands today to visit the two ships that we consider as the best fit to our needs. Our expert gives us green lights about the machinery. More infos will follow soon!
