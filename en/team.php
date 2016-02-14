@@ -89,7 +89,7 @@
                     </div>
                     <div class="column">
                         <h4>The Team</h4>
-                        <!--<a href="http://jugendrettet.org/images/team_s.jpg" target="_blank"><img class="news" src='http://jugendrettet.org/images/team.jpg'></img></a>-->
+                        <a href="http://jugendrettet.org/images/team_s.jpg" target="_blank"><img class="news" src='http://jugendrettet.org/images/team.jpg'></img></a>
                         <ul>
                             <li><b>Jakob</b>: Founder and 1st Chairman
                                 <br>
@@ -127,7 +127,7 @@
                     </div>
                     <div class="column">
                         <h4>Ambassadors</h4>
-                        <iframe width="100%" height="300px" frameborder="0" src="https://a.tiles.mapbox.com/v4/leonvogler.nd99673k/attribution,zoompan,zoomwheel,share.html?access_token=pk.eyJ1IjoibGVvbnZvZ2xlciIsImEiOiI0MTI2MDcxMzk2MWI2NDczYzRjNzY5OWI4ZmRmODUyYiJ9.Bys3jr3YtztwTuGQ30NLug"></iframe>
+                        <iframe style="margin:20px 0 0" width="100%" height="300px" frameborder="0" src="https://a.tiles.mapbox.com/v4/leonvogler.nd99673k/attribution,zoompan,zoomwheel,share.html?access_token=pk.eyJ1IjoibGVvbnZvZ2xlciIsImEiOiI0MTI2MDcxMzk2MWI2NDczYzRjNzY5OWI4ZmRmODUyYiJ9.Bys3jr3YtztwTuGQ30NLug"></iframe>
                         <ul>
                             <li>Aachen: <a href="mailto:Luisa@jugendrettet.org">Luisa</a></li>
                             <li>Allgäu: <a href="mailto:Lioba@jugendrettet.org">Lioba</a></li>
