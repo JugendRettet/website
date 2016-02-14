@@ -91,15 +91,15 @@
                         <h4>The Team</h4>
                         <!--<a href="http://jugendrettet.org/images/team_s.jpg" target="_blank"><img class="news" src='http://jugendrettet.org/images/team.jpg'></img></a>-->
                         <ul>
-                            <li><b>Jakob and Lena</b>: Founders</li>
+                            <li><b>Jakob</b>: Founder and 1st Chairman
+                                <br>
+                                Tel.: <a href="tel:+49 160 95 68 38 73">+49 160 95 68 38 73</a>
+                            </li>
+                            <li><b>Lena</b>: Founder and 2nd Chairman
+                                <br>
+                                Tel.: <a href="tel:+49 151 68 44 63 98">+49 151 68 44 63 98</a>
+                            </li>
                         </ul>
-                        <p>
-                            Tel.:
-                            <br>
-                            <a href="tel:+49 160 95 68 38 73">+49 160 95 68 38 73</a>
-                            <br>
-                            <a href="tel:+49 151 68 44 63 98">+49 151 68 44 63 98</a>
-                        </p>
                         <br>
                         <ul>
                             <b><li>Lena</b>:  Organisation, Coordination of Ambassadors, Concept</li>

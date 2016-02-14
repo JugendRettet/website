@@ -89,15 +89,15 @@
                     <div class="column">
                         <h4>Das Team</h4>
                         <ul>
-                            <li><b>Jakob und Lena</b>: Gründer</li>
+                            <li><b>Jakob</b>: Gründer und 1. Vorsitzender
+                                <br>
+                                Tel.: <a href="tel:+49 160 95 68 38 73">+49 160 95 68 38 73</a>
+                            </li>
+                            <li><b>Lena</b>: Gründerin und 2. Vorsitzender
+                                <br>
+                                Tel.: <a href="tel:+49 151 68 44 63 98">+49 151 68 44 63 98</a>
+                            </li>
                         </ul>
-                        <p>
-                            Tel.:
-                            <br>
-                            <a href="tel:+49 160 95 68 38 73">+49 160 95 68 38 73</a>
-                            <br>
-                            <a href="tel:+49 151 68 44 63 98">+49 151 68 44 63 98</a>
-                        </p>
                         <br>
                         <ul>
                             <b><li>Lena</b>:  Organisation, Koordination Botschafter, Konzeption</li>
