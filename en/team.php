@@ -89,7 +89,7 @@
                     </div>
                     <div class="column">
                         <h4>The Team</h4>
-                        <a href="http://jugendrettet.org/images/team_s.jpg" target="_blank"><img class="news" src='http://jugendrettet.org/images/team.jpg'></img></a>
+                        <a href="http://jugendrettet.org/images/team.jpg" target="_blank"><img class="news" src='http://jugendrettet.org/images/team_s.jpg'></img></a>
                         <ul>
                             <li><b>Jakob</b>: Founder and 1st Chairman
                                 <br>

@@ -88,7 +88,7 @@
                     </div>
                     <div class="column">
                         <h4>Das Team</h4>
-                        <a href="http://jugendrettet.org/images/team_s.jpg" target="_blank"><img class="news" src='http://jugendrettet.org/images/team.jpg'></img></a>
+                        <a href="http://jugendrettet.org/images/team.jpg" target="_blank"><img class="news" src='http://jugendrettet.org/images/team_s.jpg'></img></a>
                         <ul>
                             <li><b>Jakob</b>: Gründer und 1. Vorsitzender
                                 <br>
