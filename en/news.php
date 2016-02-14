@@ -95,6 +95,14 @@
                           </div>
                       </div><br>
 
+                      <a class="faq" id="54"><b>13. Februar</b> Ship inspection! </a>
+                      <div class="faq-klappe" id="54-klappe">
+                        <p>
+                          We went to the Netherlands today to visit the two ships that we consider as the best fit to our needs. Our expert gives us green lights about the machinery. More infos will follow soon!
+                        </p>
+                        <a href="http://jugendrettet.org/images/20160213.jpg" target="_blank"><img class="news" src='http://jugendrettet.org/images/20160213.jpg'></img></a>
+                      </div><br>
+
                       <a class="faq" id="52"><b>February 10th</b> Phase 1 almost complete! </a>
                       <div class="faq-klappe" id="52-klappe">
                         <p>

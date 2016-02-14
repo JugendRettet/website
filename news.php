@@ -93,6 +93,54 @@
                               </form>
                           </div>
                       </div><br>
+
+                      <a class="faq" id="54"><b>13. Februar</b> Schiffsbesichtigung! </a>
+                      <div class="faq-klappe" id="54-klappe">
+                        <p>
+                          Wir waren heute in Holland, um die zwei Schiffe zu besichtigen, die für uns in der Endauswahl stehen. Unser Schiffsgutachter gibt grünes Licht, was die Technik anbelangt. Mehr Infos folgen ganz bald!
+                        </p>
+                        <a href="http://jugendrettet.org/images/20160213.jpg" target="_blank"><img class="news" src='http://jugendrettet.org/images/20160213.jpg'></img></a>
+                      </div><br>
+
+                      <a class="faq" id="53"><b>12. Februar</b> Aktionstage </a>
+                      <div class="faq-klappe" id="53-klappe">
+                        <p>
+                          In den letzten zwei Tagen starteten gleich 5 Botschafter-Aktionen.
+                        </p>
+                        <br>
+                        <p>
+                          Bonn: Botschafter Tobi organisierte eine Gedenkveranstaltung "In Gedenken an die Todesopfer während der Flucht 2015". Gemeinsam mit anderen Initiativen und Teilnehmern wurde dort vor der EU-Kommission ein Kranz niedergelegt. Anschließend wurden bei einem bekannten Brunnen noch Papierboote ins Wasser gesetzt.
+                        </p>
+                        <a href="http://jugendrettet.org/images/5/tobi.jpg" target="_blank"><img class="news" src='http://jugendrettet.org/images/5/tobi.jpg'></img></a>
+                        <a href="http://jugendrettet.org/images/5/tobi2.jpg" target="_blank"><img class="news" src='http://jugendrettet.org/images/5/tobi2.jpg'></img></a>
+                        <a href="http://jugendrettet.org/images/5/tobi3.jpg" target="_blank"><img class="news" src='http://jugendrettet.org/images/5/tobi3.jpg'></img></a>
+                        <br>
+                        <p>
+                          Allgäu: Botschafterin Lioba richtete einen Infostand aus und bereitete gleichzeitig eine andere Aktion vor: es gab die Möglichkeit, Holzplanken zu bemalen, die dann wiederum Teil einer anderen Aktion zusammen mit Sternsingern werden. 
+                        </p>
+                        <a href="http://lebenretten.sternsinger.org/">Link</a>
+                        <a href="http://jugendrettet.org/images/5/lioba.jpg" target="_blank"><img class="news" src='http://jugendrettet.org/images/5/lioba.jpg'></img></a>
+                        <a href="http://jugendrettet.org/images/5/lioba2.jpg" target="_blank"><img class="news" src='http://jugendrettet.org/images/5/lioba2.jpg'></img></a>
+                        <br>
+                        <p>
+                          Münster: Botschafterin Jana hat im Cafe "Teilchen und Beschleuniger" selbstgebackenen Kuchen an die Gäste verkauft.
+                        </p>
+                        <a href="http://jugendrettet.org/images/5/jana.jpg" target="_blank"><img class="news" src='http://jugendrettet.org/images/5/jana.jpg'></img></a>
+                        <a href="http://jugendrettet.org/images/5/jana2.jpg" target="_blank"><img class="news" src='http://jugendrettet.org/images/5/jana2.jpg'></img></a>
+                        <br>
+                        <p>
+                          Köln: Botschafter Carlo war bei der Aufführung von "Der gute Mensch von Sezuan" für Jugend Rettet dabei. Es wurden Flyer verteilt und Spenden gesammelt.
+                        </p>
+                        <br>
+                        <p>
+                          Trier: Asa hat eine Vorführung von "Asyland" im Broadway Kino in Trier organisiert.
+                        </p>
+                        <br>
+                        <p>
+                          Danke für euren Einsatz!
+                        </p>
+                        <br>
+                      </div><br>
                       <a class="faq" id="52"><b>10. Februar</b> Phase 1 fast abgeschlossen! </a>
                       <div class="faq-klappe" id="52-klappe">
                         <p>Wir haben uns bei der Kreuzberger Kinderstiftung auf ein Stiftungsgeld von 5000€ beworben. Der Gründer der Stiftung war so begeistert von unserem Projekt, dass er uns die 150.000€, die ein Schiff nach unseren Vorstellungen kostet, spendet. Bedingung ist allerdings, dass wir das Geld für den Umbau und die laufenden Kosten für den ersten Monat - <b>80.000€</b> - <b>bis 31. März 2016</b> zusammenkriegen. Wir sind überwältigt von dieser Großzügigkeit. Damit der Umbau ab 01. April planmäßig stattfinden kann, benötigen wir euch nun mehr denn je: Bitte unterstützt uns, indem ihr weiterhin von uns erzählt. Jede noch so kleine Spende bringt uns unserem Ziel, Menschenleben zu retten, weiter!</p>
