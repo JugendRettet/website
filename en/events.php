@@ -327,16 +327,16 @@ Euer Jugend Rettet Team</p><br>
                     </div>
 
                     <div class="date-container" id="15-02-2016">
-                        <h4>Feiern fürs Schiff: Soliabend im newyorck59</h4>
+                        <h4>Party for the ship: Solievening in newyorck59</h4>
                         <br>
                         <p>
-                            Jeder Mensch verdient die Rettung aus Seenot!
+                            Everyone deserves rescue from maritime distress!
                         </p>
                         <p>
-                            Wir sind seit einigen Monaten dabei ein Projekt auf die Beine zu stellen, um gegen das Sterben auf dem Mittelmeer vorzugehen. Gemeinsam wollen wir sowohl mit einem eigenen Schiff in Seenot geratene Menschen retten, als auch klare Forderungen an die Regierungen nach einem staatlichen Rettungsporgramm formulieren. Unser Ziel ist klar: Weniger Tote auf dem Mittelmeer!
+                            Several months ago, we started our project to prevent death on the Meditteranean Sea. Together, we want to help people in maritime distress with our own ship, as well as to state a clear demand for a governmental sea rescue program. Our goal is clear: Prevent the dead on the Meditteranean!
                         </p>
                         <br>
-                        <p>Wir laden euch herzlich ein bei leckerer veganer KüfA und Filmvorführung ("Asyland") zu diskutieren und sich zu vernetzen. Kommt vorbei und unterstützt unser Projekt!</p>
+                        <p>We invite you to a delicate, vegan KüfA where we will screen the movie "Asylad" with a discussion afterwards, as well as the chance to connect and network. Come on over and support our project!</p>
                         <br>
                         <div class="event-container">
                             <div class="event-date">Montag, 15. Februar 2016</div>
