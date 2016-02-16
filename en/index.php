@@ -48,7 +48,7 @@
             </div>
 
             <header>
-                <a id="logo-wrap" href="/">
+                <a id="logo-wrap" href="/?0">
                     <img id="logo" src="http://jugendrettet.org/graphics/logo.svg" alt="Jugent Rettet">
                     <div id="title">Jugend <b>Rettet</b></div>
                 </a>

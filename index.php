@@ -67,7 +67,7 @@
                         <ul>
                             <li><a href="presse">Presse</a></li>
                             <li class="br"></li>
-                            <li><a href="http://en.jugendrettet.org/">English</a></li>
+                            <li><a href="http://en.jugendrettet.org/?0">English</a></li>
                         </ul>
                     </nav>
                 </footer>
