@@ -53,14 +53,14 @@
         </div>
 
         <header>
-            <a id="logo-wrap" href="index">
+            <a id="logo-wrap" href="/">
                 <img id="logo" src="http://jugendrettet.org/graphics/logo.svg" alt="Jugent Rettet">
                 <div id="title">Jugend <b>Rettet</b></div>
             </a>
         </header>   
             <div id="union">
                 <p><span style="font-size: 2em;">404</span><br>Diese Seite existiert nicht.<br><span style="font-size:0.5em;">This page doesn't exist.</span><hr class="wide">
-                    <a id="back-btn" href="index">&larr;</a>
+                    <a id="back-btn" href="/">&larr;</a>
                 </p>
             </div>   
 
