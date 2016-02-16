@@ -89,16 +89,17 @@
                     </div>
                     <div class="column">
                         <h4>The Team</h4>
+                        <a href="http://jugendrettet.org/images/team.jpg" target="_blank"><img class="news" src='http://jugendrettet.org/images/team_s.jpg'></img></a>
                         <ul>
-                            <li><b>Jakob and Lena</b>: Founders</li>
+                            <li><b>Jakob</b>: Founder and 1st Chairman
+                                <br>
+                                Tel.: <a href="tel:+49 160 95 68 38 73">+49 160 95 68 38 73</a>
+                            </li>
+                            <li><b>Lena</b>: Founder and 2nd Chairman
+                                <br>
+                                Tel.: <a href="tel:+49 151 68 44 63 98">+49 151 68 44 63 98</a>
+                            </li>
                         </ul>
-                        <p>
-                            Tel.:
-                            <br>
-                            <a href="tel:+49 160 95 68 38 73">+49 160 95 68 38 73</a>
-                            <br>
-                            <a href="tel:+49 151 68 44 63 98">+49 151 68 44 63 98</a>
-                        </p>
                         <br>
                         <ul>
                             <b><li>Lena</b>:  Organisation, Coordination of Ambassadors, Concept</li>
@@ -126,6 +127,7 @@
                     </div>
                     <div class="column">
                         <h4>Ambassadors</h4>
+                        <iframe style="margin:20px 0 0" width="100%" height="300px" frameborder="0" src="https://a.tiles.mapbox.com/v4/leonvogler.nd99673k/attribution,zoompan,zoomwheel,share.html?access_token=pk.eyJ1IjoibGVvbnZvZ2xlciIsImEiOiI0MTI2MDcxMzk2MWI2NDczYzRjNzY5OWI4ZmRmODUyYiJ9.Bys3jr3YtztwTuGQ30NLug"></iframe>
                         <ul>
                             <li>Aachen: <a href="mailto:Luisa@jugendrettet.org">Luisa</a></li>
                             <li>Allgäu: <a href="mailto:Lioba@jugendrettet.org">Lioba</a></li>
@@ -133,7 +135,7 @@
                             <li>Berlin: <a href="mailto:Sonja@jugendrettet.org">Sonja</a></li>
                             <li>Bonn: <a href="mailto:Tobias@jugendrettet.org">Tobias</a></li>
                             <li>Cologne: <a href="mailto:Carlo@jugendrettet.org">Carlo</a></li>
-                            <li>Emsland: <a href="mailto:Janniks@jugendrettet.org">Jannik</a></li>
+                            <li>Emsland: <a href="mailto:Jannik@jugendrettet.org">Jannik</a></li>
                             <li>Flensburg: <a href="mailto:Pauline@jugendrettet.org">Pauline</a></li>
                             <li>Groningen: <a href="mailto:LenaP@jugendrettet.org">Lena</a></li>
                             <li>Hamburg: <a href="mailto:Marco@jugendrettet.org">Marco</a></li>

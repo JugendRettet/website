@@ -94,6 +94,64 @@
                           </div>
                       </div><br>
 
+                      <a class="faq" id="54"><b>13. Februar</b> Schiffsbesichtigung! </a>
+                      <div class="faq-klappe" id="54-klappe">
+                        <p>
+                          Wir waren heute in Holland, um die zwei Schiffe zu besichtigen, die für uns in der Endauswahl stehen. Unser Schiffsgutachter gibt grünes Licht, was die Technik anbelangt. Mehr Infos folgen ganz bald!
+                        </p>
+                        <a href="http://jugendrettet.org/images/20160213.jpg" target="_blank"><img class="news" src='http://jugendrettet.org/images/20160213.jpg'></img></a>
+                      </div><br>
+
+                      <a class="faq" id="53"><b>12. Februar</b> Aktionstage </a>
+                      <div class="faq-klappe" id="53-klappe">
+                        <p>
+                          In den letzten zwei Tagen starteten gleich 5 Botschafter-Aktionen.
+                        </p>
+                        <br>
+                        <p>
+                          Bonn: Botschafter Tobi organisierte eine Gedenkveranstaltung "In Gedenken an die Todesopfer während der Flucht 2015". Gemeinsam mit anderen Initiativen und Teilnehmern wurde dort vor der EU-Kommission ein Kranz niedergelegt. Anschließend wurden bei einem bekannten Brunnen noch Papierboote ins Wasser gesetzt.
+                        </p>
+                        <a href="http://jugendrettet.org/images/5/tobi.jpg" target="_blank"><img class="news" src='http://jugendrettet.org/images/5/tobi.jpg'></img></a>
+                        <a href="http://jugendrettet.org/images/5/tobi2.jpg" target="_blank"><img class="news" src='http://jugendrettet.org/images/5/tobi2.jpg'></img></a>
+                        <a href="http://jugendrettet.org/images/5/tobi3.jpg" target="_blank"><img class="news" src='http://jugendrettet.org/images/5/tobi3.jpg'></img></a>
+                        <br>
+                        <p>
+                          Allgäu: Botschafterin Lioba richtete einen Infostand aus und bereitete gleichzeitig eine andere Aktion vor: es gab die Möglichkeit, Holzplanken zu bemalen, die dann wiederum Teil einer anderen Aktion zusammen mit Sternsingern werden. 
+                        </p>
+                        <a href="http://lebenretten.sternsinger.org/">Link</a>
+                        <a href="http://jugendrettet.org/images/5/lioba.jpg" target="_blank"><img class="news" src='http://jugendrettet.org/images/5/lioba.jpg'></img></a>
+                        <a href="http://jugendrettet.org/images/5/lioba2.jpg" target="_blank"><img class="news" src='http://jugendrettet.org/images/5/lioba2.jpg'></img></a>
+                        <br>
+                        <p>
+                          Münster: Botschafterin Jana hat im Cafe "Teilchen und Beschleuniger" selbstgebackenen Kuchen an die Gäste verkauft.
+                        </p>
+                        <a href="http://jugendrettet.org/images/5/jana.jpg" target="_blank"><img class="news" src='http://jugendrettet.org/images/5/jana.jpg'></img></a>
+                        <a href="http://jugendrettet.org/images/5/jana2.jpg" target="_blank"><img class="news" src='http://jugendrettet.org/images/5/jana2.jpg'></img></a>
+                        <br>
+                        <p>
+                          Köln: Botschafter Carlo war bei der Aufführung von "Der gute Mensch von Sezuan" für Jugend Rettet dabei. Es wurden Flyer verteilt und Spenden gesammelt.
+                        </p>
+                        <br>
+                        <p>
+                          Trier: Asa hat eine Vorführung von "Asyland" im Broadway Kino in Trier organisiert.
+                        </p>
+                        <br>
+                        <p>
+                          Danke für euren Einsatz!
+                        </p>
+                        <br>
+                      </div><br>
+                      <a class="faq" id="52"><b>10. Februar</b> Phase 1 fast abgeschlossen! </a>
+                      <div class="faq-klappe" id="52-klappe">
+                        <p>Wir haben uns bei der Kreuzberger Kinderstiftung auf ein Stiftungsgeld von 5000€ beworben. Der Gründer der Stiftung war so begeistert von unserem Projekt, dass er uns die 150.000€, die ein Schiff nach unseren Vorstellungen kostet, spendet. Bedingung ist allerdings, dass wir das Geld für den Umbau und die laufenden Kosten für den ersten Monat - <b>80.000€</b> - <b>bis 31. März 2016</b> zusammenkriegen. Wir sind überwältigt von dieser Großzügigkeit. Damit der Umbau ab 01. April planmäßig stattfinden kann, benötigen wir euch nun mehr denn je: Bitte unterstützt uns, indem ihr weiterhin von uns erzählt. Jede noch so kleine Spende bringt uns unserem Ziel, Menschenleben zu retten, weiter!</p>
+                        <br>
+                        <p>Danke an alle, die schon so fleißig gespendet und von uns erzählt haben. Es gilt jetzt, alles zu mobilisieren, damit der Umbau für die Rettungsmissionen umgesetzt werden kann.</p>
+                        <a href="http://jugendrettet.org/files/schiff.gif" target="_blank"><img class="news" src='http://jugendrettet.org/files/schiff_twitter.gif'></img></a>
+                      </div><br>
+                      <a class="faq" id="51"><b>09. Februar</b> Berwerbung bei "HelferHerzen" von dm</a>
+                      <div class="faq-klappe" id="51-klappe">
+                          <p>Unsere Münster Botschafterin Jana hat uns bei dem Projekt "HelferHerzen" von dm angemeldet. Wir haben hier die Chance, mit bis zu 1000€ gefördert zu werden. Danke Jana! Und wer Jana in Münster und Umgebung gerne unterstützen möchte, schreibt gerne eine Mail an <a href="mailto:jana@jugendrettet.org">Jana</a>.
+                      </div><br>
                       <a class="faq" id="50"><b>01. Februar 2016</b> Zu Gast bei Radio funkUP</a>
                       <div class="faq-klappe" id="50-klappe">
                           <p>Lena und unser Potsdamer Botschafter Alex waren bei funkUP zu Gast und haben u.a. über linken Deutschrap und das Gefühl, Teil einer Jugendorganisation zu sein gesprochen. 
@@ -102,7 +160,7 @@
                       </div><br>
                       <a class="faq" id="49"><b>30. Januar</b> "Bötchenaktion" des Team Aachen</a>
                       <div class="faq-klappe" id="49-klappe">
-                          <p>Heute wollen wir euch die "Bötchenaktion" des Team Aachen vorstellen: Sie haben gestern mit den Klassen 5,6,7,8 & 9 am Einhard Gymnasium Aachen kleine Bötchen gefaltet, dadurch konnten die Schüler ihre Unterstützung demonstrieren. Insgesamt sind so mehr als 850 Bötchen gebastelt worden. Für 10€ kann man eine Patenschaft für eines der Bötchen übernehmen. Es sind noch ein paar Patenschaften übrig. Wer Lust hat eine Patenschaft zu übernehmen, schreibt bitte an <a href="mailto:luisa@jugendrettet.org">Luisa</a>! Wir freuen uns über eure Unterstützung!</p>
+                          <p>Heute wollen wir euch die "Bötchenaktion" des Team Aachen vorstellen: Sie haben gestern mit den Klassen 5, 6, 7, 8 und 9 am Einhard Gymnasium Aachen kleine Bötchen gefaltet, dadurch konnten die Schüler ihre Unterstützung demonstrieren. Insgesamt sind so mehr als 850 Bötchen gebastelt worden. Für 10€ kann man eine Patenschaft für eines der Bötchen übernehmen. Es sind noch ein paar Patenschaften übrig. Wer Lust hat eine Patenschaft zu übernehmen, schreibt bitte an <a href="mailto:luisa@jugendrettet.org">Luisa</a>! Wir freuen uns über eure Unterstützung!</p>
                           <br>
                           <a href="http://jugendrettet.org/images/boetchen.jpg" target="_blank"><img class="news" src= 'http://jugendrettet.org/images/boetchen.jpg'></img></a>
                       </div><br>
@@ -334,8 +392,8 @@
                       <h4>Was wir geschafft haben</h4>
                         <ul>
                           <li>&#10003; Wir haben Schiffe unseres gewünschten Schiffstyps - holländische Fischtrawler - besichtigt. Sobald wir uns für ein Schiff entschieden haben erstellen wir die Pläne für den Umbau im April.</li><br>
-                          <li>&#10003; Wir haben eine 11-köpfige Crew inklusive Kapitän gefunden und gemeinsam unsere halbjährige Operation geplant.</li><br>
-                          <li>&#10003; Wir haben ein Netz von Botschaftern in über 15 deutschen Städten aufgebaut.</li><br>
+                          <!--<li>&#10003; Wir haben eine 11-köpfige Crew inklusive Kapitän gefunden und gemeinsam unsere halbjährige Operation geplant.</li><br>-->
+                          <li>&#10003; Wir haben ein Netz von Botschaftern in 23 Städten aufgebaut.</li><br>
                           <li>&#10003; Wir haben Maria Furtwängler, Armin Rohde und Jasmin Gerat als Stimmen für <i>Jugend Rettet</i> gewinnen können.</li><br>
                           <li>&#10003; Wir haben in Berlin ein Kernteam von 11 Menschen aufgebaut.</li>
                         </ul>
@@ -345,7 +403,7 @@
                         <ul>
                           <li>&#9633; Dass Seenotrettung in der jungen Generation ein Thema bleibt und die Situation der Menschen auf dem Mittelmeer weiterhin in der Öffentlichkeit eine Rolle spielt.</li><br>
                           <li>&#9633; Dass wir unser Netzwerk an europäischen Botschaftern ausweiten.</li><br>
-                          <li>&#9633; Dass wir die Spendenphase bis Februar meistern und unsere Crowdfunding-Kampagne erfolgreich abschließen.</li><br>
+                          <li>&#9633; Dass wir die Spendenphase bis Ende März meistern und unsere Crowdfunding-Kampagne erfolgreich abschließen.</li><br>
                           <li>&#9633; Dass wir Partnerschulen und Partner-Jugendorganisationen gewinnen.</li>
                         </ul>
                     </div>
@@ -393,7 +451,6 @@
                             <li><a href="impressum">Impressum</a></li>
                             <li class="br"></li>
                             <li><a href="http://en.jugendrettet.org/news">English</a></li>
-                            <li><a href="http://jugendrettet.org/news">Deutsch</a></li>
                         </ul>
                     </nav>
                 </footer>

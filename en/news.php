@@ -95,6 +95,32 @@
                           </div>
                       </div><br>
 
+                      <a class="faq" id="54"><b>February 13th</b> Ship inspection! </a>
+                      <div class="faq-klappe" id="54-klappe">
+                        <p>
+                          We went to the Netherlands today to visit the two ships that we consider as the best fit to our needs. Our expert gives us green lights about the machinery. More infos will follow soon!
+                        </p>
+                        <a href="http://jugendrettet.org/images/20160213.jpg" target="_blank"><img class="news" src='http://jugendrettet.org/images/20160213.jpg'></img></a>
+                      </div><br>
+
+                      <a class="faq" id="52"><b>February 10th</b> Phase 1 almost complete! </a>
+                      <div class="faq-klappe" id="52-klappe">
+                        <p>
+                            We applied for a fund of 5000€ at the Kreuzberger Kinderstiftung. The founder of that initiative 
+                            was so excited to hear about our plan, that he will donate the full 150.000€ which a ship will 
+                            cost in our calculations. Condition to this is, that we collect the money for conversion and running 
+                            costs for the first month - <b>80.000€ - until March 31st</b>. We are stunned by this generosity. 
+                            To make the conversion happen as planned, beginning April 1st, we need you more than ever: Please 
+                            support us by telling about us. Every little donation will bring us closer to our aim, to save human lives!
+                        </p>
+                        <br>
+                        <p>
+                            Thank you so much everyone, who already donated to us and spread our word. It is important now to get 
+                            everything going, so the conversion for rescue missions can be realized.
+                        </p>
+                        <a href="http://jugendrettet.org/files/schiff.gif" target="_blank"><img class="news" src='http://jugendrettet.org/files/schiff_twitter.gif'></img></a>
+                      </div><br>
+
                       <a class="faq" id="44"><b>January 20th</b> Talk at Rotary Club Aachen</a>
                       <div class="faq-klappe" id="44-klappe">
                           <p>Last night Team Aachen, here a part of the team together with Rotary-President Jens Zier, presented Jugend Rettet at the Rotary Club. Keep up the good work! If you want to join Team Aachen, send an e-mail to <a href="mailto:luisa@jugendrettet.org">Luisa</a>!</p>
@@ -318,8 +344,8 @@
                       <h4>What we accomplished</h4>
                         <ul>
                           <li>&#10003; We inspected ships of our chosen kind, dutch fishtrawler. As soon as we have decided for a ship, we will make plans for the conversion in april.</li><br>
-                          <li>&#10003; We found an 11-person crew including captain and planned our six month mission.</li><br>
-                          <li>&#10003; We built a network of ambassadors in more than 15 german cities.</li><br>
+                          <!--<li>&#10003; We found an 11-person crew including captain and planned our six month mission.</li><br>-->
+                          <li>&#10003; We built a network of ambassadors in 23 cities.</li><br>
                           <li>&#10003; We won Maria Furtwängler, Armin Rohde and Jasmin Gerat as advocates for <i>Jugend Rettet</i>.</li><br>
                           <li>&#10003; We established a core team of 11 persons in Berlin.</li>
                         </ul>
@@ -329,7 +355,7 @@
                         <ul>
                           <li>&#9633; That sea rescue sticks as a topic with the young generation and the situation of the people on the Mediterranean Sea stays in the public discourse. </li><br>
                           <li>&#9633; That we expand our network of european ambassadors.</li><br>
-                          <li>&#9633; That we master the funding phase until february and successfully finish our crowdfunding campaign.</li><br>
+                          <li>&#9633; That we master the funding phase until the end of march and successfully finish our crowdfunding campaign.</li><br>
                           <li>&#9633; That we win schools and youth organizations as partners.</li>
                         </ul>
                     </div>
