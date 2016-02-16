@@ -392,8 +392,8 @@
                       <h4>Was wir geschafft haben</h4>
                         <ul>
                           <li>&#10003; Wir haben Schiffe unseres gewünschten Schiffstyps - holländische Fischtrawler - besichtigt. Sobald wir uns für ein Schiff entschieden haben erstellen wir die Pläne für den Umbau im April.</li><br>
-                          <li>&#10003; Wir haben eine 11-köpfige Crew inklusive Kapitän gefunden und gemeinsam unsere halbjährige Operation geplant.</li><br>
-                          <li>&#10003; Wir haben ein Netz von Botschaftern in über 15 deutschen Städten aufgebaut.</li><br>
+                          <!--<li>&#10003; Wir haben eine 11-köpfige Crew inklusive Kapitän gefunden und gemeinsam unsere halbjährige Operation geplant.</li><br>-->
+                          <li>&#10003; Wir haben ein Netz von Botschaftern in 23 Städten aufgebaut.</li><br>
                           <li>&#10003; Wir haben Maria Furtwängler, Armin Rohde und Jasmin Gerat als Stimmen für <i>Jugend Rettet</i> gewinnen können.</li><br>
                           <li>&#10003; Wir haben in Berlin ein Kernteam von 11 Menschen aufgebaut.</li>
                         </ul>
@@ -403,7 +403,7 @@
                         <ul>
                           <li>&#9633; Dass Seenotrettung in der jungen Generation ein Thema bleibt und die Situation der Menschen auf dem Mittelmeer weiterhin in der Öffentlichkeit eine Rolle spielt.</li><br>
                           <li>&#9633; Dass wir unser Netzwerk an europäischen Botschaftern ausweiten.</li><br>
-                          <li>&#9633; Dass wir die Spendenphase bis Februar meistern und unsere Crowdfunding-Kampagne erfolgreich abschließen.</li><br>
+                          <li>&#9633; Dass wir die Spendenphase bis Ende März meistern und unsere Crowdfunding-Kampagne erfolgreich abschließen.</li><br>
                           <li>&#9633; Dass wir Partnerschulen und Partner-Jugendorganisationen gewinnen.</li>
                         </ul>
                     </div>
