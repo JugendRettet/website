@@ -17,15 +17,15 @@
  AddOutputFilterByType DEFLATE application/x-javascript
  AddOutputFilterByType DEFLATE application/x-shockwave-flash
 </IfModule>
-# turns cache on for 1 month
+# turns cache on for 1 week
 <IfModule mod_expires.c>
   ExpiresActive On
-  ExpiresDefault "access plus 1 month 1 days"
+  ExpiresDefault "access plus 1 days"
   ExpiresByType text/html "access 1 days"
-  ExpiresByType image/gif "access plus 1 month 1 days"
-  ExpiresByType image/jpeg "access plus 1 month 1 days"
-  ExpiresByType image/png "access plus 1 month 1 days"
-  ExpiresByType image/svg "access plus 1 month 1 days"
+  ExpiresByType image/gif "access plus 1 week 1 days"
+  ExpiresByType image/jpeg "access plus 1 week 1 days"
+  ExpiresByType image/png "access plus 1 week 1 days"
+  ExpiresByType image/svg "access plus 1 week 1 days"
   ExpiresByType text/css "access 1 days"
   ExpiresByType text/javascript "access 1 days"
   ExpiresByType application/x-javascript "access 1 days"
