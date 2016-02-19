@@ -18,9 +18,6 @@ header ul li:hover {
 header ul.pop li:hover {
 	background-color: rgba(25,60,80,0.00);
 }
-.index#schiff-ani {
-    display: none;
-}
 
 @media screen and (min-device-width: 481px) {
 
