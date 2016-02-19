@@ -76,6 +76,6 @@
         </script>
         <script src="http://jugendrettet.org/js/shared.js"></script>
         <script src="http://jugendrettet.org/js/main.js"></script>
-        <script src="http://jugendrettet.org/js/peekfield.js"></script>
+        <script src="http://jugendrettet.org/js/peekfield.js?0"></script>
     </body>
 </html>
