@@ -440,6 +440,6 @@ Botschafter des Vereins werden auch vor Ort über das Projekt informieren und de
 
         <!-- Scripts -->
         <script src="http://jugendrettet.org/js/main.js"></script>
-        <script src="http://jugendrettet.org/js/peekfield.js?1"></script>
+        <script src="http://jugendrettet.org/js/peekfield.js?2"></script>
     </body>
 </html>
