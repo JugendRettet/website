@@ -201,7 +201,7 @@
                         <h4>The Ship</h4>
                         <img src="http://jugendrettet.org/images/mittelmeerroute1.jpg" alt="Schiffsbesuch in den Niederlanden" style="max-width:100%">
                         <br>
-                        <p>In october, we inspected ships of our desired kind, the dutch fishtrawler. Once we buy the ship, the following technical specifications are of importance:</p><br>
+                        <p>Since october, we're inspecting ships of our desired kind, the dutch fishtrawler. Once we buy the ship, the following technical specifications are of importance:</p><br>
                         <img src="http://jugendrettet.org/graphics/theship.svg" alt="Schiffsbesuch in den Niederlanden" style="max-width:100%"><br>
                         <ul>
                           <li>&#10003; Our ship must have a big loading space on deck. That way we can take 80-100 people aboard. Above the deck space, a truck plane will be hanged, to protect the people from sun or rain. In winter this plane will be fixed on the sides, through which a closed interior is gained. </li><br>

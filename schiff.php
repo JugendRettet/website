@@ -201,7 +201,7 @@
                         <h4>Das Schiff</h4>
                         <img src="http://jugendrettet.org/images/mittelmeerroute1.jpg" alt="Schiffsbesuch in den Niederlanden" style="max-width:100%">
                         <br>
-                        <p>Wir haben im Oktober Schiffe unseres gewünschten Schiffstyps - holländische Fischtrawler - besichtigt. Wenn wir das Schiff kaufen sind folgende technische Eigenheiten von Bedeutung für uns:</p><br>
+                        <p>Seit Oktober besichtigen wir fortwährend Schiffe unseres gewünschten Schiffstyps - holländische Fischtrawler. Wenn wir das Schiff kaufen sind folgende technische Eigenheiten von Bedeutung für uns:</p><br>
                         <img src="http://jugendrettet.org/graphics/theship.svg" alt="Schiffsbesuch in den Niederlanden" style="max-width:100%"><br>
                         <ul>
                           <li>&#10003; Unser Schiff soll über eine Große Ladefläche (Bild) an Deck verfügen. So können wir 80-100 Menschen an Bord nehmen. Über die Deckfläche wird eine LKW-Plane gespannt sein, die die Menschen an Deck vor Sonneneinstrahlung oder Regen schützt. Im Winter wird diese Plane an den Seiten nach unten gespannt sein, wodurch ein geschlossener Innenbereich entsteht.</li><br>
