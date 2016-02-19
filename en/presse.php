@@ -87,7 +87,7 @@
                     <nav class="footer">
                         <ul>
                             <li><a href="faq">FAQ</a></li>
-                            <li><a class="peek" id="kontakt">Contact</a></li>
+                            <li><a class="peek" id="follow">Follow</a></li>
                             <li style="box-shadow: 0 1px #fff;"><a href="presse">Press</a></li>
                             <li><a href="impressum">Legal Notice</a></li>
                             <li class="br"></li>

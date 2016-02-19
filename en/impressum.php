@@ -109,7 +109,7 @@
                     <nav class="footer">
                         <ul>
                             <li><a href="faq">FAQ</a></li>
-                            <li><a class="peek" id="kontakt">Contact</a></li>
+                            <li><a class="peek" id="follow">Follow</a></li>
                             <li><a href="presse">Press</a></li>
                             <li class="indicator foot"><a href="impressum">Legal Notice</a></li>
                             <li class="br"></li>
