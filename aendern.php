@@ -116,7 +116,7 @@
                     <nav class="footer">
                         <ul>
                             <li><a href="faq">FAQ</a></li>
-                            <li><a class="peek" id="kontakt">Kontakt</a></li>
+                            <li><a class="peek" id="folgen">Folgen</a></li>
                             <li><a href="presse">Presse</a></li>
                             <li><a href="impressum">Impressum</a></li>
                             <li class="br"></li>
@@ -175,6 +175,6 @@
         </div>
         <!-- Scripts -->
         <script src="http://jugendrettet.org/js/main.js"></script>
-        <script src="http://jugendrettet.org/js/peekfield.js"></script>
+        <script src="http://jugendrettet.org/js/peekfield.js?0"></script>
     </body>
 </html>
