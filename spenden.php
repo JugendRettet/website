@@ -139,7 +139,7 @@
                           /* Remove "//" for further customization but *only* if you really need to! */
                           // _bp_iframe.width = 600; /* Custom iframe-tag-width, integer */
                           _bp_iframe.color = '286482'; /* Button and banderole color, hex without "#" */
-                          _bp_iframe.background_color = 'fff'; /* Background-color, hex without "#" */
+                          _bp_iframe.background_color = '142D3C'; /* Background-color, hex without "#" */
                           // _bp_iframe.default_amount = 50; /* Donation-amount, integer 1-99 */
                           // _bp_iframe.default_data_transfer_accepted = false; /* true (default), false */
                           // _bp_iframe.recurring_interval = 'single'; /* Interval for recurring donations, string out of ["single", "monthly", "quarter_yearly", "half_yearly", "yearly"] */
