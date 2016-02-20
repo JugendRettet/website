@@ -19,13 +19,19 @@ header ul.pop li:hover {
 	background-color: rgba(25,60,80,0.00);
 }
 
+@media screen and (max-device-width: 374px) {
+div#schiff-ani.index {
+    display: none;
+}
+}
+
 @media screen and (min-device-width: 481px) {
 
 /* Main */
 
 #wrap {
     height: 100vh;
-	margin: 0 40px;
+    margin: 0 40px;
     padding: 40px 0;
 }
 footer {
@@ -43,7 +49,7 @@ nav.footer {
     margin: 0 -40px;
 }
 footer li {
-	transition: 200ms;
+    transition: 200ms;
     display: inline-block;
     margin: 11px;
     box-shadow: 0 0 #fff;
@@ -58,7 +64,7 @@ footer .br {
 /* Head */
 
 #logo {
-	transition: 200ms;
+    transition: 200ms;
     margin: 0 auto;
     display: block;
     width: 70px;
@@ -87,11 +93,11 @@ a#logo-wrap {
 }
 header {
     position: relative;
-	font-size: 15pt;
+    font-size: 15pt;
 }
 header ul {
     transition: 200ms;
-	margin: 150px auto 0;
+    margin: 150px auto 0;
     position: fixed;
 }
 header ul li {
@@ -126,14 +132,14 @@ nav ul.hidden li.scale {
     height: 100%;
 }
 #header-back {
-	transition: 400ms;
+    transition: 400ms;
     width: 100%;
     height: 167px;
     z-index: 30;
     position: fixed;
 }
 #header-back.blue, #header-back.open {
-	transition: 400ms;
+    transition: 400ms;
     height: 100%;
 }
 
@@ -159,7 +165,7 @@ nav ul.hidden li.scale {
 /* Content */
 
 #content {
-	transition: 400ms;
+    transition: 400ms;
     position: absolute;
     width: 100%;
     margin: 0 -40px;
@@ -199,8 +205,8 @@ nav ul.hidden li.scale {
 }
 #union {
     height: calc(100vh - 40px);
-	font-size: 30px;
-	transition: 200ms;
+    font-size: 30px;
+    transition: 200ms;
 }
 .aendern {
     opacity: 1 !important;
@@ -257,19 +263,18 @@ nav ul.hidden li.scale {
 }
 #map {
     position: relative;
-	transition: 400ms;
+    transition: 400ms;
     height: 0;
     width: 100%;
 }
 #map.open {
-	transition: 400ms;
+    transition: 400ms;
     height: 35vh;
     width: 100%;
 }
 }
 
 @media screen and (max-device-width: 480px) {
-
 /* Main */
 
 #wrap {
@@ -520,7 +525,20 @@ nav ul.hidden li.scale {
     width: 100%;
 }
 }
-@media screen and (min-device-width: 481px) and (max-height: 460px) {
+@media screen and (max-width: 851px) and (max-height: 701px) {
+div#schiff-ani.index {
+    display: none;
+}
+}
+@media screen and (max-height: 551px) {
+#slogan {
+    font-size: 20px;
+}
+}
+@media screen and (max-height: 501px) {
+div#schiff-ani.index {
+    display: none;
+}
 #union {
     font-size: 20px;
 }
@@ -557,7 +575,15 @@ footer {
     padding: 5px 0;
 }
 }
-@media screen and (max-device-width: 480px) and (max-height: 340px) {
+@media screen and (max-height: 401px) {
+#phase {
+    display: none;
+}
+}
+@media screen and (max-device-width: 481px) and (max-height: 341px) {
+div#schiff-ani.index {
+    display: none;
+}
 #union {
     font-size: 20px;
 }

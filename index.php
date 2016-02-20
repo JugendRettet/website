@@ -17,6 +17,7 @@
         <link rel="shortcut icon" type="image/x-icon" href="http://jugendrettet.org/graphics/jr.ico" />
         <link rel="mask-icon" href="http://www.jugendrettet.org/graphics/jr-mask.svg" color="rgb(40,100,130)">
         <link rel="apple-touch-icon" href="http://jugendrettet.org/graphics/apple-touch-icon.png"/>
+        <link rel="stylesheet" href="http://jugendrettet.org/css/animations.1.css?0" type="text/css" />
         <link rel="stylesheet" href="http://jugendrettet.org/css/waves.1.css" type="text/css" />
         <link rel="stylesheet" href="http://jugendrettet.org/css/general.css" type="text/css" />
         <link rel="stylesheet" href="http://jugendrettet.org/css/main.css" type="text/css" />
@@ -26,12 +27,23 @@
         <script type="text/javascript">
             $(window).load(function() {
                 $('body').fadeIn(400);
+                $('#phase hr#ph-eins-progress').addClass('load')
             });
         </script>
+        <style type="text/css">
+            #phase hr.load#ph-eins-progress {
+                transition: 800ms ease;
+                width: <?php
+                    $phase1 = file_get_contents('donations/phase1.txt');
+                    $value1 = number_format($phase1,2,",",".");
+                    echo 100 / 80000 * $phase1;
+                    ?>%;
+            }
+        </style>
     </head>
     <body class="start">
         <div id="sim-alt"><img src="http://jugendrettet.org/images/error.jpg" alt="Wave Simulation"></div>
-    	<div id="wrap" class="start">
+        <div id="wrap" class="start">
             <div class="fullscreen-bg">
                 <video id="waves-video" class="fullscreen-bg__video" loop="true" autoplay="true" preload="auto">
                     <source src="http://jugendrettet.org/videos/waves.mp4">
@@ -45,9 +57,35 @@
                 </a>
             </header>
             <div id="union">
-                <p>Jeder Mensch<br>verdient die Rettung<br>aus Seenot.<hr class="wide">
-                    <a id="aendern-btn" href="aendern">Ich rette mit!</a>
-                </p>
+                <p id="slogan">Jeder Mensch<br>verdient die Rettung<br>aus Seenot.</p>
+                <hr class="wide">
+                <div class="index" id="schiff-ani">
+                    <div id="schiff-container" class="center" style="min-height:133px;width:300px;">
+                        <div id="schiff" style="padding:5px;position:absolute">
+                          <img src="http://jugendrettet.org/graphics/schiff-starkekonturen-weiss.svg" alt="Das Schiff" style="width:300px;opacity:0.4">
+                        </div>
+                        <div class="blink balken" id="schiff-gespendet" style="padding:5px;position:absolute;overflow:hidden;width:calc(300px * 24308 / 80000);">
+                          <img src="http://jugendrettet.org/graphics/schiff-blau-starkekontur.svg" alt="Das Schiff" style="width:300px" class="blink">
+                        </div>
+                    </div>
+                </div>
+                <div id="fundtext">
+                    <div id="phase" style="text-transform:none;">
+                        <div class="ph-container center" id="ph-eins" style="max-width:300px;">
+                            <div class="header">
+                                <span class="title"> </span><span class="percentage"><?php echo $value1;?> / 80 Tsd. €</span>
+                                <hr id="ph-eins-progress"></hr>
+                            </div>
+                        </div>
+                    </div>
+                    <div id="clockdiv">
+                      <div>
+                        <p>noch <span class="days"></span> Tage zum Spenden</p>
+                      </div>
+                    </div>
+                </div>
+                <a id="aendern-btn" href="spenden">Ich rette mit!</a>
+
             </div>
             <div id="content">
                 <footer class="start">
@@ -67,13 +105,55 @@
             $(document).ready(function() {
                 if (!$('#aendern-btn').is(':hover')) {
                     $(document).on('click', 'body', function() {
-                        window.location = 'schiff';
+                        window.location = 'spenden';
                     });
                 }
                 $('#aendern-btn').click(function() {
                     e.stopPropagation();
                 });
             });
+
+            function getTimeRemaining(endtime) {
+              var t = Date.parse(endtime) - Date.parse(new Date());
+              var seconds = Math.floor((t / 1000) % 60);
+              var minutes = Math.floor((t / 1000 / 60) % 60);
+              var hours = Math.floor((t / (1000 * 60 * 60)) % 24);
+              var days = Math.floor(t / (1000 * 60 * 60 * 24));
+              return {
+                'total': t,
+                'days': days,
+                'hours': hours,
+                'minutes': minutes,
+                'seconds': seconds
+              };
+            }
+
+            function initializeClock(id, endtime) {
+              var clock = document.getElementById(id);
+              var daysSpan = clock.querySelector('.days');
+              var hoursSpan = clock.querySelector('.hours');
+              var minutesSpan = clock.querySelector('.minutes');
+              var secondsSpan = clock.querySelector('.seconds');
+
+              function updateClock() {
+                var t = getTimeRemaining(endtime);
+
+                daysSpan.innerHTML = t.days;
+                hoursSpan.innerHTML = ('0' + t.hours).slice(-2);
+                minutesSpan.innerHTML = ('0' + t.minutes).slice(-2);
+                secondsSpan.innerHTML = ('0' + t.seconds).slice(-2);
+
+                if (t.total <= 0) {
+                  clearInterval(timeinterval);
+                }
+              }
+
+              updateClock();
+              var timeinterval = setInterval(updateClock, 1000);
+            }
+
+            var deadline = '2016-03-31';
+            initializeClock('clockdiv', deadline);
         </script>
         <script src="http://jugendrettet.org/js/shared.js"></script>
         <script src="http://jugendrettet.org/js/main.js"></script>

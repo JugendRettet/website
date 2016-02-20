@@ -11,6 +11,7 @@ body {
 	background-color: rgba(20,45,60,1.00);
     overflow-y: scroll !important;
     overflow-x: hidden;
+    min-width: 285px;
 }
 body.start {
     overflow: hidden !important;
@@ -587,4 +588,12 @@ a.faq.open {
 } */
 .portrait {
     width: 100%;
+}
+#fundtext {
+    font-size: initial;
+    margin: 20px;
+}
+.center {
+    margin-left: auto;
+    margin-right: auto;
 }

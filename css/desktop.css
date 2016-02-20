@@ -388,6 +388,13 @@ header ul li a, header ul.open li a {
     margin-top: 50px;
 }
 }
+
+@media screen and (min-width: 850px) and (max-height: 541px) {
+div#schiff-ani.index {
+    display: none;
+}
+}
+
 @media screen and (max-width: 851px) {
 
 /* Main */
@@ -614,5 +621,25 @@ header ul li:hover {
 	transition: 400ms;
     height: 35vh;
     width: 100% !important;
+}
+}
+
+@media screen and (max-width: 851px) and (max-height: 681px) {
+div#schiff-ani.index {
+    display: none;
+}
+}
+@media screen and (max-width: 851px) and (max-height: 601px) {
+#phase {
+    display: none;
+}
+}
+
+@media screen and (max-width: 346px) {
+#union {
+    font-size: 25px;
+}
+#phase {
+    display: none;
 }
 }
