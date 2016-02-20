@@ -132,12 +132,26 @@
                       <p><b>Bank:</b> Berliner Sparkasse</p>
                       <br>
                       <h4>Donate directly</h4>
-                      <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
-                      <input type="hidden" name="cmd" value="_s-xclick">
-                      <input type="hidden" name="hosted_button_id" value="SBV6JB66SH52G">
-                      <input type="image" src="http://jugendrettet.org/graphics/checkout-logo-69x26-alt-2x.png" name="submit" alt="Jetzt einfach, schnell und sicher online bezahlen – mit PayPal.">
-                      </form>
-                      <p style="font-size:small">PayPal charges 1.5% + 0.35€ for each donation.</p>
+                      <script type="text/javascript">
+                          /* Configure at https://www.betterplace.org/de/projects/39807-rette-mit-umbau-unseres-schiffes-zur-seenotrettung-im-mittelmeer/manage/iframe_donation_form */
+                          var _bp_iframe        = _bp_iframe || {};
+                          _bp_iframe.project_id = 39807; /* REQUIRED */
+                          _bp_iframe.lang       = 'en'; /* Language of the form */
+                          /* Remove "//" for further customization but *only* if you really need to! */
+                          // _bp_iframe.width = 600; /* Custom iframe-tag-width, integer */
+                          _bp_iframe.color = '286482'; /* Button and banderole color, hex without "#" */
+                          _bp_iframe.background_color = 'fff'; /* Background-color, hex without "#" */
+                          // _bp_iframe.default_amount = 50; /* Donation-amount, integer 1-99 */
+                          // _bp_iframe.default_data_transfer_accepted = false; /* true (default), false */
+                          // _bp_iframe.recurring_interval = 'single'; /* Interval for recurring donations, string out of ["single", "monthly", "quarter_yearly", "half_yearly", "yearly"] */
+                          (function() {
+                            var bp = document.createElement('script'); bp.type = 'text/javascript'; bp.async = true;
+                            bp.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'asset1.betterplace.org/assets/load_donation_iframe.js';
+                            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(bp, s);
+                          })();
+                        </script>
+                        <div id="betterplace_donation_iframe" style="background: transparent url('https://www.betterplace.org/assets/new_spinner.gif') 275px 20px no-repeat;"><strong><a href="https://www.betterplace.org/de/projects/39807-rette-mit-umbau-unseres-schiffes-zur-seenotrettung-im-mittelmeer/donations/new">Jetzt Spenden für „Rette mit! Umbau unseres Schiffes zur Seenotrettung im Mittelmeer“ bei unserem Partner betterplace.org</a></strong></div>
+                    
                     </div>
                   </div>
 
