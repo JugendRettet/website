@@ -182,7 +182,7 @@
                     </div>
 
                     <div class="column hideme" style="min-width: 300px;">
-                        <h4>SPENDENSTAND: 24.308,00€</h4>
+                        <h4>SPENDENSTAND: 24.685,00€</h4>
                         <div id="schiff-ani">
                             <div class="schiff-klappe" id="1-klappe">
                                 <b>Schiffsschraube</b>
@@ -221,7 +221,7 @@
                                 <div id="schiff" style="padding:5px;position:absolute">
                                   <img src="http://jugendrettet.org/graphics/schiff-konturen-weiss.svg" alt="Das Schiff" style="width:300px;opacity:0.1">
                                 </div>
-                                <div class="blink balken" id="schiff-gespendet" style="padding:5px;position:absolute;overflow:hidden;width:calc(300px * 24308 / 80000);">
+                                <div class="blink balken" id="schiff-gespendet" style="padding:5px;position:absolute;overflow:hidden;width:calc(300px * 24685 / 80000);">
                                   <img src="http://jugendrettet.org/graphics/schiff-blau-neu.svg" alt="Das Schiff" style="width:300px" class="blink">
                                 </div>
                                 <div style="position:absolute;width:300px;">
