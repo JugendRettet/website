@@ -29,7 +29,7 @@
 
 
         <script src="http://jugendrettet.org/js/jquery-1.10.2.min.js"></script>
-        <script src="http://jugendrettet.org/js/rechner.2.js"></script>
+        <!--<script src="http://jugendrettet.org/js/rechner.1.js"></script>-->
         <script src="http://jugendrettet.org/js/hideme.js"></script>
         <script type="text/javascript">
             $(window).load(function() {
@@ -45,16 +45,19 @@
                 });
             });
             function changeColor(id) {
-              $(id).css('background-color', 'inherit');
-              setTimeout(function() {
-                $(id).css('background-color', '#286482');
-              }, 500);
+                $(id).css('background-color', 'inherit');
+                setTimeout(function() {
+                    $(id).css('background-color', '#286482');
+                }, 500);
             }
             function toDiv(id) {
                 var div = $(id);
                 var pos = div.offset().top;
                 $('html, body').animate({scrollTop:0},500); // will take two seconds to scroll to the element
-              }
+            }
+            //$(document).keypress(function(e) {
+            //   rechnen();
+            //});
         </script>
         <style type="text/css">
             #phase hr.load#ph-eins-progress {
@@ -115,22 +118,48 @@
             <div class="popup-flat">
                 <div id=top>
                 </div>
-                <div class="double">
+                <div class="triple">
                     <h3>Spenden</h3>
                     <p>Die Menschen auf dem Mittelmeer sterben jetzt. Deshalb brauchen wir Geld, um unser Schiff zu kaufen und mit der Rettung zu beginnen.</p>
                 </div>
-                <div class="container double">
+                <div class="container triple">
 
-                  <div style="margin-right:10px"class="column">
-                    <div style="padding-left:5px;padding-right:5px" id="spendenbox">
-                      <h4 id="spendenkonto">Spendenkonto</h4>
-                      <p><b>Empfänger:</b> Jugend Rettet e.V.</p>
-                      <p><b>Kontonummer:</b> 0190465743</p>
-                      <p><b>IBAN:</b> DE28 1005 0000 0190 4657 43</p>
-                      <p><b>BIC:</b> BELADEBEXXX</p>
-                      <p><b>Kreditinstitut:</b> Berliner Sparkasse</p>
-                      <br>
-                      <h4>direkt spenden</h4>
+                    <div style="margin-right:10px"class="column">
+                        <div style="padding-left:5px;padding-right:5px">
+                            <h4 id="spendenkonto">Spendenkonto</h4>
+                            <p><b>Empfänger:</b> Jugend Rettet e.V.</p>
+                            <p><b>Kontonummer:</b> 0190465743</p>
+                            <p><b>IBAN:</b> DE28 1005 0000 0190 4657 43</p>
+                            <p><b>BIC:</b> BELADEBEXXX</p>
+                            <p><b>Kreditinstitut:</b> Berliner Sparkasse</p>
+                        </div>
+
+<!--                        <h4>Rechner</h4>
+                        <div id="rechner">
+                          <input type="Text" id="spendeinput" oninput="rechnen()"> €
+                          <br><br>
+                          <div id="spendentext" style="display:none">
+
+                            <p id="text-schiffsteil-prozent">Mit deinen <b class="EUR"></b> <b>€</b> kämen <b id="prozent"></b> <b>%</b> zum zweiten Schiffsteil - Crewräume und Maschinenraum - dazu.</p>
+                            <p id="text-schiffsteil-komplett">Mit deinen <b class="EUR"></b> <b>€</b> wäre das zweite Schiffsteil - Crewräume und Maschinenraum - komplett!</p>
+                            <p id="text-schiffsteil-mehr">Sogar noch mehr:</p>
+
+                            <p id="text-schiff-meter">Mit deinen <b class="EUR"></b> <b>€</b> wären <b id="meter"></b> <b id="unitmeter">m</b> des Schiffs finanziert. Das sind <b id="qmeter"></b> <b id="unitqmeter">m²</b>, die Platz für die Seenotrettung bieten.</p>
+
+                            <p id="text-schiff-komplett">Mit deinen <b class="EUR"></b> <b>€</b> wäre das gesamte Schiff finanziert! Mit einer Länge von <b>32 m</b> und einer Fläche von <b>160 m²</b> bietet es genug Platz, um mehr als <b>80 Menschen</b> auf einmal aus der Seenot zu retten.</p>
+
+                            <p id="button"><br><br><a id="aendern-btn" onclick="changeColor('#spendenbox');toDiv('#top');">ICH RETTE MIT!</a></p>
+                          </div>
+
+                          <div id="spendentext-fehler" style="display:none">
+                            <p>Bitte versuch es nur mit Zahlen.</p>
+                          </div>
+                        </div>
+-->
+                    </div>
+
+                    <div id="spendenbox" class="column">
+                        <h4 style="padding-left:5px;">direkt spenden</h4>
                         <script type="text/javascript">
                           /* Configure at https://www.betterplace.org/de/projects/39807-rette-mit-umbau-unseres-schiffes-zur-seenotrettung-im-mittelmeer/manage/iframe_donation_form */
                           var _bp_iframe        = _bp_iframe || {};
@@ -140,7 +169,7 @@
                           // _bp_iframe.width = 600; /* Custom iframe-tag-width, integer */
                           _bp_iframe.color = '286482'; /* Button and banderole color, hex without "#" */
                           _bp_iframe.background_color = '142D3C'; /* Background-color, hex without "#" */
-                          // _bp_iframe.default_amount = 50; /* Donation-amount, integer 1-99 */
+                          _bp_iframe.default_amount = 50; /* Donation-amount, integer 1-99 */
                           // _bp_iframe.default_data_transfer_accepted = false; /* true (default), false */
                           // _bp_iframe.recurring_interval = 'single'; /* Interval for recurring donations, string out of ["single", "monthly", "quarter_yearly", "half_yearly", "yearly"] */
                           (function() {
@@ -150,64 +179,88 @@
                           })();
                         </script>
                         <div id="betterplace_donation_iframe" style="background: transparent url('https://www.betterplace.org/assets/new_spinner.gif') 275px 20px no-repeat;"><strong><a href="https://www.betterplace.org/de/projects/39807-rette-mit-umbau-unseres-schiffes-zur-seenotrettung-im-mittelmeer/donations/new">Jetzt Spenden für „Rette mit! Umbau unseres Schiffes zur Seenotrettung im Mittelmeer“ bei unserem Partner betterplace.org</a></strong></div>
-                    
                     </div>
 
-                   <!-- <h4>Rechner</h4>
-                      <div id="rechner">
-                          <input type="Text" id="spendeinput" oninput="rechnen(this.form)"> €
-                          <br><br>
-                          <div id="spendentext" style="display:none">
-                            <p id="text-schiffsteil-prozent">Mit deinen <b class="EUR"></b> <b>€</b> kämen <b id="prozent"></b> <b>%</b> zum zweiten Schiffsteil - Crewräume und Maschinenraum - dazu.</p>
-                            <p id="text-schiffsteil-komplett">Mit deinen <b class="EUR"></b> <b>€</b> wäre das zweite Schiffsteil - Crewräume und Maschinenraum - komplett!</p>
-                            <p id="text-schiffsteil-mehr">Sogar noch mehr:</p>
-
-                            <p id="text-schiff-meter">Insgesamt wären damit <b id="meter"></b> <b id="unitmeter">m</b> des Schiffs finanziert. Das sind <b id="qmeter"></b> <b id="unitqmeter">m²</b>, die Platz für die Seenotrettung bieten.</p>
-
-                            <p id="text-schiff-komplett">Mit deinen <b class="EUR"></b> <b>€</b> wäre das gesamte Schiff finanziert! Mit einer Länge von <b>32 m</b> und einer Fläche von <b>160 m²</b> bietet es genug Platz, um mehr als <b>80 Menschen</b> auf einmal aus der Seenot zu retten.</p>
-
-                            <p id="button"><br><br><a id="aendern-btn" onclick="changeColor('#spendenbox');toDiv('#top');">ICH RETTE MIT!</a></p>
-
-                          </div>
-                          <div id="spendentext-fehler" style="display:none">
-                            <p>Bitte versuch es nur mit Zahlen.</p>
-                          </div>
-                        </div> -->
-
-                  </div>
-
-                  <div class="column hideme" style="min-width: 300px;">
-                    <h4>SPENDENSTAND: 24.308,00€</h4>
-                    <div id="schiff-ani">
-                        <div id=schiff-container style="min-height:133px;width:300px;">
-                            <div id="schiff" style="padding:5px;position:absolute">
-                              <img src="http://jugendrettet.org/graphics/schiff-konturen-weiss.svg" alt="Das Schiff" style="width:300px;opacity:0.1">
+                    <div class="column hideme" style="min-width: 300px;">
+                        <h4>SPENDENSTAND: 24.308,00€</h4>
+                        <div id="schiff-ani">
+                            <div class="schiff-klappe" id="1-klappe">
+                                <b>Schiffsschraube</b>
+                                <p>Im Heck unseres Schiffes finden sich Schiffsschraube und ein Beiboot.</p>
                             </div>
-                            <div class="blink balken" id="schiff-gespendet" style="padding:5px;position:absolute;overflow:hidden;width:calc(300px * 24308 / 80000);">
-                              <img src="http://jugendrettet.org/graphics/schiff-blau-neu.svg" alt="Das Schiff" style="width:300px" class="blink">
+                            <div class="schiff-klappe" id="2-klappe">
+                                <b>Crewräume/Maschinenraum</b>
+                                <p>Unsere 11 köpfige Crew wird während unserer Rettungsoperation in den Crewräumen unterkommen. Eine kleine Küche, sanitäre Anlagen gehören ebenfalls zu den Crewräumen.</p>
+                            </div>
+                            <div class="schiff-klappe" id="3-klappe">
+                                <b>Raum Kapitän/Brücke</b>
+                                <p>Die Kabine unseres Kapitäns liegt unmittelbar in der Nähe der Kommandobrücke. Hier werden der Kapitän und sein Ersatz, der Steuermann, in Vier-Stunden-Schichten das Schiff steuern.</p>
+                            </div>
+                            <div class="schiff-klappe" id="4-klappe">
+                                <b>Räume medizinische Versorgung</b>
+                                <p>Der Brücke vorgelagert, auf Höhe des Decks liegt ein Raum für die medizinische Versorgung. Auf dem Mittelmeer häufige Symptome wie Unterkühlung, Dehydratation, Kretze oder Schürf-, und Platzwunden werden von unserem Arzt an Bord behandelt.</p>
+                            </div>
+                            <div class="schiff-klappe" id="5-klappe">
+                                <b>Deckfläche mit Hydraulikkran</b>
+                                <p>Der Hydraulikkran hebt unsere beiden Beiboote ins Wasser. Mit denen werden wir die Menschen von ihren Booten zu unserem Mutterschiff holen. Die Fläche an Deck ist für die geretteten Menschen vorgesehen. Frauen, Männer und Familien werden getrennt voneinander untergebracht.</p>
+                            </div>
+                            <div class="schiff-klappe" id="6-klappe">
+                                <b>Deckfläche</b>
+                                <p>Eine LKW-Plane schützt die Geretteten vor Wind und Wetter. Etwa 90 Personen werden an Deck Platz finden.</p>
+                            </div>
+                            <div class="schiff-klappe" id="7-klappe">
+                                <b>Lager für Rettungswesten/Kühllager für Verpflegung</b>
+                                <p>Ein Kühllager für Verpflegung von Crew und Geretteten sowie ein Lager für Schwimmwesten findet sich in diesem Bereich des Schiffes.</p>
+                            </div>
+                            <div class="schiff-klappe" id="8-klappe">
+                                <b>Bug/Frischwassertank</b>
+                                <p>In der Spitze des Schiffs finden sich Frischwassertanks, mit denen Crew und Gerettete versorgt werden.</p>
+                            </div>
+                            <br>
+                            <div id=schiff-container style="min-height:133px;width:300px;">
+                                <div id="schiff" style="padding:5px;position:absolute">
+                                  <img src="http://jugendrettet.org/graphics/schiff-konturen-weiss.svg" alt="Das Schiff" style="width:300px;opacity:0.1">
+                                </div>
+                                <div class="blink balken" id="schiff-gespendet" style="padding:5px;position:absolute;overflow:hidden;width:calc(300px * 24308 / 80000);">
+                                  <img src="http://jugendrettet.org/graphics/schiff-blau-neu.svg" alt="Das Schiff" style="width:300px" class="blink">
+                                </div>
+                                <div style="position:absolute;width:300px;">
+                                  <!--<span id="0" class="unterteilungen">0m</span>-->
+                                  <a id="1" class="unterteilungen schiff" style="position:absolute;left: calc(300px*2/32)">2m</a>
+                                  <a id="2" class="unterteilungen schiff" style="position:absolute;left: calc(-5px + 300px*7/32)">7m</a>
+                                  <a id="3" class="unterteilungen schiff" style="position:absolute;left: calc(-5px + 300px*10/32)">10m</a>
+                                  <a id="4" class="unterteilungen schiff" style="position:absolute;left: calc(-5px + 300px*13/32)">12m</a>
+                                  <a id="5" class="unterteilungen schiff" style="position:absolute;left: calc(-5px + 300px*19/32)">19m</a>
+                                  <a id="6" class="unterteilungen schiff" style="position:absolute;left: calc(-15px + 300px*26/32)">26m</a>
+                                  <a id="7" class="unterteilungen schiff" style="position:absolute;left: calc(-15px + 300px*29/32)">29m</a>
+                                  <a id="8" class="unterteilungen schiff" style="position:absolute;left: calc(-15px + 300px)">32m</a>
+                                </div>
+                                <div style="position:absolute;width:300px">
+                                  <!--<span id="0" class="unterteilungen">0m</span>-->
+                                  <span id="stand" class="spendenstand schiff" style="white-space: nowrap;position:absolute;left: calc(-15px + 300px*17064/270000)">17.1 Tsd. €</span>
+                                </div>
+                            </div>
+                        </div>
+                        <br><br>
+                        <div id="phase">
+                            <div class="ph-container" id="ph-eins">
+                                <div class="header">
+                                    <span class="title">Phase 1</span><span class="percentage"><?php echo $value1;?>m / 32m</span>
+                                    <hr id="ph-eins-progress"></hr>
+                                </div>
+                                <div class="content" id="ph-eins-content">
+                                    <p>Wir haben uns bei der Kreuzberger Kinderstiftung auf ein Stiftungsgeld von 5000€ beworben. Der Gründer der Stiftung war so begeistert von unserem Projekt, dass er uns die 150.000€, die ein Schiff nach unseren Vorstellungen kostet, spendet. Bedingung ist allerdings, dass wir das Geld für den Umbau und die laufenden Kosten für den ersten Monat - <b>80.000€</b> - <b>bis 31. März 2016</b> zusammenkriegen. Wir sind überwältigt von dieser Großzügigkeit. Damit der Umbau ab 01. April planmäßig stattfinden kann, benötigen wir euch nun mehr denn je: Bitte unterstützt uns, indem ihr weiterhin von uns erzählt. Jede noch so kleine Spende bringt uns unserem Ziel, Menschenleben zu retten, weiter!</p>
+                                    <br>
+                                    <p>Danke an alle, die schon so fleißig gespendet und von uns erzählt haben. Es gilt jetzt, alles zu mobilisieren, damit der Umbau für die Rettungsmissionen umgesetzt werden kann.</p>
+                                    <br>
+                                    <p>Weitere Infos zu unserem Schiff findest du <a href="schiff#wie">hier</a>.</p>
+                                    <br>
+                                    <p>Unser Schiff wird etwa 32m lang sein. Bisher sind <?php echo $value1;?>m finanziert. Spende auch du 10 cm.</p>
+                                </div>
                             </div>
                         </div>
                     </div>
-                    <br>
-                    <div id="phase">
-                        <div class="ph-container" id="ph-eins">
-                            <div class="header">
-                                <span class="title">Phase 1</span><span class="percentage"><?php echo $value1;?>m / 32m</span>
-                                <hr id="ph-eins-progress"></hr>
-                            </div>
-                            <div class="content" id="ph-eins-content">
-                                <p>Wir haben uns bei der Kreuzberger Kinderstiftung auf ein Stiftungsgeld von 5000€ beworben. Der Gründer der Stiftung war so begeistert von unserem Projekt, dass er uns die 150.000€, die ein Schiff nach unseren Vorstellungen kostet, spendet. Bedingung ist allerdings, dass wir das Geld für den Umbau und die laufenden Kosten für den ersten Monat - <b>80.000€</b> - <b>bis 31. März 2016</b> zusammenkriegen. Wir sind überwältigt von dieser Großzügigkeit. Damit der Umbau ab 01. April planmäßig stattfinden kann, benötigen wir euch nun mehr denn je: Bitte unterstützt uns, indem ihr weiterhin von uns erzählt. Jede noch so kleine Spende bringt uns unserem Ziel, Menschenleben zu retten, weiter!</p>
-                                <br>
-                                <p>Danke an alle, die schon so fleißig gespendet und von uns erzählt haben. Es gilt jetzt, alles zu mobilisieren, damit der Umbau für die Rettungsmissionen umgesetzt werden kann.</p>
-                                <br>
-                                <p>Weitere Infos zu unserem Schiff findest du <a href="schiff#wie">hier</a>.</p>
-                                <br>
-                                <p>Unser Schiff wird etwa 32m lang sein. Bisher sind <?php echo $value1;?>m finanziert. Spende auch du 10 cm.</p>
-                            </div>
-                        </div>
-                    </div>
-                  </div>
-
+                </div>
             </div>
             <div id="content">
                 <footer>
