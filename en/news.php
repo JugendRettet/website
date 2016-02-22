@@ -100,7 +100,7 @@
                         <p>
                           We went to the Netherlands today to visit the two ships that we consider as the best fit to our needs. Our expert gives us green lights about the machinery. More infos will follow soon!
                         </p>
-                        <a href="http://jugendrettet.org/images/20160213.jpg" target="_blank"><img class="news" src='http://jugendrettet.org/images/20160213.jpg'></img></a>
+                        <a href="http://jugendrettet.org/images/20160213.jpg" target="_blank"><img class="news" src='http://jugendrettet.org/images/20160213.jpg'></a>
                       </div><br>
 
                       <a class="faq" id="52"><b>February 10th</b> Phase 1 almost complete! </a>
@@ -118,14 +118,14 @@
                             Thank you so much everyone, who already donated to us and spread our word. It is important now to get 
                             everything going, so the conversion for rescue missions can be realized.
                         </p>
-                        <a href="http://jugendrettet.org/files/schiff.gif" target="_blank"><img class="news" src='http://jugendrettet.org/files/schiff_twitter.gif'></img></a>
+                        <a href="http://jugendrettet.org/files/schiff.gif" target="_blank"><img class="news" src='http://jugendrettet.org/files/schiff_twitter.gif'></a>
                       </div><br>
 
                       <a class="faq" id="44"><b>January 20th</b> Talk at Rotary Club Aachen</a>
                       <div class="faq-klappe" id="44-klappe">
                           <p>Last night Team Aachen, here a part of the team together with Rotary-President Jens Zier, presented Jugend Rettet at the Rotary Club. Keep up the good work! If you want to join Team Aachen, send an e-mail to <a href="mailto:luisa@jugendrettet.org">Luisa</a>!</p>
                           <br>
-                          <a href="http://jugendrettet.org/images/rotary.jpg" target="_blank"><img class="news" src= 'http://jugendrettet.org/images/rotary.jpg'></img></a>
+                          <a href="http://jugendrettet.org/images/rotary.jpg" target="_blank"><img class="news" src='http://jugendrettet.org/images/rotary.jpg'></a>
                       </div><br>
                       <a class="faq" id="43"><b>Januar 16th</b> Article on n-tv</a>
                       <div class="faq-klappe" id="43-klappe">
@@ -143,7 +143,7 @@
                       <div class="faq-klappe" id="46-klappe">
                           <p>Thank you for 16,500€! As always: tell your friends about us! Every donation counts. Thank you all for your great support!  <br> <a href="http://jugendrettet.org/spenden">donate</a></p>
                           <br>
-                          <a href="http://jugendrettet.org/images/16500.jpg" target="_blank"><img class="news" src= 'http://jugendrettet.org/images/16500.jpg'></img></a>
+                          <a href="http://jugendrettet.org/images/16500.jpg" target="_blank"><img class="news" src='http://jugendrettet.org/images/16500.jpg'></a>
                       </div><br>
                       <a class="faq" id="42"><b>January 9th</b> Article in university magazine "Der Albrecht"</a>
                       <div class="faq-klappe" id="42-klappe">
@@ -154,7 +154,7 @@
                       <a class="faq" id="41"><b>January 9th</b> Support party in Berlin</a>
                       <div class="faq-klappe" id="41-klappe">
                           <p>Yesterday night we collected 349,55€ at our first support party! Thanks to everyone who celebrated with us, as well as to our Berlin ambassador Sonja and her little rescuers!</p>
-                          <a href="http://jugendrettet.org/images/schreina.jpg" target="_blank"><img class="news" src= 'http://jugendrettet.org/images/schreina.jpg'></img></a>
+                          <a href="http://jugendrettet.org/images/schreina.jpg" target="_blank"><img class="news" src='http://jugendrettet.org/images/schreina.jpg'></a>
                       </div><br>
                       <a class="faq" id="40"><b>January 7th</b> Article in Aachener Nachrichten</a>
                       <div class="faq-klappe" id="40-klappe">
@@ -163,7 +163,7 @@
                       </div><br>
                       <a class="faq" id="39"><b>January 5th</b> Party in Aachen</a>
                       <div class="faq-klappe" id="39-klappe">
-                          <a href="http://jugendrettet.org/images/partyaachen.jpg" target="_blank"><img class="news" src= 'http://jugendrettet.org/images/partyaachen.jpg'></img></a>
+                          <a href="http://jugendrettet.org/images/partyaachen.jpg" target="_blank"><img class="news" src='http://jugendrettet.org/images/partyaachen.jpg'></a>
                       </div><br>
                       <a class="faq" id="38"><b>January 4th 2016</b> Article in K50 - Magazin für Köln und Region</a>
                       <div class="faq-klappe" id="38-klappe">
@@ -176,7 +176,7 @@
                       <a class="faq" id="36"><b>December 15th</b> Guests at the university radio Aachen</a>
                       <div class="faq-klappe" id="36-klappe">
                           <p>This morning you could hear our ambassador from Aachen at the local universitys radio <a href="http://www.hochschulradio-aachen.de/">Hochschulradio Aachen</a></p>
-                          <a href="http://jugendrettet.org/images/radioaachen.jpg" target="_blank"><img class="news" src= 'http://jugendrettet.org/images/radioaachen.jpg'></img></a>
+                          <a href="http://jugendrettet.org/images/radioaachen.jpg" target="_blank"><img class="news" src='http://jugendrettet.org/images/radioaachen.jpg'></a>
                       </div><br>
                       <a class="faq" id="35"><b>December 14th</b> Open meeting in Bonn</a>
                       <div class="faq-klappe" id="35-klappe">
@@ -191,13 +191,13 @@
                       <a class="faq" id="33"><b>December 12th</b> Presentation of the movie Asyland in Hamburg</a>
                       <div class="faq-klappe" id="33-klappe">
                           <p>In Hamburg we again accompanied the presentation of the movie <a href="http://www.asyland.de/">Asyland</a> and the following discussion.</p>
-                      <a href="http://jugendrettet.org/images/hhasyland.jpg" target="_blank"><img class="news" src= 'http://jugendrettet.org/images/hhasyland.jpg'></img></a>
+                      <a href="http://jugendrettet.org/images/hhasyland.jpg" target="_blank"><img class="news" src='http://jugendrettet.org/images/hhasyland.jpg'></a>
                       </div><br>
                       <a class="faq" id="32"><b>December 9th</b> Christmas market in Trier</a>
                       <div class="faq-klappe" id="32-klappe">
                           <p>On two days, visitors of the christmas market in Trier could tinker christmas cards and support our mission to rescue.</p>
                           <p>Thanks to ambassador Asa and all the little rescuers in Trier.</p>
-                          <a href="http://jugendrettet.org/images/wmtrier.jpg" target="_blank"><img class="news" src= 'http://jugendrettet.org/images/wmtrier.jpg'></img></a>
+                          <a href="http://jugendrettet.org/images/wmtrier.jpg" target="_blank"><img class="news" src='http://jugendrettet.org/images/wmtrier.jpg'></a>
                       </div><br>
                       <a class="faq" id="31"><b>December 8th</b> Open meeting in Nuremberg</a>
                       <div class="faq-klappe" id="31-klappe"> 
@@ -205,7 +205,7 @@
                       <a class="faq" id="30"><b>December 2nd</b> Visit from Jule Müller and presentation at the b.traven secondary school</a>
                       <div class="faq-klappe" id="30-klappe">
                           <p>Today, Jule from <a href="http://imgegenteil.de/">im gegenteil</a>gave us a visit!</p>
-                          <a href="http://jugendrettet.org/images/julem.jpg" target="_blank"><img class="news" src= 'http://jugendrettet.org/images/julem.jpg'></img></a>
+                          <a href="http://jugendrettet.org/images/julem.jpg" target="_blank"><img class="news" src='http://jugendrettet.org/images/julem.jpg'></a>
                           <br>
                           <p>Aswell: "Why can't the people simply come with an airplane?" - We answered questions like this during our first presentation in a school, at the b.traven secondary school!</p>
                       </div><br>
@@ -213,149 +213,149 @@
                       <div class="faq-klappe" id="29-klappe">
                           <p>Yesterday we have been at the Baiz in Berlin! We presented our project and answered many questions. We are glad about our new supporters.</p><br>
                           <p>You missed the date? We have a lot of upcoming events like open meetings, where you can ask us any questions and discuss with us.</p>
-                          <a href="http://jugendrettet.org/images/20151201.jpg" target="_blank"><img class="news" src= 'http://jugendrettet.org/images/20151201.jpg'></img></a>
+                          <a href="http://jugendrettet.org/images/20151201.jpg" target="_blank"><img class="news" src='http://jugendrettet.org/images/20151201.jpg'></a>
                           <br>
                           <p>Aswell, our founding member Jakob was interviewed by FOCUS Online! The article tells about launch and how we imagine the time on the ship. Worth a read! <a href="http://www.focus.de/regional/berlin/mich-beruehrt-die-lage-sehr-jugendlicher-rettet-auf-eigene-faust-fluechtlinge-im-mittelmeer_id_5113218.html" target="_blank">Link</a></p>
                       </div><br>
                       <a class="faq" id="28"><b>November 29th</b> Visiting the Paul-Löbe-Haus Berlin</a>
                       <div class="faq-klappe" id="28-klappe">
                           <p>Saturday we attended the "Conference »Refugees welcome«" at the Paul-Löbe-Haus in Berlin! In the workshop, private persons, organizations and societies exchanged their experiences and work. Within the different topics, international escape and the change of escape routes were very interesting for us. We are excited for further exchange! </p>
-                          <a href="http://jugendrettet.org/images/20151129.jpg" target="_blank"><img class="news" src= 'http://jugendrettet.org/images/20151129.jpg'></img></a>
+                          <a href="http://jugendrettet.org/images/20151129.jpg" target="_blank"><img class="news" src='http://jugendrettet.org/images/20151129.jpg'></a>
                       </div><br>
                       <a class="faq" id="27"><b>November 26th</b> Visiting Theater und Komödie at Kurfürstendamm Berlin</a>
                       <div class="faq-klappe" id="27-klappe">
                           <p>This evening, we visited the performance "Eine Familie" ("One Family") at <a target="_blank" href="https://www.facebook.com/theaterundkomoedieamkurfuerstendamm/">Theater und Komödie am Kurfürstendamm</a>. Big "thank you" to <a target="_blank" href="https://www.facebook.com/SantinisProduction/">Santinis Production</a>, which help us collecting funds.</p>
-                          <a href="http://jugendrettet.org/images/qdamm.jpg" target="_blank"><img class="news" src= 'http://jugendrettet.org/images/qdamm.jpg'></img></a>
+                          <a href="http://jugendrettet.org/images/qdamm.jpg" target="_blank"><img class="news" src='http://jugendrettet.org/images/qdamm.jpg'></a>
                       </div><br>
                       <a class="faq" id="26"><b>November 24th</b> Open meeting in Münster</a>
                       <div class="faq-klappe" id="26-klappe">
-                          <a href="http://jugendrettet.org/images/trex1.jpg" target="_blank"><img class="news" src= 'http://jugendrettet.org/images/trex1.jpg'></img></a>
+                          <a href="http://jugendrettet.org/images/trex1.jpg" target="_blank"><img class="news" src='http://jugendrettet.org/images/trex1.jpg'></a>
                       </div><br>
                       <a class="faq" id="25"><b>November 23rd</b> Visiting Radio Q in Münster</a>
                       <div class="faq-klappe" id="25-klappe">
                           <p>Today, Lena was guest at <a target="_blank" href="https://www.facebook.com/radioq/">Radio Q</a> in Münster. For everyone who missed it or is not from Münster, the interview can be found here:<a target="_blank" href="https://soundcloud.com/radioq/jugend-rettet">soundcloud.com/radioq/jugend-rettet</a></p>
-                          <a href="http://jugendrettet.org/images/radioq1.jpg" target="_blank"><img class="news" src= 'http://jugendrettet.org/images/radioq1.jpg'></img></a>
+                          <a href="http://jugendrettet.org/images/radioq1.jpg" target="_blank"><img class="news" src='http://jugendrettet.org/images/radioq1.jpg'></a>
                       </div><br>
                       <a class="faq" id="24"><b>November 22nd</b> Presentation at the movie Asyland</a>
                       <div class="faq-klappe" id="24-klappe">
                           <p>Today we were given the opportunity to present ourselves at the screening of the new movie #Asyland. The movie depicts the story of refugees and their experiences in Germany. It becomes clear the we have to meet on eye level! very worth seeing. Our ambassadors Carlo from Cologne Tobi from Bonn where there aswell.</p>
-                          <a href="http://jugendrettet.org/images/asyland1.jpg" target="_blank"><img class="news" src= 'http://jugendrettet.org/images/asyland1.jpg'></img>
+                          <a href="http://jugendrettet.org/images/asyland1.jpg" target="_blank"><img class="news" src='http://jugendrettet.org/images/asyland1.jpg'></a>
                       </div><br>
-                        <a class="faq" id="23"><b>November 21st</b> Statement Paris</a>
-                        <div class="faq-klappe" id="23-klappe">
-                          <video class="news" style="max-width:100%" controls>
-                            <source src="videos/Unser Europa ist menschlich.-431502417058997.mp4" type="video/mp4">
-                            Your browser does not support the video tag.
-                          </video>
-                        </div><br>
-                        <p><b>November 19th</b> Open meeting in Potsdam
-                        </p><br>
-                        <a class="faq" id="21"><b>November 13th</b> Harald Zindler consults Jugend Rettet + open meeting in  Berlin Neukoelln</a>
-                        <div class="faq-klappe" id="21-klappe">
-                            <p>We are proud to present you and important consultant of Jugend Rettet: Harald Zindler, founding member of Greenpeace and head of several Greenpeace actions, like the risky occupation in Nordenham (<a target="_blank" href="http://bit.ly/nrdnhm1">http://bit.ly/nrdnhm1</a>). He aquired four ships himself and now consults us with buying our ship.</p>
-                            <a href="http://jugendrettet.org/images/zindler.jpg" target="_blank"><div class="popup-img" style="background-image: url('http://jugendrettet.org/images/zindler.jpg');"></div></a>
-                            <p>Photo: Jann Wilken‬</p>
-                        </div><br>
-                        <a class="faq" id="20"><b>November 11th</b> Invitation to Heimathafen Neukoelln</a>
-                        <div class="faq-klappe" id="20-klappe">
-                            <p>The director of the stageplay "Ultimo Ratio" invited us to Heimathafen Neukoelln.</p>
-                            <p>Ultimo Ratio is based on a true story and was made from original documents. It tells the story of Aliyah and her husband Rooble, who are to be deported due to the Dublin III regulation. Aliyah can't take anymore: Escape from Somalia. Through the Sahara. Lampedusa. Homeless  Aliyah ist am Ende ihrer Kräfte: Flucht aus Somalia. Durch die Sahara. Lampedusa. Without shelter and defence she was exposed to violence and abuse on the streets of Catania. - She could not bear that again. With their church asylum, the community Christophorus sets something against the authorities orders, and fights for Aliyah's story to be heard. 
-                            After the stageplay, we had the opportunity to introduce us. We also had an information stand there.
-                            ‬</p>
-                        </div><br>
-                        <a class="faq" id="19"><b>November 9th</b> Open meeting in Cologne + first week of funding phase</a>
-                        <div class="faq-klappe" id="19-klappe">
-                            <p>We held our first open meeting in Cologne.</p><br>
-                            <p>Simultaneously, the first week of the funding phase has ended and we are astonished: Gleichzeitig ging die erste Woche der Spendenphase vorbei und wir sind stunned: 6500 Euro! Thanks to the 17 supporters, that brought us closer to our first rescue mission.‬</p>
-                        </div><br>
-                        <a class="faq" id="18"><b>November 7th</b> Visiting Jugendmedientage (Youth Media Days) in Bonn</a>
-                        <div class="faq-klappe" id="18-klappe">
-                            <p>Our visit at the youth media days was a full success and we found a dedicated ambassador for Bonn. To let his ideas for actions become reality as soon as possible, he needs you as "little rescuers". If you live in Bonn and want to get active, send a mail to <a href="mailto:tobias@jugendrettet.org">tobias@jugendrettet.org</a> .</p>
-                            <a href="http://jugendrettet.org/images/jmtage.jpg" target="_blank"><div class="popup-img" style="background-image: url('http://jugendrettet.org/images/jmtage.jpg');"></div></a>
-                        </div><br>
-                        <a class="faq" id="17"><b>November 6th</b> Nuremberg ambassador at Radio AFKmax</a>
-                        <div class="faq-klappe" id="17-klappe">
-                            <p>Our Nuremberg ambassador Johanna was invited to Radio AFKmax. Here you find a short recording: <a target="_blank" href="http://bit.ly/jrafkmax">http://bit.ly/jrafkmax</a></p>
-                            <a href="http://jugendrettet.org/images/afkmax.jpg" target="_blank"><div class="popup-img" style="background-image: url('http://jugendrettet.org/images/afkmax.jpg');"></div></a>
-                        </div><br>
-                        <a class="faq" id="16"><b>November 2nd</b> Start of 1. phase</a>
-                        <div class="faq-klappe" id="16-klappe">
-                            <p>The people on the Mediterranean are dying. We want and will not watch passively. This is why today the first of our three funding stages takes off. Until February 2016, we will collect a total of 270.000 Euro, to buy the ship and bring it to Hamburg for conversion. Each time a donation comes in, another part of the ship's design will be revealed: <a target="_blank" href="spenden">http://jugendrettet.org/spenden</a>.</p>
-                                <p>We need your donation, to set something against the European indifference and the situation on the Mediterranean to rescue people. Donate now!</p>
-                        </div><br>
-                        <a class="faq" id="15"><b>November 1st</b> Nowkoelln Flowmarkt</a>
-                        <div class="faq-klappe" id="15-klappe">
-                            <p>Today we presented our project at the Nowkoelln Flowmarkt! With your support we were able to collect 600€, which are fully invested into our ship.</p>
-                            <a href="http://jugendrettet.org/images/flowmarkt.jpg" target="_blank"><img class="news" src= 'http://jugendrettet.org/images/flowmarkt.jpg'></img></a>
-                        </div><br>
-                        <a class="faq" id="14"><b>October 31st</b> Visit from<i>Jugend Rettet</i> our consultants to the dutch coast</a>
-                        <div class="faq-klappe" id="14-klappe">
-                            <p>We are steadily moving towards our first rescue mission. During a visit from Jugend Rettet and our consultants to the dutch coast, we inspected four ships. We took a closer look to the space on deck, the storage rooms and cranes aboard, to check whether they match our intent. The trip to the Netherlands was a big step for us. We are satisfied to see our plans become more tangible each day. Next time we visit the Netherlands, our way back will be aboard our ship. From monday on, we collect funds for that. Only two days until our first funding stage! </p>
-                        </div><br>
-                        <a class="faq" id="13"><b>October 19th</b> Start Twitter + opening of our donation account!</a>
-                        <div class="faq-klappe" id="13-klappe">
-                            <p>From now on you can follow us on Twitter, ask questions and discuss with us: <a target="_blank" href="https://twitter.com/jugendrettet">https://twitter.com/jugendrettet</a></p><br>
-                            <p>Aswell, we opened our donation account!</p>
-                        </div><br>
-                        <a class="faq" id="12"><b>October 15th</b> 2. open meeting in Berlin</a>
-                        <div class="faq-klappe" id="12-klappe">
-                            <p>We had many discussions at yesterdays meeting at Mehringhof. Especially the mission of the german marine was an important topic. For six weeks, two ships from the german marine where on a sea rescue mission. Now they are ought to be part of EU-mission "Sophia", to destroy smuggler networks. We research the background of this decision and have already met with a representative of the ministry of defense. Within short, a meeting with representatives of the Bundeswehr will follow.<br>At our open meetings, we always bring you up to date.</p>
-                        </div><br>
-                        <a class="faq" id="11"><b>October 12th</b> Ambassador action Nuremberg</a>
-                        <div class="faq-klappe" id="11-klappe">
-                            <p>Right now we are present with our ambassador in Nuremberg and start the first flyer action.</p>
-                        <a href="http://jugendrettet.org/images/nuernberg-flugblaetter.jpg" target="_blank"><div class="popup-img" style="background-image: url('http://jugendrettet.org/images/nuernberg-flugblaetter.jpg');"></div></a>
-                        </div><br>
-                        <a class="faq" id="10"><b>October 10th</b> Bundeswehr representatives report from their mission on the Mediterranean Sea</a>
-                        <div class="faq-klappe" id="10-klappe">
-                            <p>Exchange with representatives from the germany ministry of defense regarding the Bundeswehr participation in Operation Sophia and visit of the Joint Operations Command.</p>
-                        </div><br>
-                        <a class="faq" id="9"><b>October 3rd</b> Launch and first open meeting</a>
-                        <div class="faq-klappe" id="9-klappe">
-                            <p>Founding of the association Jugend Rettet, entry to register of associations.</p><br>
-                            <p>Our first open meeting yesterday evening as a big success. Thanks everyone for attending.</p>
-                            <p>We will regularly repeat the presentation. If you have suggestions for locations in Berlin or other cities where we can present our cause, please mail to <a href="mailto:info@jugendrettet.org" class="link">info@jugendrettet.org</a>.</p>
-                        <a href="http://jugendrettet.org/images/erstes_treffen.jpg" target="_blank"><div class="popup-img" style="background-image: url('http://jugendrettet.org/images/erstes_treffen.jpg');"></div></a>
-                        </div><br>
-                        <a class="faq" id="8"><b>September 27th</b>  Jugendrettet.org goes online</a>
-                        <div class="faq-klappe" id="8-klappe">
-                            <p>Start of the website www.jugendrettet.org and Facebook page.</p>
-                        </div><br>
-                        <a class="faq" id="7"><b>September 20th</b> Common Good status accomplished!</a>
-                        <div class="faq-klappe" id="7-klappe">
-                            <p>Acceptance of our common public interest through financial authorities.</p>
-                        </div><br>
-                        <a class="faq" id="5"><b>July 20th</b> Shiptype determined!</a>
-                        <div class="faq-klappe" id="5-klappe">
-                            <p>We determined a dutch fishtrawler is the best ship to fulfill our needs.</p>
-                        </div><br>
-                        <p><b>July 2015</b> Founding of core team and building an ambassador network in Germany
-                        </p><br>
-                        <a class="faq" id="3"><b>June 2015</b> Examination of our concept</a>
-                        <div class="faq-klappe" id="3-klappe">
-                            <p>Examination of the concept from <i>Jugend Rettet</i> for financial and technical practicality. Estimates of cost are worked out, the legal base for our mission got clarified.</p>
-                        </div><br>
-                        <a class="faq" id="1"><b>Early June 2015</b> The idea for <i>Jugend Rettet</i> originates.</a>
-                        <div class="faq-klappe" id="1-klappe">
-                            <p>News about dead in the Mediterranean every day. The idea to found <i>Jugend Rettet</i> originates. Opinions on the intent are obtained, experts and fellows sought. Contacts are established through captains, ship owners and organizations.</p>
-                        </div>
+                      <a class="faq" id="23"><b>November 21st</b> Statement Paris</a>
+                      <div class="faq-klappe" id="23-klappe">
+                        <video class="news" style="max-width:100%" controls>
+                          <source src="videos/Unser Europa ist menschlich.-431502417058997.mp4" type="video/mp4">
+                          Your browser does not support the video tag.
+                        </video>
+                      </div><br>
+                      <p><b>November 19th</b> Open meeting in Potsdam
+                      </p><br>
+                      <a class="faq" id="21"><b>November 13th</b> Harald Zindler consults Jugend Rettet + open meeting in  Berlin Neukoelln</a>
+                      <div class="faq-klappe" id="21-klappe">
+                          <p>We are proud to present you and important consultant of Jugend Rettet: Harald Zindler, founding member of Greenpeace and head of several Greenpeace actions, like the risky occupation in Nordenham (<a target="_blank" href="http://bit.ly/nrdnhm1">http://bit.ly/nrdnhm1</a>). He aquired four ships himself and now consults us with buying our ship.</p>
+                          <a href="http://jugendrettet.org/images/zindler.jpg" target="_blank"><div class="popup-img" style="background-image: url('http://jugendrettet.org/images/zindler.jpg');"></div></a>
+                          <p>Photo: Jann Wilken‬</p>
+                      </div><br>
+                      <a class="faq" id="20"><b>November 11th</b> Invitation to Heimathafen Neukoelln</a>
+                      <div class="faq-klappe" id="20-klappe">
+                          <p>The director of the stageplay "Ultimo Ratio" invited us to Heimathafen Neukoelln.</p>
+                          <p>Ultimo Ratio is based on a true story and was made from original documents. It tells the story of Aliyah and her husband Rooble, who are to be deported due to the Dublin III regulation. Aliyah can't take anymore: Escape from Somalia. Through the Sahara. Lampedusa. Homeless  Aliyah ist am Ende ihrer Kräfte: Flucht aus Somalia. Durch die Sahara. Lampedusa. Without shelter and defence she was exposed to violence and abuse on the streets of Catania. - She could not bear that again. With their church asylum, the community Christophorus sets something against the authorities orders, and fights for Aliyah's story to be heard. 
+                          After the stageplay, we had the opportunity to introduce us. We also had an information stand there.
+                          ‬</p>
+                      </div><br>
+                      <a class="faq" id="19"><b>November 9th</b> Open meeting in Cologne + first week of funding phase</a>
+                      <div class="faq-klappe" id="19-klappe">
+                          <p>We held our first open meeting in Cologne.</p><br>
+                          <p>Simultaneously, the first week of the funding phase has ended and we are astonished: Gleichzeitig ging die erste Woche der Spendenphase vorbei und wir sind stunned: 6500 Euro! Thanks to the 17 supporters, that brought us closer to our first rescue mission.‬</p>
+                      </div><br>
+                      <a class="faq" id="18"><b>November 7th</b> Visiting Jugendmedientage (Youth Media Days) in Bonn</a>
+                      <div class="faq-klappe" id="18-klappe">
+                          <p>Our visit at the youth media days was a full success and we found a dedicated ambassador for Bonn. To let his ideas for actions become reality as soon as possible, he needs you as "little rescuers". If you live in Bonn and want to get active, send a mail to <a href="mailto:tobias@jugendrettet.org">tobias@jugendrettet.org</a> .</p>
+                          <a href="http://jugendrettet.org/images/jmtage.jpg" target="_blank"><div class="popup-img" style="background-image: url('http://jugendrettet.org/images/jmtage.jpg');"></div></a>
+                      </div><br>
+                      <a class="faq" id="17"><b>November 6th</b> Nuremberg ambassador at Radio AFKmax</a>
+                      <div class="faq-klappe" id="17-klappe">
+                          <p>Our Nuremberg ambassador Johanna was invited to Radio AFKmax. Here you find a short recording: <a target="_blank" href="http://bit.ly/jrafkmax">http://bit.ly/jrafkmax</a></p>
+                          <a href="http://jugendrettet.org/images/afkmax.jpg" target="_blank"><div class="popup-img" style="background-image: url('http://jugendrettet.org/images/afkmax.jpg');"></div></a>
+                      </div><br>
+                      <a class="faq" id="16"><b>November 2nd</b> Start of 1. phase</a>
+                      <div class="faq-klappe" id="16-klappe">
+                          <p>The people on the Mediterranean are dying. We want and will not watch passively. This is why today the first of our three funding stages takes off. Until February 2016, we will collect a total of 270.000 Euro, to buy the ship and bring it to Hamburg for conversion. Each time a donation comes in, another part of the ship's design will be revealed: <a target="_blank" href="spenden">http://jugendrettet.org/spenden</a>.</p>
+                              <p>We need your donation, to set something against the European indifference and the situation on the Mediterranean to rescue people. Donate now!</p>
+                      </div><br>
+                      <a class="faq" id="15"><b>November 1st</b> Nowkoelln Flowmarkt</a>
+                      <div class="faq-klappe" id="15-klappe">
+                          <p>Today we presented our project at the Nowkoelln Flowmarkt! With your support we were able to collect 600€, which are fully invested into our ship.</p>
+                          <a href="http://jugendrettet.org/images/flowmarkt.jpg" target="_blank"><img class="news" src='http://jugendrettet.org/images/flowmarkt.jpg'></a>
+                      </div><br>
+                      <a class="faq" id="14"><b>October 31st</b> Visit from<i>Jugend Rettet</i> our consultants to the dutch coast</a>
+                      <div class="faq-klappe" id="14-klappe">
+                          <p>We are steadily moving towards our first rescue mission. During a visit from Jugend Rettet and our consultants to the dutch coast, we inspected four ships. We took a closer look to the space on deck, the storage rooms and cranes aboard, to check whether they match our intent. The trip to the Netherlands was a big step for us. We are satisfied to see our plans become more tangible each day. Next time we visit the Netherlands, our way back will be aboard our ship. From monday on, we collect funds for that. Only two days until our first funding stage! </p>
+                      </div><br>
+                      <a class="faq" id="13"><b>October 19th</b> Start Twitter + opening of our donation account!</a>
+                      <div class="faq-klappe" id="13-klappe">
+                          <p>From now on you can follow us on Twitter, ask questions and discuss with us: <a target="_blank" href="https://twitter.com/jugendrettet">https://twitter.com/jugendrettet</a></p><br>
+                          <p>Aswell, we opened our donation account!</p>
+                      </div><br>
+                      <a class="faq" id="12"><b>October 15th</b> 2. open meeting in Berlin</a>
+                      <div class="faq-klappe" id="12-klappe">
+                          <p>We had many discussions at yesterdays meeting at Mehringhof. Especially the mission of the german marine was an important topic. For six weeks, two ships from the german marine where on a sea rescue mission. Now they are ought to be part of EU-mission "Sophia", to destroy smuggler networks. We research the background of this decision and have already met with a representative of the ministry of defense. Within short, a meeting with representatives of the Bundeswehr will follow.<br>At our open meetings, we always bring you up to date.</p>
+                      </div><br>
+                      <a class="faq" id="11"><b>October 12th</b> Ambassador action Nuremberg</a>
+                      <div class="faq-klappe" id="11-klappe">
+                          <p>Right now we are present with our ambassador in Nuremberg and start the first flyer action.</p>
+                      <a href="http://jugendrettet.org/images/nuernberg-flugblaetter.jpg" target="_blank"><div class="popup-img" style="background-image: url('http://jugendrettet.org/images/nuernberg-flugblaetter.jpg');"></div></a>
+                      </div><br>
+                      <a class="faq" id="10"><b>October 10th</b> Bundeswehr representatives report from their mission on the Mediterranean Sea</a>
+                      <div class="faq-klappe" id="10-klappe">
+                          <p>Exchange with representatives from the germany ministry of defense regarding the Bundeswehr participation in Operation Sophia and visit of the Joint Operations Command.</p>
+                      </div><br>
+                      <a class="faq" id="9"><b>October 3rd</b> Launch and first open meeting</a>
+                      <div class="faq-klappe" id="9-klappe">
+                          <p>Founding of the association Jugend Rettet, entry to register of associations.</p><br>
+                          <p>Our first open meeting yesterday evening as a big success. Thanks everyone for attending.</p>
+                          <p>We will regularly repeat the presentation. If you have suggestions for locations in Berlin or other cities where we can present our cause, please mail to <a href="mailto:info@jugendrettet.org" class="link">info@jugendrettet.org</a>.</p>
+                      <a href="http://jugendrettet.org/images/erstes_treffen.jpg" target="_blank"><div class="popup-img" style="background-image: url('http://jugendrettet.org/images/erstes_treffen.jpg');"></div></a>
+                      </div><br>
+                      <a class="faq" id="8"><b>September 27th</b>  Jugendrettet.org goes online</a>
+                      <div class="faq-klappe" id="8-klappe">
+                          <p>Start of the website www.jugendrettet.org and Facebook page.</p>
+                      </div><br>
+                      <a class="faq" id="7"><b>September 20th</b> Common Good status accomplished!</a>
+                      <div class="faq-klappe" id="7-klappe">
+                          <p>Acceptance of our common public interest through financial authorities.</p>
+                      </div><br>
+                      <a class="faq" id="5"><b>July 20th</b> Shiptype determined!</a>
+                      <div class="faq-klappe" id="5-klappe">
+                          <p>We determined a dutch fishtrawler is the best ship to fulfill our needs.</p>
+                      </div><br>
+                      <p><b>July 2015</b> Founding of core team and building an ambassador network in Germany
+                      </p><br>
+                      <a class="faq" id="3"><b>June 2015</b> Examination of our concept</a>
+                      <div class="faq-klappe" id="3-klappe">
+                          <p>Examination of the concept from <i>Jugend Rettet</i> for financial and technical practicality. Estimates of cost are worked out, the legal base for our mission got clarified.</p>
+                      </div><br>
+                      <a class="faq" id="1"><b>Early June 2015</b> The idea for <i>Jugend Rettet</i> originates.</a>
+                      <div class="faq-klappe" id="1-klappe">
+                          <p>News about dead in the Mediterranean every day. The idea to found <i>Jugend Rettet</i> originates. Opinions on the intent are obtained, experts and fellows sought. Contacts are established through captains, ship owners and organizations.</p>
+                      </div>
                     </div>
                     <div class="column">
                       <h4>What we accomplished</h4>
                         <ul>
-                          <li>&#10003; We inspected ships of our chosen kind, dutch fishtrawler. As soon as we have decided for a ship, we will make plans for the conversion in april.</li><br>
-                          <!--<li>&#10003; We found an 11-person crew including captain and planned our six month mission.</li><br>-->
-                          <li>&#10003; We built a network of ambassadors in 24 cities.</li><br>
-                          <li>&#10003; We won Maria Furtwängler, Armin Rohde and Jasmin Gerat as advocates for <i>Jugend Rettet</i>.</li><br>
+                          <li>&#10003; We inspected ships of our chosen kind, dutch fishtrawler. As soon as we have decided for a ship, we will make plans for the conversion in april.</li>
+                          <!--<li>&#10003; We found an 11-person crew including captain and planned our six month mission.</li>-->
+                          <li>&#10003; We built a network of ambassadors in 24 cities.</li>
+                          <li>&#10003; We won Maria Furtwängler, Armin Rohde and Jasmin Gerat as advocates for <i>Jugend Rettet</i>.</li>
                           <li>&#10003; We established a core team of 11 persons in Berlin.</li>
                         </ul>
                     </div>
                     <div class="column">
                       <h4>What we will accomplish</h4>
                         <ul>
-                          <li>&#9633; That sea rescue sticks as a topic with the young generation and the situation of the people on the Mediterranean Sea stays in the public discourse. </li><br>
-                          <li>&#9633; That we expand our network of european ambassadors.</li><br>
-                          <li>&#9633; That we master the funding phase until the end of march and successfully finish our crowdfunding campaign.</li><br>
+                          <li>&#9633; That sea rescue sticks as a topic with the young generation and the situation of the people on the Mediterranean Sea stays in the public discourse. </li>
+                          <li>&#9633; That we expand our network of european ambassadors.</li>
+                          <li>&#9633; That we master the funding phase until the end of march and successfully finish our crowdfunding campaign.</li>
                           <li>&#9633; That we win schools and youth organizations as partners.</li>
                         </ul>
                     </div>
