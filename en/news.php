@@ -109,7 +109,7 @@
                         <p>
                           Each euro will help us to start our mission in June.
                         </p>
-                        <a href="http://jugendrettet.org/images/screenshot_bp.jpg" target="_blank"><img class="news" src='http://jugendrettet.org/images/screenshot_bp.jpg'></a>
+                        <a href="http://jugendrettet.org/images/screenshot_bp.png" target="_blank"><img class="news" src='http://jugendrettet.org/images/screenshot_bp.png'></a>
                       </div><br>
                       <a class="faq" id="57"><b>February 18th</b> Making of our crowdfunding clip </a>
                       <div class="faq-klappe" id="57-klappe">

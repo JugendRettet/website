@@ -108,7 +108,7 @@
                         <p>
                           Jeder Euro geht direkt in den Umbau. Helft uns, im Juni rausfahren zu können.
                         </p>
-                        <a href="http://jugendrettet.org/images/screenshot_bp.jpg" target="_blank"><img class="news" src='http://jugendrettet.org/images/screenshot_bp.jpg'></a>
+                        <a href="http://jugendrettet.org/images/screenshot_bp.png" target="_blank"><img class="news" src='http://jugendrettet.org/images/screenshot_bp.png'></a>
                       </div><br>
                       <a class="faq" id="57"><b>18. Februar</b> Dreh für den Crowdfunding-Clip </a>
                       <div class="faq-klappe" id="57-klappe">
