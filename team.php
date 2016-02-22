@@ -182,22 +182,21 @@
                         <p><u>Hinweis in eigener Sache:</u> Auf eine Verlinkung zu unseren Förderern und Unterstützern müssen wir leider verzichten, da dies (aus gesetzlicher Sicht) eine steuerlich wirksame Gegenleistung darstellt. Dadurch würde aus einer Spende eine Sponsoringleistung, für die wir Steuern entrichten müssten. Wir bitten herzlich um Verständnis.</p>
                     </div>
                 </div>
-
-                <div id="content">
-                    <footer>
-                        <div id="peek-container"></div>
-                        <nav class="footer">
-                            <ul>
-                                <li><a href="faq">FAQ</a></li>
-                                <li><a class="peek" id="folgen">Folgen</a></li>
-                                <li><a href="presse">Presse</a></li>
-                                <li><a href="impressum">Impressum</a></li>
-                                <li class="br"></li>
-                                <li><a href="http://en.jugendrettet.org/team">English</a></li>
-                            </ul>
-                        </nav>
-                    </footer>
-                </div>
+            </div>
+            <div id="content">
+                <footer>
+                    <div id="peek-container"></div>
+                    <nav class="footer">
+                        <ul>
+                            <li><a href="faq">FAQ</a></li>
+                            <li><a class="peek" id="folgen">Folgen</a></li>
+                            <li><a href="presse">Presse</a></li>
+                            <li><a href="impressum">Impressum</a></li>
+                            <li class="br"></li>
+                            <li><a href="http://en.jugendrettet.org/team">English</a></li>
+                        </ul>
+                    </nav>
+                </footer>
             </div>
         </div>
 
