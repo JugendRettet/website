@@ -7,8 +7,9 @@ function rechnen(){
 
 	var kosten = 80000
 	var kampagnengeld = 0
+	var betterplacegeld = +kampagnengeld+0
 	var startgeld = 24308
-	var stand = +kampagnengeld+startgeld
+	var stand = +betterplacegeld+startgeld
 
 	var balkenwidth = 300
 	var geldbalkenwidth = 260
@@ -17,18 +18,19 @@ function rechnen(){
 	var breite = 5
 	// in m
 
-	var spende = +document.getElementById('iFrameResizer0').contentWindow.document.getElementById('donation_process_donation_attributes_amount').value+0
+	var spende = +document.getElementById('spendeinput').value+0
+	var teilbetrag = +spende+kampagnengeld
 	var betrag = +spende+stand
 	// workaround to force number type
 
 	var zielb = '0'
-	if (spende > kosten) {
+	if (betrag > kosten) {
 		zielb = '1'
 	}
 	// we want to know if input money reached funding goal for later
 
 	var ziels = '0'
-	if (betrag > kosten) {
+	if (spende > kosten) {
 		ziels = '1'
 	}
 	// we want to know if funded money+input money reached funding goal for later
@@ -147,8 +149,6 @@ function rechnen(){
 	}
 	// cycle through all elements with class=EUR and set the new value
 
-	//document.getElementById('iFrameResizer0').contentWindow.document.getElementById('donation_process_donation_attributes_amount').value = spende ;
-	
 	textok = 'inherit'
 	textschiffsteilprozent = 'inherit'
 	textschiffmeter = 'inherit'
@@ -156,14 +156,14 @@ function rechnen(){
 	button = 'inherit'
 	// texts shown or hidden in standard case (everthing goes right)
 
-	if (betrag >= teilbedarf) {
+	if (teilbetrag >= teilbedarf) {
 		textschiffsteilprozent = 'none'
 		textschiffsteilkomplett = 'inherit'
 		button = 'inherit'
 	}
 	// case: part of ship from current campaign would be funded
 
-	if (betrag > teilbedarf) {
+	if (teilbetrag > teilbedarf) {
 		textschiffsteilmehr = 'inherit'
 		button = 'inherit'
 	}

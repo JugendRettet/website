@@ -29,7 +29,7 @@
 
 
         <script src="http://jugendrettet.org/js/jquery-1.10.2.min.js"></script>
-        <!--<script src="http://jugendrettet.org/js/rechner.1.js"></script>-->
+        <script src="./js/rechner.1.js"></script>
         <script src="http://jugendrettet.org/js/hideme.js"></script>
         <script type="text/javascript">
             $(window).load(function() {
@@ -134,17 +134,17 @@
                             <p><b>Kreditinstitut:</b> Berliner Sparkasse</p>
                         </div>
 
-<!--                        <h4>Rechner</h4>
+                        <h4>Rechner</h4>
                         <div id="rechner">
                           <input type="Text" id="spendeinput" oninput="rechnen()"> €
                           <br><br>
                           <div id="spendentext" style="display:none">
 
-                            <p id="text-schiffsteil-prozent">Mit deinen <b class="EUR"></b> <b>€</b> kämen <b id="prozent"></b> <b>%</b> zum zweiten Schiffsteil - Crewräume und Maschinenraum - dazu.</p>
-                            <p id="text-schiffsteil-komplett">Mit deinen <b class="EUR"></b> <b>€</b> wäre das zweite Schiffsteil - Crewräume und Maschinenraum - komplett!</p>
+                            <p id="text-schiffsteil-prozent">Mit deinen <b class="EUR"></b> <b>€</b> kämen <b id="prozent"></b> <b>%</b> zum ersten Bedarf - Schwimmwesten - dazu.</p>
+                            <p id="text-schiffsteil-komplett">Mit deinen <b class="EUR"></b> <b>€</b> wäre der erste Bedarf - Schwimmwesten - komplett!</p>
                             <p id="text-schiffsteil-mehr">Sogar noch mehr:</p>
 
-                            <p id="text-schiff-meter">Mit deinen <b class="EUR"></b> <b>€</b> wären <b id="meter"></b> <b id="unitmeter">m</b> des Schiffs finanziert. Das sind <b id="qmeter"></b> <b id="unitqmeter">m²</b>, die Platz für die Seenotrettung bieten.</p>
+                            <p id="text-schiff-meter">Damit wären <b id="meter"></b> <b id="unitmeter">m</b> des Schiffs finanziert. Das sind <b id="qmeter"></b> <b id="unitqmeter">m²</b>, die Platz für die Seenotrettung bieten.</p>
 
                             <p id="text-schiff-komplett">Mit deinen <b class="EUR"></b> <b>€</b> wäre das gesamte Schiff finanziert! Mit einer Länge von <b>32 m</b> und einer Fläche von <b>160 m²</b> bietet es genug Platz, um mehr als <b>80 Menschen</b> auf einmal aus der Seenot zu retten.</p>
 
@@ -155,7 +155,6 @@
                             <p>Bitte versuch es nur mit Zahlen.</p>
                           </div>
                         </div>
--->
                     </div>
 
                     <div id="spendenbox" class="column">
