@@ -167,9 +167,11 @@ header ul li a, header ul.open li a {
 /* Popup */
 
 .popup, .popup-flat {
-    height: calc(100vh - 400px);
     padding: 200px 0 0;
 }
+/*
+    height: calc(100vh - 400px);
+*/
 .peekfield {
     margin: 0 calc(50% - 480px);
 }
@@ -333,11 +335,11 @@ header ul li a, header ul.open li a {
 /* Popup */
 
 .popup, .popup-flat {
-    height: calc(100vh - 400px);
     padding: 200px 0 0;
 }
 /*
-width: 100vw;
+    width: 100vw;
+    height: calc(100vh - 400px);
 */
 .peekfield {
     width: calc(100% - 80px);
@@ -587,10 +589,10 @@ header ul li:hover {
 /* Popup */
 
 .popup, .popup-flat {
-    height: calc(100vh - 240px);
     padding: 140px 0 0;
 }
 /*
+    height: calc(100vh - 240px);
     width: 100vw;
 */
 .scroller {
