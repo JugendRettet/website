@@ -335,8 +335,10 @@ header ul li a, header ul.open li a {
 .popup, .popup-flat {
     height: calc(100vh - 400px);
     padding: 200px 0 0;
-    width: 100vw;
 }
+/*
+width: 100vw;
+*/
 .peekfield {
     width: calc(100% - 80px);
 }
@@ -586,9 +588,11 @@ header ul li:hover {
 
 .popup, .popup-flat {
     height: calc(100vh - 240px);
-    width: 100vw;
     padding: 140px 0 0;
 }
+/*
+    width: 100vw;
+*/
 .scroller {
     display: block;
     overflow-y: auto;

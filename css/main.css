@@ -458,11 +458,13 @@ footer.start {
 }
 .popup-flat {
     transition: 200ms;
-    display: table-cell;
     vertical-align: middle;
     position: relative;
-    width: 100vw;
 }
+/*
+    display: table-cell;
+    width: 100vw;
+*/
 .scroller, .container {
     display: -webkit-flex;
     display: flex;

@@ -22,8 +22,8 @@
         <link rel="stylesheet" href="http://jugendrettet.org/css/waves.1.css" type="text/css" />
 
         <link rel="stylesheet" href="http://jugendrettet.org/css/general.css" type="text/css" />
-        <link rel="stylesheet" href="http://jugendrettet.org/css/main.css?0" type="text/css" />
-        <link rel="stylesheet" href="http://jugendrettet.org/css/desktop.css?0" media="screen and (min-device-width: 851px)" type="text/css" />
+        <link rel="stylesheet" href="http://jugendrettet.org/css/main.css?1" type="text/css" />
+        <link rel="stylesheet" href="http://jugendrettet.org/css/desktop.css?1" media="screen and (min-device-width: 851px)" type="text/css" />
         <link rel="stylesheet" href="http://jugendrettet.org/css/mobile.css?0" media="screen and (max-device-width: 850px)" type="text/css" />
 
         <script src="http://jugendrettet.org/js/jquery-1.10.2.min.js"></script>
@@ -65,27 +65,10 @@
                 </nav>
             </header>
             <div class="popup-flat">
-                <div class="triple">
+                <div class="double">
                     <h3>Team</h3>
                 </div>
-                <div class="container triple">
-                    <div class="column">
-                        <h4>Die Crew</h4>
-                        <ul style="list-style: inherit;">
-                            <li>Kapitän</li>
-                            <li>Steuermann</li>
-                        </ul>
-                        <p>(mit A1-Patent)</p>
-                        <br>
-                        <ul style="list-style: inherit;">
-                            <li>2 Maschinist_innen</li>
-                            <li>1 Funker_in</li>
-                            <li>2-3 Deckhands (Erste-Hilfe-Kurs, englische/französische Sprachkenntnisse)</li>
-                            <li>1 Sicherheitsbeauftragte_r</li>
-                            <li>2 Ärzt_innen</li>
-                        </ul>
-                        <p>Unsere Deckhands legen STWC - Basic Safety Trainings ab.</p>
-                    </div>
+                <div class="container double">
                     <div class="column">
                         <h4>Das Team</h4>
                         <a href="http://jugendrettet.org/images/team.jpg" target="_blank"><img class="news" alt="unser Team" src='http://jugendrettet.org/images/team_s.jpg'></a>
@@ -123,10 +106,26 @@
                             <li><b>Kjeld</b>:  Gestaltung</li>
                             <li><b>Leon</b>:  Webdesign</li>
                         </ul>
+                        <br>
+                        <h4>Die Crew</h4>
+                        <ul style="list-style: inherit;">
+                            <li>Kapitän</li>
+                            <li>Steuermann</li>
+                        </ul>
+                        <p>(mit A1-Patent)</p>
+                        <br>
+                        <ul style="list-style: inherit;">
+                            <li>2 Maschinist_innen</li>
+                            <li>1 Funker_in</li>
+                            <li>2-3 Deckhands (Erste-Hilfe-Kurs, englische/französische Sprachkenntnisse)</li>
+                            <li>1 Sicherheitsbeauftragte_r</li>
+                            <li>2 Ärzt_innen</li>
+                        </ul>
+                        <p>Unsere Deckhands legen STWC - Basic Safety Trainings ab.</p>
                     </div>
                     <div class="column">
                         <h4>Botschafter</h4>
-                        <iframe style="margin:20px 0 0" width="100%" height="300px" frameborder="0" src="https://a.tiles.mapbox.com/v4/leonvogler.nd99673k/attribution,zoompan,zoomwheel,share.html?access_token=pk.eyJ1IjoibGVvbnZvZ2xlciIsImEiOiI0MTI2MDcxMzk2MWI2NDczYzRjNzY5OWI4ZmRmODUyYiJ9.Bys3jr3YtztwTuGQ30NLug"></iframe>
+                        <iframe style="margin:20px 0 0;width:100%;height:300px" frameborder="0" src="https://a.tiles.mapbox.com/v4/leonvogler.nd99673k/attribution,zoompan,zoomwheel,share.html?access_token=pk.eyJ1IjoibGVvbnZvZ2xlciIsImEiOiI0MTI2MDcxMzk2MWI2NDczYzRjNzY5OWI4ZmRmODUyYiJ9.Bys3jr3YtztwTuGQ30NLug"></iframe>
                         <ul>
                             <li>Aachen: <a href="mailto:Luisa@jugendrettet.org">Luisa</a></li>
                             <li>Allgäu: <a href="mailto:Lioba@jugendrettet.org">Lioba</a></li>
@@ -155,14 +154,7 @@
                             <li>Stuttgart: <a href="mailto:Harun@jugendrettet.org">Harun</a></li>
                             <li>Trier: <a href="mailto:Asa@jugendrettet.org">Asa</a></li>
                         </ul>
-                    </div>
-                </div>
-
-                <div class="container single">
-                    <!--<div class="column">
-                        <h4>Gesichter</h4>
-                    </div>-->
-                    <div class="column">
+                        <br>
                         <h4>Unterstützer</h4>
                         <!--<a href="http://www.jugendpresse.de/">-->
                         <img src="graphics/jpd.svg" alt="JPD" style="background-color:white;width:100%;padding:5px">
@@ -172,7 +164,7 @@
                         <img src="graphics/Santini-Logo_sw.svg" alt="Santini" style="background-color:white;width:100%;margin-top:20px;">
                         <span>Santinis.de</span>
 
-                        <img src="graphics/Logo_Print Production_2c.svg" alt="Print Production" style="background-color:white;width:100%;margin-top:20px;padding:5px">
+                        <img src="graphics/Logo_Print_Production_2c.svg" alt="Print Production" style="background-color:white;width:100%;margin-top:20px;padding:5px">
                         <span>printproduction.de</span>
 
                         <img src="graphics/nwsh.png" alt="Netzwerk Selbsthilfe" style="background-color:white;width:100%;margin-top:20px;padding:5px">
