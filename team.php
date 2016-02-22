@@ -88,40 +88,40 @@
                     </div>
                     <div class="column">
                         <h4>Das Team</h4>
-                        <a href="http://jugendrettet.org/images/team.jpg" target="_blank"><img class="news" alt="unser Kernteam" src='http://jugendrettet.org/images/team_s.jpg'></a>
+                        <a href="http://jugendrettet.org/images/team.jpg" target="_blank"><img class="news" src='http://jugendrettet.org/images/team_s.jpg'></img></a>
                         <ul>
-                            <li><span class="b">Jakob</span>: Gründer und 1. Vorsitzender
+                            <li><b>Jakob</b>: Gründer und 1. Vorsitzender
                                 <br>
-                                Tel.: <a href="tel:+4916095683873">+49 160 95 68 38 73</a>
+                                Tel.: <a href="tel:+49 160 95 68 38 73">+49 160 95 68 38 73</a>
                             </li>
-                            <li><span class="b">Lena</span>: Gründerin und 2. Vorsitzender
+                            <li><b>Lena</b>: Gründerin und 2. Vorsitzender
                                 <br>
-                                Tel.: <a href="tel:+4915168446398">+49 151 68 44 63 98</a>
+                                Tel.: <a href="tel:+49 151 68 44 63 98">+49 151 68 44 63 98</a>
                             </li>
                         </ul>
                         <br>
                         <ul>
-                            <span class="b"><li>Lena</span>:  Organisation, Koordination Botschafter, Konzeption</li>
-                            <span class="b"><li>Mohammed</span>:  Koordination europ. Botschafter</li>
-                            <span class="b"><li>Sahra</span>:  Organisation, Konzeption, Öffentlichkeit, Gestaltung</li>
-                            <span class="b"><li>Sonja</span>:  Organisation, Recht, Finanzen</li>
-                            <span class="b"><li>Jakob</span>:  Konzeption, Öffentlichkeit, Recht, Finanzen</li>
-                            <span class="b"><li>Pauline</span>:  Öffentlichkeit, Presse</li>
-                            <span class="b"><li>Johanna</span>:  Öffentlichkeit, Gestaltung</li>
-                            <span class="b"><li>Alex</span>:  IT, Gestaltung</li>
-                            <span class="b"><li>Matthias</span>:  Finanzen, Recherche</li>
-                            <span class="b"><li>Johanna</span>:  Öffentlichkeit</li>
-                            <span class="b"><li>Carlo</span>:  Öffentlichkeit</li>
-                            <span class="b"><li>Valeria</span>:  Öffentlichkeit, Finanzen</li>
-                            <span class="b"><li>Lars</span>:  IT</li>
-                            <span class="b"><li>Suse</span>:  Finanzen</li>
-                            <span class="b"><li>Elke</span>:  Finanzen</li>
-                            <span class="b"><li>Lukas</span>:  Finanzen</li>
-                            <span class="b"><li>Anna</span>:  Recherche</li>
-                            <span class="b"><li>Andreas</span>:  Recherche</li>
-                            <span class="b"><li>Jonas</span>:  Gestaltung</li>
-                            <span class="b"><li>Kjeld</span>:  Gestaltung</li>
-                            <span class="b"><li>Leon</span>:  Webdesign</li>
+                            <b><li>Lena</b>:  Organisation, Koordination Botschafter, Konzeption</li>
+                            <b><li>Mohammed</b>:  Koordination europ. Botschafter</li>
+                            <b><li>Sahra</b>:  Organisation, Konzeption, Öffentlichkeit, Gestaltung</li>
+                            <b><li>Sonja</b>:  Organisation, Recht, Finanzen</li>
+                            <b><li>Jakob</b>:  Konzeption, Öffentlichkeit, Recht, Finanzen</li>
+                            <b><li>Pauline</b>:  Öffentlichkeit, Presse</li>
+                            <b><li>Johanna</b>:  Öffentlichkeit, Gestaltung</li>
+                            <b><li>Alex</b>:  IT, Gestaltung</li>
+                            <b><li>Matthias</b>:  Finanzen, Recherche</li>
+                            <b><li>Johanna</b>:  Öffentlichkeit</li>
+                            <b><li>Carlo</b>:  Öffentlichkeit</li>
+                            <b><li>Valeria</b>:  Öffentlichkeit, Finanzen</li>
+                            <b><li>Lars</b>:  IT</li>
+                            <b><li>Suse</b>:  Finanzen</li>
+                            <b><li>Elke</b>:  Finanzen</li>
+                            <b><li>Lukas</b>:  Finanzen</li>
+                            <b><li>Anna</b>:  Recherche</li>
+                            <b><li>Andreas</b>:  Recherche</li>
+                            <b><li>Jonas</b>:  Gestaltung</li>
+                            <b><li>Kjeld</b>:  Gestaltung</li>
+                            <b><li>Leon</b>:  Webdesign</li>
                         </ul>
                     </div>
                     <div class="column">
