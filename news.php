@@ -63,12 +63,12 @@
                 </div>
                 <nav>
                     <ul class="hidden">
-                        <li><a href="news.php" class="indicator">News</a></li>
-                        <li><a href="schiff.php">Das Schiff</a></li>
-                        <li><a href="team.php">Team</a></li>
-                        <li><a href="aendern.php">Retten</a></li>
-                        <li><a href="spenden.php">Spenden</a></li>
-                        <li><a href="europe.php">Jugend Rettet <span class="lowercase">europe</span></a></li>
+                        <li><a href="news" class="indicator">News</a></li>
+                        <li><a href="schiff">Das Schiff</a></li>
+                        <li><a href="team">Team</a></li>
+                        <li><a href="aendern">Retten</a></li>
+                        <li><a href="spenden">Spenden</a></li>
+                        <li><a href="europe">Jugend Rettet <span class="lowercase">europe</span></a></li>
                     </ul>
                 </nav>
             </header>
