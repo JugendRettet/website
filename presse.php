@@ -65,18 +65,18 @@
             </header>
             <div class="popup-flat">
                 <div class="single">
-                  <div class="column">
+                    <div class="column">
                     <h3>Presse</h3>
 
-                    <p>Pauline Schmidt</p>
-                    <p>Leiterin Pressekontakt Jugend Rettet</p>
-                    <p>Postfach 36 03 55 D- 10973 Berlin</p>
-                    <p>Mail: <a href="mailto:PaulineS@jugendrettet.org">PaulineS@jugendrettet.org</a></li></p>
-                    <p>Fon: <a href="tel:+49 175 82 28 735">+49 175 822 87 35</a></p>
-                    <br>
-                    <p>&#8594; <a href="http://jugendrettet.org/files/presse.vcf">Kontakt speichern</a> oder scannen:</p>
-                    <a href="http://jugendrettet.org/files/presse_qr.png" target="_blank"><img class="news" src='http://jugendrettet.org/files/presse_qr.png'></img></a>
-                    <!--<p>&#8594; <a href="http://jugendrettet.org/files/Vereinssatzung_v1.pdf">Presse-Kit</a></p>-->
+                        <p>Pauline Schmidt</p>
+                        <p>Leiterin Pressekontakt Jugend Rettet</p>
+                        <p>Postfach 36 03 55 D- 10973 Berlin</p>
+                        <p>Mail: <a href="mailto:PaulineS@jugendrettet.org">PaulineS@jugendrettet.org</a></li></p>
+                        <p>Fon: <a href="tel:+49 175 82 28 735">+49 175 822 87 35</a></p>
+                        <br>
+                        <p>&#8594; <a href="http://jugendrettet.org/files/presse.vcf">Kontakt speichern</a> oder scannen:</p>
+                        <a href="http://jugendrettet.org/files/presse_qr.png" target="_blank"><img class="news" src='http://jugendrettet.org/files/presse_qr.png'></img></a>
+                        <p>&#8594; <a href="http://jugendrettet.org/files/Pressemappe_JR.pdf">Pressemappe</a></p>
                     </div>
                 </div>
             </div>
