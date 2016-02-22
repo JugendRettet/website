@@ -49,7 +49,7 @@ a {
 a:hover {
     cursor: pointer;
 }
-b, strong {
+b, strong, .b {
     font-weight: bold;
 }
 i, em {
