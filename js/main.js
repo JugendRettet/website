@@ -33,6 +33,8 @@ $('.faq').click(function () {
     $('#nachweis .faq-klappe:not(#' + that.attr('id') + '-nachweis)').slideUp(400);
     $('.faq').removeClass('open');
     that.toggleClass('open');
+    return false;
+    // prevent scrolling to top (on firefox)
 });
 //schiff
 $('.schiff').click(function () {
