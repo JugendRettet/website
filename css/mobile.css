@@ -226,10 +226,12 @@ nav ul.hidden li.scale {
 /* Popup */
 
 .popup, .popup-flat {
-    height: calc(100vh - 240px);
     width: calc(100% - 80px);
     padding: 140px 0 0;
 }
+/*
+    height: calc(100vh - 240px);
+*/
 .popup-flat {
     padding: 140px 0 40px;
 }
@@ -477,10 +479,12 @@ nav ul.hidden li.scale {
 /* Popup */
 
 .popup, .popup-flat {
-    height: calc(100vh - 200px);
     width: calc(100% - 40px);
     padding: 85px 0 0;
 }
+/*
+    height: calc(100vh - 200px);
+*/
 .popup-flat {
     padding: 85px 0 80px;
 }
