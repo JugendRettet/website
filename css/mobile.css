@@ -25,7 +25,7 @@ div#schiff-ani.index {
 }
 }
 
-@media screen and (min-device-width: 481px) {
+@media screen and (min-device-width: 480px) {
 
 /* Main */
 
@@ -274,7 +274,7 @@ nav ul.hidden li.scale {
 }
 }
 
-@media screen and (max-device-width: 480px) {
+@media screen and (max-device-width: 479px) {
 /* Main */
 
 #wrap {
@@ -525,17 +525,17 @@ nav ul.hidden li.scale {
     width: 100%;
 }
 }
-@media screen and (max-width: 851px) and (max-height: 701px) {
+@media screen and (max-device-width: 849px) and (max-device-height: 699px) {
 div#schiff-ani.index {
     display: none;
 }
 }
-@media screen and (max-height: 551px) {
+@media screen and (max-device-height: 549px) {
 #slogan {
     font-size: 20px;
 }
 }
-@media screen and (max-height: 501px) {
+@media screen and (max-device-height: 549px) {
 div#schiff-ani.index {
     display: none;
 }
@@ -575,12 +575,12 @@ footer {
     padding: 5px 0;
 }
 }
-@media screen and (max-height: 401px) {
+@media screen and (max-device-height: 399px) {
 #phase {
     display: none;
 }
 }
-@media screen and (max-device-width: 481px) and (max-height: 341px) {
+@media screen and (max-device-width: 479px) and (max-device-height: 339px) {
 div#schiff-ani.index {
     display: none;
 }
@@ -618,5 +618,20 @@ header ul {
 }
 footer {
     padding: 5px 0;
+}
+}
+@media screen and (max-device-height: 449px) and (max-device-width: 319px) {
+#phase {
+    display: none;
+}
+}
+@media screen and (max-device-height: 379px) and (max-device-width: 319px) {
+#clockdiv {
+    display: none;
+}
+}
+@media screen and (max-device-height: 339px) {
+#clockdiv {
+    display: none;
 }
 }
