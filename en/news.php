@@ -95,6 +95,34 @@
                           </div>
                       </div><br>
 
+                      <a class="faq" id="58"><b>February 20th</b> Start on betterplace.org </a>
+                      <div class="faq-klappe" id="58-klappe">
+                        <p>
+                          As of today our campaign on betterplace.org started.
+                        </p>
+                        <p>
+                          39 days are left to donate - we need 80.000€ and 24.000€ are already collected.
+                        </p>
+                        <p>
+                          Now we need you: Rescue too!
+                        </p>
+                        <p>
+                          Each euro will help us to start our mission in June.
+                        </p>
+                        <a href="http://jugendrettet.org/images/screenshot_bp.jpg" target="_blank"><img class="news" src='http://jugendrettet.org/images/screenshot_bp.jpg'></a>
+                      </div><br>
+                      <a class="faq" id="57"><b>February 18th</b> Making of our crowdfunding clip </a>
+                      <div class="faq-klappe" id="57-klappe">
+                        <p>
+                          Right now we're in the making of our crowdfunding clip!
+                        </p>
+                        <a href="http://jugendrettet.org/images/dreh.jpg" target="_blank"><img class="news" src='http://jugendrettet.org/images/dreh.jpg'></a>
+                      </div><br>
+
+                      <a class="faq" id="55"><b>February 15th</b> Soli party in newyorck59 </a>
+                      <div class="faq-klappe" id="55-klappe">
+                        <a href="http://jugendrettet.org/images/newyorck.jpg" target="_blank"><img class="news" src='http://jugendrettet.org/images/newyorck.jpg'></a>
+                      </div><br>
                       <a class="faq" id="54"><b>February 13th</b> Ship inspection! </a>
                       <div class="faq-klappe" id="54-klappe">
                         <p>

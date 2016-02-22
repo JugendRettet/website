@@ -94,6 +94,43 @@
                           </div>
                       </div><br>
 
+                      <a class="faq" id="58"><b>20. Februar</b> Start auf betterplace.org </a>
+                      <div class="faq-klappe" id="58-klappe">
+                        <p>
+                          Seit heute sind wir auf betterplace.org vertreten.
+                        </p>
+                        <p>
+                          Noch 39 Tage - 80.000€. 24.000€ haben wir schon.
+                        </p>
+                        <p>
+                          Jetzt brauchen wir euch: Rettet mit!
+                        </p>
+                        <p>
+                          Jeder Euro geht direkt in den Umbau. Helft uns, im Juni rausfahren zu können.
+                        </p>
+                        <a href="http://jugendrettet.org/images/screenshot_bp.jpg" target="_blank"><img class="news" src='http://jugendrettet.org/images/screenshot_bp.jpg'></a>
+                      </div><br>
+                      <a class="faq" id="57"><b>18. Februar</b> Dreh für den Crowdfunding-Clip </a>
+                      <div class="faq-klappe" id="57-klappe">
+                        <p>
+                          Wir wurden heute bei unserer Arbeit im Büro begleitet. Aus diesem Material entsteht dann ein Teil unseres Crowdfunding-Clips.
+                        </p>
+                        <a href="http://jugendrettet.org/images/dreh.jpg" target="_blank"><img class="news" src='http://jugendrettet.org/images/dreh.jpg'></a>
+                      </div><br>
+                      <a class="faq" id="56"><b>15. Februar</b> Radiointerview bei BHeins </a>
+                      <div class="faq-klappe" id="56-klappe">
+                        <p>
+                          <a href="mailto:Lena@jugendrettet.org">Lena</a> und unsere beiden Botschafter <a href="mailto:alex@jugendrettet.org">Alex</a> und <a href="mailto:christoph@jugendrettet.org">Christoph</a> waren heute zum Interview beim Radiosender BHeins.
+                        </p>
+                        <p>
+                          Motivierte Potsdamer können sich per Mail an <a href="mailto:christoph@jugendrettet.org">Christoph</a> wenden.
+                        </p>
+                        <a href="http://jugendrettet.org/images/bheins.jpg" target="_blank"><img class="news" src='http://jugendrettet.org/images/bheins.jpg'></a>
+                      </div><br>
+                      <a class="faq" id="55"><b>15. Februar</b> Soliparty im newyorck59 </a>
+                      <div class="faq-klappe" id="55-klappe">
+                        <a href="http://jugendrettet.org/images/newyorck.jpg" target="_blank"><img class="news" src='http://jugendrettet.org/images/newyorck.jpg'></a>
+                      </div><br>
                       <a class="faq" id="54"><b>13. Februar</b> Schiffsbesichtigung! </a>
                       <div class="faq-klappe" id="54-klappe">
                         <p>
@@ -101,7 +138,6 @@
                         </p>
                         <a href="http://jugendrettet.org/images/20160213.jpg" target="_blank"><img class="news" src='http://jugendrettet.org/images/20160213.jpg'></a>
                       </div><br>
-
                       <a class="faq" id="53"><b>12. Februar</b> Aktionstage </a>
                       <div class="faq-klappe" id="53-klappe">
                         <p>
