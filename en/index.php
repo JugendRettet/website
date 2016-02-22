@@ -64,7 +64,7 @@
                         <div id="schiff" style="padding:5px;position:absolute">
                           <img src="http://jugendrettet.org/graphics/schiff-starkekonturen-weiss.svg" alt="Das Schiff" style="width:300px;opacity:0.4">
                         </div>
-                        <div class="blink balken" id="schiff-gespendet" style="padding:5px;position:absolute;overflow:hidden;width:calc(300px * 24845 / 80000);">
+                        <div class="blink balken" id="schiff-gespendet" style="padding:5px;position:absolute;overflow:hidden;width:calc(300px * 24949 / 80000);">
                           <img src="http://jugendrettet.org/graphics/schiff-blau-starkekontur.svg" alt="Das Schiff" style="width:300px" class="blink">
                         </div>
                     </div>
