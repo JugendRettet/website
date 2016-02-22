@@ -29,7 +29,7 @@
 
 
         <script src="http://jugendrettet.org/js/jquery-1.10.2.min.js"></script>
-        <script src="./js/rechner.1.js"></script>
+        <script src="./js/rechner.1.js?0"></script>
         <script src="http://jugendrettet.org/js/hideme.js"></script>
         <script type="text/javascript">
             $(window).load(function() {
@@ -136,24 +136,24 @@
 
                         <h4>Rechner</h4>
                         <div id="rechner">
-                          <input type="Text" id="spendeinput" oninput="rechnen()"> €
-                          <br><br>
-                          <div id="spendentext" style="display:none">
+                            <input type="Text" id="spendeinput" oninput="rechnen()"> €
+                            <br><br>
+                            <div id="spendentext" style="display:none">
 
-                            <p id="text-schiffsteil-prozent">Mit deinen <b class="EUR"></b> <b>€</b> kämen <b id="prozent"></b> <b>%</b> zum ersten Bedarf - Schwimmwesten - dazu.</p>
-                            <p id="text-schiffsteil-komplett">Mit deinen <b class="EUR"></b> <b>€</b> wäre der erste Bedarf - Schwimmwesten - komplett!</p>
-                            <p id="text-schiffsteil-mehr">Sogar noch mehr:</p>
+                                <p id="text-schiffsteil-prozent">Mit deinen <b class="EUR"></b> <b>€</b> kämen <b id="prozent"></b> <b>%</b> zum ersten Bedarf - Schwimmwesten - dazu.</p>
+                                <p id="text-schiffsteil-komplett">Mit deinen <b class="EUR"></b> <b>€</b> wäre der erste Bedarf - Schwimmwesten - komplett!</p>
+                                <p id="text-schiffsteil-mehr">Sogar noch mehr:</p>
 
-                            <p id="text-schiff-meter">Damit wären <b id="meter"></b> <b id="unitmeter">m</b> des Schiffs finanziert. Das sind <b id="qmeter"></b> <b id="unitqmeter">m²</b>, die Platz für die Seenotrettung bieten.</p>
+                                <p id="text-schiff-meter">Damit wären <b id="meter"></b> <b id="unitmeter">m</b> des Schiffs finanziert. Das sind <b id="qmeter"></b> <b id="unitqmeter">m²</b>, die Platz für die Seenotrettung bieten.</p>
 
-                            <p id="text-schiff-komplett">Mit deinen <b class="EUR"></b> <b>€</b> wäre das gesamte Schiff finanziert! Mit einer Länge von <b>32 m</b> und einer Fläche von <b>160 m²</b> bietet es genug Platz, um mehr als <b>80 Menschen</b> auf einmal aus der Seenot zu retten.</p>
+                                <p id="text-schiff-komplett">Mit deinen <b class="EUR"></b> <b>€</b> wäre das gesamte Schiff finanziert! Mit einer Länge von <b>32 m</b> und einer Fläche von <b>160 m²</b> bietet es genug Platz, um mehr als <b>80 Menschen</b> auf einmal aus der Seenot zu retten.</p>
 
-                            <p id="button"><br><br><a id="aendern-btn" onclick="changeColor('#spendenbox');toDiv('#top');">ICH RETTE MIT!</a></p>
-                          </div>
+                                <p id="button"><br><br><a id="aendern-btn" onclick="changeColor('#spendenbox');toDiv('#top');">ICH RETTE MIT!</a></p>
+                            </div>
 
-                          <div id="spendentext-fehler" style="display:none">
-                            <p>Bitte versuch es nur mit Zahlen.</p>
-                          </div>
+                            <div id="spendentext-fehler" style="display:none">
+                                <p>Bitte versuch es nur mit Zahlen.</p>
+                            </div>
                         </div>
                     </div>
 
@@ -224,19 +224,19 @@
                                   <img src="http://jugendrettet.org/graphics/schiff-blau-neu.svg" alt="Das Schiff" style="width:300px" class="blink">
                                 </div>
                                 <div style="position:absolute;width:300px;">
-                                  <!--<span id="0" class="unterteilungen">0m</span>-->
-                                  <a id="1" class="unterteilungen schiff" style="position:absolute;left: calc(300px*2/32)">2m</a>
-                                  <a id="2" class="unterteilungen schiff" style="position:absolute;left: calc(-5px + 300px*7/32)">7m</a>
-                                  <a id="3" class="unterteilungen schiff" style="position:absolute;left: calc(-5px + 300px*10/32)">10m</a>
-                                  <a id="4" class="unterteilungen schiff" style="position:absolute;left: calc(-5px + 300px*13/32)">12m</a>
-                                  <a id="5" class="unterteilungen schiff" style="position:absolute;left: calc(-5px + 300px*19/32)">19m</a>
-                                  <a id="6" class="unterteilungen schiff" style="position:absolute;left: calc(-15px + 300px*26/32)">26m</a>
-                                  <a id="7" class="unterteilungen schiff" style="position:absolute;left: calc(-15px + 300px*29/32)">29m</a>
-                                  <a id="8" class="unterteilungen schiff" style="position:absolute;left: calc(-15px + 300px)">32m</a>
+                                    <!--<span id="0" class="unterteilungen">0m</span>-->
+                                    <a id="1" class="unterteilungen schiff" style="position:absolute;left: calc(300px*2/32)">2m</a>
+                                    <a id="2" class="unterteilungen schiff" style="position:absolute;left: calc(-5px + 300px*7/32)">7m</a>
+                                    <a id="3" class="unterteilungen schiff" style="position:absolute;left: calc(-5px + 300px*10/32)">10m</a>
+                                    <a id="4" class="unterteilungen schiff" style="position:absolute;left: calc(-5px + 300px*13/32)">12m</a>
+                                    <a id="5" class="unterteilungen schiff" style="position:absolute;left: calc(-5px + 300px*19/32)">19m</a>
+                                    <a id="6" class="unterteilungen schiff" style="position:absolute;left: calc(-15px + 300px*26/32)">26m</a>
+                                    <a id="7" class="unterteilungen schiff" style="position:absolute;left: calc(-15px + 300px*29/32)">29m</a>
+                                    <a id="8" class="unterteilungen schiff" style="position:absolute;left: calc(-15px + 300px)">32m</a>
                                 </div>
                                 <div style="position:absolute;width:300px">
-                                  <!--<span id="0" class="unterteilungen">0m</span>-->
-                                  <span id="stand" class="spendenstand schiff" style="white-space: nowrap;position:absolute;left: calc(-15px + 300px*24845/80000)">24,8 Tsd. €</span>
+                                    <!--<span id="0" class="unterteilungen">0m</span>-->
+                                    <span id="stand" class="spendenstand schiff" style="white-space: nowrap;position:absolute;left: calc(-15px + 300px*24845/80000)">24.8 Tsd. €</span>
                                 </div>
                             </div>
                         </div>
