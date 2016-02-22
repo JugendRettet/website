@@ -84,7 +84,7 @@
                       </div>
                     </div>
                 </div>
-                <a id="aendern-btn" href="spenden">Ich rette mit!</a>
+                <a id="aendern-btn" href="spenden.php">Ich rette mit!</a>
             </div>
             <div id="content">
                 <footer class="start">

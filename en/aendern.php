@@ -66,12 +66,12 @@
                 </div>
                 <nav>
                     <ul class="hidden">
-                        <li><a href="news">News</a></li>
-                        <li><a href="schiff">The Ship</a></li>
-                        <li><a href="team">Team</a></li>
-                        <li><a href="aendern" class="indicator">Rescue</a></li>
-                        <li><a href="spenden">Donate</a></li>
-                        <li><a href="europe">Jugend Rettet <span class="lowercase">europe</span></a></li>
+                        <li><a href="news.php">News</a></li>
+                        <li><a href="schiff.php">The Ship</a></li>
+                        <li><a href="team.php">Team</a></li>
+                        <li><a href="aendern.php" class="indicator">Rescue</a></li>
+                        <li><a href="spenden.php">Donate</a></li>
+                        <li><a href="europe.php">Jugend Rettet <span class="lowercase">europe</span></a></li>
                     </ul>
                 </nav>
             </header>
@@ -99,7 +99,7 @@
                             </div>
                         </div></div>
                     </div>
-                    <div class="child" id="wie"><a href="spenden">
+                    <div class="child" id="wie"><a href="spenden.php">
                         <div class="tint">
                             <div class="helper">
                                 <h3>Donate</h3>
@@ -128,7 +128,7 @@
             <div class="popup" id="denken-pop">
                 <div class="single">
                     <h3>Think</h3>
-                    <p>You have a vision for the future of Asylum policy? <a href="europe" class="link">Jugend Rettet europe</a> offers you a Platform for that.<br><br>You can send us your concrete proposals and suggestions on how we can improve our project to <a href="mailto:info@jugendrettet.org" class="link">info@jugendrettet.org</a>.</p>
+                    <p>You have a vision for the future of Asylum policy? <a href="europe.php" class="link">Jugend Rettet europe</a> offers you a Platform for that.<br><br>You can send us your concrete proposals and suggestions on how we can improve our project to <a href="mailto:info@jugendrettet.org" class="link">info@jugendrettet.org</a>.</p>
                 </div>
                 <div class="container single">
                     <div class="column">
@@ -153,7 +153,7 @@
                         <h4><img class="icon" src="http://jugendrettet.org/graphics/fla.svg">Fellow Retter</h4>
                         <p>You would like to get involved in a unique project?</p>
                         <div class="mehr-klappe"><br>
-                            <p>Then apply to become a fellow Retter by getting in touch with your local Ambassador and turn your idea into reality. Is there no Ambassador in your proximity, contact us. Tell us about your project and collect money for our ship or support us through material and goods donations. You may find what we are currently looking for on our <a href="https://www.facebook.com/JugendRettet" target="_blank">Facebook page</a> or in the <a class="link" href="news">News section</a>.</p><br>
+                            <p>Then apply to become a fellow Retter by getting in touch with your local Ambassador and turn your idea into reality. Is there no Ambassador in your proximity, contact us. Tell us about your project and collect money for our ship or support us through material and goods donations. You may find what we are currently looking for on our <a href="https://www.facebook.com/JugendRettet" target="_blank">Facebook page</a> or in the <a class="link" href="news.php">News section</a>.</p><br>
                         </div>
                         <a class="mehr-btn">more ...</a></p>
                     </div>

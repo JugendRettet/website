@@ -66,12 +66,12 @@
                 </div>
                 <nav>
                     <ul class="hidden">
-                        <li><a href="news">News</a></li>
-                        <li><a href="schiff">Das Schiff</a></li>
-                        <li><a href="team">Team</a></li>
-                        <li><a href="aendern" class="indicator">Retten</a></li>
-                        <li><a href="spenden">Spenden</a></li>
-                        <li><a href="europe">Jugend Rettet <span class="lowercase">europe</span></a></li>
+                        <li><a href="news.php">News</a></li>
+                        <li><a href="schiff.php">Das Schiff</a></li>
+                        <li><a href="team.php">Team</a></li>
+                        <li><a href="aendern.php" class="indicator">Retten</a></li>
+                        <li><a href="spenden.php">Spenden</a></li>
+                        <li><a href="europe.php">Jugend Rettet <span class="lowercase">europe</span></a></li>
                     </ul>
                 </nav>
             </header>
@@ -99,7 +99,7 @@
                             </div>
                         </div></div>
                     </div>
-                    <div class="child" id="wie"><a href="spenden">
+                    <div class="child" id="wie"><a href="spenden.php">
                         <div class="tint">
                             <div class="helper">
                                 <h3>Spenden</h3>
@@ -128,7 +128,7 @@
             <div class="popup" id="denken-pop">
                 <div class="single">
                     <h3>Denken</h3>
-                    <p>Du hast Ideen wie eine zukünftige Asylpolitik aussehen soll? <a href="europe" class="link">Jugend Rettet europe</a> bietet dafür eine Plattform.<br><br>Konkrete Anregungen und Vorschläge, wie wir unser Projekt verbessern können, schickst du am besten direkt an <a href="mailto:info@jugendrettet.org" class="link">info@jugendrettet.org</a>.</p>
+                    <p>Du hast Ideen wie eine zukünftige Asylpolitik aussehen soll? <a href="europe.php" class="link">Jugend Rettet europe</a> bietet dafür eine Plattform.<br><br>Konkrete Anregungen und Vorschläge, wie wir unser Projekt verbessern können, schickst du am besten direkt an <a href="mailto:info@jugendrettet.org" class="link">info@jugendrettet.org</a>.</p>
                 </div>
                 <div class="container single">
                     <div class="column">
@@ -153,7 +153,7 @@
                         <h4><img class="icon" src="http://jugendrettet.org/graphics/fla.svg">Kleiner Retter</h4>
                         <p>Du willst dich mit einer einmaligen Aktion engagieren?</p>
                         <div class="mehr-klappe"><br>
-                            <p>Dann werde Kleiner Retter und wende dich an den Botschafter deiner Stadt. Setze deine Idee in die Tat um. Gibt es noch keinen Boschafter, wende dich bitte an uns. Mache unser Projekt bekannt und sammle Geld für unser Schiff oder unterstütze uns durch Sachspenden. Was wir aktuell suchen, findest du auf unserer <a href="https://www.facebook.com/JugendRettet" target="_blank">Facebook-Seite</a> und in den <a class="link" href="news">Neuigkeiten</a>.</p>
+                            <p>Dann werde Kleiner Retter und wende dich an den Botschafter deiner Stadt. Setze deine Idee in die Tat um. Gibt es noch keinen Boschafter, wende dich bitte an uns. Mache unser Projekt bekannt und sammle Geld für unser Schiff oder unterstütze uns durch Sachspenden. Was wir aktuell suchen, findest du auf unserer <a href="https://www.facebook.com/JugendRettet" target="_blank">Facebook-Seite</a> und in den <a class="link" href="news.php">Neuigkeiten</a>.</p>
                         </div>
                         <a class="mehr-btn">Mehr ...</a></p>
                     </div>

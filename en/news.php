@@ -64,12 +64,12 @@
                 </div>
                 <nav>
                     <ul class="hidden">
-                        <li><a href="news" class="indicator">News</a></li>
-                        <li><a href="schiff">The Ship</a></li>
-                        <li><a href="team">Team</a></li>
-                        <li><a href="aendern">Rescue</a></li>
-                        <li><a href="spenden">Donate</a></li>
-                        <li><a href="europe">Jugend Rettet <span class="lowercase">europe</span></a></li>
+                        <li><a href="news.php" class="indicator">News</a></li>
+                        <li><a href="schiff.php">The Ship</a></li>
+                        <li><a href="team.php">Team</a></li>
+                        <li><a href="aendern.php">Rescue</a></li>
+                        <li><a href="spenden.php">Donate</a></li>
+                        <li><a href="europe.php">Jugend Rettet <span class="lowercase">europe</span></a></li>
                     </ul>
                 </nav>
             </header>
@@ -280,7 +280,7 @@
                       </div><br>
                       <a class="faq" id="16"><b>November 2nd</b> Start of 1. phase</a>
                       <div class="faq-klappe" id="16-klappe">
-                          <p>The people on the Mediterranean are dying. We want and will not watch passively. This is why today the first of our three funding stages takes off. Until February 2016, we will collect a total of 270.000 Euro, to buy the ship and bring it to Hamburg for conversion. Each time a donation comes in, another part of the ship's design will be revealed: <a target="_blank" href="spenden">http://jugendrettet.org/spenden</a>.</p>
+                          <p>The people on the Mediterranean are dying. We want and will not watch passively. This is why today the first of our three funding stages takes off. Until February 2016, we will collect a total of 270.000 Euro, to buy the ship and bring it to Hamburg for conversion. Each time a donation comes in, another part of the ship's design will be revealed: <a target="_blank" href="spenden.php">http://jugendrettet.org/spenden</a>.</p>
                               <p>We need your donation, to set something against the European indifference and the situation on the Mediterranean to rescue people. Donate now!</p>
                       </div><br>
                       <a class="faq" id="15"><b>November 1st</b> Nowkoelln Flowmarkt</a>

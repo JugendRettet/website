@@ -66,12 +66,12 @@
                 </div>
                 <nav>
                     <ul class="hidden">
-                        <li><a href="news">News</a></li>
-                        <li><a href="schiff" class="indicator">The Ship</a></li>
-                        <li><a href="team">Team</a></li>
-                        <li><a href="aendern">Rescue</a></li>
-                        <li><a href="spenden">Donate</a></li>
-                        <li><a href="europe">Jugend Rettet <span class="lowercase">europe</span></a></li>
+                        <li><a href="news.php">News</a></li>
+                        <li><a href="schiff.php" class="indicator">The Ship</a></li>
+                        <li><a href="team.php">Team</a></li>
+                        <li><a href="aendern.php">Rescue</a></li>
+                        <li><a href="spenden.php">Donate</a></li>
+                        <li><a href="europe.php">Jugend Rettet <span class="lowercase">europe</span></a></li>
                     </ul>
                 </nav>
             </header>
@@ -138,7 +138,7 @@
                 <div class="container single">
                     <div class="column cushycms">
                         <p>We are an organisation of young adults, who raise money to buy a ship. With this ship we will conduct rescue missions on the Mediterranean. We will then localize the people, take them in safely at the closest port. Our goal is clear: Less deaths in the Mediterranean Sea.</p>
-                        <p>Furthermore we intend to create a discussion platform via the <a href="europe">Jugend Rettet europe</a> program, in which the asylum policies are debated and scrutinized. We believe in the potential capacity and capabilities of our young generation to change the status quo of the Mediterranean for the better and to become more engaged in the discussions on asylum policy.</p><br>
+                        <p>Furthermore we intend to create a discussion platform via the <a href="europe.php">Jugend Rettet europe</a> program, in which the asylum policies are debated and scrutinized. We believe in the potential capacity and capabilities of our young generation to change the status quo of the Mediterranean for the better and to become more engaged in the discussions on asylum policy.</p><br>
                     </div>    
                 </div>
             </div>

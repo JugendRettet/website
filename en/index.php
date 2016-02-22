@@ -84,7 +84,7 @@
                       </div>
                     </div>
                 </div>
-                <a id="aendern-btn" href="spenden">I want to rescue too!</a>
+                <a id="aendern-btn" href="spenden.php">I want to rescue too!</a>
             </div>
             <div id="content">
                 <footer class="start">
