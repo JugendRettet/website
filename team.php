@@ -92,11 +92,11 @@
                         <ul>
                             <li><b>Jakob</b>: Gründer und 1. Vorsitzender
                                 <br>
-                                Tel.: <a href="tel:+49 160 95 68 38 73">+49 160 95 68 38 73</a>
+                                Tel.: <a href="tel:+49 160 95 68 38 73">+4916095683873</a>
                             </li>
                             <li><b>Lena</b>: Gründerin und 2. Vorsitzender
                                 <br>
-                                Tel.: <a href="tel:+49 151 68 44 63 98">+49 151 68 44 63 98</a>
+                                Tel.: <a href="tel:+49 151 68 44 63 98">+4915168446398</a>
                             </li>
                         </ul>
                         <br>
@@ -169,7 +169,7 @@
                         <span>Jugendpresse.de</span>
                         <!--</a>-->
                         <!--<a href="http://www.santinis.de/"> -->
-                        <img src="graphics/Santini-Logo sw.svg" alt="Santini" style="background-color:white;width:100%;margin-top:20px;">
+                        <img src="graphics/Santini-Logo_sw.svg" alt="Santini" style="background-color:white;width:100%;margin-top:20px;">
                         <span>Santinis.de</span>
 
                         <img src="graphics/Logo_Print Production_2c.svg" alt="Print Production" style="background-color:white;width:100%;margin-top:20px;padding:5px">
