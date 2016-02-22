@@ -349,6 +349,9 @@ img.news {
   max-width: 100%;
   margin: 20px 0 0;
 }
+div.newsacc li {
+    margin-bottom: 10px;
+}
 img#fb, img#tw {
     transition: 400ms;
 }

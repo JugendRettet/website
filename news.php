@@ -387,7 +387,7 @@
                           <p>Meldungen über Tote im Mittelmeer jeden Tag. Die Idee <i>Jugend Rettet</i> zu gründen, entsteht. Meinungen zum Vorhaben werden eingeholt. Experten und Mitstreiter gesucht. Über Reeder, Verbände, Kapitäne werden Kontakte aufgebaut.</p>
                       </div>
                     </div>
-                    <div class="column">
+                    <div class="column newsacc">
                       <h4>Was wir geschafft haben</h4>
                         <ul>
                           <li>&#10003; Wir haben Schiffe unseres gewünschten Schiffstyps - holländische Fischtrawler - besichtigt. Sobald wir uns für ein Schiff entschieden haben erstellen wir die Pläne für den Umbau im April.</li>
@@ -397,7 +397,7 @@
                           <li>&#10003; Wir haben in Berlin ein Kernteam von 11 Menschen aufgebaut.</li>
                         </ul>
                     </div>
-                    <div class="column">
+                    <div class="column newsacc">
                       <h4>Was wir noch schaffen werden</h4>
                         <ul>
                           <li>&#9633; Dass Seenotrettung in der jungen Generation ein Thema bleibt und die Situation der Menschen auf dem Mittelmeer weiterhin in der Öffentlichkeit eine Rolle spielt.</li>

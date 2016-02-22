@@ -340,7 +340,7 @@
                           <p>News about dead in the Mediterranean every day. The idea to found <i>Jugend Rettet</i> originates. Opinions on the intent are obtained, experts and fellows sought. Contacts are established through captains, ship owners and organizations.</p>
                       </div>
                     </div>
-                    <div class="column">
+                    <div class="column newsacc">
                       <h4>What we accomplished</h4>
                         <ul>
                           <li>&#10003; We inspected ships of our chosen kind, dutch fishtrawler. As soon as we have decided for a ship, we will make plans for the conversion in april.</li>
@@ -350,7 +350,7 @@
                           <li>&#10003; We established a core team of 11 persons in Berlin.</li>
                         </ul>
                     </div>
-                    <div class="column">
+                    <div class="column newsacc">
                       <h4>What we will accomplish</h4>
                         <ul>
                           <li>&#9633; That sea rescue sticks as a topic with the young generation and the situation of the people on the Mediterranean Sea stays in the public discourse. </li>

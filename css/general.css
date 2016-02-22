@@ -34,9 +34,6 @@ footer, header, hgroup, menu, nav, section {
 ol, ul {
 	list-style: none;
 }
-li {
-    margin-bottom: 10px;
-}
 blockquote, q {
 	quotes: none;
 }
