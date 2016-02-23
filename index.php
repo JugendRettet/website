@@ -45,9 +45,9 @@
         <div id="sim-alt"><img src="http://jugendrettet.org/images/error.jpg" alt="Wave Simulation"></div>
         <div id="wrap" class="start">
             <div class="fullscreen-bg">
-                <video id="waves-video" class="fullscreen-bg__video" loop="true" autoplay="true" preload="auto">
+                <video id="waves-video" class="fullscreen-bg__video" loop autoplay preload="auto">
                     <source src="http://jugendrettet.org/videos/waves.mp4">
-                    <img src="http://jugendrettet.org/images/error.jpg"/>
+                    <img alt="Wave Simulation" src="http://jugendrettet.org/images/error.jpg"/>
                 </video>
             </div>
             <header>
@@ -74,7 +74,7 @@
                         <div class="ph-container center" id="ph-eins" style="max-width:300px;">
                             <div class="header">
                                 <span class="title"> </span><span class="percentage"><?php echo $value1;?> / 80 Tsd. €</span>
-                                <hr id="ph-eins-progress"></hr>
+                                <hr id="ph-eins-progress">
                             </div>
                         </div>
                     </div>

@@ -142,24 +142,24 @@
                 </div>
                 <div class="container triple plus-map">
                     <div class="column mehr" id="botschafter">
-                        <h4><img class="icon" src="http://jugendrettet.org/graphics/bot.svg">Ambassador</h4>
+                        <h4><img alt="bot" class="icon" src="http://jugendrettet.org/graphics/bot.svg">Ambassador</h4>
                         <p>You want to represent <i>Jugend Rettet</i> in your city?</p>
                         <div class="mehr-klappe"><br>
-                            <p>Then join us and become a local ambassador of our movement in your locale. Organize fundraisers, charities and donations or campaigns and find supporters for our idea. Together with other <a class="mehr" id="kl-retter" style="display: inline; opacity: 1 !important;">Fellow Retter</a> in your vicinity you will take charge of projects. You will be equipped and supplied with the necessary materials and will also assist you upon any questions or enquiry. You can find our ambassadors from the map.<p><br>
+                            <p>Then join us and become a local ambassador of our movement in your locale. Organize fundraisers, charities and donations or campaigns and find supporters for our idea. Together with other <a class="mehr" style="display: inline; opacity: 1 !important;">Fellow Retter</a> in your vicinity you will take charge of projects. You will be equipped and supplied with the necessary materials and will also assist you upon any questions or enquiry. You can find our ambassadors from the map.<p><br>
                         <iframe id="map" src='https://a.tiles.mapbox.com/v4/leonvogler.nd99673k/attribution,zoompan,zoomwheel.html?access_token=pk.eyJ1IjoibGVvbnZvZ2xlciIsImEiOiI0MTI2MDcxMzk2MWI2NDczYzRjNzY5OWI4ZmRmODUyYiJ9.Bys3jr3YtztwTuGQ30NLug'></iframe>
                         </div>
-                        <a class="mehr-btn">more ...</a></p>
+                        <a class="mehr-btn">more ...</a>
                     </div>
-                    <div class="column mehr" id="kl-retter">
-                        <h4><img class="icon" src="http://jugendrettet.org/graphics/fla.svg">Fellow Retter</h4>
+                    <div class="column mehr">
+                        <h4><img alt="fla" class="icon" src="http://jugendrettet.org/graphics/fla.svg">Fellow Retter</h4>
                         <p>You would like to get involved in a unique project?</p>
                         <div class="mehr-klappe"><br>
                             <p>Then apply to become a fellow Retter by getting in touch with your local Ambassador and turn your idea into reality. Is there no Ambassador in your proximity, contact us. Tell us about your project and collect money for our ship or support us through material and goods donations. You may find what we are currently looking for on our <a href="https://www.facebook.com/JugendRettet" target="_blank">Facebook page</a> or in the <a class="link" href="news.php">News section</a>.</p><br>
                         </div>
-                        <a class="mehr-btn">more ...</a></p>
+                        <a class="mehr-btn">more ...</a>
                     </div>
                     <div class="column mehr" id="retter">
-                        <h4><img class="icon" src="http://jugendrettet.org/graphics/cap.svg">Retter</h4>
+                        <h4><img alt="cap" class="icon" src="http://jugendrettet.org/graphics/cap.svg">Retter</h4>
                         <p>You would like to join us as a crew member on our rescue missions in the Mediteranean?</p>
                         <div class="mehr-klappe"><br>
                             <p>We look for people with job experiences that involved high risks and rescue operations. Ask yourself if you can bear these settings. It’s on these grounds that we are really picky and considerate on whom to choose as a crew member.<br><br>
@@ -169,7 +169,7 @@
                         <a href="mailto:retter@jugendrettet.org" class="link">retter@jugendrettet.org</a><br><br>
                         <p>Contact us only if you are really interested. We look forward to your application.</p>
                         </div>
-                        <a class="mehr-btn">more ...</a></p>
+                        <a class="mehr-btn">more ...</a>
                     </div>
                 </div>
             </div>

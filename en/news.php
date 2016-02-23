@@ -273,7 +273,7 @@
                       <a class="faq" id="23"><b>November 21st</b> Statement Paris</a>
                       <div class="faq-klappe" id="23-klappe">
                         <video class="news" style="max-width:100%" controls>
-                          <source src="videos/Unser Europa ist menschlich.-431502417058997.mp4" type="video/mp4">
+                          <source src="http://jugendrettet.org/videos/Unser_Europa_ist_menschlich.mp4" type="video/mp4">
                           Your browser does not support the video tag.
                         </video>
                       </div><br>

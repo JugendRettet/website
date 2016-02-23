@@ -420,7 +420,7 @@ Botschafter des Vereins werden auch vor Ort über das Projekt informieren und de
                             <div class="event-title">19:00 Uhr</div>
                         </div><br>
                     </div>
-
+                </div>
             </div>
             <div id="content">
                 <footer>

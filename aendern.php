@@ -143,24 +143,24 @@
                 </div>
                 <div class="container triple plus-map">
                     <div class="column mehr" id="botschafter">
-                        <h4><img class="icon" src="http://jugendrettet.org/graphics/bot.svg">Botschafter</h4>
+                        <h4><img alt="bot" class="icon" src="http://jugendrettet.org/graphics/bot.svg">Botschafter</h4>
                         <p>Du willst <i>Jugend Rettet</i> in deiner Stadt vertreten?</p>
                         <div class="mehr-klappe"><br>
-                            <p>Dann werde offizieller Repräsentant unserer Bewegung vor Ort. Organisiere Spendenaktionen, Flyeraktionen, Informationsveranstaltungen und finde Unterstützer für unsere Idee. Gemeinsam mit den <a class="mehr" id="kl-retter" style="display: inline; opacity: 1 !important;">Kleinen Rettern</a> deiner Stadt nimmst du Projekte in Angriff. Du wirst von uns mit wichtigen Materialien ausgestattet und bei Fragen stehen wir dir gerne zur Verfügung. Auf der Karte siehst du, wo es bereits Botschafter gibt.</p><br>
+                            <p>Dann werde offizieller Repräsentant unserer Bewegung vor Ort. Organisiere Spendenaktionen, Flyeraktionen, Informationsveranstaltungen und finde Unterstützer für unsere Idee. Gemeinsam mit den <a class="mehr" style="display: inline; opacity: 1 !important;">Kleinen Rettern</a> deiner Stadt nimmst du Projekte in Angriff. Du wirst von uns mit wichtigen Materialien ausgestattet und bei Fragen stehen wir dir gerne zur Verfügung. Auf der Karte siehst du, wo es bereits Botschafter gibt.</p><br>
                         <iframe id="map" src='https://a.tiles.mapbox.com/v4/leonvogler.nd99673k/attribution,zoompan,zoomwheel.html?access_token=pk.eyJ1IjoibGVvbnZvZ2xlciIsImEiOiI0MTI2MDcxMzk2MWI2NDczYzRjNzY5OWI4ZmRmODUyYiJ9.Bys3jr3YtztwTuGQ30NLug'></iframe>
                         </div>
-                        <a class="mehr-btn">Mehr ...</a></p>
+                        <a class="mehr-btn">Mehr ...</a>
                     </div>
-                    <div class="column mehr" id="kl-retter">
-                        <h4><img class="icon" src="http://jugendrettet.org/graphics/fla.svg">Kleiner Retter</h4>
+                    <div class="column mehr">
+                        <h4><img alt="fla" class="icon" src="http://jugendrettet.org/graphics/fla.svg">Kleiner Retter</h4>
                         <p>Du willst dich mit einer einmaligen Aktion engagieren?</p>
                         <div class="mehr-klappe"><br>
                             <p>Dann werde Kleiner Retter und wende dich an den Botschafter deiner Stadt. Setze deine Idee in die Tat um. Gibt es noch keinen Boschafter, wende dich bitte an uns. Mache unser Projekt bekannt und sammle Geld für unser Schiff oder unterstütze uns durch Sachspenden. Was wir aktuell suchen, findest du auf unserer <a href="https://www.facebook.com/JugendRettet" target="_blank">Facebook-Seite</a> und in den <a class="link" href="news.php">Neuigkeiten</a>.</p>
                         </div>
-                        <a class="mehr-btn">Mehr ...</a></p>
+                        <a class="mehr-btn">Mehr ...</a>
                     </div>
                     <div class="column mehr" id="retter">
-                        <h4><img class="icon" src="http://jugendrettet.org/graphics/cap.svg">Retter</h4>
+                        <h4><img alt="cap" class="icon" src="http://jugendrettet.org/graphics/cap.svg">Retter</h4>
                         <p>Du willst als  Crewmitglied die Rettung auf dem Mittelmeer durchführen?</p>
                         <div class="mehr-klappe"><br>
                             <p>Wir suchen Menschen mit Berufserfahrung, die sich über das hohe Risiko der Rettungsaktionen bewusst sind. Bitte frage dich selbst, ob du dir die Situation zutraust. Aufgrund der besonderen Anforderungen sind wir gezwungen die Crew sehr sorgsam auszuwählen.<br><br>
@@ -170,7 +170,7 @@
                         <a href="mailto:retter@jugendrettet.org" class="link">retter@jugendrettet.org</a><br><br>
                         <p>Setze dich bei ernsthaftem Interesse mit uns in Verbindung. Wir freuen uns über deine Bewerbung.</p>
                         </div>
-                        <a class="mehr-btn">Mehr ...</a></p>
+                        <a class="mehr-btn">Mehr ...</a>
                     </div>
                 </div>
             </div>

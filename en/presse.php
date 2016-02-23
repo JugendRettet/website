@@ -74,13 +74,13 @@
                         <p>Pauline Schmidt</p>
                         <p>Head of Press Jugend Rettet</p>
                         <p>Postfach 36 03 55 D- 10973 Berlin</p>
-                        <p>Mail: <a href="mailto:PaulineS@jugendrettet.org">PaulineS@jugendrettet.org</a></li></p>
-                        <p>Fon: <a href="tel:+49 175 82 28 735">+49 175 822 87 35</a></p>
+                        <p>Mail: <a href="mailto:PaulineS@jugendrettet.org">PaulineS@jugendrettet.org</a></p>
+                        <p>Fon: <a href="tel:+491758228735">+49 175 822 87 35</a></p>
                         <br>
                         <p>&#8594; <a href="http://jugendrettet.org/files/Pressemappe_JR.pdf">press portfolio (german)</a></p>
                         <br>
                         <p>&#8594; <a href="http://jugendrettet.org/files/presse.vcf">save contact</a> or scan:</p>
-                        <a href="http://jugendrettet.org/files/presse_qr.png" target="_blank"><img class="news" src='http://jugendrettet.org/files/presse_qr.png'></img></a>
+                        <a href="http://jugendrettet.org/files/presse_qr.png" target="_blank"><img alt="qr" class="news" src='http://jugendrettet.org/files/presse_qr.png'></a>
                     </div>
                 </div>
             </div>
@@ -100,7 +100,6 @@
                 </footer>
             </div>
         </div>
-      </div>
 
         <!-- Scripts -->
         <script src="http://jugendrettet.org/js/main.js"></script>

@@ -67,11 +67,48 @@
                 </nav>
             </header>
             <div class="popup-flat">
-                <div class="triple">
+                <div class="double">
                     <h3>Team</h3>
                 </div>
-                <div class="container triple">
+                <div class="container double">
                     <div class="column">
+                        <h4>The Team</h4>
+                        <a href="http://jugendrettet.org/images/team.jpg" target="_blank"><img alt="team" class="news" src='http://jugendrettet.org/images/team_s.jpg'></a>
+                        <ul>
+                            <li><b>Jakob</b>: Founder and 1st Chairman
+                                <br>
+                                Tel.: <a href="tel:+4916095683873">+49 160 95 68 38 73</a>
+                            </li>
+                            <li><b>Lena</b>: Founder and 2nd Chairman
+                                <br>
+                                Tel.: <a href="tel:+4915168446398">+49 151 68 44 63 98</a>
+                            </li>
+                        </ul>
+                        <br>
+                        <ul>
+                            <li><b>Lena</b>:  Organisation, Coordination of Ambassadors, Concept</li>
+                            <li><b>Mohammed</b>:  Coordination europ. Ambassadors</li>
+                            <li><b>Sahra</b>:  Organisation, Concept, Public Relations, Layout</li>
+                            <li><b>Sonja</b>:  Organisation, Law, Finance</li>
+                            <li><b>Jakob</b>:  Concept, Public Relations, Law, Finance</li>
+                            <li><b>Pauline</b>:  Public Relations, Press</li>
+                            <li><b>Johanna</b>:  Public Relations, Layout</li>
+                            <li><b>Alex</b>:  IT, Layout</li>
+                            <li><b>Matthias</b>:  Finance, Research</li>
+                            <li><b>Johanna</b>:  Public Relations</li>
+                            <li><b>Carlo</b>:  Public Relations</li>
+                            <li><b>Valeria</b>:  Public Relations, Finance</li>
+                            <li><b>Lars</b>:  IT</li>
+                            <li><b>Suse</b>:  Finance</li>
+                            <li><b>Elke</b>:  Finance</li>
+                            <li><b>Lukas</b>:  Finance</li>
+                            <li><b>Anna</b>:  Research</li>
+                            <li><b>Andreas</b>:  Research</li>
+                            <li><b>Jonas</b>:  Layout</li>
+                            <li><b>Kjeld</b>:  Layout</li>
+                            <li><b>Leon</b>:  Webdesign</li>
+                        </ul>
+                        <br>
                         <h4>The Crew</h4>
                         <ul style="list-style: inherit;">
                             <li>Captain</li>
@@ -87,44 +124,6 @@
                             <li>2 Medical Doctors</li>
                         </ul>
                         <p>Our Deckhands have STWC - Basic Safety Trainings.</p>
-                    </div>
-                    <div class="column">
-                        <h4>The Team</h4>
-                        <a href="http://jugendrettet.org/images/team.jpg" target="_blank"><img class="news" src='http://jugendrettet.org/images/team_s.jpg'></img></a>
-                        <ul>
-                            <li><b>Jakob</b>: Founder and 1st Chairman
-                                <br>
-                                Tel.: <a href="tel:+49 160 95 68 38 73">+49 160 95 68 38 73</a>
-                            </li>
-                            <li><b>Lena</b>: Founder and 2nd Chairman
-                                <br>
-                                Tel.: <a href="tel:+49 151 68 44 63 98">+49 151 68 44 63 98</a>
-                            </li>
-                        </ul>
-                        <br>
-                        <ul>
-                            <b><li>Lena</b>:  Organisation, Coordination of Ambassadors, Concept</li>
-                            <b><li>Mohammed</b>:  Coordination europ. Ambassadors</li>
-                            <b><li>Sahra</b>:  Organisation, Concept, Public Relations, Layout</li>
-                            <b><li>Sonja</b>:  Organisation, Law, Finance</li>
-                            <b><li>Jakob</b>:  Concept, Public Relations, Law, Finance</li>
-                            <b><li>Pauline</b>:  Public Relations, Press</li>
-                            <b><li>Johanna</b>:  Public Relations, Layout</li>
-                            <b><li>Alex</b>:  IT, Layout</li>
-                            <b><li>Matthias</b>:  Finance, Research</li>
-                            <b><li>Johanna</b>:  Public Relations</li>
-                            <b><li>Carlo</b>:  Public Relations</li>
-                            <b><li>Valeria</b>:  Public Relations, Finance</li>
-                            <b><li>Lars</b>:  IT</li>
-                            <b><li>Suse</b>:  Finance</li>
-                            <b><li>Elke</b>:  Finance</li>
-                            <b><li>Lukas</b>:  Finance</li>
-                            <b><li>Anna</b>:  Research</li>
-                            <b><li>Andreas</b>:  Research</li>
-                            <b><li>Jonas</b>:  Layout</li>
-                            <b><li>Kjeld</b>:  Layout</li>
-                            <b><li>Leon</b>:  Webdesign</li>
-                        </ul>
                     </div>
                     <div class="column">
                         <h4>Ambassadors</h4>
@@ -157,24 +156,17 @@
                             <li>Stuttgart: <a href="mailto:Harun@jugendrettet.org">Harun</a></li>
                             <li>Trier: <a href="mailto:Asa@jugendrettet.org">Asa</a></li>
                         </ul>
-                    </div>
-                </div>
-
-                <div class="container single">
-                    <!--<div class="column">
-                        <h4>Gesichter</h4>
-                    </div>-->
-                    <div class="column">
+                        <br>
                         <h4>Supporters</h4>
                         <!--<a href="http://www.jugendpresse.de/">-->
                         <img src="http://jugendrettet.org/graphics/jpd.svg" alt="JPD" style="background-color:white;width:100%;padding:5px">
                         <span>Jugendpresse.de</span>
                         <!--</a>-->
                         <!--<a href="http://www.santinis.de/"> -->
-                        <img src="http://jugendrettet.org/graphics/Santini-Logo sw.svg" alt="Santini" style="background-color:white;width:100%;margin-top:20px;">
+                        <img src="http://jugendrettet.org/graphics/Santini-Logo_sw.svg" alt="Santini" style="background-color:white;width:100%;margin-top:20px;">
                         <span>Santinis.de</span>
 
-                        <img src="http://jugendrettet.org/graphics/Logo_Print Production_2c.svg" alt="Print Production" style="background-color:white;width:100%;margin-top:20px;padding:5px">
+                        <img src="http://jugendrettet.org/graphics/Logo_Print_Production_2c.svg" alt="Print Production" style="background-color:white;width:100%;margin-top:20px;padding:5px">
                         <span>printproduction.de</span>
 
                         <img src="http://jugendrettet.org/graphics/nwsh.png" alt="Netzwerk Selbsthilfe" style="background-color:white;width:100%;margin-top:20px;padding:5px">

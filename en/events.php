@@ -125,6 +125,7 @@ Euer Jugend Rettet Team</p><br>
                             <div class="event-icon"><img src="http://jugendrettet.org/graphics/time.png" height="14px" alt="Time"></div>
                             <div class="event-title">7:00 pm - 9:00 pm</div>
                         </div><br>
+                    </div>
                 </div>
                 <div class="date-container" id="13-11-2015">
                         <h4>Invitation to the 4th Open Meeting</h4><br>

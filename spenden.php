@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml" lang="de" prefix="og: http://ogp.me/ns#">
     <head>
+        <meta charset="utf-8">
         <meta name="description" content="Wir sind eine Organisation von jungen Erwachsenen für junge Erwachsene. Wir sammeln Gelder für den Erwerb eines Schiffes und mit diesem Schiff werden wir private Seenotrettung auf dem Mittelmeer betreiben." />
         <meta name="author" content="Jugend Rettet" />
         <meta name="keywords" content="Jugend, Rettet, Jugend Rettet, Jugend Rettet e. V., Seenotrettung, Mittelmeer, Flüchtlinge, Spenden, Europa, Organisation" />
@@ -14,10 +15,8 @@
 
         <link rel="alternate" hreflang="en" href="http://en.jugendrettet.org/spenden" />
 
-        <meta charset="utf-8">
         <title>Spenden — Jugend Rettet</title>
         <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
-        <meta http-equiv="language" content="de">
         <link rel="shortcut icon" type="image/x-icon" href="http://jugendrettet.org/graphics/jr.ico"/>
         <link rel="mask-icon" href="http://jugendrettet.org/graphics/jr-mask.svg" color="rgb(40,100,130)">
         <link rel="apple-touch-icon" href="http://jugendrettet.org/graphics/apple-touch-icon.png"/>
@@ -126,7 +125,7 @@
                 </div>
                 <div class="container triple">
 
-                    <div style="margin-right:10px"class="column">
+                    <div style="margin-right:10px" class="column">
                         <div style="padding-left:5px;padding-right:5px">
                             <h4 id="spendenkonto">Spendenkonto</h4>
                             <p><b>Empfänger:</b> Jugend Rettet e.V.</p>
@@ -247,7 +246,7 @@
                             <div class="ph-container" id="ph-eins">
                                 <div class="header">
                                     <span class="title">Phase 1</span><span class="percentage"><?php echo $value1;?>m / 32m</span>
-                                    <hr id="ph-eins-progress"></hr>
+                                    <hr id="ph-eins-progress">
                                 </div>
                                 <div class="content" id="ph-eins-content">
                                     <p>Wir haben uns bei der Kreuzberger Kinderstiftung auf ein Stiftungsgeld von 5000€ beworben. Der Gründer der Stiftung war so begeistert von unserem Projekt, dass er uns die 150.000€, die ein Schiff nach unseren Vorstellungen kostet, spendet. Bedingung ist allerdings, dass wir das Geld für den Umbau und die laufenden Kosten für den ersten Monat - <b>80.000€</b> - <b>bis 31. März 2016</b> zusammenkriegen. Wir sind überwältigt von dieser Großzügigkeit. Damit der Umbau ab 01. April planmäßig stattfinden kann, benötigen wir euch nun mehr denn je: Bitte unterstützt uns, indem ihr weiterhin von uns erzählt. Jede noch so kleine Spende bringt uns unserem Ziel, Menschenleben zu retten, weiter!</p>
