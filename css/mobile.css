@@ -565,7 +565,7 @@ header ul {
     margin: 120px auto 0;
 }
 #pop-back, #header-back, #pop-back.blue {
-    height: 130px;
+    height: 120px;
 }
 #pop-back.open {
     transition: 400ms;
