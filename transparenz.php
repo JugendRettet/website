@@ -80,7 +80,7 @@
                         <p>
                             <i>Jugend Rettet</i> nimmt seine Aufgaben als vertrauenswürdige und 
                             verantwortungsbewusste gemeinnützige Organisation ernst. Transparenz ist uns 
-                            wichtig. Deshalb wollen wir uns der <a href="https://www.transparency.de/Initiative-Transparente-Zivilg.1612.0.html"><u>Initiative Transparente Zivilgesellschaft</u></a> 
+                            wichtig. Deshalb wollen wir uns der <a target="_blank" href="https://www.transparency.de/Initiative-Transparente-Zivilg.1612.0.html"><u>Initiative Transparente Zivilgesellschaft</u></a> 
                             anschließen. Wir haben uns in diesem Rahmen verpflichtet, die nachstehenden 
                             Informationen der Öffentlichkeit auf unserer Webseite zur Verfügung zu stellen und 
                             regelmäßig zu updaten.
