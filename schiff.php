@@ -33,7 +33,7 @@
                 $('body').fadeIn(400);
             });
         </script>
-        <style type="text/css" class="cushycms">
+        <style type="text/css">
             #was {
                 background-image: url(http://jugendrettet.org/images/ocean.jpg);
             }
@@ -134,11 +134,11 @@
                 </footer>
             </div>
             <div class="popup" id="was-btn-pop">
-                <div class="single cushycms">
+                <div class="single">
                     <h3>Was?</h3>
                 </div>
                 <div class="container single">
-                    <div class="column cushycms">
+                    <div class="column">
                         <p>Wir sind eine Organisation von jungen Erwachsenen, die Gelder für den Erwerb eines Schiffes sammeln. Mit diesem Schiff werden wir private Seenotrettung auf dem Mittelmeer betreiben. Wir werden Menschen in Seenot lokalisieren, sie aufnehmen und sicher in den nächstgelegenen Hafen bringen. Unser Ziel ist klar: weniger Tote im Mittelmeer.</p>
                         <p>Darüber hinaus werden wir mit <a href="europe">Jugend Rettet europe</a> eine Diskussionsplattform über die europäische Asylpolitik für junge Erwachsene schaffen. Wir glauben an das Potenzial unserer jungen Generation, die aktuelle Situation durch eine breite asylpolitische Diskussion in ganz Europa zu verbessern.</p><br>
                     </div>
@@ -149,7 +149,7 @@
                     <h3>Warum?</h3>
                 </div>
                 <div class="container triple">
-                    <div class="column cushycms mehr" id="gründe">
+                    <div class="column mehr" id="gründe">
                         <h4><img class="icon" src="http://jugendrettet.org/graphics/gru.svg" alt="Gründe">Gründe</h4>
                         <p>Warum starten wir <i>Jugend Rettet?</i></p>
                         <p>Wir haben zwei Gründungsmitglieder von <i>Jugend Rettet</i> und Menschen, die über das Mittelmeer geflüchtet sind diese Frage beantworten lassen.</p>
@@ -173,7 +173,7 @@
                         </div>
                         <a class="mehr-btn">Mehr ...</a>
                     </div>
-                    <div class="column cushycms mehr" id="sit">
+                    <div class="column mehr" id="sit">
                         <h4><img class="icon" src="http://jugendrettet.org/graphics/sit.svg" alt="Aktuelle Situation">Aktuelle Situation</h4>
                         <p>218.000 Menschen sind 2014 über das Mittelmeer geflüchtet. 3500 von ihnen haben es nicht geschafft.</p>
                         <div class="mehr-klappe"><br>
@@ -182,7 +182,7 @@
                         </div>
                         <a class="mehr-btn">Mehr ...</a>
                     </div>
-                    <div class="column cushycms mehr" id="ide">
+                    <div class="column mehr" id="ide">
                         <h4><img class="icon" src="http://jugendrettet.org/graphics/ide.svg" alt="Ideal">Ideal</h4>
                         <p>Wir wollen ein Ende der Gleichgültigkeit der Europäischen Gemeinschaft gegenüber dem Sterben auf dem Mittelmeer.</p>
                         <div class="mehr-klappe"><br>

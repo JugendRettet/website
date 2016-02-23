@@ -33,7 +33,7 @@
                 $('body').fadeIn(400);
             });
         </script>
-        <style type="text/css" class="cushycms">
+        <style type="text/css">
             #was {
                 background-image: url(http://jugendrettet.org/images/ocean.jpg);            
             }
@@ -134,11 +134,11 @@
                 </footer>
             </div>
             <div class="popup" id="was-btn-pop">
-                <div class="single cushycms">
+                <div class="single">
                     <h3>What?</h3>
                 </div>
                 <div class="container single">
-                    <div class="column cushycms">
+                    <div class="column">
                         <p>We are an organisation of young adults, who raise money to buy a ship. With this ship we will conduct rescue missions on the Mediterranean. We will then localize the people, take them in safely at the closest port. Our goal is clear: Less deaths in the Mediterranean Sea.</p>
                         <p>Furthermore we intend to create a discussion platform via the <a href="europe">Jugend Rettet europe</a> program, in which the asylum policies are debated and scrutinized. We believe in the potential capacity and capabilities of our young generation to change the status quo of the Mediterranean for the better and to become more engaged in the discussions on asylum policy.</p><br>
                     </div>    
@@ -149,7 +149,7 @@
                     <h3>Why?</h3>
                 </div>
                 <div class="container triple">
-                    <div class="column cushycms mehr" id="gründe">
+                    <div class="column mehr" id="gründe">
                         <h4><img class="icon" src="http://jugendrettet.org/graphics/gru.svg" alt="Gründe">Reasons</h4>
                         <p>Why did we initiate <i>Jugend Rettet?</i></p>
                         <p>We have two founding members here at <i>Jugend Rettet</i> and people who have sought asylum via the Mediterranean to answer this question.</p>
@@ -173,7 +173,7 @@
                         </div>
                         <a class="mehr-btn">more ...</a>
                     </div>
-                    <div class="column cushycms mehr" id="sit">
+                    <div class="column mehr" id="sit">
                         <h4><img class="icon" src="http://jugendrettet.org/graphics/sit.svg" alt="Aktuelle Situation">Current Situation</h4>  
                         <p>In 2014, 218.000 People have fled via the Mediterranean and sought refuge. 3500 people did not survive their journey.</p>
                         <div class="mehr-klappe"><br>
@@ -182,7 +182,7 @@
                         </div>
                         <a class="mehr-btn">more ...</a>
                     </div>
-                    <div class="column cushycms mehr" id="ide">
+                    <div class="column mehr" id="ide">
                         <h4><img class="icon" src="http://jugendrettet.org/graphics/ide.svg" alt="Ideal">Ideal</h4>
                         <p>Women, Children, Men die in the Mediterranean. We would like to put an end to the ignorance of the European Community.</p>
                         <div class="mehr-klappe"><br>
