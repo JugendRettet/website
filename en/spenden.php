@@ -282,6 +282,7 @@
                             <li><a class="peek" id="follow">Follow</a></li>
                             <li><a href="presse">Press</a></li>
                             <li><a href="impressum">Legal Notice</a></li>
+                            <li><a href="http://jugendrettet.org/transparenz">Transparency (de)</a></li>
                             <li class="br"></li>
                             <li><a href="http://jugendrettet.org/spenden">de</a></li>
                         </ul>
