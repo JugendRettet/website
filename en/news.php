@@ -17,6 +17,8 @@
         <meta property="og:type" content="website" />
         <meta property="og:site_name" content="Jugend Rettet" />
 
+        <link rel="alternate" hreflang="de" href="http://jugendrettet.org/news" />
+
         <link rel="shortcut icon" type="image/x-icon" href="http://jugendrettet.org/graphics/jr.ico" />
         <link rel="mask-icon" href="http://www.jugendrettet.org/graphics/jr-mask.svg" color="rgb(40,100,130)">
         <link rel="apple-touch-icon" href="http://jugendrettet.org/graphics/apple-touch-icon.png"/>

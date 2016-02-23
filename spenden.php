@@ -12,6 +12,8 @@
         <meta property="og:type" content="website" />
         <meta property="og:site_name" content="Jugend Rettet" />
 
+        <link rel="alternate" hreflang="en" href="http://en.jugendrettet.org/spenden" />
+
         <meta charset="utf-8">
         <title>Spenden — Jugend Rettet</title>
         <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
