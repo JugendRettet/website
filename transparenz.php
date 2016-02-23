@@ -33,6 +33,11 @@
                 $('body').fadeIn(400);
             });
         </script>
+        <style>
+            li {margin-bottom: 5px;margin-top: 5px;}
+            ul {list-style: initial;}
+            h4 {margin-top: 20px;}
+        </style>
     </head>
 
     <body>
@@ -61,7 +66,7 @@
                         <li><a href="team.php">Team</a></li>
                         <li><a href="aendern.php">Retten</a></li>
                         <li><a href="spenden.php">Spenden</a></li>
-                        <li><a href="europe.php" class="indicator">Jugend Rettet <span class="lowercase">europe</span></a></li>
+                        <li><a href="europe.php">Jugend Rettet <span class="lowercase">europe</span></a></li>
                     </ul>
                 </nav>
             </header>
@@ -106,7 +111,9 @@
                             <li>Förderung der Internationalen Gesinnung und Förderung des Bürgerschaftlichen Engagements nach § 52 Abs. 2 Satz 1 Nr.(n) 13 und 25 AO</li>
                         </ul>
                         <p>Folglich ist unsere Organisation von der Körperschaftssteuer und Gewerbesteuer befreit.</p>
+                        <br>
                         <p>Der <i>Jugend Rettet</i> e.V. ist berechtigt Spendenbescheinigungen auszustellen.</p>
+                        <br>
                         <p>Den offiziellen Bescheid finden Sie <a href="http://jugendrettet.org/files/Gemeinnuetzigkeit.pdf">hier</a>.</p>
                         <h4>4. NAME UND FUNKTION WESENTLICHER ENTSCHEIDUNGSTRÄGER</h4>
                         <p>
@@ -117,6 +124,7 @@
                             <li>Zweite Vorsitzende: Lena Waldhoff</li>
                             <li>Clara Louise Scheer (Schatzmeisterin)</li>
                         </ul>
+                        <br>
                         <p>
                             Weitere offizielle Mitglieder des Vereins:
                         </p>
@@ -137,6 +145,7 @@
                             deren Motivation für das Projekt auf das Retten auf einer Verbesserung der 
                             humanitären Lage im Mittelmeer basiert.
                         </p>
+                        <br>
                         <p>
                             Das Jugend Rettet Kernteam in Berlin besteht aus 9 Leuten. Deutschlandweit engagieren 
                             sich derzeit 60 Personen an unserer Arbeit.
