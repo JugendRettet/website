@@ -182,7 +182,7 @@
                     </div>
 
                     <div class="column hideme" style="min-width: 300px;">
-                        <h4>SPENDENSTAND: 25.635,88€</h4>
+                        <h4>SPENDENSTAND: 25.835,88€</h4>
                         <div id="schiff-ani">
                             <div class="schiff-klappe" id="1-klappe">
                                 <b>Schiffsschraube</b>
@@ -221,7 +221,7 @@
                                 <div id="schiff" style="padding:5px;position:absolute">
                                   <img src="http://jugendrettet.org/graphics/schiff-starkekonturen-weiss.svg" alt="Das Schiff" style="width:300px;opacity:0.4">
                                 </div>
-                                <div class="blink balken" id="schiff-gespendet" style="padding:5px;position:absolute;overflow:hidden;width:calc(300px * 25635 / 80000);">
+                                <div class="blink balken" id="schiff-gespendet" style="padding:5px;position:absolute;overflow:hidden;width:calc(300px * 25835 / 80000);">
                                   <img src="http://jugendrettet.org/graphics/schiff-blau-starkekontur.svg" alt="Das Schiff" style="width:300px" class="blink">
                                 </div>
                                 <div style="position:absolute;width:300px;">
@@ -237,7 +237,7 @@
                                 </div>
                                 <div style="position:absolute;width:300px">
                                     <!--<span id="0" class="unterteilungen">0m</span>-->
-                                    <span id="stand" class="spendenstand schiff" style="white-space: nowrap;position:absolute;left: calc(-15px + 300px*25635/80000)">25.6 Tsd. €</span>
+                                    <span id="stand" class="spendenstand schiff" style="white-space: nowrap;position:absolute;left: calc(-15px + 300px*25835/80000)">25.8 Tsd. €</span>
                                 </div>
                             </div>
                         </div>
