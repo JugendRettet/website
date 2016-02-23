@@ -93,11 +93,11 @@
                         <h4>2. SATZUNG, ZIELE UND UMSETZUNG</h4>
                         <p>
                             Unsere Vereinssatzung in ihrer aktuellen von der ordentlichen Mitgliederversammlung 
-                            am 03. Oktober 2015 in Berlin beschlossenen Fassung finden Sie <a href="http://jugendrettet.org/files/Vereinssatzung_v1.pdf">hier</a>.
+                            am 03. Oktober 2015 in Berlin beschlossenen Fassung finden Sie <a target="_blank" href="http://jugendrettet.org/files/Vereinssatzung_v1.pdf">hier</a>.
                         </p>
                         <br>
                         <p>
-                            Eine Übersicht zu den Zielen und Umsetzung des Vereins finden Sie <a href="schiff">hier</a>.
+                            Eine Übersicht zu den Zielen und Umsetzung des Vereins finden Sie <a target="_blank" href="schiff">hier</a>.
                         </p>
                         <h4>3. ANGABEN ZUR STEUERBEGÜNSTIGUNG</h4>
                         <p>
@@ -114,7 +114,7 @@
                         <br>
                         <p>Der <i>Jugend Rettet</i> e.V. ist berechtigt Spendenbescheinigungen auszustellen.</p>
                         <br>
-                        <p>Den offiziellen Bescheid finden Sie <a href="http://jugendrettet.org/files/Gemeinnuetzigkeit.pdf">hier</a>.</p>
+                        <p>Den offiziellen Bescheid finden Sie <a target="_blank" href="http://jugendrettet.org/files/Gemeinnuetzigkeit.pdf">hier</a>.</p>
                         <h4>4. NAME UND FUNKTION WESENTLICHER ENTSCHEIDUNGSTRÄGER</h4>
                         <p>
                             Vorstand:
@@ -136,7 +136,7 @@
                         </ul>
                         <h4>5. TÄTIGKEITSBERICHT</h4>
                         <p>
-                            Eine Übersicht über die Tätigkeiten des Vereins finden Sie in unserem <a href="http://jugendrettet.org/files/Jahresbericht_JR_2015.pdf">Jahresbericht 2015</a>.
+                            Eine Übersicht über die Tätigkeiten des Vereins finden Sie in unserem <a target="_blank" href="http://jugendrettet.org/files/Jahresbericht_JR_2015.pdf">Jahresbericht 2015</a>.
                         </p>
                         <h4>6. PERSONALSTRUKTUR</h4>
                         <p>
@@ -152,7 +152,7 @@
                         </p>
                         <h4>7./8. ANGABEN ZUR MITTELHERKUNFT- UND VERWENDUNG</h4>
                         <p>
-                            Eine Übersicht über die Mittelherkunft- und Verwendung des Vereins finden Sie in unserem <a href="http://jugendrettet.org/files/Jahresbericht_JR_2015.pdf">Jahresbericht 2015</a>.
+                            Eine Übersicht über die Mittelherkunft- und Verwendung des Vereins finden Sie in unserem <a target="_blank" href="http://jugendrettet.org/files/Jahresbericht_JR_2015.pdf">Jahresbericht 2015</a>.
                         </p>
 
                         <h4>9. GESELLSCHAFTSRECHTLICHE VERBUNDENHEIT MIT DRITTEN</h4>
