@@ -272,6 +272,7 @@
                             <li><a class="peek" id="folgen">Folgen</a></li>
                             <li><a href="presse">Presse</a></li>
                             <li><a href="impressum">Impressum</a></li>
+                            <li><a href="transparenz">Transparenz</a></li>
                             <li class="br"></li>
                             <li><a href="http://en.jugendrettet.org/spenden">English</a></li>
                         </ul>

@@ -193,6 +193,7 @@ Last update: 28-07-2015 <a href="http://europa.eu/rapid/press-release_MEMO-15-32
                             <li><a class="peek" id="folgen">Folgen</a></li>
                             <li><a href="presse">Presse</a></li>
                             <li><a href="impressum">Impressum</a></li>
+                            <li><a href="transparenz">Transparenz</a></li>
                             <li class="br"></li>
                             <li><a href="http://en.jugendrettet.org/faq">English</a></li>
                         </ul> 

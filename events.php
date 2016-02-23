@@ -431,6 +431,7 @@ Botschafter des Vereins werden auch vor Ort über das Projekt informieren und de
                             <li><a class="peek" id="folgen">Folgen</a></li>
                             <li><a href="presse">Presse</a></li>
                             <li><a href="impressum">Impressum</a></li>
+                            <li><a href="transparenz">Transparenz</a></li>
                             <li class="br"></li>
                             <li><a class="language-events" id="en">English</a></li>
                         </ul>
