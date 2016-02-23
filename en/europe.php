@@ -141,7 +141,7 @@
                             <li><a href="presse">Press</a></li>
                             <li><a href="impressum">Legal Notice</a></li>
                             <li class="br"></li>
-                            <li><a href="http://jugendrettet.org/europe">Deutsch</a></li>
+                            <li><a href="http://jugendrettet.org/europe">de</a></li>
                         </ul>
                     </nav>
                 </footer>

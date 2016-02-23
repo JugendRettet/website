@@ -94,7 +94,7 @@
                             <li><a href="presse">Presse</a></li>
                             <li><a href="transparenz">Transparenz</a></li>
                             <li class="br"></li>
-                            <li><a href="http://en.jugendrettet.org/?0">English</a></li>
+                            <li><a href="http://en.jugendrettet.org/?0">en</a></li>
                         </ul>
                     </nav>
                 </footer>

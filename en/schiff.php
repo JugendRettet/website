@@ -127,7 +127,7 @@
                             <li><a href="presse">Press</a></li>
                             <li><a href="impressum">Legal Notice</a></li>
                             <li class="br"></li>
-                            <li><a href="http://jugendrettet.org/schiff">Deutsch</a></li>
+                            <li><a href="http://jugendrettet.org/schiff">de</a></li>
                         </ul> 
                     </nav>
                 </footer>

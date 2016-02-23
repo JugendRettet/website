@@ -93,7 +93,7 @@
                         <ul>
                             <li><a href="presse">Press</a></li>
                             <li class="br"></li>
-                            <li><a href="http://jugendrettet.org/">Deutsch</a></li>
+                            <li><a href="http://jugendrettet.org/">de</a></li>
                         </ul>
                     </nav>
                 </footer>

@@ -359,7 +359,7 @@ Euer Jugend Rettet Team</p><br>
                             <li><a href="presse">Press</a></li>
                             <li><a href="impressum">Impressum</a></li>
                             <li class="br"></li>
-                            <li><a class="language-events" id="de">Deutsch</a></li>
+                            <li><a class="language-events" id="de">de</a></li>
                         </ul>
                     </nav>
                 </footer>

@@ -431,7 +431,7 @@
                             <li><a href="presse">Press</a></li>
                             <li><a href="impressum">Legal Notice</a></li>
                             <li class="br"></li>
-                            <li><a href="http://jugendrettet.org/news">Deutsch</a></li>
+                            <li><a href="http://jugendrettet.org/news">de</a></li>
                         </ul> 
                     </nav>
                 </footer>

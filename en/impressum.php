@@ -114,7 +114,7 @@
                             <li><a href="presse">Press</a></li>
                             <li class="indicator foot"><a href="impressum">Legal Notice</a></li>
                             <li class="br"></li>
-                            <li><a href="http://jugendrettet.org/impressum">Deutsch</a></li>
+                            <li><a href="http://jugendrettet.org/impressum">de</a></li>
                         </ul>
                     </nav>
                 </footer>

@@ -487,7 +487,7 @@
                             <li><a href="impressum">Impressum</a></li>
                             <li><a href="transparenz">Transparenz</a></li>
                             <li class="br"></li>
-                            <li><a href="http://en.jugendrettet.org/news">English</a></li>
+                            <li><a href="http://en.jugendrettet.org/news">en</a></li>
                         </ul>
                     </nav>
                 </footer>

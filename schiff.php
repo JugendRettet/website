@@ -128,7 +128,7 @@
                             <li><a href="impressum">Impressum</a></li>
                             <li><a href="transparenz">Transparenz</a></li>
                             <li class="br"></li>
-                            <li><a href="http://en.jugendrettet.org/schiff">English</a></li>
+                            <li><a href="http://en.jugendrettet.org/schiff">en</a></li>
                         </ul>
                     </nav>
                 </footer>
