@@ -104,12 +104,12 @@
                 </div>
                 <nav>
                     <ul class="hidden">
-                        <li><a href="news.php">News</a></li>
-                        <li><a href="schiff.php">The Ship</a></li>
-                        <li><a href="team.php">Team</a></li>
-                        <li><a href="aendern.php">Rescue</a></li>
-                        <li><a href="spenden.php" class="indicator">Donate</a></li>
-                        <li><a href="europe.php">Jugend Rettet <span class="lowercase">europe</span></a></li>
+                        <li><a href="news">News</a></li>
+                        <li><a href="schiff">The Ship</a></li>
+                        <li><a href="team">Team</a></li>
+                        <li><a href="aendern">Rescue</a></li>
+                        <li><a href="spenden" class="indicator">Donate</a></li>
+                        <li><a href="europe">Jugend Rettet <span class="lowercase">europe</span></a></li>
                     </ul>
                 </nav>
             </header>
@@ -283,7 +283,7 @@
                             <li><a href="presse">Press</a></li>
                             <li><a href="impressum">Legal Notice</a></li>
                             <li class="br"></li>
-                            <li><a href="http://jugendrettet.org/spenden.php">de</a></li>
+                            <li><a href="http://jugendrettet.org/spenden">de</a></li>
                         </ul>
                     </nav>
                 </footer>

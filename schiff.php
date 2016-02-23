@@ -67,12 +67,12 @@
                 </div>
                 <nav>
                     <ul class="hidden">
-                        <li><a href="news.php">News</a></li>
-                        <li><a href="schiff.php" class="indicator">Das Schiff</a></li>
-                        <li><a href="team.php">Team</a></li>
-                        <li><a href="aendern.php">Retten</a></li>
-                        <li><a href="spenden.php">Spenden</a></li>
-                        <li><a href="europe.php">Jugend Rettet <span class="lowercase">europe</span></a></li>
+                        <li><a href="news">News</a></li>
+                        <li><a href="schiff" class="indicator">Das Schiff</a></li>
+                        <li><a href="team">Team</a></li>
+                        <li><a href="aendern">Retten</a></li>
+                        <li><a href="spenden">Spenden</a></li>
+                        <li><a href="europe">Jugend Rettet <span class="lowercase">europe</span></a></li>
                     </ul>
                 </nav>
             </header>
@@ -140,7 +140,7 @@
                 <div class="container single">
                     <div class="column cushycms">
                         <p>Wir sind eine Organisation von jungen Erwachsenen, die Gelder für den Erwerb eines Schiffes sammeln. Mit diesem Schiff werden wir private Seenotrettung auf dem Mittelmeer betreiben. Wir werden Menschen in Seenot lokalisieren, sie aufnehmen und sicher in den nächstgelegenen Hafen bringen. Unser Ziel ist klar: weniger Tote im Mittelmeer.</p>
-                        <p>Darüber hinaus werden wir mit <a href="europe.php">Jugend Rettet europe</a> eine Diskussionsplattform über die europäische Asylpolitik für junge Erwachsene schaffen. Wir glauben an das Potenzial unserer jungen Generation, die aktuelle Situation durch eine breite asylpolitische Diskussion in ganz Europa zu verbessern.</p><br>
+                        <p>Darüber hinaus werden wir mit <a href="europe">Jugend Rettet europe</a> eine Diskussionsplattform über die europäische Asylpolitik für junge Erwachsene schaffen. Wir glauben an das Potenzial unserer jungen Generation, die aktuelle Situation durch eine breite asylpolitische Diskussion in ganz Europa zu verbessern.</p><br>
                     </div>
                 </div>
             </div>

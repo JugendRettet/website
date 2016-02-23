@@ -84,7 +84,7 @@
                       </div>
                     </div>
                 </div>
-                <a id="aendern-btn" href="spenden.php">Ich rette mit!</a>
+                <a id="aendern-btn" href="spenden">Ich rette mit!</a>
             </div>
             <div id="content">
                 <footer class="start">
@@ -94,7 +94,7 @@
                             <li><a href="presse">Presse</a></li>
                             <li><a href="transparenz">Transparenz</a></li>
                             <li class="br"></li>
-                            <li><a href="http://en.jugendrettet.org/?0">en</a></li>
+                            <li><a href="http://en.jugendrettet.org/">en</a></li>
                         </ul>
                     </nav>
                 </footer>
