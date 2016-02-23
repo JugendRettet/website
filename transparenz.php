@@ -80,8 +80,8 @@
                         <p>
                             <i>Jugend Rettet</i> nimmt seine Aufgaben als vertrauenswürdige und 
                             verantwortungsbewusste gemeinnützige Organisation ernst. Transparenz ist uns 
-                            wichtig. Deshalb haben wir uns der <u>Initiative Transparente Zivilgesellschaft</u> 
-                            angeschlossen. Wir haben uns in diesem Rahmen verpflichtet, die nachstehenden 
+                            wichtig. Deshalb wollen wir uns der <a href="https://www.transparency.de/Initiative-Transparente-Zivilg.1612.0.html"><u>Initiative Transparente Zivilgesellschaft</u></a> 
+                            anschließen. Wir haben uns in diesem Rahmen verpflichtet, die nachstehenden 
                             Informationen der Öffentlichkeit auf unserer Webseite zur Verfügung zu stellen und 
                             regelmäßig zu updaten.
                         </p>  
@@ -114,7 +114,7 @@
                         <br>
                         <p>Der <i>Jugend Rettet</i> e.V. ist berechtigt Spendenbescheinigungen auszustellen.</p>
                         <br>
-                        <p>Den offiziellen Bescheid finden Sie <a target="_blank" href="http://jugendrettet.org/files/Gemeinnuetzigkeit.pdf">hier</a>.</p>
+                        <p>Den offiziellen Bescheid finden Sie <a target="_blank" href="http://jugendrettet.org/files/Gemeinnuetzigkeit_Bescheid.pdf">hier</a>.</p>
                         <h4>4. NAME UND FUNKTION WESENTLICHER ENTSCHEIDUNGSTRÄGER</h4>
                         <p>
                             Vorstand:
@@ -136,7 +136,7 @@
                         </ul>
                         <h4>5. TÄTIGKEITSBERICHT</h4>
                         <p>
-                            Eine Übersicht über die Tätigkeiten des Vereins finden Sie in unserem <a target="_blank" href="http://jugendrettet.org/files/Jahresbericht_JR_2015.pdf">Jahresbericht 2015</a>.
+                            Eine Übersicht über die Tätigkeiten des Vereins finden Sie in unserem <a target="_blank" href="http://jugendrettet.org/files/Jahresbericht_2015.pdf">Jahresbericht 2015</a>.
                         </p>
                         <h4>6. PERSONALSTRUKTUR</h4>
                         <p>
