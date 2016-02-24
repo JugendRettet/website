@@ -154,9 +154,10 @@ header ul li a, header ul.open li a {
     padding: calc(40vh - 50px) 0 0;
 }
 #union {
-	font-size: 50px;	
+	font-size: 40px;
 	transition: 200ms;
 }
+/*  font-size: 50px;*/
 #aendern-btn {
     font-size: 15pt;
 }
@@ -389,12 +390,22 @@ header ul li a, header ul.open li a {
     margin-top: 50px;
 }
 }
-@media screen and (max-height: 679px) {
+@media screen and (min-width: 1040px) and (max-height: 639px) {
 div#schiff-ani.index {
     display: none;
 }
 }
-@media screen and (max-height: 601px) {
+@media screen and (max-width: 1039px) and (max-height: 549px) {
+div#schiff-ani.index {
+    display: none;
+}
+}
+@media screen and (min-width: 1040px) and (max-height: 599px) {
+#phase {
+    display: none;
+}
+}
+@media screen and (max-width: 1039px) and (max-height: 399px) {
 #phase {
     display: none;
 }
