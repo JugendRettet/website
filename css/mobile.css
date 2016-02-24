@@ -198,18 +198,6 @@ nav ul.hidden li.scale {
 #ui, #simulator, #wellen, .fullscreen-bg {
     display: none;
 }
-#sim-alt {
-    width: 100%;
-    height: 100%;
-    display: block;
-}
-#sim-alt img {
-    height: calc(100% + 50px);
-    overflow: hidden;
-    z-index: -500;
-    display: block;
-    position: fixed;
-}
 
 /* Content */
 
@@ -453,19 +441,6 @@ nav ul.hidden li.scale {
 
 #ui, #simulator, #wellen, .fullscreen-bg {
     display: none;
-}
-#sim-alt {
-    width: 100%;
-    height: 100%;
-    background-size: cover;
-    display: block;
-}
-#sim-alt img {
-    height: calc(100% + 50px);
-    overflow: hidden;
-    z-index: -500;
-    display: block;
-    position: fixed;
 }
 
 /* Content */

@@ -12,9 +12,6 @@ footer .br {
 #ui, #simulator, #wellen {
     display: block;
 }
-#sim-alt, #sim-alt img {
-    display: none;
-}
 /* Header */
 #bread:hover > .stroke, #cross:hover > .stroke {
     transition: 400ms;    

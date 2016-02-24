@@ -45,7 +45,6 @@
         </style>
     </head>
     <body class="start">
-        <div id="sim-alt"><img src="http://jugendrettet.org/images/error.jpg" alt="Wave Simulation"></div>
         <div id="wrap" class="start">
             <div class="fullscreen-bg">
                 <video id="waves-video" class="fullscreen-bg__video" loop autoplay preload="auto">

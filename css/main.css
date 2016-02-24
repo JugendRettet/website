@@ -15,6 +15,8 @@ body {
 }
 body.start {
     overflow: hidden !important;
+    background-image: url(http://jugendrettet.org/images/error.jpg);
+    background-size: cover;
 }
 body.start:hover, #cross:hover, #bread:hover, .mehr:hover {
     cursor: pointer;
@@ -153,11 +155,6 @@ header ul.pop li:hover {
 
 #ui, #simulator, #wellen {
     z-index: -1000;
-}
-#sim-alt {
-    display: none;
-    background-image: url(http://jugendrettet.org/images/error.jpg);
-    background-size: cover;
 }
 #back-btn {
     font-size: 0.5em;

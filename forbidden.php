@@ -34,8 +34,6 @@
 
     <body class="start">
 
-    <div id="sim-alt"><img src="http://jugendrettet.org/images/error.jpg" alt="Wave Simulation"></div>
-
 	<div id="wrap" class="start">
 
         <div class="fullscreen-bg">
