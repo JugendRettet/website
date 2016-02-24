@@ -133,6 +133,7 @@
                             <li>Allgäu: <a href="mailto:Lioba@jugendrettet.org">Lioba</a></li>
                             <li>Berlin: <a href="mailto:Lukas@jugendrettet.org">Lukas</a></li>
                             <li>Berlin: <a href="mailto:Sonja@jugendrettet.org">Sonja</a></li>
+                            <li>Bochum: <a href="mailto:Benedikt@jugendrettet.org">Benedikt</a></li>
                             <li>Bonn: <a href="mailto:Tobias@jugendrettet.org">Tobias</a></li>
                             <li>Cologne: <a href="mailto:Carlo@jugendrettet.org">Carlo</a></li>
                             <li>Emsland: <a href="mailto:Jannik@jugendrettet.org">Jannik</a></li>
