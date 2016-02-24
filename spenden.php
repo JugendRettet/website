@@ -36,7 +36,6 @@
         <script src="http://jugendrettet.org/js/hideme.js"></script>
         <script type="text/javascript">
             $(window).load(function() {
-                $('body').fadeIn(400);
                 $('#phase hr#ph-eins-progress').addClass('load')
                 $('#phase hr#ph-zwei-progress').delay(200).queue(function (next) {
                     $(this).addClass('load');

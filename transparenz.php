@@ -30,7 +30,6 @@
         <script src="http://jugendrettet.org/js/jquery-1.10.2.min.js"></script>
         <script type="text/javascript">
             $(window).load(function() {
-                $('body').fadeIn(400);
             });
         </script>
         <style>
