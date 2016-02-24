@@ -19,12 +19,6 @@
         <link rel="mask-icon" href="http://www.jugendrettet.org/graphics/jr-mask.svg" color="rgb(40,100,130)">
         <link rel="apple-touch-icon" href="http://jugendrettet.org/graphics/apple-touch-icon.png"/>       
         <link rel="stylesheet" href="http://jugendrettet.org/css/waves.1.css" type="text/css" />
-        <!--[if lt IE 7]>
-            <link rel="stylesheet" href="http://jugendrettet.org/ie-css/general.css" type="text/css" />
-            <link rel="stylesheet" href="http://jugendrettet.org/ie-css/main.css?0" type="text/css" />
-            <link rel="stylesheet" href="http://jugendrettet.org/ie-css/desktop.css?0" media="screen and (min-device-width: 851px)" type="text/css" />
-            <link rel="stylesheet" href="http://jugendrettet.org/ie-css/mobile.css?0" media="screen and (max-device-width: 850px)" type="text/css" />
-        <![endif]-->
         <link rel="stylesheet" href="http://jugendrettet.org/css/general.css" type="text/css" />
         <link rel="stylesheet" href="http://jugendrettet.org/css/main.css?0" type="text/css" />
         <link rel="stylesheet" href="http://jugendrettet.org/css/desktop.css?0" media="screen and (min-device-width: 851px)" type="text/css" />
