@@ -57,7 +57,7 @@
 
         <!-- Scripts -->
         <script src="http://jugendrettet.org/js/shared.js"></script>
-        <script src="http://jugendrettet.org/js/main.js?1</script>
+        <script src="http://jugendrettet.org/js/main.js?0</script>
     </div>
     </body>
 </html>
