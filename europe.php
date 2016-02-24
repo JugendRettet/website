@@ -147,7 +147,7 @@
                     <nav class="footer">
                         <ul>
                             <li><a href="faq">FAQ</a></li>
-                            <li><a class="peek" id="folgen">Folgen</a></li>
+                            <li class="likelink"><span class="peek" id="folgen">Folgen</span></li>
                             <li><a href="presse">Presse</a></li>
                             <li><a href="impressum">Impressum</a></li>
                             <li><a href="transparenz">Transparenz</a></li>

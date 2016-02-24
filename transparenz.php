@@ -175,7 +175,7 @@
                     <nav class="footer">
                         <ul>
                             <li><a href="faq">FAQ</a></li>
-                            <li><a class="peek" id="folgen">Folgen</a></li>
+                            <li class="likelink"><span class="peek" id="folgen">Folgen</span></li>
                             <li><a href="presse">Presse</a></li>
                             <li><a href="impressum">Impressum</a></li>
                             <li style="box-shadow: 0 1px #fff;"><a href="transparenz">Transparenz</a></li>
