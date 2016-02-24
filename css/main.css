@@ -602,3 +602,27 @@ a.faq.open {
     margin-left: auto;
     margin-right: auto;
 }
+.ie {
+    display: none;
+}
+@media all and (-ms-high-contrast: none), (-ms-high-contrast: active) {
+/* IE10+ CSS styles go here */
+    #schiff-ani {
+        display: none;
+    }
+    #phase {
+        display: none;
+    }
+    .ie {
+        display: inherit;
+    }
+}
+@supports (-ms-accelerator:true) {
+/* Edge CSS styles go here */
+    #phase {
+        display: none;
+    }
+    .ie {
+        display: inherit;
+    }
+}
