@@ -21,7 +21,7 @@
         <link rel="stylesheet" href="http://jugendrettet.org/css/waves.1.css" type="text/css" />
         <link rel="stylesheet" href="http://jugendrettet.org/css/general.css" type="text/css" />
         <link rel="stylesheet" href="http://jugendrettet.org/css/main.css?2" type="text/css" />
-        <link rel="stylesheet" href="http://jugendrettet.org/css/desktop.css?2" media="screen and (min-width: 851px)" type="text/css" />
+        <link rel="stylesheet" href="http://jugendrettet.org/css/desktop.css?3" media="screen and (min-width: 851px)" type="text/css" />
         <link rel="stylesheet" href="http://jugendrettet.org/css/mobile.css?4" media="screen and (max-width: 850px)" type="text/css" />
         <!--[if IE]>
             <link rel="stylesheet" href="http://jugendrettet.org/ie-css/noship.css" type="text/css" />
