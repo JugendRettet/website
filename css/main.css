@@ -6,7 +6,6 @@
 }
 body {
     font-family: 'Open Sans', sans-serif;
-    display: none;
     color: rgba(255,255,255,1.00);
 	background-color: rgba(20,45,60,1.00);
     overflow-y: scroll !important;
