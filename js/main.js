@@ -133,6 +133,7 @@ $('.peek').click(function () {
     $(this).closest('li').toggleClass('indicator foot');
     $('.peekfield#' + $(this).attr('id') + '-peek').slideToggle(400);
     $('.peekfield:not(#' + $(this).attr('id') + '-peek)').slideUp(400);
+    return false;
 });
 //popup
 $('.show').click(function () {
