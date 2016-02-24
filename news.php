@@ -23,7 +23,7 @@
         <link rel="stylesheet" href="http://jugendrettet.org/css/waves.1.css" type="text/css" />
 
         <link rel="stylesheet" href="http://jugendrettet.org/css/general.css?0" type="text/css" />
-        <link rel="stylesheet" href="http://jugendrettet.org/css/main.css?4" type="text/css" />
+        <link rel="stylesheet" href="http://jugendrettet.org/css/main.css?5" type="text/css" />
         <link rel="stylesheet" href="http://jugendrettet.org/css/desktop.css?3" media="screen and (min-width: 851px)" type="text/css" />
         <link rel="stylesheet" href="http://jugendrettet.org/css/mobile.css?4" media="screen and (max-width: 850px)" type="text/css" />
 
