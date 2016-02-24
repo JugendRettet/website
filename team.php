@@ -24,8 +24,8 @@
 
         <link rel="stylesheet" href="http://jugendrettet.org/css/general.css" type="text/css" />
         <link rel="stylesheet" href="http://jugendrettet.org/css/main.css?1" type="text/css" />
-        <link rel="stylesheet" href="http://jugendrettet.org/css/desktop.css?1" media="screen and (min-device-width: 851px)" type="text/css" />
-        <link rel="stylesheet" href="http://jugendrettet.org/css/mobile.css?0" media="screen and (max-device-width: 850px)" type="text/css" />
+        <link rel="stylesheet" href="http://jugendrettet.org/css/desktop.css?1" media="screen and (min-width: 851px)" type="text/css" />
+        <link rel="stylesheet" href="http://jugendrettet.org/css/mobile.css?0" media="screen and (max-width: 850px)" type="text/css" />
 
         <script src="http://jugendrettet.org/js/jquery-1.10.2.min.js"></script>
         <script type="text/javascript">

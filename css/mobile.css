@@ -18,14 +18,64 @@ header ul li:hover {
 header ul.pop li:hover {
 	background-color: rgba(25,60,80,0.00);
 }
-
-@media screen and (max-width: 374px) {
+@media screen and (min-width: 480px) and (max-height: 719px) {
 div#schiff-ani.index {
     display: none;
 }
 }
-
-@media screen and (min-device-width: 480px) {
+@media screen and (min-width: 480px) and (max-height: 599px) {
+#slogan {
+    font-size: 20px;
+}
+#union {
+    font-size: 20px;
+}
+}
+@media screen and (min-width: 480px) and (max-height: 549px) {
+header ul li {
+    padding: 5px 0;
+}
+#title {
+    display: none;
+}
+#logo {
+    width: 50px;
+}
+#bread, #cross {
+    margin-top: -17px;
+}
+#menu {
+    padding: 90px 0 0;
+}
+header ul {
+    margin: 120px auto 0;
+}
+#pop-back, #header-back, #pop-back.blue {
+    height: 120px;
+}
+#pop-back.open {
+    transition: 400ms;
+    height: 100%;
+}
+#header-back.blue, #header-back.open {
+    transition: 400ms;
+    height: 100%;
+}
+footer {
+    padding: 5px 0;
+}
+}
+@media screen and (min-width: 480px) and (max-height: 499px) {
+#phase {
+    display: none;
+}
+}
+@media screen and (min-width: 480px) and (max-height: 409px) {
+#clockdiv {
+    display: none;
+}
+}
+@media screen and (min-width: 480px) {
 
 /* Main */
 
@@ -154,7 +204,6 @@ nav ul.hidden li.scale {
     display: block;
 }
 #sim-alt img {
-    margin: -50px;
     height: calc(100% + 50px);
     overflow: hidden;
     z-index: -500;
@@ -275,8 +324,12 @@ nav ul.hidden li.scale {
     width: 100%;
 }
 }
-
-@media screen and (max-device-width: 479px) {
+@media screen and (min-width: 480px) and (max-height: 379px) {
+#logo {
+    width: 40px;
+}
+}
+@media screen and (max-width: 479px) {
 /* Main */
 
 #wrap {
@@ -408,7 +461,6 @@ nav ul.hidden li.scale {
     display: block;
 }
 #sim-alt img {
-    margin: -50px;
     height: calc(100% + 50px);
     overflow: hidden;
     z-index: -500;
@@ -529,70 +581,22 @@ nav ul.hidden li.scale {
     width: 100%;
 }
 }
-@media screen and (max-width: 849px) and (max-height: 699px) {
+@media screen and (max-width: 479px) and (max-height: 619px) {
 div#schiff-ani.index {
     display: none;
 }
 }
-@media screen and (max-height: 549px) {
-#slogan {
-    font-size: 20px;
-}
-div#schiff-ani.index {
-    display: none;
-}
+@media screen and (max-width: 479px) and (max-height: 489px) {
 #union {
     font-size: 20px;
 }
 }
-@media screen and (max-device-height: 549px) {
-header ul li {
-    padding: 5px 0;
-}
-#title {
-    display: none;
-}
-#logo {
-    width: 50px;
-}
-#bread, #cross {
-    margin-top: -17px;
-}
-#menu {
-    padding: 90px 0 0;
-}
-header ul {
-    margin: 120px auto 0;
-}
-#pop-back, #header-back, #pop-back.blue {
-    height: 120px;
-}
-#pop-back.open {
-    transition: 400ms;
-    height: 100%;
-}
-#header-back.blue, #header-back.open {
-	transition: 400ms;
-    height: 100%;
-}
-footer {
-    padding: 5px 0;
-}
-}
-@media screen and (max-height: 399px) {
+@media screen and (max-width: 479px) and (max-height: 449px) {
 #phase {
     display: none;
 }
 }
 @media screen and (max-width: 479px) and (max-height: 339px) {
-div#schiff-ani.index {
-    display: none;
-}
-#union {
-    font-size: 20px;
-}
-}
-@media screen and (max-device-width: 479px) and (max-device-height: 339px) {
 header ul li {
     padding: 5px 0;
 }
@@ -626,18 +630,32 @@ footer {
     padding: 5px 0;
 }
 }
-@media screen and (max-height: 449px) and (max-width: 319px) {
+@media screen and (max-width: 374px) {
+div#schiff-ani.index {
+    display: none;
+}
+}
+@media screen and (max-width: 299px) {
 #phase {
     display: none;
 }
+#aendern-btn {
+    display: none;
 }
-@media screen and (max-height: 379px) and (max-width: 319px) {
+div#union hr.wide {
+    display: none;
+}
+}
+@media screen and (max-height: 359px) {
 #clockdiv {
     display: none;
 }
 }
-@media screen and (max-height: 339px) {
-#clockdiv {
+@media screen and (max-height: 329px) {
+#aendern-btn {
+    display: none;
+}
+div#union hr.wide {
     display: none;
 }
 }

@@ -392,260 +392,34 @@ header ul li a, header ul.open li a {
     margin-top: 50px;
 }
 }
-
-@media screen and (min-width: 850px) and (max-height: 541px) {
+@media screen and (max-height: 679px) {
 div#schiff-ani.index {
     display: none;
 }
 }
-
-@media screen and (max-width: 851px) {
-
-/* Main */
-
-#wrap {
-	margin: 0 40px;
-    padding: 40px 0;
-}
-footer {
-    background-color: rgba(20, 45, 60, 1);
-    font-size: 11pt;
-    position: fixed;
-    width: 100%;
-    margin: 20px 0 0;
-    z-index: 25;
-    bottom: 0;
-}
-nav.footer {
-    position: relative;
-    text-align: center;
-    margin: 0 -40px;
-}
-footer li {
-	transition: 200ms;
-    display: inline-block;
-    margin: 11px;
-    box-shadow: 0 0 #fff;
-}
-footer br {
-    display: none;
-}
-.peekfield {
-    padding: 40px;
-}
-#peek-container {
-    max-height: calc(100% - 487px);
-}
- 
-/* Head */
-
-#logo {
-	transition: 200ms;
-    margin: 0 auto;
-    display: block;
-    width: 70px;
-}
-a#logo-wrap {
-    position: fixed;
-    width: 150px;
-    height: 70px;
-    padding: 0px;
-    margin: 0 calc(50% - 75px);
-    margin-left: calc(50% - 75px - 40px);
-}
-#title {
-    position: relative;
-    font-size: 11pt;
-    width: 120px;
-    margin: 10px auto 0;
-}
-#bread {
-    padding: 35px 25px;
-    margin-left: -25px;
-    display: block;
-}
-.hidden {
-    display: none;
-}
-header {
-    position: relative;
-	font-size: 15pt;
-}
-header ul {
-    transition: 200ms;
-	margin: 150px auto 0;
-    position: fixed;
-}
-nav ul.hidden li {
-    transition: 400ms;
-    -webkit-transform: scale(0.9);
-    -ms-transform: scale(0.9);
-    transform: scale(0.9);
-    opacity: 0;
-}
-nav ul.hidden li.scale {
-    transition: 400ms;
-    opacity: 1;
-    -webkit-transform: scale(1);
-    -ms-transform: scale(1);
-    transform: scale(1);
-}
-header ul li {
-    float: none;
-    padding: 10px 0;
-}
-header ul li:hover {
-    background-color: rgba(0,0,0,0.00) !important;
-    color: rgba(40,100,130,1.00);
-}
-.indicator, .indicator.pop {
-    background-color: inherit;
-    color: rgba(40,100,130,1.00);
-}
-#pop-back, #pop-back.blue {
-    display: block;
-    transition: 400ms;  
-    height: 167px;
-}
-#pop-back.open {
-    transition: 400ms;  
-    height: 100%;
-}
-#header-back {
-	transition: 400ms;
-    width: 100%;
-    height: 167px;
-    z-index: 30;
-    position: fixed;
-}
-#header-back.blue, #header-back.open {
-	transition: 400ms;
-    height: 100%;
-}
-
-/* Simulation */
-
-/* Content */
-    
-#content {
-	transition: 400ms;
-    position: absolute;
-    width: 100%;
-    margin: 0 -40px;
-}
-#menu {
-    padding: 127px 0 0;
-    margin: 0 0 40px;
-}
-#menu.single {
-    height: calc(15vh + 220px);
-}
-#menu.double {
-    height: calc(30vh + 185px);
-}
-#menu.triple {
-    height: calc(45vh + 350px);
-}
-#menu.single, #menu.double, #menu.triple {
-    width: 100%;
-}
-.single .child, .double .child, .triple .child {
-    width: calc(100% - 40px);
-    height: calc(15vh + 70px);
-}
-#menu .child {
-    transition: 400ms;
-    opacity: 1;
-}
-.tint {
-    transition: 400ms;
-    background-color: rgba(0,70,100,0.00);
-}
-.child .description {
-    transition: 400ms;
-    transition-delay: 200ms;
-    opacity: 0;
-}
-#union {
-    height: calc(100vh - 80px);
-	font-size: 30px;	
-	transition: 400ms;
-}
-.aendern {
-    opacity: 1 !important;
-    display: block;
-    height: 50px;
-    width: 100%;
-    padding: 30px 0 0 !important;
-    margin: 0 -40px;
-    position: fixed;
-    font-size: 11pt;
-    text-align: center;
-}
-#aendern-btn {
-    font-size: 13pt;
-}
-
-/* Popup */
-
-.popup, .popup-flat {
-    padding: 140px 0 0;
-}
-/*
-    height: calc(100vh - 240px);
-    width: 100vw;
-*/
-.scroller {
-    display: block;
-    overflow-y: auto;
-}
-.container {
-    display: block;
-}
-.container.single, div.single, .container.double, div.double, .container.triple, div.triple, .scroller.single, .scroller.double, .scroller.triple {
-    width: 100%;
-    margin: 0 0 20px;
-}
-.single .column, .double .column, .triple .column {
-    width: 100%;
-    margin: 0 0 20px;
-}
-#cross {
-    padding: 35px 25px;
-    right: 15px;
-}
-#popup-close {
-    width: calc(100vw - 80px);
-    margin-top: -2px;
-}
-.icon {
-    width: 30px;
-    margin: 0 10px -8px 0;
-}
-#map, #map.big {
-    position: relative;
-	transition: 400ms;
-    height: 35vh;
-    width: 100% !important;
-}
-}
-
-@media screen and (max-width: 851px) and (max-height: 681px) {
-div#schiff-ani.index {
-    display: none;
-}
-}
-@media screen and (max-width: 851px) and (max-height: 601px) {
+@media screen and (max-height: 601px) {
 #phase {
     display: none;
 }
 }
-
-@media screen and (max-width: 346px) {
+@media screen and (max-height: 459px) {
 #union {
     font-size: 25px;
 }
-#phase {
+#slogan {
+    font-size: 25px;
+}
+}
+@media screen and (max-height: 319px) {
+#clockdiv {
+    display: none;
+}
+}
+@media screen and (max-height: 269px) {
+#aendern-btn {
+    display: none;
+}
+div#union hr.wide {
     display: none;
 }
 }
