@@ -33,7 +33,6 @@ $('.faq').click(function () {
     $('#nachweis .faq-klappe:not(#' + that.attr('id') + '-nachweis)').slideUp(400);
     $('.faq').removeClass('open');
     that.toggleClass('open');
-    return false;
     // prevent scrolling to top (on firefox)
 });
 //schiff
@@ -133,7 +132,6 @@ $('.peek').click(function () {
     $(this).closest('li').toggleClass('indicator foot');
     $('.peekfield#' + $(this).attr('id') + '-peek').slideToggle(400);
     $('.peekfield:not(#' + $(this).attr('id') + '-peek)').slideUp(400);
-    return false;
 });
 //popup
 $('.show').click(function () {
@@ -155,7 +153,7 @@ $('.show').click(function () {
 $('body, #cross').click(function () {
     var selection = window.getSelection();
     if (selection == 0) {
-        location.hash = '';
+//        location.hash = '';
         $('#cr-top-stroke').addClass('rotate-close-top');
         $('#cr-bottom-stroke').addClass('rotate-close-bottom');
         $('.popup').removeClass('opacity-one').slideUp(200, function () {
