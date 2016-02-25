@@ -145,12 +145,12 @@
                         <h4><img alt="bot" class="icon" src="http://jugendrettet.org/graphics/bot.svg">Botschafter</h4>
                         <p>Du willst <i>Jugend Rettet</i> in deiner Stadt vertreten?</p>
                         <div class="mehr-klappe"><br>
-                            <p>Dann werde offizieller Repräsentant unserer Bewegung vor Ort. Organisiere Spendenaktionen, Flyeraktionen, Informationsveranstaltungen und finde Unterstützer für unsere Idee. Gemeinsam mit den <a class="mehr" style="display: inline; opacity: 1 !important;">Kleinen Rettern</a> deiner Stadt nimmst du Projekte in Angriff. Du wirst von uns mit wichtigen Materialien ausgestattet und bei Fragen stehen wir dir gerne zur Verfügung. Auf der Karte siehst du, wo es bereits Botschafter gibt.</p><br>
+                            <p>Dann werde offizieller Repräsentant unserer Bewegung vor Ort. Organisiere Spendenaktionen, Flyeraktionen, Informationsveranstaltungen und finde Unterstützer für unsere Idee. Gemeinsam mit den <a id="kl-retter" class="mehr" style="display: inline; opacity: 1 !important;">Kleinen Rettern</a> deiner Stadt nimmst du Projekte in Angriff. Du wirst von uns mit wichtigen Materialien ausgestattet und bei Fragen stehen wir dir gerne zur Verfügung. Auf der Karte siehst du, wo es bereits Botschafter gibt.</p><br>
                         <iframe id="map" src='https://a.tiles.mapbox.com/v4/leonvogler.nd99673k/attribution,zoompan,zoomwheel.html?access_token=pk.eyJ1IjoibGVvbnZvZ2xlciIsImEiOiI0MTI2MDcxMzk2MWI2NDczYzRjNzY5OWI4ZmRmODUyYiJ9.Bys3jr3YtztwTuGQ30NLug'></iframe>
                         </div>
                         <a class="mehr-btn">Mehr ...</a>
                     </div>
-                    <div class="column mehr">
+                    <div class="column mehr" id="kl-retter">
                         <h4><img alt="fla" class="icon" src="http://jugendrettet.org/graphics/fla.svg">Kleiner Retter</h4>
                         <p>Du willst dich mit einer einmaligen Aktion engagieren?</p>
                         <div class="mehr-klappe"><br>
