@@ -135,6 +135,7 @@
                             <li>Bochum: <a href="mailto:Benedikt@jugendrettet.org">Benedikt</a></li>
                             <li>Bonn: <a href="mailto:Tobias@jugendrettet.org">Tobias</a></li>
                             <li>Cologne: <a href="mailto:Carlo@jugendrettet.org">Carlo</a></li>
+                            <li>Copenhagen: <a href="mailto:Kira@jugendrettet.org">Kira</a></li>
                             <li>Emsland: <a href="mailto:Jannik@jugendrettet.org">Jannik</a></li>
                             <li>Flensburg: <a href="mailto:Pauline@jugendrettet.org">Pauline</a></li>
                             <li>Groningen: <a href="mailto:LenaP@jugendrettet.org">Lena</a></li>
@@ -152,6 +153,7 @@
                             <li>Potsdam: <a href="mailto:Alex@jugendrettet.org">Alex</a></li>
                             <li>Reutlingen: <a href="mailto:Fatih@jugendrettet.org">Fatih</a></li>
                             <li>Saarbrücken: <a href="mailto:Fabrizio@jugendrettet.org">Fabrizio</a></li>
+                            <li>Saarlouis: <a href="mailto:AlexG@jugendrettet.org">Alex</a></li>
                             <li>Spiekeroog: <a href="mailto:annsophie@jugendrettet.org">Ann Sophie</a></li>
                             <li>Stuttgart: <a href="mailto:Harun@jugendrettet.org">Harun</a></li>
                             <li>Trier: <a href="mailto:Asa@jugendrettet.org">Asa</a></li>
