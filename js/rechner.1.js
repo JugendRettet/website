@@ -6,7 +6,7 @@ function rechnen(){
 	var bedarf = 62250
 
 	var kosten = 80000
-	var kampagnengeld = 1554
+	var kampagnengeld = 1684
 	var betterplacegeld = +kampagnengeld+0
 	var startgeld = 32697
 	var stand = +betterplacegeld+startgeld
