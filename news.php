@@ -179,7 +179,7 @@
                       </div><br>
                       <a class="faq" id="52"><b>10. Februar</b> Phase 1 fast abgeschlossen! </a>
                       <div class="faq-klappe" id="52-klappe">
-                        <p>Gute Nachrichten! Die 150.000€, die ein Schiff nach unseren Vorstellungen kostet, werden uns gespendet! <b>Bedingung</b> ist allerdings, dass wir das Geld für den Umbau und die laufenden Kosten für den ersten Monat - <b>80.000€</b> - <b>bis 31. März 2016</b> zusammenkriegen. Wir sind überwältigt von dieser Großzügigkeit. Damit der Umbau ab 01. April planmäßig stattfinden kann, benötigen wir euch nun mehr denn je: Bitte unterstützt uns, indem ihr weiterhin von uns erzählt. Jede noch so kleine Spende bringt uns unserem Ziel, Menschenleben zu retten, weiter!</p>
+                        <p>Die erste Etappe ist geschafft! Die Finanzierung für den Kauf unseres Schiffes steht. Jetzt brauchen wir das Geld für den Umbau, die Überführung sowie den ersten Monat auf See. Mindestens <b>80.000 Euro</b> (die genaue Summe prüfen wir gerade) müssen wir <b>bis Ende März</b> zusammenbekommen. Ohne diese Mittel können wir nicht in See stechen. Auch die Finanzierung des Schiffes durch zwei Privatpersonen hängt davon ab, ob wir es schaffen, unser Spendenziel zu erreichen.</p>
                         <br>
                         <p>Danke an alle, die schon so fleißig gespendet und von uns erzählt haben. Es gilt jetzt, alles zu mobilisieren, damit der Umbau für die Rettungsmissionen umgesetzt werden kann.</p>
                         <a href="http://jugendrettet.org/files/schiff.gif" target="_blank"><img class="news" src='http://jugendrettet.org/files/schiff_twitter.gif'></a>
