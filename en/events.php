@@ -32,6 +32,10 @@
             $(window).load(function() {
             });
         </script>
+        <style>
+            li {margin-bottom: 5px;margin-top: 5px;}
+            ul {list-style: initial;}
+        </style>
     </head>
 
     <body>
@@ -125,8 +129,7 @@ Euer Jugend Rettet Team</p><br>
                             <div class="event-title">7:00 pm - 9:00 pm</div>
                         </div><br>
                     </div>
-                </div>
-                <div class="date-container" id="13-11-2015">
+                    <div class="date-container" id="13-11-2015">
                         <h4>Invitation to the 4th Open Meeting</h4><br>
 
                         <!--<p><i>Jugend Rettet</i> ist eine Organisation von jungen Erwachsenen zur privaten Seenotrettung auf dem Mittelmeer. Am 13. November findet unser viertes offenes Treffen statt.</p><br>
@@ -142,7 +145,7 @@ Euer Jugend Rettet Team</p><br>
                             <div class="event-title">7:30 pm - 9:30 pm</div>
                         </div><br>
                     </div>
-                <div class="date-container" id="24-11-2015">
+                    <div class="date-container" id="24-11-2015">
                         <h4>Invitation to the first Open Meeting in Münster</h4><br>
 
                         <!--<p><i>Jugend Rettet</i> ist eine Organisation von jungen Erwachsenen zur privaten Seenotrettung auf dem Mittelmeer. Am 13. November findet unser viertes offenes Treffen statt.</p><br>
@@ -395,7 +398,7 @@ Euer Jugend Rettet Team</p><br>
                             <div class="event-title">9:00 pm</div>
                         </div><br>
                     </div>
-                    
+                </div>
             </div>
             <div id="content">
                 <footer>
