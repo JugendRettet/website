@@ -32,6 +32,10 @@
             $(window).load(function() {
             });
         </script>
+        <style>
+            li {margin-bottom: 5px;margin-top: 5px;}
+            ul {list-style: initial;}
+        </style>
     </head>
 
     <body>
@@ -419,6 +423,202 @@ Botschafter des Vereins werden auch vor Ort über das Projekt informieren und de
                             <div class="event-title">19:00 Uhr</div>
                         </div><br>
                     </div>
+
+                    <div class="date-container" id="10-03-2016">
+                        <h4>Bonn: Deine Spende für die Rettung</h4>
+                        <br>
+                        <p>
+                            Am 10.03 habt ihr die Chance gleich zwei Mal eure Karma-Punkte aufzufüllen! 
+                        </p>
+                        <br>
+                        <p>
+                            Zum einen brauch das HAEMA Blutspendezentrum in Bonn immer wieder gesunde Menschen, die Blut spenden, um nicht gesunde Menschen damit retten zu können. 
+                        </p>
+                        <p>
+                            Dann brauch Jugend Rettet euch. Wir sind eine junge Organisation zur Seenotrettung auf dem Mittelmeer. Wir haben ein Schiff, wenn der Umbau finanziert wird. 80.000€ brauchen wir, 36.000€ haben wir. Jetzt brauchen wir euch, damit wir im Juni rausfahren können.
+                        </p>
+                        <p>
+                            Hier könnt ihr schon vorher etwas Spenden, wenn ihr Lust habt: <a href="spenden">Spenden!</a>
+                        </p>
+                        <br>
+                        <p>
+                            Für jeden Menschen der kommt, spendet uns die HAEMA 25€. 
+                            Jeder der kommt, leistet also gleich 2x was Gutes! 
+                            Natürlich habt auch ihr was davon, denn niemand geht ohne ein kleines Geschenk für seine gute Tat!
+                        </p>
+                        <br>
+                        <p>
+                            Wie funktioniert es? 
+                            Wie: Pro Stunde können maximal 4 Leute spenden ( in Ausnahme Fällen auch mal einer mehr), für jeden wird ca. eine Viertel Stunde benötigt. Tragt euch einfach in den vorhandenen Doodle ein. Von Jugend Rettet ist durchgehend jemand vor Ort und kümmert sich um den Ablauf und informiert euch übers Projekt. Am Ende bekommt jeder der mag noch ein Stück selbst gebackenen Kuchen! 
+                        </p>
+                        <br>
+                        <!--<p>
+                            Der Doodle: <a href="https://www.haema.de/fileadmin/download/Infomaterial_Spender/allgemeine_spendebedingungen_a4_web_haema.pdf">https://www.haema.de/fileadmin/download/Infomaterial_Spender/allgemeine_spendebedingungen_a4_web_haema.pdf</a>
+                        </p>
+                        <br>-->
+                        <p>
+                            Wer kann Spenden?
+                            Alle über 18, die keine über Blut übetragbare Krankheiten wie HIV, Hepatitis C oder B oder andere haben, nicht frisch tätowiert oder gepierct sind (6 Monate), nicht Schwanger sind, keine Medikamente oder Drogen nehmen (vorher auch keine Pille genommen haben) und nicht unter 50 Kilo wiegen. Alle weiteren Hinweise findet ihr hier: <a href="https://www.haema.de/fileadmin/download/Infomaterial_Spender/allgemeine_spendebedingungen_a4_web_haema.pdf">allgemeine_spendebedingungen_a4_web_haema.pdf</a>
+                        </p>
+                        <br>
+                        <p>
+                            Esst und trinkt voher ordendlich und bringt unbedingt euren Ausweis mit!
+                        </p>
+                        <br>
+                        <div class="event-container">
+                            <div class="event-date">Donnerstag, 10. März 2016</div>
+                            <div class="event-icon"><img src="http://jugendrettet.org/graphics/location.png" width="14px" alt="Location"></div>
+                            <div class="event-title"><a href="https://www.google.de/maps/place/Haema/@50.7334768,7.0955359,17z/data=!3m1!4b1!4m2!3m1!1s0x47bee19f6772899f:0x9d7070a9493a1885" target="_blank">Haema Blutspendezentrum Bonn<br>Poststraße 19<br> 53111 Bonn</a></div><br>
+                            <div class="event-icon"><img src="http://jugendrettet.org/graphics/time.png" height="14px" alt="Time"></div>
+                            <div class="event-title">10:00 - 13:00 Uhr</div>
+                        </div><br>
+                    </div>
+
+                    <div class="date-container" id="15-03-2016">
+                        <h4>Offenes Treffen Emsland</h4>
+                        <br>
+                        <p>
+                            Im Jahr 2015 ertranken 3771 Menschen, bei dem Versuch über das Mittelmeer nach Europa zu flüchten. Die Dunkelziffer liegt weiter darüber. Diese Situation können wir nicht länger hinnehmen. Jeder Mensch verdient die Rettung aus Seenot!
+                        </p>
+                        <p>
+                            Jugend Rettet ist eine Organisation von jungen Erwachsenen, die Gelder für zur Seenotrettung auf der zentralen Mittelmeerroute zwischen Libyen und Italien sammeln. Unser Ziel ist klar: weniger Tote im Mittelmeer.
+                            Gleichzeitig werden wir uns im asylpolitischen Diskurs klar positionieren und fordern die EU zu einem Ende der Gleichgültigkeit gegenüber dem Sterben auf dem Mittelmeer auf.
+                        </p>
+                        <br>
+                        <p>
+                            Die Finanzierung für den Kauf unseres Schiffes steht. Jetzt brauchen wir das Geld für den Umbau, die Überführung sowie den ersten Monat auf See. Mindestens 80.000 Euro (die genaue Summe prüfen wir gerade) müssen wir bis Ende März zusammenbekommen. Ohne diese Mittel können wir nicht in See stechen. Auch die Finanzierung des Schiffes durch zwei Privatpersonen hängt davon ab, ob wir es schaffen, unser Spendenziel zu erreichen.
+                        </p>
+                        <br>
+                        <p>
+                            Wir suchen in ganz Deutschland und Europa nach engagierten Leuten, die Jugend Rettet bekannt machen und durch Spendenaktionen unser Schiff ermöglichen. 
+                        </p>
+                        <br>
+                        <p>
+                            Am 15.03.2016 kommt Jugend Rettet zum ersten Mal mit einem offenen Treffen ins Emsland. Unser Botschafter Jannik wird das Projekt und den aktuellen Arbeitstand vorstellen. Anschließend geht es um die Suche nach weiteren Unterstützer_innen im Emsland und es darf diskutiert werden.
+                        </p>
+                        <br>
+                        <p>
+                            Ort: Aula des Gymnasiums Papenburg
+                        </p>
+                        <br>
+                        <p>
+                            Wir freuen uns auf euch!
+                        </p>
+                        <p>
+                            Euer Jugend Rettet Team
+                        </p>
+                        <br>
+                        <div class="event-container">
+                            <div class="event-date">Dienstag, 15. März 2016</div>
+                            <div class="event-icon"><img src="http://jugendrettet.org/graphics/location.png" width="14px" alt="Location"></div>
+                            <div class="event-title"><a href="https://www.google.de/maps/place/Gymnasium/@53.0731232,7.3965513,17z/data=!3m1!4b1!4m2!3m1!1s0x47b7b187a1fd1113:0xf65aecb465c4fca8" target="_blank">Gymnasium Papenburg<br>Russelstraße 33<br> 26871 Papenburg</a></div><br>
+                            <div class="event-icon"><img src="http://jugendrettet.org/graphics/time.png" height="14px" alt="Time"></div>
+                            <div class="event-title">19:00 Uhr</div>
+                        </div><br>
+                    </div>
+
+                    <div class="date-container" id="17-03-2016">
+                        <h4>Bonn: Deine Spende für die Rettung No. 2</h4>
+                        <br>
+                        <p>
+                            Bonn, deine Spende für die Rettung Nummer 2!
+                        </p>
+                        <br>
+                        <p>
+                            Auch am 17.03 habt ihr die Chance gleich zwei Mal eure Karma-Punkte aufzufüllen! 
+                        </p>
+                        <br>
+                        <p>
+                            Zum einen brauch das HAEMA Blutspendezentrum in Bonn immer wieder gesunde Menschen, die Blut spenden, um nicht gesunde Menschen damit retten zu können. 
+                        </p>
+                        <p>
+                            Dann brauch Jugend Rettet euch. Wir sind eine junge Organisation zur Seenotrettung auf dem Mittelmeer. Wir haben ein Schiff, wenn der Umbau finanziert wird. 80.000€ brauchen wir, 36.000€ haben wir. Jetzt brauchen wir euch, damit wir im Juni rausfahren können.
+                        </p>
+                        <p>
+                            Hier könnt ihr schon vorher etwas Spenden, wenn ihr Lust habt: <a href="spenden">Spenden!</a>
+                        </p>
+                        <br>
+                        <p>
+                            Für jeden Menschen der kommt, spendet uns die HAEMA 25€. 
+                            Jeder der kommt, leistet also gleich 2x was Gutes! 
+                            Natürlich habt auch ihr was davon, denn niemand geht ohne ein kleines Geschenk für seine gute Tat!
+                        </p>
+                        <br>
+                        <p>
+                            Wie funktioniert es? 
+                            Wie: Pro Stunde können maximal 4 Leute spenden ( in Ausnahme Fällen auch mal einer mehr), für jeden wird ca. eine Viertel Stunde benötigt. Tragt euch einfach in den vorhandenen Doodle ein. Von Jugend Rettet ist durchgehend jemand vor Ort und kümmert sich um den Ablauf und informiert euch übers Projekt. Am Ende bekommt jeder der mag noch ein Stück selbst gebackenen Kuchen! 
+                        </p>
+                        <br>
+                        <!--<p>
+                            Der Doodle: <a href="https://www.haema.de/fileadmin/download/Infomaterial_Spender/allgemeine_spendebedingungen_a4_web_haema.pdf">allgemeine_spendebedingungen_a4_web_haema.pdf</a>
+                        </p>
+                        <br>-->
+                        <p>
+                            Wer kann Spenden?
+                            Alle über 18, die keine über Blut übetragbare Krankheiten wie HIV, Hepatitis C oder B oder andere haben, nicht frisch tätowiert oder gepierct sind (6 Monate), nicht Schwanger sind, keine Medikamente oder Drogen nehmen (vorher auch keine Pille genommen haben) und nicht unter 50 Kilo wiegen. Alle weiteren Hinweise findet ihr hier: <a href="https://www.haema.de/fileadmin/download/Infomaterial_Spender/allgemeine_spendebedingungen_a4_web_haema.pdf">allgemeine_spendebedingungen_a4_web_haema.pdf</a>
+                        </p>
+                        <br>
+                        <p>
+                            Esst und trinkt voher ordendlich und bringt unbedingt euren Ausweis mit!
+                        </p>
+                        <br>
+                        <div class="event-container">
+                            <div class="event-date">Donnerstag, 17. März 2016</div>
+                            <div class="event-icon"><img src="http://jugendrettet.org/graphics/location.png" width="14px" alt="Location"></div>
+                            <div class="event-title"><a href="https://www.google.de/maps/place/Haema/@50.7334768,7.0955359,17z/data=!3m1!4b1!4m2!3m1!1s0x47bee19f6772899f:0x9d7070a9493a1885" target="_blank">Haema Blutspendezentrum Bonn<br>Poststraße 19<br> 53111 Bonn</a></div><br>
+                            <div class="event-icon"><img src="http://jugendrettet.org/graphics/time.png" height="14px" alt="Time"></div>
+                            <div class="event-title">10:00 - 17:00 Uhr</div>
+                        </div><br>
+                    </div>
+
+                    <div class="date-container" id="18-03-2016">
+                        <h4>Soli-Party - Feiern für den Umbau</h4>
+                        <br>
+                        <p>
+                            Im Jahr 2015 ertranken 3771 Menschen bei dem Versuch über das Mittelmeer nach Europa zu flüchten. Die Dunkelziffer liegt weit darüber. Diese Situation können wir nicht länger hinnehmen. Jeder Mensch verdient die Rettung aus Seenot!
+                        </p>
+                        <p>
+                            Jugend Rettet ist eine Organisation von jungen Erwachsenen, die Gelder für zur Seenotrettung auf der zentralen Mittelmeerroute zwischen Libyen und Italien sammeln. Unser Ziel ist klar: weniger Tote im Mittelmeer.
+                        </p>
+                        <br>
+                        <p>
+                            Die Finanzierung für den Kauf unseres Schiffes steht. Jetzt brauchen wir das Geld für den Umbau, die Überführung sowie den ersten Monat auf See. Mindestens 80.000 Euro müssen wir bis Ende März zusammenbekommen. Ohne diese Mittel können wir nicht in See stechen.
+                        </p>
+                        <br>
+                        <p>
+                            Deswegen heißt es am 18. März im Lauschangriff: Feiern fürs Schiff! Jeder Euro fließt direkt in den Umbau! 
+                        </p>
+                        <br>
+                        <p>
+                            Kommt vorbei, trinkt und tanzt mit uns und unterstützt das Projekt, damit wir im Juni'16 die Rettungsmission starten und Menschen aus Seenot retten können!
+                        </p>
+                        <br>
+                        <p>
+                            Für pickepacke feinstes Musikprogramm sorgen:
+                        </p>
+                        <ul>
+                            <li>Pascal Iversen</li>
+                            <li>Docmadeli <a target="_blank" href="https://soundcloud.com/docmadeli">[https://soundcloud.com/docmadeli]</a></li>
+                            <li>Background Radiation <a target="_blank" href="https://soundcloud.com/background-radiation">[https://soundcloud.com/background-radiation]</a> </li>
+                            <li>dunkel:rot <a target="_blank" href="https://www.facebook.com/dunkelrotmusik/">[https://www.facebook.com/dunkelrotmusik/]</a></li>
+                        </ul>
+                        <br>
+                        <p>
+                            Wir freuen uns auf euch!
+                        </p>
+                        <p>
+                            Euer Jugend Rettet Team
+                        </p>
+                        <br>
+                        <div class="event-container">
+                            <div class="event-date">Freitag, 18. Februar 2016</div>
+                            <div class="event-icon"><img src="http://jugendrettet.org/graphics/location.png" width="14px" alt="Location"></div>
+                            <div class="event-title"><a href="https://www.google.de/maps/place/Lauschangriff/@52.5183632,13.4531413,17z/data=!3m1!4b1!4m2!3m1!1s0x47a84e6653637a9d:0xd32edb6abbf17c08" target="_blank">Lauschangriff<br>Rigaer Str. 103<br> 10247 Berlin</a></div><br>
+                            <div class="event-icon"><img src="http://jugendrettet.org/graphics/time.png" height="14px" alt="Time"></div>
+                            <div class="event-title">21:00 Uhr</div>
+                        </div><br>
+                    </div>
+
                 </div>
             </div>
             <div id="content">
