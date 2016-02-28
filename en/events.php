@@ -347,6 +347,54 @@ Euer Jugend Rettet Team</p><br>
                             <div class="event-title">19:00 Uhr</div>
                         </div><br>
                     </div>
+
+                    <div class="date-container" id="18-03-2016">
+                        <h4>Soli-Party - Party for the conversion</h4>
+                        <br>
+                        <p>
+                            3771 people lost their lives trying to reach Europe via the Mediterranean throughout the year 2015. The estimated number of unreported deaths is much higher. We will no longer accept this situation. Every human being deserves to be rescued from maritime emergency!
+                        </p>
+                        <p>
+                            Jugend Rettet is an organization of young adults who collect donations to organize a sea rescue mission between the Libyan and Italian cost. Our goal is clear: Less deaths in the Mediterranean.
+                        </p>
+                        <br>
+                        <p>
+                            The financing of our ship is already secured. Now we collect the money for its renovation, its transfer, and the first month of operation. For that we need at least 80,000 euro until the end of March. Without that money our ship cannot set sail.
+                        </p>
+                        <br>
+                        <p>
+                            That's why we need you at March 18 at the "Lauschangriff": Party for the ship. Every cent flows directly into its renovation. 
+                        </p>
+                        <br>
+                        <p>
+                            Come by, drink and dance with us and thereby help us to start saving lives in the Mediterranean in June 2016.
+                        </p>
+                        <br>
+                        <p>
+                            An exquisite musical entertainment package will be provided by:
+                        </p>
+                        <ul>
+                            <li>Pascal Iversen</li>
+                            <li>Docmadeli <a target="_blank" href="https://soundcloud.com/docmadeli">[https://soundcloud.com/docmadeli]</a></li>
+                            <li>Background Radiation <a target="_blank" href="https://soundcloud.com/background-radiation">[https://soundcloud.com/background-radiation]</a> </li>
+                            <li>dunkel:rot <a target="_blank" href="https://www.facebook.com/dunkelrotmusik/">[https://www.facebook.com/dunkelrotmusik/]</a></li>
+                        </ul>
+                        <br>
+                        <p>
+                            We're looking forward to see you there!
+                        </p>
+                        <p>
+                            The Jugend Rettet Team.
+                        </p>
+                        <br>
+                        <div class="event-container">
+                            <div class="event-date">Friday, March 18th 2016</div>
+                            <div class="event-icon"><img src="http://jugendrettet.org/graphics/location.png" width="14px" alt="Location"></div>
+                            <div class="event-title"><a href="https://www.google.de/maps/place/Lauschangriff/@52.5183632,13.4531413,17z/data=!3m1!4b1!4m2!3m1!1s0x47a84e6653637a9d:0xd32edb6abbf17c08" target="_blank">Lauschangriff<br>Rigaer Str. 103<br> 10247 Berlin</a></div><br>
+                            <div class="event-icon"><img src="http://jugendrettet.org/graphics/time.png" height="14px" alt="Time"></div>
+                            <div class="event-title">9:00 pm</div>
+                        </div><br>
+                    </div>
                     
             </div>
             <div id="content">
