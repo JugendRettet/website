@@ -611,7 +611,7 @@ Botschafter des Vereins werden auch vor Ort über das Projekt informieren und de
                         </p>
                         <br>
                         <div class="event-container">
-                            <div class="event-date">Freitag, 18. Februar 2016</div>
+                            <div class="event-date">Freitag, 18. März 2016</div>
                             <div class="event-icon"><img src="http://jugendrettet.org/graphics/location.png" width="14px" alt="Location"></div>
                             <div class="event-title"><a href="https://www.google.de/maps/place/Lauschangriff/@52.5183632,13.4531413,17z/data=!3m1!4b1!4m2!3m1!1s0x47a84e6653637a9d:0xd32edb6abbf17c08" target="_blank">Lauschangriff<br>Rigaer Str. 103<br> 10247 Berlin</a></div><br>
                             <div class="event-icon"><img src="http://jugendrettet.org/graphics/time.png" height="14px" alt="Time"></div>
