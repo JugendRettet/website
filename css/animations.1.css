@@ -58,7 +58,7 @@
 		width:0;
 	}
 	100% {
-		width:calc(300px * 37808 / 80000);
+		width:calc(300px * 37818 / 80000);
 	}
 }
 @-moz-keyframes balken {
@@ -66,7 +66,7 @@
 		width:0;
 	}
 	100% {
-		width:calc(300px * 37808 / 80000);
+		width:calc(300px * 37818 / 80000);
 	}
 }
 @-webkit-keyframes "balken" {
@@ -74,7 +74,7 @@
 		width:0;
 	}
 	100% {
-		width:calc(300px * 37808 / 80000);
+		width:calc(300px * 37818 / 80000);
 	}
 }
 @-ms-keyframes "balken" {
@@ -82,7 +82,7 @@
 		width:0;
 	}
 	100% {
-		width:calc(300px * 37808 / 80000);
+		width:calc(300px * 37818 / 80000);
 	}
 }
 @-o-keyframes "balken" {
@@ -90,7 +90,7 @@
 		width:0;
 	}
 	100% {
-		width:calc(300px * 37808 / 80000);
+		width:calc(300px * 37818 / 80000);
 	}
 }
 
