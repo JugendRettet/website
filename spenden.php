@@ -142,8 +142,8 @@
                             <br><br>
                             <div id="spendentext" style="display:none">
 
-                                <p id="text-schiffsteil-prozent">Mit deinen <b class="EUR"></b> <b>€</b> kämen <b id="prozent"></b> <b>%</b> zum ersten Bedarf - Schwimmwesten - dazu.</p>
-                                <p id="text-schiffsteil-komplett">Mit deinen <b class="EUR"></b> <b>€</b> wäre der erste Bedarf - Schwimmwesten - komplett!</p>
+                                <p id="text-schiffsteil-prozent">Mit deinen <b class="EUR"></b> <b>€</b> kämen <b id="prozent"></b> <b>%</b> zum zweiten Bedarf - Sitzplätze für Menschen aus Seenot unter Deck - dazu.</p>
+                                <p id="text-schiffsteil-komplett">Mit deinen <b class="EUR"></b> <b>€</b> wäre der zweiter Bedarf - Sitzplätze für Menschen aus Seenot unter Deck - komplett!</p>
                                 <p id="text-schiffsteil-mehr">Sogar noch mehr:</p>
 
                                 <p id="text-schiff-meter">Damit wären <b id="meter"></b> <b id="unitmeter">m</b> des Schiffs finanziert. Das sind <b id="qmeter"></b> <b id="unitqmeter">m²</b>, die Platz für die Seenotrettung bieten.</p>

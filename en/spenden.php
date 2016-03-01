@@ -139,8 +139,8 @@
                             <br><br>
                             <div id="spendentext" style="display:none">
 
-                                <p id="text-schiffsteil-prozent">With your <b class="EUR"></b> <b>€</b> a total of <b id="prozent"></b> <b>%</b> would be added to our first need – life jackets.</p>
-                                <p id="text-schiffsteil-komplett">With your <b class="EUR"></b> <b>€</b> our first need – life jackets – would be completed!</p>
+                                <p id="text-schiffsteil-prozent">With your <b class="EUR"></b> <b>€</b> a total of <b id="prozent"></b> <b>%</b> would be added to our second need – seetings for rescued people.</p>
+                                <p id="text-schiffsteil-komplett">With your <b class="EUR"></b> <b>€</b> our second need – seetings for rescued people – would be completed!</p>
                                 <p id="text-schiffsteil-mehr">And even more:</p>
 
                                 <p id="text-schiff-meter">Summed up, with this money <b id="meter"></b> <b id="unitmeter">m</b> of the ship are funded. That's <b id="qmeter"></b> <b id="unitqmeter">m²</b> for the sea rescue.</p>
