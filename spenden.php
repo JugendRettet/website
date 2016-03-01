@@ -32,7 +32,7 @@
         <![endif]-->
 
         <script src="http://jugendrettet.org/js/jquery-1.10.2.min.js"></script>
-        <script src="./js/rechner.1.js?0"></script>
+        <script src="./js/rechner.1.js?1"></script>
         <script src="http://jugendrettet.org/js/hideme.js"></script>
         <script type="text/javascript">
             $(window).load(function() {
