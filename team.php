@@ -77,7 +77,7 @@
                                 <br>
                                 Tel.: <a href="tel:+4916095683873">+49 160 95 68 38 73</a>
                             </li>
-                            <li><b>Lena</b>: Gründerin und 2. Vorsitzender
+                            <li><b>Lena</b>: Gründerin und 2. Vorsitzende
                                 <br>
                                 Tel.: <a href="tel:+4915168446398">+49 151 68 44 63 98</a>
                             </li>
