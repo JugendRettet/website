@@ -90,7 +90,7 @@
                             <li><b>Sonja</b>:  Organisation, Recht, Finanzen</li>
                             <li><b>Jakob</b>:  Konzeption, Öffentlichkeit, Recht, Finanzen</li>
                             <li><b>Pauline</b>:  Öffentlichkeit, Presse</li>
-                            <li><b>Johanna</b>:  Öffentlichkeit, Gestaltung</li>
+                            <li><b>Jojo</b>:  Öffentlichkeit, Gestaltung</li>
                             <li><b>Alex</b>:  IT, Gestaltung</li>
                             <li><b>Matthias</b>:  Finanzen, Recherche</li>
                             <li><b>Johanna</b>:  Öffentlichkeit</li>
@@ -145,7 +145,7 @@
                             <li>Köln: <a href="mailto:Carlo@jugendrettet.org">Carlo</a></li>
                             <li>Liechtenstein: <a href="mailto:Helena@jugendrettet.org">Helena</a></li>
                             <li>Münster: <a href="mailto:Jana@jugendrettet.org">Jana</a></li>
-                            <li>Nürnberg: <a href="mailto:Johanna@jugendrettet.org">Johanna</a></li>
+                            <li>Nürnberg: <a href="mailto:Jojo@jugendrettet.org">Jojo</a></li>
                             <li>Paderborn: <a href="mailto:Wiebke@jugendrettet.org">Wiebke</a></li>
                             <li>Paris: <a href="mailto:Patrick@jugendrettet.org">Patrick</a></li>
                             <li>Potsdam: <a href="mailto:Christoph@jugendrettet.org">Christoph</a></li>

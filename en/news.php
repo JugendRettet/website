@@ -302,7 +302,7 @@
                       </div><br>
                       <a class="faq" id="17"><b>November 6th</b> Nuremberg ambassador at Radio AFKmax</a>
                       <div class="faq-klappe" id="17-klappe">
-                          <p>Our Nuremberg ambassador Johanna was invited to Radio AFKmax. Here you find a short recording: <a target="_blank" href="http://bit.ly/jrafkmax">http://bit.ly/jrafkmax</a></p>
+                          <p>Our Nuremberg ambassador Jojo was invited to Radio AFKmax. Here you find a short recording: <a target="_blank" href="http://bit.ly/jrafkmax">http://bit.ly/jrafkmax</a></p>
                           <a href="http://jugendrettet.org/images/afkmax.jpg" target="_blank"><div class="popup-img" style="background-image: url('http://jugendrettet.org/images/afkmax.jpg');"></div></a>
                       </div><br>
                       <a class="faq" id="16"><b>November 2nd</b> Start of 1. phase</a>

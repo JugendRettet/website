@@ -91,7 +91,7 @@
                             <li><b>Sonja</b>:  Organisation, Law, Finance</li>
                             <li><b>Jakob</b>:  Concept, Public Relations, Law, Finance</li>
                             <li><b>Pauline</b>:  Public Relations, Press</li>
-                            <li><b>Johanna</b>:  Public Relations, Layout</li>
+                            <li><b>Jojo</b>:  Public Relations, Layout</li>
                             <li><b>Alex</b>:  IT, Layout</li>
                             <li><b>Matthias</b>:  Finance, Research</li>
                             <li><b>Johanna</b>:  Public Relations</li>
@@ -146,7 +146,7 @@
                             <li>Koblenz: <a href="mailto:AlexW@jugendrettet.org">Alex</a></li>
                             <li>Liechtenstein: <a href="mailto:Helena@jugendrettet.org">Helena</a></li> 
                             <li>Münster: <a href="mailto:Jana@jugendrettet.org">Jana</a></li>
-                            <li>Nuremberg: <a href="mailto:Johanna@jugendrettet.org">Johanna</a></li>
+                            <li>Nuremberg: <a href="mailto:Jojo@jugendrettet.org">Jojo</a></li>
                             <li>Paderborn: <a href="mailto:Wiebke@jugendrettet.org">Wiebke</a></li>
                             <li>Paris: <a href="mailto:Patrick@jugendrettet.org">Patrick</a></li>
                             <li>Potsdam: <a href="mailto:Christoph@jugendrettet.org">Christoph</a></li>

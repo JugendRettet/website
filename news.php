@@ -358,7 +358,7 @@
                       </div><br>
                       <a class="faq" id="17"><b>6. November</b> Nürnberger Botschafterin bei Radio AFKmax</a>
                       <div class="faq-klappe" id="17-klappe">
-                          <p>Unsere Nürnberger Botschafterin Johanna war beim Radiosender AFKmax zu Gast. Hier ein kurzer Mitschnitt: <a target="_blank" href="http://bit.ly/jrafkmax">http://bit.ly/jrafkmax</a></p>
+                          <p>Unsere Nürnberger Botschafterin Jojo war beim Radiosender AFKmax zu Gast. Hier ein kurzer Mitschnitt: <a target="_blank" href="http://bit.ly/jrafkmax">http://bit.ly/jrafkmax</a></p>
                           <a href="http://jugendrettet.org/images/afkmax.jpg" target="_blank"><div class="popup-img" style="background-image: url('http://jugendrettet.org/images/afkmax.jpg');"></div></a>
                       </div><br>
                       <a class="faq" id="16"><b>2. November</b> Start der 1. Phase</a>
