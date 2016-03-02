@@ -364,7 +364,7 @@
                       </div><br>
                       <a class="faq" id="16"><b>2. November</b> Start der 1. Phase</a>
                       <div class="faq-klappe" id="16-klappe">
-                          <p>Die Menschen auf dem Mittelmeer sterben jetzt. Wir wollen und werden nicht weiter zuschauen. Deswegen beginnt heute unsere erste von drei Spendenphasen. Wir werden bis Februar 2016 die Summe von 270.000 Euro sammeln, um das Schiff zu kaufen und es für den Umbau nach Hamburg zu überführen. Jedes Mal, wenn eine Spende bei uns eingeht, wird hier ein Stück des Schiffdesigns aufgedeckt: <a target="_blank" href="spenden">./spenden</a>.</p>
+                          <p>Die Menschen auf dem Mittelmeer sterben jetzt. Wir wollen und werden nicht weiter zuschauen. Deswegen beginnt heute unsere erste von drei Spendenphasen. Wir werden bis Februar 2016 die Summe von 270.000 Euro sammeln, um das Schiff zu kaufen und es für den Umbau nach Hamburg zu überführen. Jedes Mal, wenn eine Spende bei uns eingeht, wird hier ein Stück des Schiffdesigns aufgedeckt: <a target="_blank" href="spenden">jugendrettet.org/spenden</a>.</p>
                               <p>Wir brauchen deine Spende, um der europäischen Gleichgkültigekit gegenüber der Sitaution auf dem Mittelmeer etwas entgegensetzen und Menschen zu retten. Spende jetzt!</p>
                       </div><br>
                       <a class="faq" id="15"><b>1. November 2015</b> Nowkoelln Flowmarkt</a>
