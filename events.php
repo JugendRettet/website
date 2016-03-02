@@ -620,7 +620,7 @@ Botschafter des Vereins werden auch vor Ort über das Projekt informieren und de
                         </div><br>
                     </div>
 
-                    <div class="date-container" id="17-03-2016">
+                    <div class="date-container" id="17-03-2016-potsdam">
                         <h4>JUGEND RETTET meets ASYLAND Potsdam</h4>
                         <br>
                         <p>
