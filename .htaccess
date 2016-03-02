@@ -53,6 +53,7 @@ RewriteEngine On
 
 RewriteCond %{HTTP_HOST} en.jugendrettet.org$
 RewriteCond %{REQUEST_URI} !^/en
+RewriteCond %{REQUEST_URI} .php$
 RewriteRule ^(.*)$ /en/$1
 
 RewriteCond %{HTTP_HOST} en.jugendrettet.org$
