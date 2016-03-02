@@ -283,7 +283,7 @@
                             <li><a href="impressum">Impressum</a></li>
                             <li><a href="transparenz">Transparenz</a></li>
                             <li class="br"></li>
-                            <li><a href="http://en.jugendrettet.org/spenden">en</a></li>
+                            <li><a href="https://en.jugendrettet.org/spenden">en</a></li>
                         </ul>
                     </nav>
                 </footer>

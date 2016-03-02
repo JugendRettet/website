@@ -114,7 +114,7 @@
                             <li style="box-shadow: 0 1px #fff;"><a href="impressum">Impressum</a></li>
                             <li><a href="transparenz">Transparenz</a></li>
                             <li class="br"></li>
-                            <li><a href="http://en.jugendrettet.org/impressum">en</a></li>
+                            <li><a href="https://en.jugendrettet.org/impressum">en</a></li>
                         </ul>
                     </nav>
                 </footer>
