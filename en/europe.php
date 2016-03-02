@@ -17,17 +17,17 @@
 
         <link rel="alternate" hreflang="de" href="http://jugendrettet.org/europe" />
 
-        <link rel="shortcut icon" type="image/x-icon" href="http://jugendrettet.org/graphics/jr.ico" />
+        <link rel="shortcut icon" type="image/x-icon" href="../graphics/jr.ico" />
         <link rel="mask-icon" href="http://www.jugendrettet.org/graphics/jr-mask.svg" color="rgb(40,100,130)">
-        <link rel="apple-touch-icon" href="http://jugendrettet.org/graphics/apple-touch-icon.png"/>
-        <link rel="stylesheet" href="http://jugendrettet.org/css/waves.1.css" type="text/css" />
+        <link rel="apple-touch-icon" href="../graphics/apple-touch-icon.png"/>
+        <link rel="stylesheet" href="../css/waves.1.css" type="text/css" />
 
-        <link rel="stylesheet" href="http://jugendrettet.org/css/general.css" type="text/css" />
-        <link rel="stylesheet" href="http://jugendrettet.org/css/main.css?5" type="text/css" />
-        <link rel="stylesheet" href="http://jugendrettet.org/css/desktop.css?3" media="screen and (min-width: 851px)" type="text/css" />
-        <link rel="stylesheet" href="http://jugendrettet.org/css/mobile.css?4" media="screen and (max-width: 850px)" type="text/css" />
+        <link rel="stylesheet" href="../css/general.css" type="text/css" />
+        <link rel="stylesheet" href="../css/main.css?5" type="text/css" />
+        <link rel="stylesheet" href="../css/desktop.css?3" media="screen and (min-width: 851px)" type="text/css" />
+        <link rel="stylesheet" href="../css/mobile.css?4" media="screen and (max-width: 850px)" type="text/css" />
 
-        <script src="http://jugendrettet.org/js/jquery-1.10.2.min.js"></script>
+        <script src="../js/jquery-1.10.2.min.js"></script>
         <script type="text/javascript">
             $(window).load(function() {
             });
@@ -40,7 +40,7 @@
 	    <div id="wrap">
             <header>
                 <a id="logo-wrap" href="/">
-                    <img id="logo" src="http://jugendrettet.org/graphics/logo.svg" alt="Jugend Rettet">
+                    <img id="logo" src="../graphics/logo.svg" alt="Jugend Rettet">
                     <div id="title">Jugend <b>Rettet</b></div>
                 </a>
                 <div id="bread">
@@ -71,15 +71,15 @@
                 </div>
                 <div class="container triple">
                     <div class="column">
-                        <h4><img class="icon" src="http://jugendrettet.org/graphics/fla.svg">Politically Active</h4>
+                        <h4><img class="icon" src="../graphics/fla.svg">Politically Active</h4>
                         <p><i>Jugend Rettet</i> performs humanitarian rescue missions. With Jugend Rettet europe we take a stand, as we consider the Status Quo of the European Asylum Policy to be inhuman. The current state of affairs is unbearable. We criticize the current asylum policies, demand that the governments take responsibility and to start acting. We offer a platform in which the youth from all Europe can network, discuss and act.</p><br>
                     </div>
                     <div class="column">
-                        <h4><img class="icon" src="http://jugendrettet.org/graphics/phi.svg">Philosophy</h4>
+                        <h4><img class="icon" src="../graphics/phi.svg">Philosophy</h4>
                         <p>Jugend Rettet europe is aside from its humanitarian activities of <i>Jugend Rettet</i> also a discussions platform from and for young adults. We are independent from any party. We want to lend the youth a voice and to discuss in a solution-orientated manner the asylum policies of the future. Something needs to change. Think with us, how a new concept could look like/ Jugend Rettet belongs to no party, church or already existing organization. We were founded in 2015 since we would like to take a stand and express our views as the young generation.</p><br>
                     </div>
                     <div class="column">
-                        <h4><img class="icon" src="http://jugendrettet.org/graphics/eve.svg">Events</h4>
+                        <h4><img class="icon" src="../graphics/eve.svg">Events</h4>
                         <p>Here you may find the schedules for the next meetings of Jugend Rettet europe and further education.</p><br>
                         <!--
                         <a href="events?date=26-11-2015" class="event-container">
@@ -144,9 +144,9 @@
                             <li class="likelink"><span class="peek" id="follow">Follow</span></li>
                             <li><a href="presse">Press</a></li>
                             <li><a href="impressum">Legal Notice</a></li>
-                            <li><a href="http://jugendrettet.org/transparenz">Transparency (de)</a></li>
+                            <li><a href="../transparenz">Transparency (de)</a></li>
                             <li class="br"></li>
-                            <li><a href="http://jugendrettet.org/europe">de</a></li>
+                            <li><a href="../europe">de</a></li>
                         </ul>
                     </nav>
                 </footer>
@@ -154,7 +154,7 @@
         </div>
 
         <!-- Scripts -->
-        <script src="http://jugendrettet.org/js/main.js?0"></script>
-        <script src="http://jugendrettet.org/js/peekfield.js?2"></script>
+        <script src="../js/main.js?0"></script>
+        <script src="../js/peekfield.js?2"></script>
     </body>
 </html>

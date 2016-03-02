@@ -18,17 +18,17 @@
 
         <link rel="alternate" hreflang="de" href="http://jugendrettet.org/team" />
 
-        <link rel="shortcut icon" type="image/x-icon" href="http://jugendrettet.org/graphics/jr.ico" />
+        <link rel="shortcut icon" type="image/x-icon" href="../graphics/jr.ico" />
         <link rel="mask-icon" href="http://www.jugendrettet.org/graphics/jr-mask.svg" color="rgb(40,100,130)">
-        <link rel="apple-touch-icon" href="http://jugendrettet.org/graphics/apple-touch-icon.png"/>
-        <link rel="stylesheet" href="http://jugendrettet.org/css/waves.1.css" type="text/css" />
+        <link rel="apple-touch-icon" href="../graphics/apple-touch-icon.png"/>
+        <link rel="stylesheet" href="../css/waves.1.css" type="text/css" />
 
-        <link rel="stylesheet" href="http://jugendrettet.org/css/general.css" type="text/css" />
-        <link rel="stylesheet" href="http://jugendrettet.org/css/main.css?5" type="text/css" />
-        <link rel="stylesheet" href="http://jugendrettet.org/css/desktop.css?3" media="screen and (min-width: 851px)" type="text/css" />
-        <link rel="stylesheet" href="http://jugendrettet.org/css/mobile.css?4" media="screen and (max-width: 850px)" type="text/css" />
+        <link rel="stylesheet" href="../css/general.css" type="text/css" />
+        <link rel="stylesheet" href="../css/main.css?5" type="text/css" />
+        <link rel="stylesheet" href="../css/desktop.css?3" media="screen and (min-width: 851px)" type="text/css" />
+        <link rel="stylesheet" href="../css/mobile.css?4" media="screen and (max-width: 850px)" type="text/css" />
 
-        <script src="http://jugendrettet.org/js/jquery-1.10.2.min.js"></script>
+        <script src="../js/jquery-1.10.2.min.js"></script>
         <script type="text/javascript">
             $(window).load(function() {
             });
@@ -41,7 +41,7 @@
 	    <div id="wrap">
             <header>
                 <a id="logo-wrap" href="/">
-                    <img id="logo" src="http://jugendrettet.org/graphics/logo.svg" alt="Jugend Rettet">
+                    <img id="logo" src="../graphics/logo.svg" alt="Jugend Rettet">
                     <div id="title">Jugend <b>Rettet</b></div>
                 </a>
                 <div id="bread">
@@ -72,7 +72,7 @@
                 <div class="container double">
                     <div class="column">
                         <h4>The Team</h4>
-                        <a href="http://jugendrettet.org/images/team.jpg" target="_blank"><img alt="team" class="news" src='http://jugendrettet.org/images/team_s.jpg'></a>
+                        <a href="../images/team.jpg" target="_blank"><img alt="team" class="news" src='../images/team_s.jpg'></a>
                         <ul>
                             <li><b>Jakob</b>: Founder and 1st Chairman
                                 <br>
@@ -161,17 +161,17 @@
                         <br>
                         <h4>Supporters</h4>
                         <!--<a href="http://www.jugendpresse.de/">-->
-                        <img src="http://jugendrettet.org/graphics/jpd.svg" alt="JPD" style="background-color:white;width:100%;padding:5px">
+                        <img src="../graphics/jpd.svg" alt="JPD" style="background-color:white;width:100%;padding:5px">
                         <span>Jugendpresse.de</span>
                         <!--</a>-->
                         <!--<a href="http://www.santinis.de/"> -->
-                        <img src="http://jugendrettet.org/graphics/Santini-Logo_sw.svg" alt="Santini" style="background-color:white;width:100%;margin-top:20px;">
+                        <img src="../graphics/Santini-Logo_sw.svg" alt="Santini" style="background-color:white;width:100%;margin-top:20px;">
                         <span>Santinis.de</span>
 
-                        <img src="http://jugendrettet.org/graphics/Logo_Print_Production_2c.svg" alt="Print Production" style="background-color:white;width:100%;margin-top:20px;padding:5px">
+                        <img src="../graphics/Logo_Print_Production_2c.svg" alt="Print Production" style="background-color:white;width:100%;margin-top:20px;padding:5px">
                         <span>printproduction.de</span>
 
-                        <img src="http://jugendrettet.org/graphics/nwsh.png" alt="Netzwerk Selbsthilfe" style="background-color:white;width:100%;margin-top:20px;padding:5px">
+                        <img src="../graphics/nwsh.png" alt="Netzwerk Selbsthilfe" style="background-color:white;width:100%;margin-top:20px;padding:5px">
                         <span>netzwerk-selbsthilfe.de</span>
                         <!--</a>-->
                         <br><br>
@@ -188,9 +188,9 @@
                                 <li class="likelink"><span class="peek" id="follow">Follow</span></li>
                                 <li><a href="presse">Press</a></li>
                                 <li><a href="impressum">Legal Notice</a></li>
-                                <li><a href="http://jugendrettet.org/transparenz">Transparency (de)</a></li>
+                                <li><a href="../transparenz">Transparency (de)</a></li>
                                 <li class="br"></li>
-                                <li><a href="http://jugendrettet.org/team">de</a></li>
+                                <li><a href="../team">de</a></li>
                             </ul> 
                         </nav>
                     </footer>
@@ -199,7 +199,7 @@
         </div>
 
         <!-- Scripts -->
-        <script src="http://jugendrettet.org/js/main.js?0"></script>
-        <script src="http://jugendrettet.org/js/peekfield.js?2"></script>
+        <script src="../js/main.js?0"></script>
+        <script src="../js/peekfield.js?2"></script>
     </body>
 </html>

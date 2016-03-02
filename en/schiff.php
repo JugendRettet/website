@@ -17,30 +17,30 @@
 
         <link rel="alternate" hreflang="de" href="http://jugendrettet.org/schiff" />
 
-        <link rel="shortcut icon" type="image/x-icon" href="http://jugendrettet.org/graphics/jr.ico" />
+        <link rel="shortcut icon" type="image/x-icon" href="../graphics/jr.ico" />
         <link rel="mask-icon" href="http://www.jugendrettet.org/graphics/jr-mask.svg" color="rgb(40,100,130)">
-        <link rel="apple-touch-icon" href="http://jugendrettet.org/graphics/apple-touch-icon.png"/>       
-        <link rel="stylesheet" href="http://jugendrettet.org/css/waves.1.css" type="text/css" />
+        <link rel="apple-touch-icon" href="../graphics/apple-touch-icon.png"/>       
+        <link rel="stylesheet" href="../css/waves.1.css" type="text/css" />
 
-        <link rel="stylesheet" href="http://jugendrettet.org/css/general.css" type="text/css" />
-        <link rel="stylesheet" href="http://jugendrettet.org/css/main.css?5" type="text/css" />
-        <link rel="stylesheet" href="http://jugendrettet.org/css/desktop.css?3" media="screen and (min-width: 851px)" type="text/css" />
-        <link rel="stylesheet" href="http://jugendrettet.org/css/mobile.css?4" media="screen and (max-width: 850px)" type="text/css" />
+        <link rel="stylesheet" href="../css/general.css" type="text/css" />
+        <link rel="stylesheet" href="../css/main.css?5" type="text/css" />
+        <link rel="stylesheet" href="../css/desktop.css?3" media="screen and (min-width: 851px)" type="text/css" />
+        <link rel="stylesheet" href="../css/mobile.css?4" media="screen and (max-width: 850px)" type="text/css" />
           
-        <script src="http://jugendrettet.org/js/jquery-1.10.2.min.js"></script>
+        <script src="../js/jquery-1.10.2.min.js"></script>
         <script type="text/javascript">
             $(window).load(function() {
             });
         </script>
         <style type="text/css">
             #was {
-                background-image: url(http://jugendrettet.org/images/ocean.jpg);            
+                background-image: url(../images/ocean.jpg);            
             }
             #warum {
-                background-image: url(http://jugendrettet.org/images/man.jpg);
+                background-image: url(../images/man.jpg);
             }
             #wie {
-                background-image: url(http://jugendrettet.org/images/ship.jpg);
+                background-image: url(../images/ship.jpg);
             }
         </style>
     </head>
@@ -51,7 +51,7 @@
 	    <div id="wrap">
             <header>
                 <a id="logo-wrap" href="/">
-                    <img id="logo" src="http://jugendrettet.org/graphics/logo.svg" alt="Jugend Rettet">
+                    <img id="logo" src="../graphics/logo.svg" alt="Jugend Rettet">
                     <div id="title">Jugend <b>Rettet</b></div>
                 </a>
                 <div id="bread">
@@ -125,9 +125,9 @@
                             <li class="likelink"><span class="peek" id="follow">Follow</span></li>
                             <li><a href="presse">Press</a></li>
                             <li><a href="impressum">Legal Notice</a></li>
-                            <li><a href="http://jugendrettet.org/transparenz">Transparency (de)</a></li>
+                            <li><a href="../transparenz">Transparency (de)</a></li>
                             <li class="br"></li>
-                            <li><a href="http://jugendrettet.org/schiff">de</a></li>
+                            <li><a href="../schiff">de</a></li>
                         </ul> 
                     </nav>
                 </footer>
@@ -149,31 +149,31 @@
                 </div>
                 <div class="container triple">
                     <div class="column mehr" id="gründe">
-                        <h4><img class="icon" src="http://jugendrettet.org/graphics/gru.svg" alt="Gründe">Reasons</h4>
+                        <h4><img class="icon" src="../graphics/gru.svg" alt="Gründe">Reasons</h4>
                         <p>Why did we initiate <i>Jugend Rettet?</i></p>
                         <p>We have two founding members here at <i>Jugend Rettet</i> and people who have sought asylum via the Mediterranean to answer this question.</p>
                         <div class="mehr-klappe"><br>
                             <!--
                             
-                            <div class="popup-img" style="background-image: url('http://jugendrettet.org/images/news.jpg');"></div>
+                            <div class="popup-img" style="background-image: url('../images/news.jpg');"></div>
                             
                             -->
-                            <img class="portrait" src="http://jugendrettet.org/images/Lena.jpg" alt="Lena">
+                            <img class="portrait" src="../images/Lena.jpg" alt="Lena">
                             <p>Lena: "I have been for long involved in an asylum hostel in which many people live, who have fled via the Mediterranean. It was then that I got the wish to commit myself to helping people on the Mediterranean. At <i>Jugend Rettet</i> I found the concrete action field, to constructively engage for my political ideals."
                             </p><br>
                             <!--
                             
-                            <div class="popup-img" style="background-image: url('http://jugendrettet.org/images/neu.jpg');"></div>
+                            <div class="popup-img" style="background-image: url('../images/neu.jpg');"></div>
                             
                             -->
-                            <img class="portrait" src="http://jugendrettet.org/images/Jakob.jpg" alt="Jakob">
+                            <img class="portrait" src="../images/Jakob.jpg" alt="Jakob">
                             <p>Jakob: "No longer can I pass by a news of a ship mishap quietly. <i>Jugend Rettet</i> is a coalition of young people with the potential to change something. Europe-wide we link and connect motivated young people and show them how important it is to come up with a plan for a humane asylum policy. A ship is no long term solution. However it will save lives and would give rise to the question, why is it that instead of the European governments, it is the youth, who on their private initiative, have to take on this mission."</p><br>
                             <p>Mohammad, 24 from Homs, Syria: „The revolution started in my city on the 15th March 2011. First the university was closed, there I studied construction. By the 10th of March 2012 I fled to Egypt. I had to avoid being conscripted by the Syrian governments army. I knew that I would have to kill people there and that is something I am not willing to do. Yet life in Egypt was not easy. I had to work for small wages and every day was a fight for survival. And it was not going to get better in the future. The life in Egypt is not easy for the Syrians, yet also the Egyptians. Therefore the boat to Europe was my only way out."</p>
                         </div>
                         <a class="mehr-btn">more ...</a>
                     </div>
                     <div class="column mehr" id="sit">
-                        <h4><img class="icon" src="http://jugendrettet.org/graphics/sit.svg" alt="Aktuelle Situation">Current Situation</h4>  
+                        <h4><img class="icon" src="../graphics/sit.svg" alt="Aktuelle Situation">Current Situation</h4>  
                         <p>In 2014, 218.000 People have fled via the Mediterranean and sought refuge. 3500 people did not survive their journey.</p>
                         <div class="mehr-klappe"><br>
                             <p>The rate of failure is high. In 2015 there should be between 500,000 to 1 million people daring to escape via the Mediterranean, according to Frontex. The central Mediterranean remain the most important escape route. It starts from Libya and ends in Lampedusa, Malta or Sardinia and has been used by 78% of the refugees in 2014. This huge number is the result of the closed European external borders and embassies that permit only the illegal and hence dangerous entrance into Europe as the last option. (<a href="http://www.zeit.de/gesellschaft/zeitgeschehen/2015-03/frontex-rekordzahl-fluechtlinge" target="_blank">ZEIT, März 2015</a>)</p><br>
@@ -182,7 +182,7 @@
                         <a class="mehr-btn">more ...</a>
                     </div>
                     <div class="column mehr" id="ide">
-                        <h4><img class="icon" src="http://jugendrettet.org/graphics/ide.svg" alt="Ideal">Ideal</h4>
+                        <h4><img class="icon" src="../graphics/ide.svg" alt="Ideal">Ideal</h4>
                         <p>Women, Children, Men die in the Mediterranean. We would like to put an end to the ignorance of the European Community.</p>
                         <div class="mehr-klappe"><br>
                             <p>We stand for a more humane, just and engaged Asylum policy.</p>
@@ -200,26 +200,26 @@
                 <div class="container single">
                     <div class="column newsacc">
                         <h4>The Ship</h4>
-                        <img src="http://jugendrettet.org/images/mittelmeerroute1.jpg" alt="Schiffsbesuch in den Niederlanden" style="max-width:100%">
+                        <img src="../images/mittelmeerroute1.jpg" alt="Schiffsbesuch in den Niederlanden" style="max-width:100%">
                         <br>
                         <p>Since october, we're inspecting ships of our desired kind, the dutch fishtrawler. Once we buy the ship, the following technical specifications are of importance:</p><br>
-                        <img src="http://jugendrettet.org/graphics/theship.svg" alt="Schiffsbesuch in den Niederlanden" style="max-width:100%"><br>
+                        <img src="../graphics/theship.svg" alt="Schiffsbesuch in den Niederlanden" style="max-width:100%"><br>
                         <ul>
                           <li>&#10003; Our ship must have a big loading space on deck. That way we can take 80-100 people aboard. Above the deck space, a truck plane will be hanged, to protect the people from sun or rain. In winter this plane will be fixed on the sides, through which a closed interior is gained. </li>
                         </ul>
-                        <img src="http://jugendrettet.org/images/nl1.jpg" alt="Schiffsbesuch in den Niederlanden" style="max-width:100%"><br>
+                        <img src="../images/nl1.jpg" alt="Schiffsbesuch in den Niederlanden" style="max-width:100%"><br>
                         <ul>
                           <li>&#10003; Our ship is ought to have a low ceiling. That eases bringing people on board, as well as lower our tenders into the water. </li>
                           <li>&#10003; On deck a hydraulic crane will be installed, which can lower the tenders to water fast. We will have two tenders aboard. A ship in sea distress can be helped faster that way. Also, a possible panic aboard the distressed ship avoided. This might occur, when only one tender - with too less space for everyone - would verge. </li>
                           <li>&#10003; Our ship has to have enough space for fresh water tanks. Some people in distress will have spent several days without drinking water on their boat. To alleviate possible dehydration, the people are to be supplied with fresh water. </li>
                         </ul>
-                        <img src="http://jugendrettet.org/images/nl4.jpg" alt="Schiffsbesuch in den Niederlanden" style="max-width:100%">
+                        <img src="../images/nl4.jpg" alt="Schiffsbesuch in den Niederlanden" style="max-width:100%">
                     </div>
                 </div>
             </div>
         </div>
         <!-- Scripts -->  
-        <script src="http://jugendrettet.org/js/main.js?0"></script>
-        <script src="http://jugendrettet.org/js/peekfield.js?2"></script>
+        <script src="../js/main.js?0"></script>
+        <script src="../js/peekfield.js?2"></script>
     </body>
 </html>

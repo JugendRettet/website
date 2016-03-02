@@ -17,17 +17,17 @@
 
         <link rel="alternate" hreflang="de" href="http://jugendrettet.org/events" />
 
-        <link rel="shortcut icon" type="image/x-icon" href="http://jugendrettet.org/graphics/jr.ico" />
+        <link rel="shortcut icon" type="image/x-icon" href="../graphics/jr.ico" />
         <link rel="mask-icon" href="http://www.jugendrettet.org/graphics/jr-mask.svg" color="rgb(40,100,130)">
-        <link rel="apple-touch-icon" href="http://jugendrettet.org/graphics/apple-touch-icon.png"/>
-        <link rel="stylesheet" href="http://jugendrettet.org/css/waves.1.css" type="text/css" />
+        <link rel="apple-touch-icon" href="../graphics/apple-touch-icon.png"/>
+        <link rel="stylesheet" href="../css/waves.1.css" type="text/css" />
 
-        <link rel="stylesheet" href="http://jugendrettet.org/css/general.css" type="text/css" />
-        <link rel="stylesheet" href="http://jugendrettet.org/css/main.css?5" type="text/css" />
-        <link rel="stylesheet" href="http://jugendrettet.org/css/desktop.css?3" media="screen and (min-width: 851px)" type="text/css" />
-        <link rel="stylesheet" href="http://jugendrettet.org/css/mobile.css?4" media="screen and (max-width: 850px)" type="text/css" />
+        <link rel="stylesheet" href="../css/general.css" type="text/css" />
+        <link rel="stylesheet" href="../css/main.css?5" type="text/css" />
+        <link rel="stylesheet" href="../css/desktop.css?3" media="screen and (min-width: 851px)" type="text/css" />
+        <link rel="stylesheet" href="../css/mobile.css?4" media="screen and (max-width: 850px)" type="text/css" />
 
-        <script src="http://jugendrettet.org/js/jquery-1.10.2.min.js"></script>
+        <script src="../js/jquery-1.10.2.min.js"></script>
         <script type="text/javascript">
             $(window).load(function() {
             });
@@ -44,7 +44,7 @@
 	    <div id="wrap">
             <header>
                 <a id="logo-wrap" href="/">
-                    <img id="logo" src="http://jugendrettet.org/graphics/logo.svg" alt="Jugend Rettet">
+                    <img id="logo" src="../graphics/logo.svg" alt="Jugend Rettet">
                     <div id="title">Jugend <b>Rettet</b></div>
                 </a>
                 <div id="bread">
@@ -77,9 +77,9 @@
 On this occasion we invite everyone interested to our open meeting, to introduce our organization and cause, as well as to gain new supporters.</p><br>
                         <div class="event-container">
                             <div class="event-date">Friday, October 1st, 2015</div>
-                            <div class="event-icon"><img src="http://jugendrettet.org/graphics/location.svg" width="14px" alt="Location"></div>
+                            <div class="event-icon"><img src="../graphics/location.svg" width="14px" alt="Location"></div>
                             <div class="event-title"><a href="https://www.google.de/maps/place/Fehrbelliner+Str.+6,+10119+Berlin/@52.53119,13.40995,19z/data=!3m1!4b1!4m2!3m1!1s0x47a851e2b62257db:0x193bfd38b39e961c" target="_blank">Fehre6 <br>Fehrbelliner Straße 6<br>10119 Berlin</a></div><br>
-                            <div class="event-icon"><img src="http://jugendrettet.org/graphics/time.svg" height="14px" alt="Time"></div>
+                            <div class="event-icon"><img src="../graphics/time.svg" height="14px" alt="Time"></div>
                             <div class="event-title">6.00 pm - 10.00 pm</div>
                         </div><br>
                         <p><b>Ablauf</b></p><br>
@@ -96,9 +96,9 @@ Aus diesem Anlass laden wir alle Interessierten zu einem offenen Treffen ein, um
                         -->
                         <div class="event-container">
                             <div class="event-date">Wednesday, 14th October 2015</div>
-                            <div class="event-icon"><img src="http://jugendrettet.org/graphics/location.png" width="14px" alt="Location"></div>
+                            <div class="event-icon"><img src="../graphics/location.png" width="14px" alt="Location"></div>
                             <div class="event-title"><a href="https://www.google.de/maps/place/Gneisenaustraße+2A,+10961+Berlin/@52.49191,13.38817,17z/data=!3m1!4b1!4m2!3m1!1s0x47a850288b7aa7d9:0x29762a4970df969b" target="_blank">Mehringhof <br>Gneisenaustraße 2a<br>10961 Berlin</a></div><br>
-                            <div class="event-icon"><img src="http://jugendrettet.org/graphics/time.png" height="14px" alt="Time"></div>
+                            <div class="event-icon"><img src="../graphics/time.png" height="14px" alt="Time"></div>
                             <div class="event-title">8.00 pm - 10.00 pm</div>
                         </div><br>
                         <!--
@@ -123,9 +123,9 @@ Euer Jugend Rettet Team</p><br>
                         -->
                         <div class="event-container">
                             <div class="event-date">Monday, 9th November 2015</div>
-                            <div class="event-icon"><img src="http://jugendrettet.org/graphics/location.png" width="14px" alt="Location"></div>
+                            <div class="event-icon"><img src="../graphics/location.png" width="14px" alt="Location"></div>
                             <div class="event-title"><a href="https://www.google.de/maps/place/Allerweltshaus+e.V./@50.9502139,6.921491,17z/data=!3m1!4b1!4m2!3m1!1s0x47bf2515b2879fe3:0x8ca5c34afa44236b" target="_blank">Allerweltshaus Köln e.V. <br>Körnerstraße 77-79<br>50823 Köln </a></div><br>
-                            <div class="event-icon"><img src="http://jugendrettet.org/graphics/time.png" height="14px" alt="Time"></div>
+                            <div class="event-icon"><img src="../graphics/time.png" height="14px" alt="Time"></div>
                             <div class="event-title">7:00 pm - 9:00 pm</div>
                         </div><br>
                     </div>
@@ -139,9 +139,9 @@ Euer Jugend Rettet Team</p><br>
                         <p>Euer Jugend Rettet Team</p><br>-->
                         <div class="event-container">
                             <div class="event-date">Friday, 13th November 2015</div>
-                            <div class="event-icon"><img src="http://jugendrettet.org/graphics/location.png" width="14px" alt="Location"></div>
+                            <div class="event-icon"><img src="../graphics/location.png" width="14px" alt="Location"></div>
                             <div class="event-title"><a href="https://www.google.de/maps/place/Jonasstra%C3%9Fe+40,+12053+Berlin/@52.4707532,13.428856,17z/data=!3m1!4b1!4m2!3m1!1s0x47a84f9996347aa5:0x50be76ae5a19537e" target="_blank">f.a.q. Neukölln<br>Jonasstraße 40 <br>12053 Berlin-Neukölln </a></div><br>
-                            <div class="event-icon"><img src="http://jugendrettet.org/graphics/time.png" height="14px" alt="Time"></div>
+                            <div class="event-icon"><img src="../graphics/time.png" height="14px" alt="Time"></div>
                             <div class="event-title">7:30 pm - 9:30 pm</div>
                         </div><br>
                     </div>
@@ -155,9 +155,9 @@ Euer Jugend Rettet Team</p><br>
                         <p>Euer Jugend Rettet Team</p><br>-->
                         <div class="event-container">
                             <div class="event-date">Tuesday, 24th November 2015</div>
-                            <div class="event-icon"><img src="http://jugendrettet.org/graphics/location.png" width="14px" alt="Location"></div>
+                            <div class="event-icon"><img src="../graphics/location.png" width="14px" alt="Location"></div>
                             <div class="event-title"><a href="https://www.google.de/maps/place/T-Rex+Veranstaltungsraum+AStA+der+FH/@51.9550742,7.6298507,17z/data=!3m1!4b1!4m2!3m1!1s0x47b9bada7bcf664f:0x6d5ebe6059df1de3" target="_blank">T-Rex<br>Von-Steuben-Straße 10 <br>48143 Münster </a></div><br>
-                            <div class="event-icon"><img src="http://jugendrettet.org/graphics/time.png" height="14px" alt="Time"></div>
+                            <div class="event-icon"><img src="../graphics/time.png" height="14px" alt="Time"></div>
                             <div class="event-title">7:00 pm - 9:00 pm</div>
                         </div><br>
                     </div>
@@ -167,9 +167,9 @@ Euer Jugend Rettet Team</p><br>
 
                         <div class="event-container">
                             <div class="event-date">Thursday, 26th November 2015</div>
-                            <div class="event-icon"><img src="http://jugendrettet.org/graphics/location.png" width="14px" alt="Location"></div>
+                            <div class="event-icon"><img src="../graphics/location.png" width="14px" alt="Location"></div>
                             <div class="event-title"><a href="https://www.google.de/maps/place/Arbeitsgemeinschaft+Frieden+e.V/@49.7523777,6.6369113,17z/data=!3m1!4b1!4m2!3m1!1s0x47957c9b8ddd5b69:0x218556db1aea9b30" target="_blank">Weltladen Trier<br>Pfützenstraße 1 <br> 54290 Trier</a></div><br>
-                            <div class="event-icon"><img src="http://jugendrettet.org/graphics/time.png" height="14px" alt="Time"></div>
+                            <div class="event-icon"><img src="../graphics/time.png" height="14px" alt="Time"></div>
                             <div class="event-title">7:30 pm</div>
                         </div><br>
                     </div>
@@ -178,9 +178,9 @@ Euer Jugend Rettet Team</p><br>
 
                         <div class="event-container">
                             <div class="event-date">Monday, 30th November 2015</div>
-                            <div class="event-icon"><img src="http://jugendrettet.org/graphics/location.png" width="14px" alt="Location"></div>
+                            <div class="event-icon"><img src="../graphics/location.png" width="14px" alt="Location"></div>
                             <div class="event-title"><a href="https://www.google.de/maps/place/BAIZ/@52.5360095,13.4106266,17z/data=!3m1!4b1!4m2!3m1!1s0x47a851e2febe9599:0xe275475de7186cad" target="_blank">BAIZ<br>Schönhauser Allee 26 A <br> 10435 Berlin</a></div><br>
-                            <div class="event-icon"><img src="http://jugendrettet.org/graphics/time.png" height="14px" alt="Time"></div>
+                            <div class="event-icon"><img src="../graphics/time.png" height="14px" alt="Time"></div>
                             <div class="event-title">8:00 pm</div>
                         </div><br>
                     </div>
@@ -189,9 +189,9 @@ Euer Jugend Rettet Team</p><br>
 
                         <div class="event-container">
                             <div class="event-date">Tuesday, 8th December 2015</div>
-                            <div class="event-icon"><img src="http://jugendrettet.org/graphics/location.png" width="14px" alt="Location"></div>
+                            <div class="event-icon"><img src="../graphics/location.png" width="14px" alt="Location"></div>
                             <div class="event-title"><a href="https://www.google.de/maps/place/Kulturzentrum+Z-Bau/@49.4303454,11.092532,17z/data=!3m1!4b1!4m2!3m1!1s0x479f576f67abbd9d:0xcdc37501ecd384bc" target="_blank">Z-Bau<br>Frankenstraße 200 <br> 90461 Nürnberg</a></div><br>
-                            <div class="event-icon"><img src="http://jugendrettet.org/graphics/time.png" height="14px" alt="Time"></div>
+                            <div class="event-icon"><img src="../graphics/time.png" height="14px" alt="Time"></div>
                             <div class="event-title">7:30 pm</div>
                         </div><br>
                     </div>
@@ -205,9 +205,9 @@ Euer Jugend Rettet Team</p><br>
                         <p>Your Jugend Rettet Team</p><br>
                         <div class="event-container">
                             <div class="event-date">Wednesday, 9. Dezember 2015</div>
-                            <div class="event-icon"><img src="http://jugendrettet.org/graphics/location.png" width="14px" alt="Location"></div>
+                            <div class="event-icon"><img src="../graphics/location.png" width="14px" alt="Location"></div>
                             <div class="event-title"><a href="https://www.google.de/maps/place/Fehrbelliner+Str.+6,+10119+Berlin/@52.53119,13.4077613,17z/data=!3m1!4b1!4m2!3m1!1s0x47a851e2b62257db:0x193bfd38b39e961c" target="_blank">FEHRE 6<br>Fehrbelliner Str. 6<br> 10119 Berlin</a></div><br>
-                            <div class="event-icon"><img src="http://jugendrettet.org/graphics/time.png" height="14px" alt="Time"></div>
+                            <div class="event-icon"><img src="../graphics/time.png" height="14px" alt="Time"></div>
                             <div class="event-title">07:30 pm</div>
                         </div><br>
                     </div>
@@ -217,9 +217,9 @@ Euer Jugend Rettet Team</p><br>
                         <br>
                         <div class="event-container">
                             <div class="event-date">Saturday, 9th January 2016</div>
-                            <div class="event-icon"><img src="http://jugendrettet.org/graphics/location.png" width="14px" alt="Location"></div>
+                            <div class="event-icon"><img src="../graphics/location.png" width="14px" alt="Location"></div>
                             <div class="event-title"><a href="https://www.google.de/maps/place/Schreinerstra%C3%9Fe+47,+10247+Berlin/@52.5173332,13.465236,17z/data=!3m1!4b1!4m2!3m1!1s0x47a84e8a797de185:0x300e4822d386c620" target="_blank">Schreina<br>Schreinerstr. 47<br> 10247 Berlin</a></div><br>
-                            <div class="event-icon"><img src="http://jugendrettet.org/graphics/time.png" height="14px" alt="Time"></div>
+                            <div class="event-icon"><img src="../graphics/time.png" height="14px" alt="Time"></div>
                             <div class="event-title">08:00 pm</div>
                         </div><br>
                     </div>
@@ -255,9 +255,9 @@ Euer Jugend Rettet Team</p><br>
                         <br>
                         <div class="event-container">
                             <div class="event-date">Thursday, 14th January 2016</div>
-                            <div class="event-icon"><img src="http://jugendrettet.org/graphics/location.png" width="14px" alt="Location"></div>
+                            <div class="event-icon"><img src="../graphics/location.png" width="14px" alt="Location"></div>
                             <div class="event-title"><a href="https://www.google.de/maps/place/Zimmertheater+in+der+Kultschule/@52.4987432,13.499966,17z/data=!3m1!4b1!4m2!3m1!1s0x47a84edac9ca929d:0x51fdd3783ee5b09d" target="_blank">Zimmertheater in der Kultschule<br>Sewanstraße 43<br> 10319 Berlin-Lichtenberg</a></div><br>
-                            <div class="event-icon"><img src="http://jugendrettet.org/graphics/time.png" height="14px" alt="Time"></div>
+                            <div class="event-icon"><img src="../graphics/time.png" height="14px" alt="Time"></div>
                             <div class="event-title">7:00 pm</div>
                         </div><br>
                     </div>
@@ -271,9 +271,9 @@ Euer Jugend Rettet Team</p><br>
                         <br>
                         <div class="event-container">
                             <div class="event-date">Tuesday, 19th January 2016</div>
-                            <div class="event-icon"><img src="http://jugendrettet.org/graphics/location.png" width="14px" alt="Location"></div>
+                            <div class="event-icon"><img src="../graphics/location.png" width="14px" alt="Location"></div>
                             <div class="event-title"><a href="https://www.google.de/maps?safe=off&q=hansa48+Hansastra%C3%9Fe+48,+24118+Kiel&bav=on.2,or.r_cp.&bvm=bv.111396085,d.bGg&biw=1289&bih=805&dpr=1&um=1&ie=UTF-8&sa=X&ved=0ahUKEwjE1J6draLKAhWEDSwKHZkkDjwQ_AUIBigB" target="_blank">hansa48<br>Hansastraße 48<br> 24118 Kiel</a></div><br> 
-                            <div class="event-icon"><img src="http://jugendrettet.org/graphics/time.png" height="14px" alt="Time"></div>
+                            <div class="event-icon"><img src="../graphics/time.png" height="14px" alt="Time"></div>
                             <div class="event-title">8:00 pm</div>
                         </div><br>
                     </div>
@@ -302,9 +302,9 @@ Euer Jugend Rettet Team</p><br>
                         <br>
                         <div class="event-container">
                             <div class="event-date">Wednesday, February 10th 2016</div>
-                            <div class="event-icon"><img src="http://jugendrettet.org/graphics/location.png" width="14px" alt="Location"></div>
+                            <div class="event-icon"><img src="../graphics/location.png" width="14px" alt="Location"></div>
                             <div class="event-title"><a href="https://www.google.de/maps/place/Broadway/@49.7611327,6.643994,17z/data=!3m1!4b1!4m2!3m1!1s0x47957c8e04852b1b:0x771aa42816014f48" target="_blank">Broadway<br>Paulinstraße 18<br> 54292 Trier</a></div><br>
-                            <div class="event-icon"><img src="http://jugendrettet.org/graphics/time.png" height="14px" alt="Time"></div>
+                            <div class="event-icon"><img src="../graphics/time.png" height="14px" alt="Time"></div>
                             <div class="event-title">6:00 pm</div>
                         </div><br>
                     </div>
@@ -323,9 +323,9 @@ Euer Jugend Rettet Team</p><br>
                         <br>
                         <div class="event-container">
                             <div class="event-date">Thursday, February 11th 2016</div>
-                            <div class="event-icon"><img src="http://jugendrettet.org/graphics/location.png" width="14px" alt="Location"></div>
+                            <div class="event-icon"><img src="../graphics/location.png" width="14px" alt="Location"></div>
                             <div class="event-title"><a href="https://www.google.de/maps/place/Bertha-von-Suttner-Platz+4,+53111+Bonn/@50.7371804,7.0997691,17z/data=!3m1!4b1!4m2!3m1!1s0x47bee1a0ec454993:0xa109749970c0e004" target="_blank">EU-Kommission<br>Bertha-von-Suttner-Platz 2-4<br> 53111 Bonn</a></div><br>
-                            <div class="event-icon"><img src="http://jugendrettet.org/graphics/time.png" height="14px" alt="Time"></div>
+                            <div class="event-icon"><img src="../graphics/time.png" height="14px" alt="Time"></div>
                             <div class="event-title">6:00 pm</div>
                         </div><br>
                     </div>
@@ -344,9 +344,9 @@ Euer Jugend Rettet Team</p><br>
                         <br>
                         <div class="event-container">
                             <div class="event-date">Montag, 15. Februar 2016</div>
-                            <div class="event-icon"><img src="http://jugendrettet.org/graphics/location.png" width="14px" alt="Location"></div>
+                            <div class="event-icon"><img src="../graphics/location.png" width="14px" alt="Location"></div>
                             <div class="event-title"><a href="https://www.google.de/maps/search/%09+Karte+verbergen+Mariannenplatz+2a+10997+Berlin/@52.503787,13.4216433,17z/data=!3m1!4b1" target="_blank">newyorck59<br>Mariannenplatz 2a<br> 10997 Berlin</a></div><br>
-                            <div class="event-icon"><img src="http://jugendrettet.org/graphics/time.png" height="14px" alt="Time"></div>
+                            <div class="event-icon"><img src="../graphics/time.png" height="14px" alt="Time"></div>
                             <div class="event-title">19:00 Uhr</div>
                         </div><br>
                     </div>
@@ -392,9 +392,9 @@ Euer Jugend Rettet Team</p><br>
                         <br>
                         <div class="event-container">
                             <div class="event-date">Friday, March 18th 2016</div>
-                            <div class="event-icon"><img src="http://jugendrettet.org/graphics/location.png" width="14px" alt="Location"></div>
+                            <div class="event-icon"><img src="../graphics/location.png" width="14px" alt="Location"></div>
                             <div class="event-title"><a href="https://www.google.de/maps/place/Lauschangriff/@52.5183632,13.4531413,17z/data=!3m1!4b1!4m2!3m1!1s0x47a84e6653637a9d:0xd32edb6abbf17c08" target="_blank">Lauschangriff<br>Rigaer Str. 103<br> 10247 Berlin</a></div><br>
-                            <div class="event-icon"><img src="http://jugendrettet.org/graphics/time.png" height="14px" alt="Time"></div>
+                            <div class="event-icon"><img src="../graphics/time.png" height="14px" alt="Time"></div>
                             <div class="event-title">9:00 pm</div>
                         </div><br>
                     </div>
@@ -409,7 +409,7 @@ Euer Jugend Rettet Team</p><br>
                             <li><a class="peek" id="kontakt">Kontakt</a></li>
                             <li><a href="presse">Press</a></li>
                             <li><a href="impressum">Impressum</a></li>
-                            <li><a href="http://jugendrettet.org/transparenz">Transparency (de)</a></li>
+                            <li><a href="../transparenz">Transparency (de)</a></li>
                             <li class="br"></li>
                             <li><a class="language-events" id="de">de</a></li>
                         </ul>
@@ -419,7 +419,7 @@ Euer Jugend Rettet Team</p><br>
         </div>
 
         <!-- Scripts -->
-        <script src="http://jugendrettet.org/js/main.js?0"></script>
-        <script src="http://jugendrettet.org/js/peekfield.js?2"></script>
+        <script src="../js/main.js?0"></script>
+        <script src="../js/peekfield.js?2"></script>
     </body>
 </html>

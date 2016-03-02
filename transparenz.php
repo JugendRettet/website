@@ -17,17 +17,17 @@
 
         <link rel="alternate" hreflang="en" href="http://en.jugendrettet.org/transparenz" />
 
-        <link rel="shortcut icon" type="image/x-icon" href="http://jugendrettet.org/graphics/jr.ico" />
+        <link rel="shortcut icon" type="image/x-icon" href="./graphics/jr.ico" />
         <link rel="mask-icon" href="http://www.jugendrettet.org/graphics/jr-mask.svg" color="rgb(40,100,130)">
-        <link rel="apple-touch-icon" href="http://jugendrettet.org/graphics/apple-touch-icon.png"/>
-        <link rel="stylesheet" href="http://jugendrettet.org/css/waves.1.css" type="text/css" />
+        <link rel="apple-touch-icon" href="./graphics/apple-touch-icon.png"/>
+        <link rel="stylesheet" href="./css/waves.1.css" type="text/css" />
 
-        <link rel="stylesheet" href="http://jugendrettet.org/css/general.css" type="text/css" />
-        <link rel="stylesheet" href="http://jugendrettet.org/css/main.css?5" type="text/css" />
-        <link rel="stylesheet" href="http://jugendrettet.org/css/desktop.css?3" media="screen and (min-width: 851px)" type="text/css" />
-        <link rel="stylesheet" href="http://jugendrettet.org/css/mobile.css?4" media="screen and (max-width: 850px)" type="text/css" />
+        <link rel="stylesheet" href="./css/general.css" type="text/css" />
+        <link rel="stylesheet" href="./css/main.css?5" type="text/css" />
+        <link rel="stylesheet" href="./css/desktop.css?3" media="screen and (min-width: 851px)" type="text/css" />
+        <link rel="stylesheet" href="./css/mobile.css?4" media="screen and (max-width: 850px)" type="text/css" />
 
-        <script src="http://jugendrettet.org/js/jquery-1.10.2.min.js"></script>
+        <script src="./js/jquery-1.10.2.min.js"></script>
         <script type="text/javascript">
             $(window).load(function() {
             });
@@ -45,7 +45,7 @@
 	    <div id="wrap">
             <header>
                 <a id="logo-wrap" href="/">
-                    <img id="logo" src="http://jugendrettet.org/graphics/logo.svg" alt="Jugend Rettet">
+                    <img id="logo" src="./graphics/logo.svg" alt="Jugend Rettet">
                     <div id="title">Jugend <b>Rettet</b></div>
                 </a>
                 <div id="bread">
@@ -92,7 +92,7 @@
                         <h4>2. SATZUNG, ZIELE UND UMSETZUNG</h4>
                         <p>
                             Unsere Vereinssatzung in ihrer aktuellen von der ordentlichen Mitgliederversammlung 
-                            am 03. Oktober 2015 in Berlin beschlossenen Fassung finden Sie <a target="_blank" href="http://jugendrettet.org/files/Vereinssatzung_v1.pdf">hier</a>.
+                            am 03. Oktober 2015 in Berlin beschlossenen Fassung finden Sie <a target="_blank" href="./files/Vereinssatzung_v1.pdf">hier</a>.
                         </p>
                         <br>
                         <p>
@@ -113,7 +113,7 @@
                         <br>
                         <p>Der <i>Jugend Rettet</i> e.V. ist berechtigt Spendenbescheinigungen auszustellen.</p>
                         <br>
-                        <p>Den offiziellen Bescheid finden Sie <a target="_blank" href="http://jugendrettet.org/files/Gemeinnuetzigkeit_Bescheid.pdf">hier</a>.</p>
+                        <p>Den offiziellen Bescheid finden Sie <a target="_blank" href="./files/Gemeinnuetzigkeit_Bescheid.pdf">hier</a>.</p>
                         <h4>4. NAME UND FUNKTION WESENTLICHER ENTSCHEIDUNGSTRÄGER</h4>
                         <p>
                             Vorstand:
@@ -135,7 +135,7 @@
                         </ul>
                         <h4>5. TÄTIGKEITSBERICHT</h4>
                         <p>
-                            Eine Übersicht über die Tätigkeiten des Vereins finden Sie in unserem <a target="_blank" href="http://jugendrettet.org/files/Jahresbericht_2015.pdf">Jahresbericht 2015</a>.
+                            Eine Übersicht über die Tätigkeiten des Vereins finden Sie in unserem <a target="_blank" href="./files/Jahresbericht_2015.pdf">Jahresbericht 2015</a>.
                         </p>
                         <h4>6. PERSONALSTRUKTUR</h4>
                         <p>
@@ -151,7 +151,7 @@
                         </p>
                         <h4>7./8. ANGABEN ZUR MITTELHERKUNFT- UND VERWENDUNG</h4>
                         <p>
-                            Eine Übersicht über die Mittelherkunft- und Verwendung des Vereins finden Sie in unserem <a target="_blank" href="http://jugendrettet.org/files/Jahresbericht_JR_2015.pdf">Jahresbericht 2015</a>.
+                            Eine Übersicht über die Mittelherkunft- und Verwendung des Vereins finden Sie in unserem <a target="_blank" href="./files/Jahresbericht_JR_2015.pdf">Jahresbericht 2015</a>.
                         </p>
 
                         <h4>9. GESELLSCHAFTSRECHTLICHE VERBUNDENHEIT MIT DRITTEN</h4>
@@ -187,7 +187,7 @@
         </div>
 
         <!-- Scripts -->
-        <script src="http://jugendrettet.org/js/main.js?0"></script>
-        <script src="http://jugendrettet.org/js/peekfield.js?2"></script>
+        <script src="./js/main.js?0"></script>
+        <script src="./js/peekfield.js?2"></script>
     </body>
 </html>
