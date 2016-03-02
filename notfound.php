@@ -16,7 +16,7 @@
         <meta property="og:site_name" content="Jugend Rettet" />
 
         <link rel="shortcut icon" type="image/x-icon" href="./graphics/jr.ico" />
-        <link rel="mask-icon" href="http://www.jugendrettet.org/graphics/jr-mask.svg" color="rgb(40,100,130)">
+        <link rel="mask-icon" href="./graphics/jr-mask.svg" color="rgb(40,100,130)">
         <link rel="apple-touch-icon" href="./graphics/apple-touch-icon.png"/>       
         <link rel="stylesheet" href="./css/waves.1.css" type="text/css" />
         <link rel="stylesheet" href="./css/general.css" type="text/css" />
