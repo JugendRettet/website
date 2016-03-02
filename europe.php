@@ -12,6 +12,7 @@
         <meta property="og:description" content="Wir sind eine Organisation von jungen Erwachsenen für junge Erwachsene. Wir sammeln Gelder für den Erwerb eines Schiffes und mit diesem Schiff werden wir private Seenotrettung auf dem Mittelmeer betreiben." />
         <meta property="og:url" content="http://jugendrettet.org/europe" />
         <meta property="og:image" content="http://jugendrettet.org/images/jr-banner.jpg" />
+        <meta property="og:image:secure_url" content="https://jugendrettet.org/images/jr-banner.jpg" />
         <meta property="og:type" content="website" />
         <meta property="og:site_name" content="Jugend Rettet" />
 

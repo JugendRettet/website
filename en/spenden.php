@@ -10,6 +10,7 @@
         <meta property="og:description" content="We are an organization of young adults for young adults. We collect funds to buy a ship. With this ship, we will conduct private sea rescue on the Mediterranean Sea" />
         <meta property="og:url" content="http://en.jugendrettet.org/spenden" />
         <meta property="og:image" content="http://jugendrettet.org/images/jr-banner.jpg" />
+        <meta property="og:image:secure_url" content="https://jugendrettet.org/images/jr-banner.jpg" />
         <meta property="og:type" content="website" />
         <meta property="og:site_name" content="Jugend Rettet" />
 
