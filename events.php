@@ -439,7 +439,7 @@ Botschafter des Vereins werden auch vor Ort über das Projekt informieren und de
                             Dann brauch Jugend Rettet euch. Wir sind eine junge Organisation zur Seenotrettung auf dem Mittelmeer. Wir haben ein Schiff, wenn der Umbau finanziert wird. 80.000€ brauchen wir, 36.000€ haben wir. Jetzt brauchen wir euch, damit wir im Juni rausfahren können.
                         </p>
                         <p>
-                            Hier könnt ihr schon vorher etwas Spenden, wenn ihr Lust habt: <a href="spenden">Spenden!</a>
+                            Hier könnt ihr schon vorher etwas Spenden, wenn ihr Lust habt: <a class="link" href="spenden">Spenden!</a>
                         </p>
                         <br>
                         <p>
@@ -459,7 +459,7 @@ Botschafter des Vereins werden auch vor Ort über das Projekt informieren und de
                         <br>-->
                         <p>
                             Wer kann Spenden?
-                            Alle über 18, die keine über Blut übetragbare Krankheiten wie HIV, Hepatitis C oder B oder andere haben, nicht frisch tätowiert oder gepierct sind (6 Monate), nicht Schwanger sind, keine Medikamente oder Drogen nehmen (vorher auch keine Pille genommen haben) und nicht unter 50 Kilo wiegen. Alle weiteren Hinweise findet ihr hier: <a href="https://www.haema.de/fileadmin/download/Infomaterial_Spender/allgemeine_spendebedingungen_a4_web_haema.pdf">allgemeine_spendebedingungen_a4_web_haema.pdf</a>
+                            Alle über 18, die keine über Blut übetragbare Krankheiten wie HIV, Hepatitis C oder B oder andere haben, nicht frisch tätowiert oder gepierct sind (6 Monate), nicht Schwanger sind, keine Medikamente oder Drogen nehmen (vorher auch keine Pille genommen haben) und nicht unter 50 Kilo wiegen. Alle weiteren Hinweise findet ihr hier: <a class="link" href="https://www.haema.de/fileadmin/download/Infomaterial_Spender/allgemeine_spendebedingungen_a4_web_haema.pdf">allgemeine_spendebedingungen_a4_web_haema.pdf</a>
                         </p>
                         <br>
                         <p>
@@ -536,7 +536,7 @@ Botschafter des Vereins werden auch vor Ort über das Projekt informieren und de
                             Dann brauch Jugend Rettet euch. Wir sind eine junge Organisation zur Seenotrettung auf dem Mittelmeer. Wir haben ein Schiff, wenn der Umbau finanziert wird. 80.000€ brauchen wir, 36.000€ haben wir. Jetzt brauchen wir euch, damit wir im Juni rausfahren können.
                         </p>
                         <p>
-                            Hier könnt ihr schon vorher etwas Spenden, wenn ihr Lust habt: <a href="spenden">Spenden!</a>
+                            Hier könnt ihr schon vorher etwas Spenden, wenn ihr Lust habt: <a class="link" href="spenden">Spenden!</a>
                         </p>
                         <br>
                         <p>
@@ -556,7 +556,7 @@ Botschafter des Vereins werden auch vor Ort über das Projekt informieren und de
                         <br>-->
                         <p>
                             Wer kann Spenden?
-                            Alle über 18, die keine über Blut übetragbare Krankheiten wie HIV, Hepatitis C oder B oder andere haben, nicht frisch tätowiert oder gepierct sind (6 Monate), nicht Schwanger sind, keine Medikamente oder Drogen nehmen (vorher auch keine Pille genommen haben) und nicht unter 50 Kilo wiegen. Alle weiteren Hinweise findet ihr hier: <a href="https://www.haema.de/fileadmin/download/Infomaterial_Spender/allgemeine_spendebedingungen_a4_web_haema.pdf">allgemeine_spendebedingungen_a4_web_haema.pdf</a>
+                            Alle über 18, die keine über Blut übetragbare Krankheiten wie HIV, Hepatitis C oder B oder andere haben, nicht frisch tätowiert oder gepierct sind (6 Monate), nicht Schwanger sind, keine Medikamente oder Drogen nehmen (vorher auch keine Pille genommen haben) und nicht unter 50 Kilo wiegen. Alle weiteren Hinweise findet ihr hier: <a class="link" href="https://www.haema.de/fileadmin/download/Infomaterial_Spender/allgemeine_spendebedingungen_a4_web_haema.pdf">allgemeine_spendebedingungen_a4_web_haema.pdf</a>
                         </p>
                         <br>
                         <p>
@@ -624,7 +624,7 @@ Botschafter des Vereins werden auch vor Ort über das Projekt informieren und de
                         <h4>JUGEND RETTET meets ASYLAND Potsdam</h4>
                         <br>
                         <p>
-                            Jugend Rettet holt <a href="http://www.asyland.de/">Asyland</a> am 17.3.16 in Verbindung mit einem offenen Treffen für eine Vorstellung ins <a href="http://www.freiland-potsdam.de/">freiLand</a> (Haus 2) Potsdam. Anschließend an eine ca. 30 minütige Projektvorstellung zu Jugend Rettet wird der Film gezeigt. Der Film erzählt die Geschichte von Geflüchteten aus ihrer eigenen Perspektive. Das Asyland-Team begleitete den Alltag von Geflüchteten über ein halbes Jahr und dokumentiert dabei neben ihrem Tagesablauf, auch ihre Motivationen, Gefühle und Gedanken. 
+                            Jugend Rettet holt <a class="link" href="http://www.asyland.de/">Asyland</a> am 17.3.16 in Verbindung mit einem offenen Treffen für eine Vorstellung ins <a class="link" href="http://www.freiland-potsdam.de/">freiLand</a> (Haus 2) Potsdam. Anschließend an eine ca. 30 minütige Projektvorstellung zu Jugend Rettet wird der Film gezeigt. Der Film erzählt die Geschichte von Geflüchteten aus ihrer eigenen Perspektive. Das Asyland-Team begleitete den Alltag von Geflüchteten über ein halbes Jahr und dokumentiert dabei neben ihrem Tagesablauf, auch ihre Motivationen, Gefühle und Gedanken. 
                         </p>
                         <p>
                             Auf der Suche nach Erklärungen beleuchtet der Film unterschiedliche Sichtweisen auf die Situation von Flüchtlingen in Deutschland. Interviewt wurden Schauspieler, Politiker und Menschen, die der Beweis dafür sind, dass jeder bei der Bewältigung der Herausforderungen, denen sich Flüchtlinge gegenübergestellt sehen, helfen kann. Alles was man tun muss: Die Perspektive wechseln.
