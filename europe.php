@@ -150,6 +150,10 @@
                             <span class="event-date">Donnerstag, 17. März 2016</span>
                             <span class="event-title">Bonn: Deine Spende für die Rettung No. 2</span>
                         </a>
+                        <a href="events?date=17-03-2016" class="event-container">
+                            <span class="event-date">Donnerstag, 17. März 2016</span>
+                            <span class="event-title">JUGEND RETTET meets ASYLAND Potsdam</span>
+                        </a>
                         <a href="events?date=18-03-2016" class="event-container">
                             <span class="event-date">Freitag, 18. März 2016</span>
                             <span class="event-title">Soli-Party - Feiern für den Umbau</span>
