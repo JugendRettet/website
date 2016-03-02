@@ -409,7 +409,7 @@ Euer Jugend Rettet Team</p><br>
                             <li><a class="peek" id="kontakt">Kontakt</a></li>
                             <li><a href="presse">Press</a></li>
                             <li><a href="impressum">Impressum</a></li>
-                            <li><a href="../transparenz">Transparency (de)</a></li>
+                            <li><a href="https://jugendrettet.org/transparenz">Transparency (de)</a></li>
                             <li class="br"></li>
                             <li><a class="language-events" id="de">de</a></li>
                         </ul>

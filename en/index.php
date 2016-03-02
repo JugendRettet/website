@@ -93,9 +93,9 @@
                     <nav class="footer">
                         <ul>
                             <li><a href="presse">Press</a></li>
-                            <li><a href="../transparenz">Transparency (de)</a></li>
+                            <li><a href="https://jugendrettet.org/transparenz">Transparency (de)</a></li>
                             <li class="br"></li>
-                            <li><a href="../">de</a></li>
+                            <li><a href="https://jugendrettet.org/">de</a></li>
                         </ul>
                     </nav>
                 </footer>

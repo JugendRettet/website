@@ -392,8 +392,8 @@
                     <div class="column">
                         <ul id="social-media">
 
-                            <a href="https://www.facebook.com/JugendRettet" target="_blank"><li><img id="fb" width="30px" src="../graphics/fb.svg"></li></a>
-                            <a href="http://www.twitter.com/" target="_blank"><li><img id="tw" width="30px" src="../graphics/tw.svg"></li></a>
+                            <a href="https://www.facebook.com/JugendRettet" target="_blank"><li><img id="fb" width="30px" src="https://jugendrettet.org/graphics/fb.svg"></li></a>
+                            <a href="http://www.twitter.com/" target="_blank"><li><img id="tw" width="30px" src="https://jugendrettet.org/graphics/tw.svg"></li></a>
                             <li>
                                 <form class="newsletter">
                                     <input class="email" type="email" value="" placeholder="Deine E-Mail-Adresse" />
@@ -428,9 +428,9 @@
                             <li class="likelink"><span class="peek" id="follow">Follow</span></li>
                             <li><a href="presse">Press</a></li>
                             <li><a href="impressum">Legal Notice</a></li>
-                            <li><a href="../transparenz">Transparency (de)</a></li>
+                            <li><a href="https://jugendrettet.org/transparenz">Transparency (de)</a></li>
                             <li class="br"></li>
-                            <li><a href="../news">de</a></li>
+                            <li><a href="https://jugendrettet.org/news">de</a></li>
                         </ul> 
                     </nav>
                 </footer>
