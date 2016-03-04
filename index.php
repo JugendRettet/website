@@ -66,7 +66,7 @@
                         <div id="schiff" style="padding:5px;position:absolute">
                           <img src="./graphics/schiff-starkekonturen-weiss.svg" alt="Das Schiff" style="width:300px;opacity:0.4">
                         </div>
-                        <div class="blink balken" id="schiff-gespendet" style="padding:5px;position:absolute;overflow:hidden;width:calc(300px * 39099 / 80000);">
+                        <div class="blink balken" id="schiff-gespendet" style="padding:5px;position:absolute;overflow:hidden;width:calc(300px * 39219 / 80000);">
                           <img src="./graphics/schiff-blau-starkekontur.svg" alt="Das Schiff" style="width:300px" class="blink">
                         </div>
                     </div>
