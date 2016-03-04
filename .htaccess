@@ -46,10 +46,14 @@
 Redirect /betterplace https://betterplace.org/de/projects/39807-rette-mit-umbau-unseres-schiffes-zur-seenotrettung-im-mittelmeer
 
 # Error Documents
-ErrorDocument 403 http://jugendrettet.org/forbidden
-ErrorDocument 404 http://jugendrettet.org/notfound
+ErrorDocument 403 https://jugendrettet.org/forbidden
+ErrorDocument 404 https://jugendrettet.org/notfound
 #turns off necessity of html extention
 RewriteEngine On
+
+RewriteCond %{HTTPS} !=on
+RewriteCond %{ENV:HTTPS} !=on
+RewriteRule .* https://%{SERVER_NAME}%{REQUEST_URI} [R=301,L]
 
 RewriteCond %{HTTP_HOST} en.jugendrettet.org$
 RewriteCond %{REQUEST_URI} !^/en
@@ -61,7 +65,7 @@ RewriteCond %{REQUEST_URI} ^/$
 RewriteRule ^(.*)$ /en/index.php
 
 RewriteCond %{HTTP_HOST} =de.jugendrettet.org
-RewriteRule (.*) http://jugendrettet.org/$1 [R=301]
+RewriteRule (.*) https://jugendrettet.org/$1 [R=301]
 
 RewriteCond %{THE_REQUEST} ^GET\ /de/
 RewriteRule ^de/(.*) /$1 [R=301]
