@@ -220,10 +220,10 @@
                             </div>
                             <br>
                             <div id=schiff-container style="min-height:133px;width:300px;">
-                                <div id="schiff" style="padding:5px;position:absolute">
+                                <div id="schiff" style="position:absolute">
                                   <img src="./graphics/schiff-starkekonturen-weiss.svg" alt="Das Schiff" style="width:300px;opacity:0.4">
                                 </div>
-                                <div class="blink balken" id="schiff-gespendet" style="padding:5px;position:absolute;overflow:hidden;width:calc(300px * 39219 / 80000);">
+                                <div class="blink balken" id="schiff-gespendet" style="position:absolute;overflow:hidden;width:calc(300px * 39219 / 80000);">
                                   <img src="./graphics/schiff-blau-starkekontur.svg" alt="Das Schiff" style="width:300px" class="blink">
                                 </div>
                                 <div style="position:absolute;width:300px;">
