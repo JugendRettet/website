@@ -136,7 +136,9 @@
                             <p><b>BIC:</b> BELADEBEXXX</p>
                             <p><b>Kreditinstitut:</b> Berliner Sparkasse</p>
                         </div>
-
+                        <h4>Transparenz</h4>
+                        <a href="./transparenz"><img style="width:calc(100% - 12px);padding:5px;background:white;border:solid 1px #286482;" src="./graphics/Transparente_Zivilgesellschaft.svg"></a>
+                        <br>
                         <h4>Rechner</h4>
                         <div id="rechner">
                             <input type="Text" id="spendeinput" oninput="rechnen()"> €

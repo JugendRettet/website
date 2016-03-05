@@ -77,11 +77,13 @@
                 </div>
                 <div class="container single">
                     <div class="column">
+                        <a target="_blank" href="http://www.transparente-zivilgesellschaft.de"><img style="width:calc(100% - 12px);padding:5px;background:white;border:solid 1px #286482;" src="./graphics/Transparente_Zivilgesellschaft.svg"></a>
+                        <br><br>
                         <p>
                             <i>Jugend Rettet</i> nimmt seine Aufgaben als vertrauenswürdige und 
                             verantwortungsbewusste gemeinnützige Organisation ernst. Transparenz ist uns 
-                            wichtig. Deshalb wollen wir uns der <a target="_blank" href="https://www.transparency.de/Initiative-Transparente-Zivilg.1612.0.html"><u>Initiative Transparente Zivilgesellschaft</u></a> 
-                            anschließen. Wir haben uns in diesem Rahmen verpflichtet, die nachstehenden 
+                            wichtig. Deshalb haben wir uns der <a target="_blank" href="http://www.transparente-zivilgesellschaft.de"><u>Initiative Transparente Zivilgesellschaft</u></a> 
+                            angeschlossen. Wir haben uns in diesem Rahmen verpflichtet, die nachstehenden 
                             Informationen der Öffentlichkeit auf unserer Webseite zur Verfügung zu stellen und 
                             regelmäßig zu updaten.
                         </p>  

@@ -140,7 +140,10 @@
                 <div class="container single">
                     <div class="column">
                         <p>We are an organisation of young adults, who raise money to buy a ship. With this ship we will conduct rescue missions on the Mediterranean. We will then localize the people, take them in safely at the closest port. Our goal is clear: Less deaths in the Mediterranean Sea.</p>
-                        <p>Furthermore we intend to create a discussion platform via the <a href="europe">Jugend Rettet europe</a> program, in which the asylum policies are debated and scrutinized. We believe in the potential capacity and capabilities of our young generation to change the status quo of the Mediterranean for the better and to become more engaged in the discussions on asylum policy.</p><br>
+                        <p>Furthermore we intend to create a discussion platform via the <a href="europe">Jugend Rettet europe</a> program, in which the asylum policies are debated and scrutinized. We believe in the potential capacity and capabilities of our young generation to change the status quo of the Mediterranean for the better and to become more engaged in the discussions on asylum policy.</p>
+                        <h4>Transparency (de)</h4>
+                        <a href="https://jugendrettet.org/transparenz"><img style="width:calc(100% - 12px);padding:5px;background:white;border:solid 1px #286482;" src="../graphics/Transparente_Zivilgesellschaft.svg"></a>
+                        <br>
                     </div>    
                 </div>
             </div>
