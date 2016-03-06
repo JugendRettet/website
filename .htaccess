@@ -44,6 +44,7 @@
 </ifmodule>
 
 Redirect /betterplace https://betterplace.org/de/projects/39807-rette-mit-umbau-unseres-schiffes-zur-seenotrettung-im-mittelmeer
+Redirect /Betterplace https://betterplace.org/de/projects/39807-rette-mit-umbau-unseres-schiffes-zur-seenotrettung-im-mittelmeer
 
 # Error Documents
 ErrorDocument 403 https://jugendrettet.org/forbidden
