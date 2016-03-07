@@ -647,6 +647,41 @@ Botschafter des Vereins werden auch vor Ort über das Projekt informieren und de
                         </div><br>
                     </div>
 
+                    <div class="date-container" id="14-03-2016">
+                        <h4>Offenes Treffen Berlin</h4>
+                        <br>
+                        <p>
+                            Täglich geraten Menschen im Mittelmeer in Seenot und sterben auf der Flucht vor Krieg. Ein staatliches Rettungsprogramm gibt es jedoch nicht: Stattdessen liegt der Fokus auf der europäischen Grenzsicherung und dem Aufdecken von Schleppernetzwerken.
+                        </p>
+                        <br>
+                        <p>
+                            Wir wollen diesen Missstand nicht länger hinnehmen und haben letztes Jahr den Verein Jugend Rettet gegründet: Wir werden in Seenot geratene Menschen auf der zentralen Mittelmeerroute retten. Jeder Mensch verdient die Rettung aus Seenot, unabhängig von Fluchtursachen, Herkunft, Religion oder dem voraussichtlichen Aufenthaltsstatus!
+                        </p>
+                        <p>
+                            Die Finanzierung für den Kauf unseres Schiffes steht. Jetzt brauchen wir das Geld für den Umbau, die Überführung sowie den ersten Monat auf See. Mindestens 80.000 Euro müssen wir bis Ende März zusammenbekommen. Ohne diese Mittel können wir nicht in See stechen. 
+                        </p>
+                        <br>
+                        <p>
+                            Wir stellen das Projekt und unseren aktuellen Arbeitsstand vor. Kommt vorbei, lernt uns und das Projekt kennen und mischt mit euren eigenen Ideen und Gedanken mit! 
+                        </p>
+                        <br>
+                        <p>
+                            Wir freuen uns auf euch!
+                        </p>
+                        <br>
+                        <p>
+                            Jugend Rettet e.V.
+                        </p>
+                        <br>
+                        <div class="event-container">
+                            <div class="event-date">Montag, 14. März 2016</div>
+                            <div class="event-icon"><img src="./graphics/location.png" width="14px" alt="Location"></div>
+                            <div class="event-title"><a href="https://www.google.de/maps/place/BAIZ/@52.5360095,13.4106266,17z/data=!3m1!4b1!4m2!3m1!1s0x47a851e2febe9599:0xe275475de7186cad" target="_blank">BAIZ<br>Schönhauser Allee 26A<br>10435 Berlin</a></div><br>
+                            <div class="event-icon"><img src="./graphics/time.png" height="14px" alt="Time"></div>
+                            <div class="event-title">20:00 Uhr</div>
+                        </div><br>
+                    </div>
+
                 </div>
             </div>
             <div id="content">
