@@ -10,7 +10,7 @@ function rechnen(){
 	//var betterplacegeld = +kampagnengeld+3349.98
 	//var spakageld = 35122
 	//var stand = +betterplacegeld+spakageld
-	var stand = 41625
+	var stand = 41671
 
 	var balkenwidth = 300
 	var geldbalkenwidth = 260
