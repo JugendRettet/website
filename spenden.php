@@ -24,7 +24,7 @@
         <link rel="stylesheet" href="./css/waves.1.css" type="text/css" />
 
         <link href="./css/general.css" rel="stylesheet" type="text/css">
-        <link href="./css/main.css?6" rel="stylesheet" type="text/css">
+        <link href="./css/main.css?7" rel="stylesheet" type="text/css">
         <link href="./css/desktop.css?3" media="screen and (min-width: 851px)" rel="stylesheet" type="text/css">
         <link href="./css/mobile.css?4" media="screen and (max-width: 850px)" rel="stylesheet" type="text/css">
         <link rel="stylesheet" href="./css/animations.1.css?0" type="text/css" />
