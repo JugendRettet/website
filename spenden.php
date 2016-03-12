@@ -139,6 +139,8 @@
                         <h4>Transparenz</h4>
                         <a href="./transparenz"><img style="width:calc(100% - 12px);padding:5px;background:white;border:solid 1px #286482;" src="./graphics/Transparente_Zivilgesellschaft.svg"></a>
                         <br>
+                        <p><a href="./faq#18">Was passiert mit den Spendengeldern, wenn wir unser Ziel nicht erreichen?</a></p>
+                        <br>
                         <h4>Rechner</h4>
                         <div id="rechner">
                             <input type="Text" id="spendeinput" oninput="rechnen()"> €
