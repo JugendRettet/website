@@ -141,11 +141,11 @@ Nach wie vor gibt es kein Seenotrettungsprogramm der EU.</p>
                         <a class="faq" id="17"><b>17</b> Warum ist für euch in dieser Zeit ein Schiff für das Mittelmeer das Wichtigste?</a>
                         <div class="faq-klappe" id="17-klappe">
                             <p>Die Toten der zentralen Mittelmeeroute sind aus den Schlagzeilen verschwunden, doch die Situation vor Ort bleibt dramatisch. Die Flucht- und Todeszahlen sind gleichbleibend hoch und so bleibt die Strecke von Libyen nach Italien die gefährlichste Fluchtroute. Wir lassen uns nicht von der aktuellen Berichterstattung suggerieren, dass jetzt alle Flüchtlinge schon in Deutschland seien und nur noch die Integration vor Ort wichtig sei. Wir engagieren uns jetzt, um im nächsten Jahr vor der Meldung des nächsten großen Unglücks auf dem Mittelmeer zu sein.</p>
-                        </div>
+                        </div><br>
                         <a class="faq" id="18"><b>18</b> Was passiert mit den Spendengeldern, wenn ihr euer Ziel nicht erreicht?</a>
                         <div class="faq-klappe" id="18-klappe">
                             <p>Sammeln wir bis zum 31. März nicht genug Spendengelder für den Umbau, die Überführung und den ersten Betriebsmonat, verfällt die Finanzierungszusage für unser Schiff. Wir werden dann im Team überlegen, ob es sinnvoll ist weiterhin für ein großes Schiff zu sammeln oder ob wir auf anderem Wege schneller für die Menschen in Not da sein können.</p>
-                        </div>
+                        </div><br>
                         <a class="faq" id="19"><b>19</b> Was passiert mit den Spenden, wenn sich euer Verein auflöst?</a>
                         <div class="faq-klappe" id="19-klappe">
                             <p>Das Geld wird in jedem Fall für das Wohl von Menschen auf der Flucht eingesetzt. Löst sich der Verein auf, gehen laut Satzung alle Spenden an das Flüchtlingshilfswerk der Vereinten Nationen (UNHCR).</p>
