@@ -75,7 +75,7 @@
                     <div id="phase" style="text-transform:none;">
                         <div class="ph-container center" id="ph-eins" style="max-width:300px;">
                             <div class="header index-page">
-                                <span class="title"> </span><span class="percentage"><?php echo $value1;?> / 80 Tsd. €</span>
+                                <!--<span class="title"> </span>--><span class="percentage"><?php echo $value1;?> / 80 Tsd. €</span>
                                 <hr id="ph-eins-progress">
                             </div>
                         </div>
