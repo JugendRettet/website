@@ -433,11 +433,13 @@ footer.start {
     height: 10px;
 }
 #phase span.percentage {
+    font-weight: 400;
+}
+/*
     float: right;
     text-align: right;
     margin: 0 10px 0 -50px;
-    font-weight: 400;
-}
+*/
 #phase .content {
     display: block;
     width: calc(100% - 22px);
