@@ -248,8 +248,8 @@
                         <br><br>
                         <div id="phase">
                             <div class="ph-container" id="ph-eins">
-                                <div class="header">
-                                    <span class="title">Phase 1</span><span class="percentage"><?php echo $value1;?>m / 32m</span>
+                                <div class="header" style="text-align:center;">
+                                    <!--<span class="title">Phase 1</span>--><span class="percentage"><?php echo $value1;?>m / 32m</span>
                                     <hr id="ph-eins-progress">
                                 </div>
                                 <div class="content" id="ph-eins-content">
