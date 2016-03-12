@@ -6,11 +6,11 @@ function rechnen(){
 	//var bedarf = 62250
 
 	var kosten = 80000
-	var kampagnengeld = 964.96
+	var kampagnengeld = 1154.96
 	//var betterplacegeld = +kampagnengeld+3349.98
 	//var spakageld = 35122
 	//var stand = +betterplacegeld+spakageld
-	var stand = 50836
+	var stand = 51026
 
 	var balkenwidth = 300
 	var geldbalkenwidth = 260
