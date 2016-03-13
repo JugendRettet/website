@@ -93,7 +93,7 @@
                             <li><b>Pauline</b>:  Öffentlichkeit, Presse</li>
                             <li><b>Jojo</b>:  Öffentlichkeit, Gestaltung</li>
                             <li><b>Alex</b>:  IT, Gestaltung</li>
-                            <li><b>Matthias</b>:  Finanzen, Recherche</li>
+                            <li><b>Matthias</b>:  Recherche</li>
                             <li><b>Johanna</b>:  Öffentlichkeit</li>
                             <li><b>Carlo</b>:  Öffentlichkeit</li>
                             <li><b>Valeria</b>:  Öffentlichkeit, Finanzen</li>

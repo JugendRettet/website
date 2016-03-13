@@ -94,7 +94,7 @@
                             <li><b>Pauline</b>:  Public Relations, Press</li>
                             <li><b>Jojo</b>:  Public Relations, Layout</li>
                             <li><b>Alex</b>:  IT, Layout</li>
-                            <li><b>Matthias</b>:  Finance, Research</li>
+                            <li><b>Matthias</b>:  Research</li>
                             <li><b>Johanna</b>:  Public Relations</li>
                             <li><b>Carlo</b>:  Public Relations</li>
                             <li><b>Valeria</b>:  Public Relations, Finance</li>
