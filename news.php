@@ -433,8 +433,7 @@
                           <li>&#10003; Wir haben Maria Furtwängler, Armin Rohde und Jasmin Gerat als Stimmen für <i>Jugend Rettet</i> gewinnen können.</li>
                           <li>&#10003; Wir haben in Berlin ein Kernteam von 11 Menschen aufgebaut.</li>
                         </ul>
-                    </div>
-                    <div class="column newsacc">
+                        <br>
                       <h4>Was wir noch schaffen werden</h4>
                         <ul>
                           <li>&#9633; Dass Seenotrettung in der jungen Generation ein Thema bleibt und die Situation der Menschen auf dem Mittelmeer weiterhin in der Öffentlichkeit eine Rolle spielt.</li>
@@ -442,6 +441,32 @@
                           <li>&#9633; Dass wir die Spendenphase bis Ende März meistern und unsere Crowdfunding-Kampagne erfolgreich abschließen.</li>
                           <li>&#9633; Dass wir Partnerschulen und Partner-Jugendorganisationen gewinnen.</li>
                         </ul>
+                    </div>
+                    <div class="column">
+                      <h4>Events</h4>
+                        <p>Hier findest du die Termine für die nächsten Jugend Rettet europe Treffen und Fortbildungen.</p><br>
+
+                        <a href="events?date=14-03-2016" class="event-container">
+                            <span class="event-date">Montag, 14. März 2016</span>
+                            <span class="event-title">Offenes Treffen Berlin</span>
+                        </a>
+                        <a href="events?date=15-03-2016" class="event-container">
+                            <span class="event-date">Dienstag, 15. März 2016</span>
+                            <span class="event-title">Offenes Treffen Emsland</span>
+                        </a>
+                        <a href="events?date=17-03-2016" class="event-container">
+                            <span class="event-date">Donnerstag, 17. März 2016</span>
+                            <span class="event-title">Bonn: Deine Spende für die Rettung No. 2</span>
+                        </a>
+                        <a href="events?date=17-03-2016-potsdam" class="event-container">
+                            <span class="event-date">Donnerstag, 17. März 2016</span>
+                            <span class="event-title">JUGEND RETTET meets ASYLAND Potsdam</span>
+                        </a>
+                        <a href="events?date=18-03-2016" class="event-container">
+                            <span class="event-date">Freitag, 18. März 2016</span>
+                            <span class="event-title">Soli-Party - Feiern für den Umbau</span>
+                        </a>
+                      
                     </div>
                 </div>
                 <!--

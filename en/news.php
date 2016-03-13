@@ -377,8 +377,7 @@
                           <li>&#10003; We won Maria Furtwängler, Armin Rohde and Jasmin Gerat as advocates for <i>Jugend Rettet</i>.</li>
                           <li>&#10003; We established a core team of 11 persons in Berlin.</li>
                         </ul>
-                    </div>
-                    <div class="column newsacc">
+                        <br>
                       <h4>What we will accomplish</h4>
                         <ul>
                           <li>&#9633; That sea rescue sticks as a topic with the young generation and the situation of the people on the Mediterranean Sea stays in the public discourse. </li>
@@ -386,6 +385,14 @@
                           <li>&#9633; That we master the funding phase until the end of march and successfully finish our crowdfunding campaign.</li>
                           <li>&#9633; That we win schools and youth organizations as partners.</li>
                         </ul>
+                    </div>
+                    <div class="column">
+                      <h4>Events</h4>
+                        <p>Here you may find the schedules for the next meetings of Jugend Rettet europe and further education.</p><br>
+                        <a href="events?date=18-03-2016" class="event-container">
+                            <span class="event-date">Friday, March 18th 2016</span>
+                            <span class="event-title">Soli-Party - Party for the conversion</span>
+                        </a>
                     </div>
                 </div>
                 <!--
