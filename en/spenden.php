@@ -142,8 +142,8 @@
                             <br><br>
                             <div id="spendentext" style="display:none">
 
-                                <p id="text-schiffsteil-prozent">With your <b class="EUR"></b> <b>€</b> a total of <b id="prozent"></b> <b>%</b> would be added to our next need – radios.</p>
-                                <p id="text-schiffsteil-komplett">With your <b class="EUR"></b> <b>€</b> our next need – radios – would be completed!</p>
+                                <p id="text-schiffsteil-prozent">With your <b class="EUR"></b> <b>€</b> a total of <b id="prozent"></b> <b>%</b> would be added to our next need – awning on deck.</p>
+                                <p id="text-schiffsteil-komplett">With your <b class="EUR"></b> <b>€</b> our next need – awning on deck – would be completed!</p>
                                 <p id="text-schiffsteil-mehr">And even more:</p>
 
                                 <p id="text-schiff-meter">Summed up, with this money <b id="meter"></b> <b id="unitmeter">m</b> of the ship are funded. That's <b id="qmeter"></b> <b id="unitqmeter">m²</b> for the sea rescue.</p>
@@ -183,7 +183,7 @@
                     </div>
 
                     <div class="column hideme" style="min-width: 300px;">
-                        <h4>RAISED FUNDS: 51,026.97€</h4>
+                        <h4>RAISED FUNDS: 51,496.97€</h4>
                         <div id="schiff-ani">
                             <div class="schiff-klappe" id="1-klappe">
                                 <b>Ship's propeller</b>
@@ -222,7 +222,7 @@
                                 <div id="schiff" style="position:absolute">
                                   <img src="../graphics/schiff-starkekonturen-weiss.svg" alt="The Ship" style="width:300px;opacity:0.4">
                                 </div>
-                                <div class="blink balken" id="schiff-gespendet" style="position:absolute;overflow:hidden;width:calc(300px * 51026 / 80000);">
+                                <div class="blink balken" id="schiff-gespendet" style="position:absolute;overflow:hidden;width:calc(300px * 51496 / 80000);">
                                   <img src="../graphics/schiff-blau-starkekontur.svg" alt="The Ship" style="width:300px" class="blink">
                                 </div>
                                 <div style="position:absolute;width:300px;">
@@ -238,7 +238,7 @@
                                 </div>
                                 <div style="position:absolute;width:300px">
                                     <!--<span id="0" class="unterteilungen">0m</span>-->
-                                    <span id="stand" class="spendenstand schiff" style="white-space: nowrap;position:absolute;left: calc(-15px + 300px*51026/80000)">51 Tsd. €</span>
+                                    <span id="stand" class="spendenstand schiff" style="white-space: nowrap;position:absolute;left: calc(-15px + 300px*51496/80000)">51.5 Tsd. €</span>
                                 </div>
                             </div>
                         </div>
