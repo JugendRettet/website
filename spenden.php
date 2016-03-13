@@ -33,7 +33,7 @@
         <![endif]-->
 
         <script src="./js/jquery-1.10.2.min.js"></script>
-        <script src="./js/rechner.1.js?7"></script>
+        <script src="./js/rechner.1.js?8"></script>
         <script src="./js/hideme.js"></script>
         <script type="text/javascript">
             $(window).load(function() {
