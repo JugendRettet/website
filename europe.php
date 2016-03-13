@@ -136,12 +136,12 @@
                         <a href="events?date=15-02-2016" class="event-container">
                             <span class="event-date">Montag, 15. Februar 2016</span>
                             <span class="event-title">Feiern fürs Schiff: Soliabend im newyorck59</span>
-                        </a> -->
+                        </a>
 
                         <a href="events?date=10-03-2016" class="event-container">
                             <span class="event-date">Donnerstag, 10. März 2016</span>
                             <span class="event-title">Bonn: Deine Spende für die Rettung</span>
-                        </a>
+                        </a> -->
                         <a href="events?date=14-03-2016" class="event-container">
                             <span class="event-date">Montag, 14. März 2016</span>
                             <span class="event-title">Offenes Treffen Berlin</span>
