@@ -165,6 +165,10 @@
                         <div class="mehr-klappe"><br>
                             <p>We look for people with job experiences that involved high risks and rescue operations. Ask yourself if you can bear these settings. It’s on these grounds that we are really picky and considerate on whom to choose as a crew member.<br><br>
                         <p> We currently seek:</p>
+                        <p>- Captain</p>
+                        <p>- Navigator</p>
+                        <p>- Machinist</p>
+                        <p>- Deckhands (able to navigate tenders and to operate radios)</p>
                         <p>- Doctors</p>
                         <p>- first aid medical units</p><br>
                         <a href="mailto:retter@jugendrettet.org" class="link">retter@jugendrettet.org</a><br><br>

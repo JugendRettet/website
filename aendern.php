@@ -165,6 +165,10 @@
                         <div class="mehr-klappe"><br>
                             <p>Wir suchen Menschen mit Berufserfahrung, die sich über das hohe Risiko der Rettungsaktionen bewusst sind. Bitte frage dich selbst, ob du dir die Situation zutraust. Aufgrund der besonderen Anforderungen sind wir gezwungen die Crew sehr sorgsam auszuwählen.<br><br>
                         <p>Wir suchen derzeit:</p>
+                        <p>- Kapitän</p>
+                        <p>- Steuermann</p>
+                        <p>- Maschinist</p>
+                        <p>- Deckhands (Beibooote steuern und funken können)</p>
                         <p>- Ärzte</p>
                         <p>- ausgebildete Rettungssanitäter</p><br>
                         <a href="mailto:retter@jugendrettet.org" class="link">retter@jugendrettet.org</a><br><br>
