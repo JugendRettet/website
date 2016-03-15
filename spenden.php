@@ -67,7 +67,7 @@
                 transition: 800ms ease;
                 width: <?php
                     $phase1 = file_get_contents('donations/phase1.txt');
-                    $value1 = number_format(32 / 80000 * $phase1,2,",",".");
+                    $value1 = number_format(32 / 80000 * (float)$phase1,2,",",".");
                     echo 100 / 80000 * $phase1;
                     ?>%;
             }
