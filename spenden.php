@@ -188,7 +188,7 @@
                     </div>
 
                     <div class="column hideme" style="min-width: 300px;">
-                        <h4>SPENDENSTAND: 56.642,96€</h4>
+                        <h4>SPENDENSTAND: 60.061,96€</h4>
                         <div id="schiff-ani">
                             <div class="schiff-klappe" id="1-klappe">
                                 <b>Schiffsschraube</b>
@@ -227,7 +227,7 @@
                                 <div id="schiff" style="position:absolute">
                                   <img src="./graphics/schiff-starkekonturen-weiss.svg" alt="Das Schiff" style="width:300px;opacity:0.4">
                                 </div>
-                                <div class="blink balken" id="schiff-gespendet" style="position:absolute;overflow:hidden;width:calc(300px * 56642 / 80000);">
+                                <div class="blink balken" id="schiff-gespendet" style="position:absolute;overflow:hidden;width:calc(300px * 60061 / 80000);">
                                   <img src="./graphics/schiff-blau-starkekontur.svg" alt="Das Schiff" style="width:300px" class="blink">
                                 </div>
                                 <div style="position:absolute;width:300px;">
@@ -243,7 +243,7 @@
                                 </div>
                                 <div style="position:absolute;width:300px">
                                     <!--<span id="0" class="unterteilungen">0m</span>-->
-                                    <span id="stand" class="spendenstand schiff" style="white-space: nowrap;position:absolute;left: calc(-15px + 300px*56642/80000)">56.6 Tsd. €</span>
+                                    <span id="stand" class="spendenstand schiff" style="white-space: nowrap;position:absolute;left: calc(-15px + 300px*60061/80000)">60.1 Tsd. €</span>
                                 </div>
                             </div>
                         </div>
