@@ -46,6 +46,16 @@
 Redirect /betterplace https://betterplace.org/de/projects/39807-rette-mit-umbau-unseres-schiffes-zur-seenotrettung-im-mittelmeer
 Redirect /Betterplace https://betterplace.org/de/projects/39807-rette-mit-umbau-unseres-schiffes-zur-seenotrettung-im-mittelmeer
 
+Redirect /LG https://jugendrettet.org/events?date=22-03-2016
+Redirect /Lg https://jugendrettet.org/events?date=22-03-2016
+Redirect /lg https://jugendrettet.org/events?date=22-03-2016
+Redirect /lG https://jugendrettet.org/events?date=22-03-2016
+
+Redirect /HH https://jugendrettet.org/events?date=23-03-2016
+Redirect /Hh https://jugendrettet.org/events?date=23-03-2016
+Redirect /hh https://jugendrettet.org/events?date=23-03-2016
+Redirect /hH https://jugendrettet.org/events?date=23-03-2016
+
 # Error Documents
 ErrorDocument 403 https://jugendrettet.org/forbidden
 ErrorDocument 404 https://jugendrettet.org/notfound
