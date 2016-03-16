@@ -682,6 +682,99 @@ Botschafter des Vereins werden auch vor Ort über das Projekt informieren und de
                         </div><br>
                     </div>
 
+                    <div class="date-container" id="22-03-2016">
+                        <h4>Offenes Treffen Lüneburg</h4>
+                        <br>
+                        <p>
+                            Im Jahr 2015 ertranken 3771 Menschen, bei dem Versuch über das Mittelmeer nach Europa zu flüchten. Die Dunkelziffer liegt weiter darüber. Diese Situation können wir nicht länger hinnehmen. Jeder Mensch verdient die Rettung aus Seenot!
+                        </p>
+                        <p>
+                            Jugend Rettet ist eine Organisation von jungen Erwachsenen, die Gelder für zur Seenotrettung auf der zentralen Mittelmeerroute zwischen Libyen und Italien sammeln. Unser Ziel ist klar: weniger Tote im Mittelmeer.
+                        </p>
+                        <p>
+                            Gleichzeitig werden wir uns im asylpolitischen Diskurs klar positionieren und fordern die EU zu einem Ende der Gleichgültigkeit gegenüber dem Sterben auf dem Mittelmeer auf.
+                        </p>
+                        <br>
+                        <p>
+                            Die Finanzierung für den Kauf unseres Schiffes steht. Jetzt brauchen wir das Geld für den Umbau, die Überführung sowie den ersten Monat auf See. Mindestens 80.000 Euro (die genaue Summe prüfen wir gerade) müssen wir bis Ende März zusammenbekommen. Ohne diese Mittel können wir nicht in See stechen. Auch die Finanzierung des Schiffes durch zwei Privatpersonen hängt davon ab, ob wir es schaffen, unser Spendenziel zu erreichen.
+                        </p>
+                        <br>
+                        <p>
+                            Wir suchen in ganz Deutschland und Europa nach engagierten Leuten, die Jugend Rettet bekannt machen und durch Spendenaktionen unser Schiff ermöglichen. 
+                        </p>
+                        <br>
+                        <p>
+                            Am 22.03.2016 kommt Jugend Rettet zum ersten Mal mit einem offenen Treffen nach Lüneburg. Wir werden das Projekt und den aktuellen Arbeitstand vorstellen. Anschließend geht es um die Suche nach weiteren Unterstützer_innen in Lüneburg und es darf diskutiert werden. Unser Botschafter Marco, Vorsitzende Lena, sowie Alex aus dem Kernteam werden vor Ort sein.
+                        </p>
+                        <br>
+                        <p>
+                            Ort: Pons Clubraum
+                        </p>
+                        <br>
+                        <p>
+                            Wir freuen uns auf euch!
+                        </p>
+                        <p>
+                            Euer Jugend Rettet Team
+                        </p>
+                        <br>
+                        <div class="event-container">
+                            <div class="event-date">Dienstag, 22. März 2016</div>
+                            <div class="event-icon"><img src="./graphics/location.png" width="14px" alt="Location"></div>
+                            <div class="event-title"><a href="https://www.google.de/maps/place/Pons/@53.2516307,10.4103694,17z/data=!3m1!4b1!4m2!3m1!1s0x47b1ddc5185d5b75:0xa909397fd6f1be4e" target="_blank">Pons<br>Salzstraße Am Wasser 1<br>21335 Lüneburg</a></div><br>
+                            <div class="event-icon"><img src="./graphics/time.png" height="14px" alt="Time"></div>
+                            <div class="event-title">19:00 Uhr</div>
+                        </div><br>
+                    </div>
+
+                    <div class="date-container" id="23-03-2016">
+                        <h4>Offenes Treffen Hamburg</h4>
+                        <br>
+                        <p>
+                            Im Jahr 2015 ertranken 3771 Menschen, bei dem Versuch über das Mittelmeer nach Europa zu flüchten. Die Dunkelziffer liegt weiter darüber. Diese Situation können wir nicht länger hinnehmen. Jeder Mensch verdient die Rettung aus Seenot!
+                        </p>
+                        <p>
+                            Jugend Rettet ist eine Organisation von jungen Erwachsenen, die Gelder für zur Seenotrettung auf der zentralen Mittelmeerroute zwischen Libyen und Italien sammeln. Unser Ziel ist klar: weniger Tote im Mittelmeer.
+                        </p>
+                        <p>
+                            Gleichzeitig werden wir uns im asylpolitischen Diskurs klar positionieren und fordern die EU zu einem Ende der Gleichgültigkeit gegenüber dem Sterben auf dem Mittelmeer auf.
+                        </p>
+                        <br>
+                        <p>
+                            Die Finanzierung für den Kauf unseres Schiffes steht. Jetzt brauchen wir das Geld für den Umbau, die Überführung sowie den ersten Monat auf See. Mindestens 80.000 Euro (die genaue Summe prüfen wir gerade) müssen wir bis Ende März zusammenbekommen. Ohne diese Mittel können wir nicht in See stechen. Auch die Finanzierung des Schiffes durch zwei Privatpersonen hängt davon ab, ob wir es schaffen, unser Spendenziel zu erreichen.
+                        </p>
+                        <br>
+                        <p>
+                            Wir suchen in ganz Deutschland und Europa nach engagierten Leuten, die Jugend Rettet bekannt machen und durch Spendenaktionen unser Schiff ermöglichen. 
+                        </p>
+                        <br>
+                        <p>
+                            Am 23.03.2016 kommt Jugend Rettet zum ersten Mal mit einem offenen Treffen nach Hamburg. Wir werden das Projekt und den aktuellen Arbeitstand vorstellen. Anschließend geht es um die Suche nach weiteren Unterstützer_innen in Lüneburg und es darf diskutiert werden. Unser Botschafter Marco, Vorsitzende Lena, sowie Alex aus dem Kernteam werden vor Ort sein.
+                        </p>
+                        <br>
+                        <p>
+                            Ort: T-Stube Universität Hamburg 
+                        </p>
+                        <p>
+                            Ihr findet die T-Stube im ersten Stock des “Pferdestalls”, am Allende-Platz 1, direkt neben dem Abaton Kino. Im Treppenhaus wendet ihr euch rechts, geht durch die Glastür, folgt den Gang um die Ecke und wandert bereits auf unsere große Tür zu.
+                        </p>
+                        <br>
+                        <p>
+                            Wir freuen uns auf euch!
+                        </p>
+                        <p>
+                            Euer Jugend Rettet Team
+                        </p>
+                        <br>
+                        <div class="event-container">
+                            <div class="event-date">Mittwoch, 23. März 2016</div>
+                            <div class="event-icon"><img src="./graphics/location.png" width="14px" alt="Location"></div>
+                            <div class="event-title"><a href="https://www.google.de/maps/place/Allende-Platz+1,+20146+Hamburg/@53.5673162,9.980366,17z/data=!3m1!4b1!4m2!3m1!1s0x47b18f3978679c37:0x51929722256d76de" target="_blank">T-Stube Universität Hamburg<br>Allende-Platz 1<br>20146 Hamburg</a></div><br>
+                            <div class="event-icon"><img src="./graphics/time.png" height="14px" alt="Time"></div>
+                            <div class="event-title">19:00 Uhr</div>
+                        </div><br>
+                    </div>
+
                 </div>
             </div>
             <div id="content">
