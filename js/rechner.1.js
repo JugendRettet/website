@@ -2,15 +2,15 @@ function rechnen(){
 
 	//var mq = window.matchMedia( "(min-width: 750px)" )
 
-	var teilbedarf = 1200
+	var teilbedarf = 3740
 	//var bedarf = 62250
 
 	var kosten = 80000
-	var kampagnengeld = 1150
+	var kampagnengeld = 1260
 	//var betterplacegeld = +kampagnengeld+3349.98
 	//var spakageld = 35122
 	//var stand = +betterplacegeld+spakageld
-	var stand = 62211
+	var stand = 64234
 
 	var balkenwidth = 300
 	var geldbalkenwidth = 260
