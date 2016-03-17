@@ -91,7 +91,7 @@
                     </div>
                     <div id="clockdiv">
                       <div>
-                        <p><span class="days"></span> days left to donate</p>
+                        <p><span class="days"></span> days left to donate for conversion</p>
                       </div>
                     </div>
                 </div>

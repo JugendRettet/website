@@ -91,7 +91,7 @@
                     </div>
                     <div id="clockdiv">
                       <div>
-                        <p>noch <span class="days"></span> Tage zum Spenden</p>
+                        <p>noch <span class="days"></span> Tage für den Umbau Spenden</p>
                       </div>
                     </div>
                 </div>
