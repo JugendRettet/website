@@ -261,7 +261,7 @@
                                     <p>
                                         Exciting news! The full 150.000€ which a ship will cost in our calculations, will be donated!
                                         <b>Condition</b> to this is, that we collect the money for conversion and running 
-                                        costs for the first month - <b>80.000€ - until March 31st</b>. We are stunned by this generosity. 
+                                        costs for the first month - <b>at least 80.000€ - until March 31st</b>. We are stunned by this generosity. 
                                         To make the conversion happen as planned, beginning April 1st, we need you more than ever: Please 
                                         support us by telling about us. Every little donation will bring us closer to our aim, to save human lives!
                                     </p>
