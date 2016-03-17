@@ -145,10 +145,8 @@
                             <p><b>BIC:</b> BELADEBEXXX</p>
                             <p><b>Kreditinstitut:</b> Berliner Sparkasse</p>
                         </div>
-                        <h4>Transparenz</h4>
-                        <a href="./transparenz"><img style="width:calc(100% - 12px);padding:5px;background:white;border:solid 1px #286482;" src="./graphics/Transparente_Zivilgesellschaft.svg"></a>
                         <br>
-                        <p><a href="./faq#18">Was passiert mit den Spendengeldern, wenn wir unser Ziel nicht erreichen?</a></p>
+                        <h4 style="padding-left:5px;"><a target="_blank" href="https://www.betterplace.org/de/organisations/26895-jugend-rettet-e-v">→ direkt spenden</a></h4>
                         <br>
                         <!--<h4>Rechner</h4>
                         <div id="rechner">
@@ -171,29 +169,6 @@
                                 <p>Bitte versuch es nur mit Zahlen.</p>
                             </div>
                         </div>-->
-                    </div>
-
-                    <div id="spendenbox" class="column">
-                        <h4 style="padding-left:5px;">direkt spenden</h4>
-                        <script type="text/javascript">
-                          /* Configure at https://www.betterplace.org/de/projects/39807-rette-mit-umbau-unseres-schiffes-zur-seenotrettung-im-mittelmeer/manage/iframe_donation_form */
-                          var _bp_iframe        = _bp_iframe || {};
-                          _bp_iframe.project_id = 39807; /* REQUIRED */
-                          _bp_iframe.lang       = 'de'; /* Language of the form */
-                          /* Remove "//" for further customization but *only* if you really need to! */
-                          // _bp_iframe.width = 600; /* Custom iframe-tag-width, integer */
-                          _bp_iframe.color = '286482'; /* Button and banderole color, hex without "#" */
-                          _bp_iframe.background_color = '142D3C'; /* Background-color, hex without "#" */
-                          _bp_iframe.default_amount = 50; /* Donation-amount, integer 1-99 */
-                          // _bp_iframe.default_data_transfer_accepted = false; /* true (default), false */
-                          // _bp_iframe.recurring_interval = 'single'; /* Interval for recurring donations, string out of ["single", "monthly", "quarter_yearly", "half_yearly", "yearly"] */
-                          (function() {
-                            var bp = document.createElement('script'); bp.type = 'text/javascript'; bp.async = true;
-                            bp.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'asset1.betterplace.org/assets/load_donation_iframe.js';
-                            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(bp, s);
-                          })();
-                        </script>
-                        <div id="betterplace_donation_iframe" style="background: transparent url('https://www.betterplace.org/assets/new_spinner.gif') 275px 20px no-repeat;"><strong><a href="https://www.betterplace.org/de/projects/39807-rette-mit-umbau-unseres-schiffes-zur-seenotrettung-im-mittelmeer/donations/new">Jetzt Spenden für „Rette mit! Umbau unseres Schiffes zur Seenotrettung im Mittelmeer“ bei unserem Partner betterplace.org</a></strong></div>
                     </div>
 
                     <div class="column hideme" style="min-width: 300px;">
@@ -282,6 +257,13 @@
                             <br>
                             <p>Unser Schiff wird etwa 32m lang sein. Bisher sind <?php echo $value1;?>m finanziert. Spende auch du 10 cm.</p>
                         </div>
+                    </div>
+
+                    <div class="column">
+                        <h4>Transparenz</h4>
+                        <a href="./transparenz"><img style="width:calc(100% - 12px);padding:5px;background:white;border:solid 1px #286482;" src="./graphics/Transparente_Zivilgesellschaft.svg"></a>
+                        <br>
+                        <p><a href="./faq#18">Was passiert mit den Spendengeldern, wenn wir unser Ziel nicht erreichen?</a></p>
                     </div>
                 </div>
             </div>
