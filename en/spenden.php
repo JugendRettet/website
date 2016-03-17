@@ -33,7 +33,7 @@
         <![endif]-->
 
         <script src="../js/jquery-1.10.2.min.js"></script>
-        <script src="../js/rechner.1.js?11"></script>
+        <!--<script src="../js/rechner.1.js?11"></script>-->
         <script src="../js/hideme.js"></script>
         <script type="text/javascript">
             $(window).load(function() {
@@ -136,7 +136,7 @@
                         <h4>Transparency (de)</h4>
                         <a href="https://jugendrettet.org/transparenz"><img style="width:calc(100% - 12px);padding:5px;background:white;border:solid 1px #286482;" src="../graphics/Transparente_Zivilgesellschaft.svg"></a>
                         <br>
-                        <h4>Calculator</h4>
+                        <!--<h4>Calculator</h4>
                         <div id="rechner">
                             <input type="Text" id="spendeinput" oninput="rechnen()"> €
                             <br><br>
@@ -156,7 +156,7 @@
                             <div id="spendentext-fehler" style="display:none">
                                 <p>Please try again with numbers only.</p>
                             </div>
-                        </div>
+                        </div>-->
                     </div>
 
                     <div id="spendenbox" class="column">
@@ -183,7 +183,7 @@
                     </div>
 
                     <div class="column hideme" style="min-width: 300px;">
-                        <h4>RAISED FUNDS: 64,494.24€</h4>
+                        <h4>RAISED FUNDS: 75,432.24€</h4>
                         <div id="schiff-ani">
                             <div class="schiff-klappe" id="1-klappe">
                                 <b>Ship's propeller</b>
@@ -222,7 +222,7 @@
                                 <div id="schiff" style="position:absolute">
                                   <img src="../graphics/schiff-starkekonturen-weiss.svg" alt="The Ship" style="width:300px;opacity:0.4">
                                 </div>
-                                <div class="blink balken" id="schiff-gespendet" style="position:absolute;overflow:hidden;width:calc(300px * 64494 / 80000);">
+                                <div class="blink balken" id="schiff-gespendet" style="position:absolute;overflow:hidden;width:calc(300px * 75432 / 80000);">
                                   <img src="../graphics/schiff-blau-starkekontur.svg" alt="The Ship" style="width:300px" class="blink">
                                 </div>
                                 <div style="position:absolute;width:300px;">
@@ -238,7 +238,7 @@
                                 </div>
                                 <div style="position:absolute;width:300px">
                                     <!--<span id="0" class="unterteilungen">0m</span>-->
-                                    <span id="stand" class="spendenstand schiff" style="white-space: nowrap;position:absolute;left: calc(-15px + 300px*64494/80000)">64.5 Tsd. €</span>
+                                    <span id="stand" class="spendenstand schiff" style="white-space: nowrap;position:absolute;left: calc(-15px + 300px*75432/80000)">75.4 Tsd. €</span>
                                 </div>
                             </div>
                         </div>
