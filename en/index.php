@@ -154,7 +154,7 @@
               var timeinterval = setInterval(updateClock, 1000);
             }
 
-            var deadline = '2016-03-31';
+            var deadline = '2016-04-01';
             initializeClock('clockdiv', deadline);
         </script>
         <script src="../js/shared.js"></script>
