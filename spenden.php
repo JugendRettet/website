@@ -62,7 +62,7 @@
             //   rechnen();
             //});
         </script>
-        <style type="text/css">
+        <!--<style type="text/css">
             #phase hr.load#ph-eins-progress {
                 transition: 800ms ease;
                 width: <?php
@@ -84,6 +84,15 @@
                         $phase3 = file_get_contents('donations/phase3.txt');
                         echo 100 / 290000 * $phase3;
                     ?>%;
+            }
+        </style>-->
+        <style type="text/css">
+            #phase hr.load#ph-eins-progress {
+                transition: 800ms ease;
+                width: <?php
+                    $phase1 = file_get_contents('donations/phase1.txt');
+                    $value1 = number_format((float)$phase1,0,",",".");
+                    ?>95%;
             }
         </style>
     </head>
@@ -188,7 +197,7 @@
                     </div>
 
                     <div class="column hideme" style="min-width: 300px;">
-                        <h4>SPENDENSTAND: 75.432,24€</h4>
+                        <h4>SPENDENSTAND</h4>
                         <div id="schiff-ani">
                             <div class="schiff-klappe" id="1-klappe">
                                 <b>Schiffsschraube</b>
@@ -227,7 +236,7 @@
                                 <div id="schiff" style="position:absolute">
                                   <img src="./graphics/schiff-starkekonturen-weiss.svg" alt="Das Schiff" style="width:300px;opacity:0.4">
                                 </div>
-                                <div class="blink balken" id="schiff-gespendet" style="position:absolute;overflow:hidden;width:calc(300px * 75432 / 80000);">
+                                <div class="blink balken" id="schiff-gespendet" style="position:absolute;overflow:hidden;width:calc(300px * 0.95);">
                                   <img src="./graphics/schiff-blau-starkekontur.svg" alt="Das Schiff" style="width:300px" class="blink">
                                 </div>
                                 <div style="position:absolute;width:300px;">
@@ -241,17 +250,16 @@
                                     <a id="7" class="unterteilungen schiff" style="position:absolute;left: calc(-15px + 300px*29/32)">29m</a>
                                     <a id="8" class="unterteilungen schiff" style="position:absolute;left: calc(-15px + 300px)">32m</a>
                                 </div>
-                                <div style="position:absolute;width:300px">
-                                    <!--<span id="0" class="unterteilungen">0m</span>-->
+                                <!--<div style="position:absolute;width:300px">
                                     <span id="stand" class="spendenstand schiff" style="white-space: nowrap;position:absolute;left: calc(-15px + 300px*75432/80000)">75.4 Tsd. €</span>
-                                </div>
+                                </div>-->
                             </div>
                         </div>
-                        <br><br>
+                        <br>
                         <div id="phase">
                             <div class="ph-container" id="ph-eins">
                                 <div class="header" style="text-align:center;">
-                                    <!--<span class="title">Phase 1</span>--><span class="percentage"><?php echo $value1;?>m / 32m</span>
+                                    <!--<span class="title">Phase 1</span>--><span class="percentage"><?php echo $value1;?> / 80+ Tsd. €</span>
                                     <hr id="ph-eins-progress">
                                 </div>
                                 <div class="content" id="ph-eins-content">

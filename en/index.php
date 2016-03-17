@@ -33,7 +33,7 @@
                 $('#phase hr#ph-eins-progress').addClass('load')
             });
         </script>
-        <style type="text/css">
+        <!--<style type="text/css">
             #phase hr.load#ph-eins-progress {
                 transition: 800ms ease;
                 width: <?php
@@ -41,6 +41,15 @@
                     $value1 = number_format((float)$phase1,0,".",",");
                     echo 100 / 80000 * $phase1;
                     ?>%;
+            }
+        </style>-->
+        <style type="text/css">
+            #phase hr.load#ph-eins-progress {
+                transition: 800ms ease;
+                width: <?php
+                    $phase1 = file_get_contents('../donations/phase1.txt');
+                    $value1 = number_format((float)$phase1,0,".",",");
+                    ?>95%;
             }
         </style>
     </head>
@@ -66,7 +75,7 @@
                         <div id="schiff" style="position:absolute">
                           <img src="../graphics/schiff-starkekonturen-weiss.svg" alt="Das Schiff" style="width:300px;opacity:0.4">
                         </div>
-                        <div class="blink balken" id="schiff-gespendet" style="position:absolute;overflow:hidden;width:calc(300px * 75432 / 80000);">
+                        <div class="blink balken" id="schiff-gespendet" style="position:absolute;overflow:hidden;width:calc(300px * 0.95);">
                           <img src="../graphics/schiff-blau-starkekontur.svg" alt="Das Schiff" style="width:300px" class="blink">
                         </div>
                     </div>
@@ -75,7 +84,7 @@
                     <div id="phase" style="text-transform:none;">
                         <div class="ph-container center" id="ph-eins" style="max-width:300px;">
                             <div class="header index-page">
-                                <!--<span class="title"> </span>--><span class="percentage"><?php echo $value1;?> / 80k €</span>
+                                <!--<span class="title"> </span>--><span class="percentage"><?php echo $value1;?> / 80k+ €</span>
                                 <hr id="ph-eins-progress">
                             </div>
                         </div>
