@@ -125,7 +125,7 @@
                             <li>1 Safety Advisor</li>
                             <li>2 Medical Doctors</li>
                         </ul>
-                        <p>Our Deckhands have STWC - Basic Safety Trainings.</p>
+                        <p>Our Deckhands will have STCW - Basic Safety Trainings.</p>
                     </div>
                     <div class="column">
                         <h4>Ambassadors</h4>

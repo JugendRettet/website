@@ -124,7 +124,7 @@
                             <li>1 Sicherheitsbeauftragte_r</li>
                             <li>2 Ärzt_innen</li>
                         </ul>
-                        <p>Unsere Deckhands legen STWC - Basic Safety Trainings ab.</p>
+                        <p>Unsere Deckhands legen STCW - Basic Safety Trainings ab.</p>
                     </div>
                     <div class="column">
                         <h4>Botschafter</h4>
