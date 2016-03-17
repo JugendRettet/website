@@ -243,8 +243,6 @@
                                     <p>Danke an alle, die schon so fleißig gespendet und von uns erzählt haben. Es gilt jetzt, alles zu mobilisieren, damit der Umbau für die Rettungsmissionen umgesetzt werden kann.</p>
                                     <br>
                                     <p>Weitere Infos zu unserem Schiff findest du <a href="schiff#wie">hier</a>.</p>
-                                    <br>
-                                    <p>Unser Schiff wird etwa 32m lang sein. Bisher sind <?php echo $value1;?>m finanziert. Spende auch du 10 cm.</p>
                                 </div>
                             </div>
                         </div>
@@ -254,8 +252,6 @@
                             <p>Danke an alle, die schon so fleißig gespendet und von uns erzählt haben. Es gilt jetzt, alles zu mobilisieren, damit der Umbau für die Rettungsmissionen umgesetzt werden kann.</p>
                             <br>
                             <p>Weitere Infos zu unserem Schiff findest du <a href="schiff#wie">hier</a>.</p>
-                            <br>
-                            <p>Unser Schiff wird etwa 32m lang sein. Bisher sind <?php echo $value1;?>m finanziert. Spende auch du 10 cm.</p>
                         </div>
                     </div>
 

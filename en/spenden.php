@@ -249,11 +249,6 @@
                                     </p>
                                     <br>
                                     <p>You can find further information on our ship <a href="schiff#wie">here</a>.</p>
-                                    <br>
-                                    <p>
-                                        Our ship will be 32m (105ft) long. By now, <?php echo $value1;?>m are funded.
-                                        Donate 10cm for yourself!
-                                    </p>
                                 </div>
                             </div>
                         </div>
@@ -272,11 +267,6 @@
                             </p>
                             <br>
                             <p>You can find further information on our ship <a href="schiff#wie">here</a>.</p>
-                            <br>
-                            <p>
-                                Our ship will be 32m (105ft) long. By now, <?php echo $value1;?>m are funded.
-                                Donate 10cm for yourself!
-                            </p>
                         </div>
                     </div>
 
