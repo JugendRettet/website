@@ -43,8 +43,8 @@
  </filesmatch>
 </ifmodule>
 
-Redirect /betterplace https://www.betterplace.org/de/organisations/26895-jugend-rettet-e-v
-Redirect /Betterplace https://www.betterplace.org/de/organisations/26895-jugend-rettet-e-v
+Redirect /betterplace https://www.betterplace.org/de/organisations/26895-jugend-rettet-e-v/donations/new
+Redirect /Betterplace https://www.betterplace.org/de/organisations/26895-jugend-rettet-e-v/donations/new
 
 Redirect /LG https://jugendrettet.org/events?date=22-03-2016
 Redirect /Lg https://jugendrettet.org/events?date=22-03-2016

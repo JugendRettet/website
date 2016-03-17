@@ -146,7 +146,7 @@
                             <p><b>Kreditinstitut:</b> Berliner Sparkasse</p>
                         </div>
                         <br>
-                        <h4 style="padding-left:5px;"><a target="_blank" href="https://www.betterplace.org/de/organisations/26895-jugend-rettet-e-v">→ direkt spenden</a></h4>
+                        <h4 style="padding-left:5px;"><a target="_blank" href="https://www.betterplace.org/de/organisations/26895-jugend-rettet-e-v/donations/new">→ direkt spenden</a></h4>
                         <br>
                         <!--<h4>Rechner</h4>
                         <div id="rechner">
