@@ -175,7 +175,6 @@ nav ul.hidden li.scale {
 #pop-back, #pop-back.blue {
     display: block;
     transition: 400ms;
-    height: 167px;
 }
 #pop-back.open {
     transition: 400ms;
@@ -184,7 +183,6 @@ nav ul.hidden li.scale {
 #header-back {
     transition: 400ms;
     width: 100%;
-    height: 167px;
     z-index: 30;
     position: fixed;
 }

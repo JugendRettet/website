@@ -231,8 +231,8 @@
                             </div>
                         </div>
                         <br>
-                        <div style="max-width:300px;" id="phase">
-                            <div class="ph-container" id="ph-eins">
+                        <div style="display:initial;" id="phase">
+                            <div style="max-width:300px;" class="ph-container" id="ph-eins">
                                 <div class="header" style="text-align:center;">
                                     <!--<span class="title">Phase 1</span>--><span class="percentage"><?php echo $value1;?> / 80+ Tsd. €</span>
                                     <hr id="ph-eins-progress">
