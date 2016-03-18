@@ -95,6 +95,114 @@
                           </div>
                       </div><br>
 
+                      <a class="faq" id="68"><b>11. März</b> Statement von Jan Josef Liefers </a>
+                      <div class="faq-klappe" id="68-klappe">
+                        <p>
+                          Hier nochmal kurz und knackig unsere aktuelle Situation erklärt von Jan Josef Liefers. Wir freuen uns sehr über die Unterstützung!
+                        </p>
+                        <p>
+                          Mittlerweile haben wir mit eurer Hilfe fast 60% geschafft. 19 Tage bleiben noch zum Spenden.
+                        </p>
+                        <a href="https://www.youtube.com/watch?v=pdud4bijQHU" target="_blank"><img class="news" src='./images/20160311.jpg'></a>
+                        <p>
+                          (Video)
+                        </p>
+                      </div><br>
+
+                      <a class="faq" id="65"><b>10. März</b> Statement von Maria Furtwängler </a>
+                      <div class="faq-klappe" id="65-klappe">
+                        <p>
+                          „Alle reden darüber. Viele haben eine Meinung. Und viel zu wenig Menschen handeln. Diese Initiative junger Menschen beeindruckt mich. Wir alle können davon lernen und uns inspirieren lassen von diesem Idealismus. Wir entwickeln uns nicht weiter durch die vielen Bedenkenträger sondern durch diejenigen, die ohne Bedenken vorbildlich Verantwortung tragen.“ 
+                        </p>
+                        <p>
+                          Vielen Dank an Maria Furtwängler für die Unterstützung!
+                        </p>
+                        <a href="./images/20160310.jpg" target="_blank"><img class="news" src='./images/20160310.jpg'></a>
+                      </div><br>
+
+                      <a class="faq" id="64"><b>10. März</b> Danke Koljah! </a>
+                      <div class="faq-klappe" id="64-klappe">
+                        <p>
+                          Wir sind ganz verliebt in die Antilopen Gang. Koljah hat uns gestern vorgestellt. Ein großes Dankeschön von unserer Seite. Wir sind schon Fans und können euch die Gang nur empfehlen. 
+                        </p>
+                      </div><br>
+
+                      <a class="faq" id="63"><b>08. März 2016</b> Unsere Verpflichtung zur Transparenz </a>
+                      <div class="faq-klappe" id="63-klappe">
+                        <p>
+                          Das Vertrauen unserer SpenderInnen und UnterstützerInnen wollen wir durch eine bestmögliche Transparenz über unsere Arbeit zurückgeben. Jugend Rettet ist deshalb offiziell Mitglied bei der Initiative Transparente Zivilgesellschaft (ITZ). Das bedeutet, dass wir uns freiwillig verpflichten, viele Informationen über unsere Vereinsstruktur, Tätigkeiten und Finanzen auf unserer Website öffentlich zugänglich zu machen und regelmäßig zu updaten: 
+                        </p>
+                        <p>
+                          <a target="_blank" href="./transparenz">&#8594; Transparenz</a>
+                        </p>
+                        <br>
+                        <p>
+                          Als einer der 733 Unterzeichner der Initiative sprechen wir uns klar für Transparenz im gemeinnützigen Sektor aus.
+                        </p>
+                        <br>
+                        <a href="./transparenz"><img style="width:calc(100% - 12px);padding:5px;background:white;border:solid 1px #286482;" src="./graphics/Transparente_Zivilgesellschaft.svg"></a>
+                      </div><br>
+
+                      <a class="faq" id="67"><b>04. März</b> Schlemmen für das Schiff </a>
+                      <div class="faq-klappe" id="67-klappe">
+                        <p>
+                          "helping Jugend Rettet e.V. saving the world, one cupcake at a time. thanks to Tristeza :: kollektivkneipe :: for having us!"
+                        </p>
+                        <p>
+                          Vielen Dank für diese schöne Aktion! 
+                        </p>
+                        <a href="./images/20160310_2.jpg" target="_blank"><img class="news" src='./images/20160310_2.jpg'></a>
+                      </div><br>
+
+                      <a class="faq" id="66"><b>04. März</b> Wohin fließen die Spenden? </a>
+                      <div class="faq-klappe" id="66-klappe">
+                        <p>
+                          Wohin fließen eigentlich im Moment eure Spenden? Hier eine kleine Übersicht. Wir achten darauf, unsere Ausgaben so gering wie möglich zu halten. 
+                        </p>
+                        <a href="./images/20160304.jpg" target="_blank"><img class="news" src='./images/20160304.jpg'></a>
+                      </div><br>
+
+                      <a class="faq" id="62"><b>29. Februar</b> Schiffsbesichtigung in Holland </a>
+                      <div class="faq-klappe" id="62-klappe">
+                        <p>
+                          Heute waren wir nochmal in den Niederlanden, um eines der für uns geeignetsten Schiffe ein zweites Mal zu besichtigen. Dabei ging es vor allem darum, dass wir uns ein detailierteres Bild für den Umbau machen können.
+                        </p>
+                        <a href="./images/20160229.jpg" target="_blank"><img class="news" src='./images/20160229.jpg'></a>
+                      </div><br>
+
+                      <a class="faq" id="61"><b>27. Februar</b> Bötchen-Spendenaktion in Liechtenstein </a>
+                      <div class="faq-klappe" id="61-klappe">
+                        <p>
+                          Danke an unsere Liechtensteiner Botschafterin Helena, die ähnlich wie Team Aachen eine Bötchen-Aktion gestartet hat und damit 1100€ sammeln konnte. Tolle Arbeit!
+                        </p>
+                        <p>
+                          Wenn ihr Helena bei ihrer Arbeit in Liechtenstein unterstützen wollt, schickt ihr eine Mail an <a href="mailto:helena@jugendrettet.org">helena@jugendrettet.org</a>.
+                        </p>
+                        <a href="./images/20160227.jpg" target="_blank"><img class="news" src='./images/20160227.jpg'></a>
+                      </div><br>
+
+                      <a class="faq" id="60"><b>26. Februar</b> Vortrag an der Beaconhurst School in England </a>
+                      <div class="faq-klappe" id="60-klappe">
+                        <p>
+                          Ein riesiger Dank geht heute an Jana von der Beaconhurst School in England, die am Vormittag an ihrem College einen Vortag über uns gehalten hat, um uns aktiv bei unseren Anliegen zu unterstützen. 
+                        </p>
+                        <a href="./images/20160226.jpg" target="_blank"><img class="news" src='./images/20160226.jpg'></a>
+                      </div><br>
+
+                      <a class="faq" id="59"><b>22. Februar</b> Jule blogt über uns bei "im gegenteil" </a>
+                      <div class="faq-klappe" id="59-klappe">
+                        <p>
+                          "Kein Dienst nach Plan, sondern eine Herzensangelegenheit"
+                       </p>
+                        <p>
+                          Jule von im gegenteil hat ein paar nette Worte über uns geschrieben! Wir freuen uns nicht nur über die positiven Worte von ihr, sondern auch, dass sie vielleicht im Sommer bei uns mit anpackt.
+                        </p>
+                        <br>
+                        <p>
+                          <a target="_blank" href="http://imgegenteil.de/blog/wie-jugendliche-menschen-aus-seenot-retten-wollen-waehrend-europa-versagt/">Link</a>
+                        </p>
+                      </div><br>
+
                       <a class="faq" id="58"><b>20. Februar</b> Start auf betterplace.org </a>
                       <div class="faq-klappe" id="58-klappe">
                         <p>
