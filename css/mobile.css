@@ -206,7 +206,7 @@ nav ul.hidden li.scale {
     margin: 0 -40px;
 }
 #menu {
-    padding: 127px 0 0;
+    padding: 60px 0 0;
     margin: 0 0 40px;
 }
 #menu.single {
@@ -262,13 +262,13 @@ nav ul.hidden li.scale {
 
 .popup, .popup-flat {
     width: calc(100% - 80px);
-    padding: 140px 0 0;
+    padding: 60px 0 0;
 }
 /*
     height: calc(100vh - 240px);
 */
 .popup-flat {
-    padding: 140px 0 40px;
+    padding: 60px 0 40px;
 }
 .scroller {
     display: block;
