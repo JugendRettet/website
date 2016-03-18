@@ -42,7 +42,7 @@ header ul li {
     width: 50px;
 }
 #bread, #cross {
-    margin-top: -17px;
+    margin-top: -10px;
 }
 #menu {
     padding: 90px 0 0;
@@ -51,7 +51,7 @@ header ul {
     margin: 120px auto 0;
 }
 #pop-back, #header-back, #pop-back.blue {
-    height: 120px;
+    height: 60px;
 }
 #pop-back.open {
     transition: 400ms;
@@ -83,6 +83,7 @@ footer {
     height: 100vh;
     margin: 0 40px;
     padding: 40px 0;
+    padding-top: 10px;
 }
 footer {
     background-color: rgba(20, 45, 60, 1);
@@ -122,7 +123,6 @@ footer .br {
 a#logo-wrap {
     position: fixed;
     width: 150px;
-    height: 70px;
     padding: 0px;
     margin: 0 calc(50% - 75px);
     margin-left: calc(50% - 75px - 40px);
@@ -134,7 +134,7 @@ a#logo-wrap {
     margin: 10px auto 0;
 }
 #bread {
-    padding: 35px 25px;
+    padding: 20px 25px;
     margin-left: -25px;
     display: block;
 }
@@ -147,12 +147,12 @@ header {
 }
 header ul {
     transition: 200ms;
-    margin: 150px auto 0;
+    margin: 60px auto 0;
     position: fixed;
 }
 header ul li {
     float: none;
-    padding: 10px 0;
+    padding: 7px 0;
 }
 nav ul.hidden li {
     transition: 400ms;
