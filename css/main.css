@@ -518,6 +518,7 @@ footer.start {
 }
 #header-back, #pop-back.open {
 	background-color: rgba(20,45,60,1.00) !important;
+	height: 120px;
 }
 .column a {
     transition: 200ms;

@@ -34,8 +34,8 @@
             });
         </script>
         <style>
-            li {margin-bottom: 5px;margin-top: 5px;}
-            ul {list-style: initial;}
+            ul.list li {margin-bottom: 5px;margin-top: 5px;}
+            ul.list {list-style: initial;}
         </style>
     </head>
 
@@ -597,7 +597,7 @@ Botschafter des Vereins werden auch vor Ort über das Projekt informieren und de
                         <p>
                             Für pickepacke feinstes Musikprogramm sorgen:
                         </p>
-                        <ul>
+                        <ul class="list">
                             <li>Pascal Iversen</li>
                             <li>Docmadeli <a target="_blank" href="https://soundcloud.com/docmadeli">[https://soundcloud.com/docmadeli]</a></li>
                             <li>Background Radiation <a target="_blank" href="https://soundcloud.com/background-radiation">[https://soundcloud.com/background-radiation]</a> </li>
