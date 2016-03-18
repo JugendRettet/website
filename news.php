@@ -95,6 +95,74 @@
                           </div>
                       </div><br>
 
+                      <a class="faq" id="75"><b>18. März</b> Bericht über Jugend Rettet bei ZEITjUNG </a>
+                      <div class="faq-klappe" id="75-klappe">
+                        <p>Wir hatten diese Woche ein nettes Gespräch mit ZEITjUNG.de. Das Ergebnis könnt ihr hier lesen.</p>
+                        <p>
+                          <a href="http://zeitjung.de/organisation-seenot-fluechtlinge-jugendrettet/">&#8594; Link</a>
+                        </p>
+                      </div><br>
+
+                      <a class="faq" id="74"><b>18. März</b> Bericht über Jugend Rettet bei Zeit Online </a>
+                      <div class="faq-klappe" id="74-klappe">
+                        <p>
+                          <a href="http://www.zeit.de/studium/uni-leben/2016-03/jugend-rettet-fluechtlinge-mittelmeer-private-seenothilfe">&#8594; Link</a>
+                        </p>
+                      </div><br>
+
+                      <a class="faq" id="73"><b>17. März</b> Blutspendenaktionen Bonn </a>
+                      <div class="faq-klappe" id="73-klappe">
+                        <p>
+                          Heute fand zum zweiten und vorerst letzten Mal die Blutspendeaktion in Bonn statt. Unser Botschafter Tobi und sein Team haben diese Aktion mit dem Blutspendedienst Haema Blutspendedienst organisiert, bei der durch jede Blutspende 25€ direkt an uns und die Finanzierung des Schiffes gingen. Eine schöne Gelegenheit gleich 2x etwas Gutes zu tun und wir sagen Dankeschön an alle Beteiligten.
+                        </p>
+                        <p>
+                          Wenn ihr mit Tobi und dem Team Bonn in Kontakt treten wollt, könnt ihr das via Mail: <a href="mailto:tobias@jugendrettet.org">tobias@jugendrettet.org</a>.
+                        </p>
+                        <a href="./images/20160317.jpg" target="_blank"><img class="news" src='./images/20160317.jpg'></a>
+                      </div><br>
+
+                      <a class="faq" id="72"><b>17. März</b> Jugend Rettet im ZDF beim "Morgenmagazin" </a>
+                      <div class="faq-klappe" id="72-klappe">
+                        <p>
+                          Heute Morgen waren wir wieder im ZDF. Diesmal beim "Morgenmagazin".
+                        </p>
+                        <p>
+                          Lena und Jakob haben mit Dunja Hayali über die aktuelle Situation und die geplanten Rettungsaktionen gesprochen.
+                        </p>
+                        <a href="https://www.youtube.com/watch?v=zl4Ga1oY2Fo" target="_blank"><img class="news" src='./images/20160317_2.jpg'></a>
+                        <p>
+                          (Video)
+                        </p>
+                      </div><br>
+
+                      <a class="faq" id="71"><b>16. März</b> Jugend Rettet im ZDF bei "heute – in Deutschland"  </a>
+                      <div class="faq-klappe" id="71-klappe">
+                        <p>
+                          Heute Mittag waren wir im ZDF bei "heute – in Deutschland" zu sehen!
+                        </p>
+                        <p>
+                          Es wurde auf die aktuelle Situation und unsere politische Forderung hingewiesen.
+                        </p>
+                        <a href="https://www.youtube.com/watch?v=PRWG8YXvOdk" target="_blank"><img class="news" src='./images/20160316.jpg'></a>
+                        <p>
+                          (Video)
+                        </p>
+                      </div><br>
+
+                      <a class="faq" id="70"><b>15. März</b> Offenes Treffen im Emsland </a>
+                      <div class="faq-klappe" id="70-klappe">
+                        <p>
+                          Heute fand das erste Treffen im Emsland statt. Unser Botschafter hat euch das Projekt und den aktuellen Arbeitsstand vorgestellt, diskutiert und nach weiteren Unterstützer_innen gesucht.
+                        </p>
+                      </div><br>
+
+                      <a class="faq" id="69"><b>14. März</b> Offenes Treffen im Baiz Berlin </a>
+                      <div class="faq-klappe" id="69-klappe">
+                        <p>
+                          Am Montag fand ein weiteres offenes Treffen im Baiz Berlin statt. Wir stellten das Projekt und unseren aktuellen Arbeitsstand vor.
+                        </p>
+                      </div><br>
+
                       <a class="faq" id="68"><b>11. März</b> Statement von Jan Josef Liefers </a>
                       <div class="faq-klappe" id="68-klappe">
                         <p>
