@@ -88,7 +88,7 @@
                 transition: 800ms ease;
                 width: <?php
                     $phase1 = file_get_contents('../donations/phase1.txt');
-                    $value1 = number_format((float)$phase1,0,".",",");
+                    $value1 = number_format((float)$phase1,2,".",",");
                     ?>95%;
             }
         </style>
