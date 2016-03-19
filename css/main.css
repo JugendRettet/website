@@ -582,7 +582,7 @@ a.faq.open {
 #aendern-btn:hover {
     transition: 200ms;
     color: rgba(255,255,255,1.00);
-    background-color: rgba(25,60,80,1.00);
+    background-color: #286482;
 }
 #aendern-field, #aendern-field:hover {
     cursor: default;
