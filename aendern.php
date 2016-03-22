@@ -168,7 +168,7 @@
                         <p>- Kapitän_in</p>
                         <p>- Steuermann_frau</p>
                         <p>- Maschinist_in</p>
-                        <p>- Deckhands (Beibooote steuern und funken können)</p>
+                        <p>- Deckhands (Beiboote steuern und funken können)</p>
                         <p>- Ärzt_innen</p>
                         <p>- ausgebildete Rettungssanitäter_innen</p>
                         <p>- Pflegepersonal</p><br>
