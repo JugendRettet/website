@@ -163,14 +163,15 @@
                         <h4><img alt="cap" class="icon" src="./graphics/cap.svg">Retter</h4>
                         <p>Du willst als  Crewmitglied die Rettung auf dem Mittelmeer durchführen?</p>
                         <div class="mehr-klappe"><br>
-                            <p>Wir suchen Menschen mit Berufserfahrung, die sich über das hohe Risiko der Rettungsaktionen bewusst sind. Bitte frage dich selbst, ob du dir die Situation zutraust. Aufgrund der besonderen Anforderungen sind wir gezwungen die Crew sehr sorgsam auszuwählen.<br><br>
+                        <p>Wir suchen Menschen mit Berufserfahrung, die sich über das hohe Risiko der Rettungsaktionen bewusst sind. Bitte frage dich selbst, ob du dir die Situation zutraust. Aufgrund der besonderen Anforderungen sind wir gezwungen die Crew sehr sorgsam auszuwählen.<br><br>
                         <p>Wir suchen derzeit:</p>
-                        <p>- Kapitän</p>
-                        <p>- Steuermann</p>
-                        <p>- Maschinist</p>
+                        <p>- Kapitän_in</p>
+                        <p>- Steuermann_frau</p>
+                        <p>- Maschinist_in</p>
                         <p>- Deckhands (Beibooote steuern und funken können)</p>
-                        <p>- Ärzte</p>
-                        <p>- ausgebildete Rettungssanitäter</p><br>
+                        <p>- Ärzt_innen</p>
+                        <p>- ausgebildete Rettungssanitäter_innen</p>
+                        <p>- Pflegepersonal</p><br>
                         <a href="mailto:retter@jugendrettet.org" class="link">retter@jugendrettet.org</a><br><br>
                         <p>Setze dich bei ernsthaftem Interesse mit uns in Verbindung. Wir freuen uns über deine Bewerbung.</p>
                         </div>
