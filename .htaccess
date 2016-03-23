@@ -46,10 +46,10 @@
 Redirect /betterplace https://www.betterplace.org/de/organisations/26895-jugend-rettet-e-v/donations/new
 Redirect /Betterplace https://www.betterplace.org/de/organisations/26895-jugend-rettet-e-v/donations/new
 
-Redirect /LG https://jugendrettet.org/events?date=22-03-2016
-Redirect /Lg https://jugendrettet.org/events?date=22-03-2016
-Redirect /lg https://jugendrettet.org/events?date=22-03-2016
-Redirect /lG https://jugendrettet.org/events?date=22-03-2016
+Redirect /LG https://jugendrettet.org/news
+Redirect /Lg https://jugendrettet.org/news
+Redirect /lg https://jugendrettet.org/news
+Redirect /lG https://jugendrettet.org/news
 
 Redirect /HH https://jugendrettet.org/events?date=23-03-2016
 Redirect /Hh https://jugendrettet.org/events?date=23-03-2016
