@@ -735,6 +735,10 @@ Botschafter des Vereins werden auch vor Ort über das Projekt informieren und de
                         <p><a target="_blank" href="https://www.facebook.com/events/1159345550751103/">→ facebook</a></p>
                         <br>
                         <p>
+                            Update: Es wird Snacks und Getränke geben.
+                        </p>
+                        <br>
+                        <p>
                             Im Jahr 2015 ertranken 3771 Menschen, bei dem Versuch über das Mittelmeer nach Europa zu flüchten. Die Dunkelziffer liegt weiter darüber. Diese Situation können wir nicht länger hinnehmen. Jeder Mensch verdient die Rettung aus Seenot!
                         </p>
                         <p>
