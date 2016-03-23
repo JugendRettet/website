@@ -621,14 +621,6 @@
                     <div class="column">
                       <h4>Events</h4>
                         <p>Hier findest du die Termine für die nächsten Jugend Rettet europe Treffen und Fortbildungen.</p><br>
-                        <a href="events?date=18-03-2016" class="event-container">
-                            <span class="event-date">Freitag, 18. März 2016</span>
-                            <span class="event-title">Soli-Party - Feiern für den Umbau</span>
-                        </a>
-                        <a href="events?date=22-03-2016" class="event-container">
-                            <span class="event-date">Dienstag, 22. März 2016</span>
-                            <span class="event-title">Offenes Treffen Lüneburg</span>
-                        </a>
                         <a href="events?date=23-03-2016" class="event-container">
                             <span class="event-date">Mittwoch, 23. März 2016</span>
                             <span class="event-title">Offenes Treffen Hamburg</span>

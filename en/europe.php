@@ -126,12 +126,12 @@
                         <a href="events?date=11-02-2016" class="event-container">
                             <span class="event-date">Thursday, February 11th 2016</span>
                             <span class="event-title">Remembrance for the fatalities during escape 2015, in Bonn</span>
-                        </a> -->
+                        </a>
 
                         <a href="events?date=18-03-2016" class="event-container">
                             <span class="event-date">Friday, March 18th 2016</span>
                             <span class="event-title">Soli-Party - Party for the conversion</span>
-                        </a>
+                        </a> -->
 
                     </div>
                 </div>

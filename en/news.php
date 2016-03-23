@@ -389,10 +389,6 @@
                     <div class="column">
                       <h4>Events</h4>
                         <p>Here you may find the schedules for the next meetings of Jugend Rettet europe and further education.</p><br>
-                        <a href="events?date=18-03-2016" class="event-container">
-                            <span class="event-date">Friday, March 18th 2016</span>
-                            <span class="event-title">Soli-Party - Party for the conversion</span>
-                        </a>
                     </div>
                 </div>
                 <!--
