@@ -165,11 +165,11 @@
                         <a href="events?date=22-03-2016" class="event-container">
                             <span class="event-date">Dienstag, 22. März 2016</span>
                             <span class="event-title">Offenes Treffen Lüneburg</span>
-                        </a> -->
+                        </a>
                         <a href="events?date=23-03-2016" class="event-container">
                             <span class="event-date">Mittwoch, 23. März 2016</span>
                             <span class="event-title">Offenes Treffen Hamburg</span>
-                        </a>
+                        </a> -->
 
                     </div>
                 </div>
