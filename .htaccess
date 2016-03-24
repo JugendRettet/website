@@ -51,10 +51,10 @@ Redirect /Lg https://jugendrettet.org/news
 Redirect /lg https://jugendrettet.org/news
 Redirect /lG https://jugendrettet.org/news
 
-Redirect /HH https://jugendrettet.org/events?date=23-03-2016
-Redirect /Hh https://jugendrettet.org/events?date=23-03-2016
-Redirect /hh https://jugendrettet.org/events?date=23-03-2016
-Redirect /hH https://jugendrettet.org/events?date=23-03-2016
+Redirect /HH https://jugendrettet.org/news
+Redirect /Hh https://jugendrettet.org/news
+Redirect /hh https://jugendrettet.org/news
+Redirect /hH https://jugendrettet.org/news
 
 # Error Documents
 ErrorDocument 403 https://jugendrettet.org/forbidden
