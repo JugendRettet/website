@@ -91,7 +91,7 @@
                     </div>
                     <div id="clockdiv">
                       <div>
-                        <p>noch <span class="days"></span> Tage für den Umbau Spenden</p>
+                        <p>noch <span class="days" style="display:none;">0</span><span class="hours">0</span>:<span class="minutes">0</span>:<span class="seconds">0</span>h für den Umbau Spenden</p>
                       </div>
                     </div>
                 </div>
@@ -150,7 +150,7 @@
                 var t = getTimeRemaining(endtime);
 
                 daysSpan.innerHTML = t.days;
-                hoursSpan.innerHTML = ('0' + t.hours).slice(-2);
+                hoursSpan.innerHTML = ('0' + t.hours).slice(-2) - 2;
                 minutesSpan.innerHTML = ('0' + t.minutes).slice(-2);
                 secondsSpan.innerHTML = ('0' + t.seconds).slice(-2);
 
