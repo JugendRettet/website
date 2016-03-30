@@ -91,7 +91,7 @@
                     </div>
                     <div id="clockdiv">
                       <div>
-                        <p><span class="days" style="display:none;">0</span><span class="hours">0</span>:<span class="minutes">0</span>:<span class="seconds">0</span>h left to donate for conversion</p>
+                        <p><span class="days" style="display:none;">0</span><span class="hours">0</span>:<span class="minutes">0</span>:<span class="seconds">0</span><span style="text-transform: none;">h</span> left to donate for conversion</p>
                       </div>
                     </div>
                 </div>
@@ -128,7 +128,7 @@
               var t = Date.parse(endtime) - Date.parse(new Date());
               var seconds = Math.floor((t / 1000) % 60);
               var minutes = Math.floor((t / 1000 / 60) % 60);
-              var hours = Math.floor((t / (1000 * 60 * 60)) % 24);
+              var hours = Math.floor((t / (1000 * 60 * 60)) % 48);
               var days = Math.floor(t / (1000 * 60 * 60 * 24));
               return {
                 'total': t,
