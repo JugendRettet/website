@@ -235,17 +235,10 @@
                                     <hr id="ph-eins-progress">
                                 </div>
                                 <div class="content" id="ph-eins-content">
-                                    <p>
-                                        Exciting news! The full 150.000€ which a ship will cost in our calculations, will be donated!
-                                        <b>Condition</b> to this is, that we collect the money for conversion and running 
-                                        costs for the first month - <b>at least 80.000€ - until March 31st</b>. We are stunned by this generosity. 
-                                        To make the conversion happen as planned, beginning April 1st, we need you more than ever: Please 
-                                        support us by telling about us. Every little donation will bring us closer to our aim, to save human lives!
-                                    </p>
+                                    <p>Funding Phase 2 &#10003; Thanks!<br>How will we proceed?</p>
                                     <br>
                                     <p>
-                                        Thank you so much everyone, who already donated to us and spread our word. It is important now to get 
-                                        everything going, so the conversion for rescue missions can be realized.
+                                        Dear Supporters! We steadily work towards being able to start our rescue mission in June. Our aim abides: Everyone in maritime emergency deserves rescue. Together with the wharf, we are performing some last examinations and finalize plans for converting the ship. This implies that we need some more time until we can share definite news concerning our next steps. Please bear with us. What is set, is that we now start the next stage, 'Rescue Mission'. Your support for the first rescue mission in summer is needed! We appreciate every help. Rescue too!
                                     </p>
                                     <br>
                                     <p>You can find further information on our ship <a href="schiff#wie">here</a>.</p>
@@ -253,17 +246,10 @@
                             </div>
                         </div>
                         <div class="content ie">
-                            <p>
-                                Exciting news! The full 150.000€ which a ship will cost in our calculations, will be donated!
-                                <b>Condition</b> to this is, that we collect the money for conversion and running 
-                                costs for the first month - <b>80.000€ - until March 31st</b>. We are stunned by this generosity. 
-                                To make the conversion happen as planned, beginning April 1st, we need you more than ever: Please 
-                                support us by telling about us. Every little donation will bring us closer to our aim, to save human lives!
-                            </p>
+                            <p>Funding Phase 2 &#10003; Thanks!<br>How will we proceed?</p>
                             <br>
                             <p>
-                                Thank you so much everyone, who already donated to us and spread our word. It is important now to get 
-                                everything going, so the conversion for rescue missions can be realized.
+                                Dear Supporters! We steadily work towards being able to start our rescue mission in June. Our aim abides: Everyone in maritime emergency deserves rescue. Together with the wharf, we are performing some last examinations and finalize plans for converting the ship. This implies that we need some more time until we can share definite news concerning our next steps. Please bear with us. What is set, is that we now start the next stage, 'Rescue Mission'. Your support for the first rescue mission in summer is needed! We appreciate every help. Rescue too!
                             </p>
                             <br>
                             <p>You can find further information on our ship <a href="schiff#wie">here</a>.</p>

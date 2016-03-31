@@ -240,7 +240,7 @@
                                 <div class="content" id="ph-eins-content">
                                     <p>Spendenphase 2 &#10003; Danke!<br>Wie geht's weiter?</p>
                                     <br>
-                                    <p>Liebe Unterstützer_innen! Wir arbeiten stetig daran, dass wir im Juni mit der Rettungsmission starten können. Unser Ziel bleibt: Jeder Mensch verdient die Rettung aus Seenot. Unsere Umbaupläne werden zur Zeit mit der Werft abgeschlossen und noch einigen letzten Prüfungen unterzogen. Das bedeutet auch, dass wir noch Zeit brauchen um euch mit den konkreten Neuigkeiten zu unseren nächsten Schritten versorgen zu können. Bitte habt noch einen Moment Geduld! Soviel steht aber: Wir starten jetzt mit der neuen Etappe "Rettungsmission": Eure Unterstützung für den ersten Rettungseinsatz im Sommer wird gebraucht! Wir freuen uns über eure Hilfe. Rettet mit!</p>
+                                    <p>Liebe Unterstützer_innen! Wir arbeiten stetig daran, dass wir im Juni mit der Rettungsmission starten können. Unser Ziel bleibt: Jeder Mensch verdient die Rettung aus Seenot. Unsere Umbaupläne werden zur Zeit mit der Werft abgeschlossen und noch einigen letzten Prüfungen unterzogen. Das bedeutet auch, dass wir noch Zeit brauchen um euch mit den konkreten Neuigkeiten zu unseren nächsten Schritten versorgen zu können. Bitte habt noch Geduld! Soviel steht aber: Wir starten jetzt mit der neuen Etappe "Rettungsmission". Eure Unterstützung für den ersten Rettungseinsatz im Sommer wird gebraucht! Wir freuen uns über eure Hilfe. Rettet mit!</p>
                                     <br>
                                     <p>Weitere Infos zu unserem Schiff findest du <a href="schiff#wie">hier</a>.</p>
                                 </div>
@@ -249,7 +249,7 @@
                         <div class="content ie">
                             <p>Spendenphase 2 &#10003; Danke!<br>Wie geht's weiter?</p>
                                 <br>
-                                <p>Liebe Unterstützer_innen! Wir arbeiten stetig daran, dass wir im Juni mit der Rettungsmission starten können. Unser Ziel bleibt: Jeder Mensch verdient die Rettung aus Seenot. Unsere Umbaupläne werden zur Zeit mit der Werft abgeschlossen und noch einigen letzten Prüfungen unterzogen. Das bedeutet auch, dass wir noch Zeit brauchen um euch mit den konkreten Neuigkeiten zu unseren nächsten Schritten versorgen zu können. Bitte habt noch einen Moment Geduld! Soviel steht aber: Wir starten jetzt mit der neuen Etappe "Rettungsmission": Eure Unterstützung für den ersten Rettungseinsatz im Sommer wird gebraucht! Wir freuen uns über eure Hilfe. Rettet mit!</p>
+                                <p>Liebe Unterstützer_innen! Wir arbeiten stetig daran, dass wir im Juni mit der Rettungsmission starten können. Unser Ziel bleibt: Jeder Mensch verdient die Rettung aus Seenot. Unsere Umbaupläne werden zur Zeit mit der Werft abgeschlossen und noch einigen letzten Prüfungen unterzogen. Das bedeutet auch, dass wir noch Zeit brauchen um euch mit den konkreten Neuigkeiten zu unseren nächsten Schritten versorgen zu können. Bitte habt noch Geduld! Soviel steht aber: Wir starten jetzt mit der neuen Etappe "Rettungsmission". Eure Unterstützung für den ersten Rettungseinsatz im Sommer wird gebraucht! Wir freuen uns über eure Hilfe. Rettet mit!</p>
                                 <br>
                                 <p>Weitere Infos zu unserem Schiff findest du <a href="schiff#wie">hier</a>.</p>
                         </div>
