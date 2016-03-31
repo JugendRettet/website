@@ -92,7 +92,7 @@
                 width: <?php
                     $phase1 = file_get_contents('donations/phase1.txt');
                     $value1 = number_format((float)$phase1,2,",",".");
-                    ?>95%;
+                    ?>100%;
             }
         </style>
     </head>
@@ -211,8 +211,8 @@
                                 <div id="schiff" style="position:absolute">
                                   <img src="./graphics/schiff-starkekonturen-weiss.svg" alt="Das Schiff" style="width:300px;opacity:0.4">
                                 </div>
-                                <div class="blink balken" id="schiff-gespendet" style="position:absolute;overflow:hidden;width:calc(300px * 0.95);">
-                                  <img src="./graphics/schiff-blau-starkekontur.svg" alt="Das Schiff" style="width:300px" class="blink">
+                                <div class="balken" id="schiff-gespendet" style="position:absolute;overflow:hidden;width:300px;">
+                                  <img src="./graphics/schiff-blau-starkekontur.svg" alt="Das Schiff" style="width:300px">
                                 </div>
                                 <div style="position:absolute;width:300px;">
                                     <!--<span id="0" class="unterteilungen">0m</span>-->
@@ -234,24 +234,24 @@
                         <div style="display:initial;" id="phase">
                             <div style="max-width:300px;" class="ph-container" id="ph-eins">
                                 <div class="header" style="text-align:center;">
-                                    <!--<span class="title">Phase 1</span>--><span class="percentage"><?php echo $value1;?> / 80+ Tsd. €</span>
+                                    <!--<span class="title">Phase 1</span>--><span class="percentage"><?php echo $value1;?> €</span>
                                     <hr id="ph-eins-progress">
                                 </div>
                                 <div class="content" id="ph-eins-content">
-                                    <p>Die erste Etappe ist geschafft! Die Finanzierung für den Kauf unseres Schiffes steht. Jetzt brauchen wir das Geld für den Umbau, die Überführung sowie den ersten Monat auf See. <b>Mindestens 80.000 Euro</b> (die genaue Summe prüfen wir gerade) müssen wir <b>bis Ende März</b> zusammenbekommen. Ohne diese Mittel können wir nicht in See stechen. Auch die Finanzierung des Schiffes durch zwei Privatpersonen hängt davon ab, ob wir es schaffen, unser Spendenziel zu erreichen. Damit der Umbau ab 01. April planmäßig stattfinden kann, benötigen wir euch nun mehr denn je: Bitte unterstützt uns, indem ihr weiterhin von uns erzählt. Jede noch so kleine Spende bringt uns unserem Ziel, Menschenleben zu retten, weiter!</p>
+                                    <p>Spendenphase 2 &#10003; Danke!<br>Wie geht's weiter?</p>
                                     <br>
-                                    <p>Danke an alle, die schon so fleißig gespendet und von uns erzählt haben. Es gilt jetzt, alles zu mobilisieren, damit der Umbau für die Rettungsmissionen umgesetzt werden kann.</p>
+                                    <p>Liebe Unterstützer_innen! Wir arbeiten stetig daran, dass wir im Juni mit der Rettungsmission starten können. Unser Ziel bleibt: Jeder Mensch verdient die Rettung aus Seenot. Unsere Umbaupläne werden zur Zeit mit der Werft abgeschlossen und noch einigen letzten Prüfungen unterzogen. Das bedeutet auch, dass wir noch Zeit brauchen um euch mit den konkreten Neuigkeiten zu unseren nächsten Schritten versorgen zu können. Bitte habt noch einen Moment Geduld! Soviel steht aber: Wir starten jetzt mit der neuen Etappe "Rettungsmission": Eure Unterstützung für den ersten Rettungseinsatz im Sommer wird gebraucht! Wir freuen uns über eure Hilfe. Rettet mit!</p>
                                     <br>
                                     <p>Weitere Infos zu unserem Schiff findest du <a href="schiff#wie">hier</a>.</p>
                                 </div>
                             </div>
                         </div>
                         <div class="content ie">
-                            <p>Die erste Etappe ist geschafft! Die Finanzierung für den Kauf unseres Schiffes steht. Jetzt brauchen wir das Geld für den Umbau, die Überführung sowie den ersten Monat auf See. Mindestens <b>80.000 Euro</b> (die genaue Summe prüfen wir gerade) müssen wir <b>bis Ende März</b> zusammenbekommen. Ohne diese Mittel können wir nicht in See stechen. Auch die Finanzierung des Schiffes durch zwei Privatpersonen hängt davon ab, ob wir es schaffen, unser Spendenziel zu erreichen. Damit der Umbau ab 01. April planmäßig stattfinden kann, benötigen wir euch nun mehr denn je: Bitte unterstützt uns, indem ihr weiterhin von uns erzählt. Jede noch so kleine Spende bringt uns unserem Ziel, Menschenleben zu retten, weiter!</p>
-                            <br>
-                            <p>Danke an alle, die schon so fleißig gespendet und von uns erzählt haben. Es gilt jetzt, alles zu mobilisieren, damit der Umbau für die Rettungsmissionen umgesetzt werden kann.</p>
-                            <br>
-                            <p>Weitere Infos zu unserem Schiff findest du <a href="schiff#wie">hier</a>.</p>
+                            <p>Spendenphase 2 &#10003; Danke!<br>Wie geht's weiter?</p>
+                                <br>
+                                <p>Liebe Unterstützer_innen! Wir arbeiten stetig daran, dass wir im Juni mit der Rettungsmission starten können. Unser Ziel bleibt: Jeder Mensch verdient die Rettung aus Seenot. Unsere Umbaupläne werden zur Zeit mit der Werft abgeschlossen und noch einigen letzten Prüfungen unterzogen. Das bedeutet auch, dass wir noch Zeit brauchen um euch mit den konkreten Neuigkeiten zu unseren nächsten Schritten versorgen zu können. Bitte habt noch einen Moment Geduld! Soviel steht aber: Wir starten jetzt mit der neuen Etappe "Rettungsmission": Eure Unterstützung für den ersten Rettungseinsatz im Sommer wird gebraucht! Wir freuen uns über eure Hilfe. Rettet mit!</p>
+                                <br>
+                                <p>Weitere Infos zu unserem Schiff findest du <a href="schiff#wie">hier</a>.</p>
                         </div>
                     </div>
 

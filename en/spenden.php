@@ -89,7 +89,7 @@
                 width: <?php
                     $phase1 = file_get_contents('../donations/phase1.txt');
                     $value1 = number_format((float)$phase1,2,".",",");
-                    ?>95%;
+                    ?>100%;
             }
         </style>
     </head>
@@ -208,7 +208,7 @@
                                 <div id="schiff" style="position:absolute">
                                   <img src="../graphics/schiff-starkekonturen-weiss.svg" alt="The Ship" style="width:300px;opacity:0.4">
                                 </div>
-                                <div class="blink balken" id="schiff-gespendet" style="position:absolute;overflow:hidden;width:calc(300px * 0.95);">
+                                <div class="blink balken" id="schiff-gespendet" style="position:absolute;overflow:hidden;width:300px;">
                                   <img src="../graphics/schiff-blau-starkekontur.svg" alt="The Ship" style="width:300px" class="blink">
                                 </div>
                                 <div style="position:absolute;width:300px;">
@@ -231,7 +231,7 @@
                         <div style="display:initial;" id="phase">
                             <div style="max-width:300px;" class="ph-container" id="ph-eins">
                                 <div class="header" style="text-align:center;">
-                                    <!--<span class="title">Phase 1</span>--><span class="percentage"><?php echo $value1;?> / 80k+ €</span>
+                                    <!--<span class="title">Phase 1</span>--><span class="percentage"><?php echo $value1;?> €</span>
                                     <hr id="ph-eins-progress">
                                 </div>
                                 <div class="content" id="ph-eins-content">

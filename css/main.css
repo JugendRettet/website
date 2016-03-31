@@ -455,7 +455,7 @@ footer.start {
     border: none;
 }
 #phase div.index-page hr {
-    background-color: rgb(40,100,130);
+    background-color: rgba(40,100,130,0.4);
 }
 #phase .header:hover > hr.load, #phase hr.indicator {
     background-color: rgb(40,100,130);

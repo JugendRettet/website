@@ -49,7 +49,7 @@
                 width: <?php
                     $phase1 = file_get_contents('donations/phase1.txt');
                     $value1 = number_format((float)$phase1,2,",",".");
-                    ?>95%;
+                    ?>100%;
             }
         </style>
     </head>
@@ -73,10 +73,10 @@
                 <div class="index" id="schiff-ani">
                     <div id="schiff-container" class="center" style="min-height:133px;width:300px;">
                         <div id="schiff" style="position:absolute">
-                          <img src="./graphics/schiff-starkekonturen-weiss.svg" alt="Das Schiff" style="width:300px;opacity:0.4">
+                          <img src="./graphics/schiff-starkekonturen-weiss.svg" alt="Das Schiff" style="width:300px;">
                         </div>
-                        <div class="blink balken" id="schiff-gespendet" style="position:absolute;overflow:hidden;width:calc(300px * 0.95);">
-                          <img src="./graphics/schiff-blau-starkekontur.svg" alt="Das Schiff" style="width:300px" class="blink">
+                        <div class="balken" id="schiff-gespendet" style="position:absolute;overflow:hidden;width:300px;">
+                          <img src="./graphics/schiff-blau-starkekontur.svg" alt="Das Schiff" style="width:300px;opacity:0.4">
                         </div>
                     </div>
                 </div>
@@ -84,14 +84,14 @@
                     <div id="phase" style="text-transform:none;">
                         <div class="ph-container center" id="ph-eins" style="max-width:300px;">
                             <div class="header index-page">
-                                <!--<span class="title"> </span>--><span class="percentage"><?php echo $value1;?> / 80+ Tsd. €</span>
+                                <span class="percentage"><?php echo $value1;?> €</span>
                                 <hr id="ph-eins-progress">
                             </div>
                         </div>
                     </div>
                     <div id="clockdiv">
                       <div>
-                        <p>noch <span class="days" style="display:none;">0</span><span class="hours">0</span>:<span class="minutes">0</span>:<span class="seconds">0</span>h für den Umbau Spenden</p>
+                        <p>Spendenphase 2 &#10003; Danke!<br>Wie geht's weiter?</p>
                       </div>
                     </div>
                 </div>
@@ -123,48 +123,6 @@
                     e.stopPropagation();
                 });
             });
-
-            function getTimeRemaining(endtime) {
-              var t = Date.parse(endtime) - Date.parse(new Date());
-              var seconds = Math.floor((t / 1000) % 60);
-              var minutes = Math.floor((t / 1000 / 60) % 60);
-              var hours = Math.floor((t / (1000 * 60 * 60)) % 24);
-              var days = Math.floor(t / (1000 * 60 * 60 * 24));
-              return {
-                'total': t,
-                'days': days,
-                'hours': hours,
-                'minutes': minutes,
-                'seconds': seconds
-              };
-            }
-
-            function initializeClock(id, endtime) {
-              var clock = document.getElementById(id);
-              var daysSpan = clock.querySelector('.days');
-              var hoursSpan = clock.querySelector('.hours');
-              var minutesSpan = clock.querySelector('.minutes');
-              var secondsSpan = clock.querySelector('.seconds');
-
-              function updateClock() {
-                var t = getTimeRemaining(endtime);
-
-                daysSpan.innerHTML = t.days;
-                hoursSpan.innerHTML = ('0' + t.hours).slice(-2) - 2;
-                minutesSpan.innerHTML = ('0' + t.minutes).slice(-2);
-                secondsSpan.innerHTML = ('0' + t.seconds).slice(-2);
-
-                if (t.total <= 0) {
-                  clearInterval(timeinterval);
-                }
-              }
-
-              updateClock();
-              var timeinterval = setInterval(updateClock, 1000);
-            }
-
-            var deadline = '2016-04-01';
-            initializeClock('clockdiv', deadline);
         </script>
         <script src="./js/shared.js"></script>
         <script src="./js/main.js?0"></script>
