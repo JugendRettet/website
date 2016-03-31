@@ -605,7 +605,7 @@
                         <ul>
                           <li>&#10003; Wir haben Schiffe unseres gewünschten Schiffstyps - holländische Fischtrawler - besichtigt. Sobald wir uns für ein Schiff entschieden haben erstellen wir die Pläne für den Umbau im April.</li>
                           <!--<li>&#10003; Wir haben eine 11-köpfige Crew inklusive Kapitän gefunden und gemeinsam unsere halbjährige Operation geplant.</li>-->
-                          <li>&#10003; Wir haben ein Netz von Botschaftern in 29 Städten aufgebaut.</li>
+                          <li>&#10003; Wir haben ein Netz von 36 Botschafter_innen in 34 Städten aufgebaut.</li>
                           <li>&#10003; Wir haben Maria Furtwängler, Armin Rohde und Jasmin Gerat als Stimmen für <i>Jugend Rettet</i> gewinnen können.</li>
                           <li>&#10003; Wir haben in Berlin ein Kernteam von 11 Menschen aufgebaut.</li>
                         </ul>
