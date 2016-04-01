@@ -153,6 +153,7 @@
                             <li>Liechtenstein: <a href="mailto:Helena@jugendrettet.org">Helena</a></li>
                             <li>London: <a href="mailto:LenaG@jugendrettet.org">Lena</a></li>
                             <li>Lüneburg: <a href="mailto:Alex@jugendrettet.org">Alex</a></li>
+                            <li>Lüneburg: <a href="mailto:Christina@jugendrettet.org">Christina</a></li>
                             <li>Munich: <a href="mailto:Leo@jugendrettet.org">Leo</a></li>
                             <li>Munich: <a href="mailto:Lisa@jugendrettet.org">Lisa</a></li>
                             <li>Münster: <a href="mailto:Jana@jugendrettet.org">Jana</a></li>
