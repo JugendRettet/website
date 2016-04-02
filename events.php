@@ -783,6 +783,113 @@ Botschafter des Vereins werden auch vor Ort über das Projekt informieren und de
                         </div><br>
                     </div>
 
+                    <div class="date-container" id="10-04-2016">
+                        <h4>Work and Plan</h4>
+                        <br>
+                        <p><a target="_blank" href="https://www.facebook.com/events/1208487355830963/">→ facebook</a></p>
+                        <br>
+                        <p>
+                            Jugend Rettet ist eine europäische Organisation junger Leute, die das Ziel haben, das Sterben auf dem Mittelmeer zu beenden.
+                        </p>
+                        <br>
+                        <p>
+                            Ihr kommt aus Bonn, oder Umgebung und könnt euch vorstellen mitzumachen? Dann kommt am 10.04. um 20.00 Uhr vorbei! 
+                        </p>
+                        <p>
+                            Wir planen unsere nächsten Schritte, was man in Bonn noch machen kann und wie wir das Thema in die Öffentlichkeit holen können. Außerdem planen wir das nächste "offene Treffen", bei dem wir weitere Unterstützer_Innen dazu gewinnen wollen!
+                        </p>
+                        <br>
+                        <p>
+                            Wir freuen uns auf euch!
+                        </p>
+                        <p>
+                            Euer Jugend Rettet Team
+                        </p>
+                        <br>
+                        <div class="event-container">
+                            <div class="event-date">Sonntag, 10. April</div>
+                            <div class="event-icon"><img src="./graphics/location.png" width="14px" alt="Location"></div>
+                            <div class="event-title"><a href="https://www.google.de/maps/place/Cafe+Blau/@50.7346815,7.1031213,17z/data=!3m1!4b1!4m2!3m1!1s0x47bee10ac2ca9b03:0xdc023df1c5b09ec8" target="_blank">Café Blau<br>Franziskanerstraße 9<br>53113 Bonn</a></div><br>
+                            <div class="event-icon"><img src="./graphics/time.png" height="14px" alt="Time"></div>
+                            <div class="event-title">20:00 Uhr</div>
+                        </div><br>
+                    </div>
+
+                    <div class="date-container" id="17-04-2016">
+                        <h4>Offenes Treffen Bonn</h4>
+                        <br>
+                        <p><a target="_blank" href="https://www.facebook.com/events/808744942562940/">→ facebook</a></p>
+                        <br>
+                        <p>
+                            Im Jahr 2015 ertranken 3771 Menschen, bei dem Versuch über das Mittelmeer nach Europa zu flüchten. Die Dunkelziffer liegt weiter darüber. Diese Situation können wir nicht länger hinnehmen. Jeder Mensch verdient die Rettung aus Seenot!
+                        </p>
+                        <p>
+                            Jugend Rettet ist eine Organisation von jungen Erwachsenen, die Gelder für zur Seenotrettung auf der zentralen Mittelmeerroute zwischen Libyen und Italien sammeln. Unser Ziel ist klar: weniger Tote im Mittelmeer.
+                        </p>
+                        <br>
+                        <p>
+                            Die Finanzierung für den Kauf unseres Schiffes steht. Jetzt brauchen wir das Geld für die laufende Kosten der Rettungsmission auf dem Mittelmeer.
+                        </p>
+                        <br>
+                        <p>
+                            Wir suchen in ganz Deutschland und Europa nach engagierten Leuten, die Jugend Rettet bekannt machen und durch Spendenaktionen unsere Rettungsmission ermöglichen. 
+                        </p>
+                        <br>
+                        <p>
+                            Am 17.04. sind wir in Bonn! Wir wollen unsere Arbeit in Bonn präsentieren und mit euch über die aktuelle Lage im Mittelmeer diskutieren und reden. 
+                        </p>
+                        <p>
+                            Kommt vorbei und bringt eure Freunde mit!
+                        </p>
+                        <br>
+                        <p>
+                            Wir freuen uns auf euch!
+                        </p>
+                        <p>
+                            Euer Jugend Rettet Team
+                        </p>
+                        <br>
+                        <div class="event-container">
+                            <div class="event-date">Sonntag, 17. April</div>
+                            <div class="event-icon"><img src="./graphics/location.png" width="14px" alt="Location"></div>
+                            <div class="event-title"><a href="https://www.google.de/maps/place/Regina-Pacis-Weg+5,+53113+Bonn/@50.7323722,7.0998797,17z/data=!3m1!4b1!4m2!3m1!1s0x47bee19fe0a88199:0x8d50a2065ed7f2aa" target="_blank">Universität Bonn Institut für Anglistik, Amerikanistik und Keltologie<br>Regina Pacis Weg 5-7<br>53113 Bonn</a></div><br>
+                            <div class="event-icon"><img src="./graphics/time.png" height="14px" alt="Time"></div>
+                            <div class="event-title">19:00 Uhr</div>
+                        </div><br>
+                    </div>
+
+                    <div class="date-container" id="24-04-2016">
+                        <h4>JUGEND RETTET meets ASYLAND Hannover</h4>
+                        <br>
+                        <p><a target="_blank" href="https://www.facebook.com/events/502066050002311/">→ facebook</a></p>
+                        <br>
+                        <p>
+                            Jugend Rettet holt Asyland am 24.4.16 für eine Vorstellung nach Hannover. Der Film erzählt die Geschichte von Geflüchteten aus ihrer eigenen Perspektive. Das Asyland-Team begleitete den Alltag von Geflüchteten über ein halbes Jahr und dokumentiert dabei neben ihrem Tagesablauf, auch ihre Motivationen, Gefühle und Gedanken. 
+                        </p>
+                        <p>
+                            Auf der Suche nach Erklärungen beleuchtet der Film unterschiedliche Sichtweisen auf die Situation von Flüchtlingen in Deutschland. Interviewt wurden Schauspieler, Politiker und Menschen, die der Beweis dafür sind, dass jeder bei der Bewältigung der Herausforderungen, denen sich Flüchtlinge gegenübergestellt sehen, helfen kann. Alles was man tun muss: Die Perspektive wechseln.
+                        </p>
+                        <br>
+                        <p>
+                            Eintritt freiwillig. Das eingenomme Geld fließt direkt in das Jugend Rettet Schiff.
+                        </p>
+                        <br>
+                        <p>
+                            Wir freuen uns auf euch!
+                        </p>
+                        <p>
+                            Euer Jugend Rettet Team
+                        </p>
+                        <br>
+                        <div class="event-container">
+                            <div class="event-date">Sonntag, 24. April</div>
+                            <div class="event-icon"><img src="./graphics/location.png" width="14px" alt="Location"></div>
+                            <div class="event-title"><a href="https://www.google.de/maps/place/Limmerstra%C3%9Fe+50,+30451+Hannover/@52.3738333,9.7048313,17z/data=!3m1!4b1!4m2!3m1!1s0x47b0748e06f28b23:0x887c3a8dcd002023" target="_blank"> Limmerstraße 50<br>30451 Hannover</a></div><br>
+                            <div class="event-icon"><img src="./graphics/time.png" height="14px" alt="Time"></div>
+                            <div class="event-title">11:00 Uhr</div>
+                        </div><br>
+                    </div>
+
                 </div>
             </div>
             <div id="content">
