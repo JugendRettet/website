@@ -56,8 +56,10 @@ Redirect /Hh https://jugendrettet.org/news
 Redirect /hh https://jugendrettet.org/news
 Redirect /hH https://jugendrettet.org/news
 
-Redirect /crew https://docs.google.com/forms/d/1Wh6SA_DMnwk26b7JjnJ7ACe0NuB04nJAhmn5sP9gd04
-Redirect /Crew https://docs.google.com/forms/d/1Wh6SA_DMnwk26b7JjnJ7ACe0NuB04nJAhmn5sP9gd04
+Redirect /crew https://docs.google.com/forms/d/1Wh6SA_DMnwk26b7JjnJ7ACe0NuB04nJAhmn5sP9gd04/viewform?c=0
+Redirect /Crew https://docs.google.com/forms/d/1Wh6SA_DMnwk26b7JjnJ7ACe0NuB04nJAhmn5sP9gd04/viewform?c=0
+Redirect /umbau https://docs.google.com/forms/d/1-BDVr3R__kjSiC5PyWAui0_BTWwIS8AoLC6Xy1KVgk4/viewform?c=0
+Redirect /Umbau https://docs.google.com/forms/d/1-BDVr3R__kjSiC5PyWAui0_BTWwIS8AoLC6Xy1KVgk4/viewform?c=0
 
 # Error Documents
 ErrorDocument 403 https://jugendrettet.org/forbidden
@@ -83,6 +85,9 @@ RewriteRule (.*) https://jugendrettet.org/$1 [R=301]
 
 RewriteCond %{THE_REQUEST} ^GET\ /de/
 RewriteRule ^de/(.*) /$1 [R=301]
+
+RewriteCond %{REQUEST_URI} /aendern
+RewriteRule .* /retten [R=302,L]
 
 RewriteCond %{REQUEST_FILENAME} !-f
 RewriteRule ^([^\.]+)$ $1.php [NC,L]

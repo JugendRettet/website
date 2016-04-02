@@ -163,7 +163,15 @@
                         <h4><img alt="cap" class="icon" src="./graphics/cap.svg">Retter</h4>
                         <p>Du willst beim Umbau des Schiffs helfen oder als Crewmitglied die Rettung auf dem Mittelmeer durchführen?</p>
                         <div class="mehr-klappe"><br>
-                            <!--<a href="https://docs.google.com/forms/d/1Wh6SA_DMnwk26b7JjnJ7ACe0NuB04nJAhmn5sP9gd04" class="link">Bewerbung für den Umbau</a><br><br>-->
+                            <p>Wir werden voraussichtlich Mitte April unser Schiff erwerben und dann in Emden (Ostfriesland) auf einer Werft umbauen. Für den Umbau ist der Zeitraum von Mitte April bis Ende Mai (Kalenderwoche 17 - 21) angesetzt. Bei unserem Schiff werden folgende Umbauarbeiten anfallen:</p>
+                            <p>- Schleifen und Lackieren des Unter- und Oberwasserschiffes</p>
+                            <p>- Metallarbeiten (Einziehen einer Tür, Bau einer Plattform für das Beiboot etc.)</p>
+                            <p>- Schreinerarbeiten (Verlegen von Kojen in das Heck des Schiffes)</p>
+                            <p>- Arbeiten am Hydraulikkran</p>
+                            <p>- Überprüfung und Erneuerung der Bordelektronik</p>
+                            <p>- Arbeit an Sanitäranlagen</p>
+                            <p>- Katalogisierung und Sortierung des Schiffsinventars</p>
+                            <a href="https://docs.google.com/forms/d/1-BDVr3R__kjSiC5PyWAui0_BTWwIS8AoLC6Xy1KVgk4/viewform?c=0" class="link">Bewerbung für den Umbau</a><br><br>
                             <p>Wir suchen Menschen mit Berufserfahrung, die sich über das hohe Risiko der Rettungsaktionen bewusst sind. Bitte frage dich selbst, ob du dir die Situation zutraust. Aufgrund der besonderen Anforderungen sind wir gezwungen die Crew sehr sorgsam auszuwählen.<br><br>
                             <p>Wir suchen derzeit:</p>
                             <p>- Kapitän_in</p>
@@ -173,7 +181,7 @@
                             <p>- Ärzt_innen</p>
                             <p>- ausgebildete Rettungssanitäter_innen</p>
                             <p>- Pflegepersonal</p><br>
-                            <a href="https://docs.google.com/forms/d/1Wh6SA_DMnwk26b7JjnJ7ACe0NuB04nJAhmn5sP9gd04" class="link">Bewerbung für die Crew</a><br><br>
+                            <a href="https://docs.google.com/forms/d/1Wh6SA_DMnwk26b7JjnJ7ACe0NuB04nJAhmn5sP9gd04/viewform?c=0" class="link">Bewerbung für die Crew</a><br><br>
                             <p>Setze dich bei ernsthaftem Interesse mit uns in Verbindung. Wir freuen uns über deine Bewerbung.</p>
                         </div>
                         <a class="mehr-btn">Mehr ...</a>
