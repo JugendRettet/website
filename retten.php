@@ -171,7 +171,7 @@
                             <p>- Überprüfung und Erneuerung der Bordelektronik</p>
                             <p>- Arbeit an Sanitäranlagen</p>
                             <p>- Katalogisierung und Sortierung des Schiffsinventars</p>
-                            <a href="https://docs.google.com/forms/d/1-BDVr3R__kjSiC5PyWAui0_BTWwIS8AoLC6Xy1KVgk4/viewform?c=0" class="link">Bewerbung für den Umbau</a><br><br>
+                            <a target="_blank" href="https://docs.google.com/forms/d/1-BDVr3R__kjSiC5PyWAui0_BTWwIS8AoLC6Xy1KVgk4/viewform?c=0" class="link">Bewerbung für den Umbau</a><br><br>
                             <p>Wir suchen Menschen mit Berufserfahrung, die sich über das hohe Risiko der Rettungsaktionen bewusst sind. Bitte frage dich selbst, ob du dir die Situation zutraust. Aufgrund der besonderen Anforderungen sind wir gezwungen die Crew sehr sorgsam auszuwählen.<br><br>
                             <p>Wir suchen derzeit:</p>
                             <p>- Kapitän_in</p>
@@ -181,7 +181,7 @@
                             <p>- Ärzt_innen</p>
                             <p>- ausgebildete Rettungssanitäter_innen</p>
                             <p>- Pflegepersonal</p><br>
-                            <a href="https://docs.google.com/forms/d/1Wh6SA_DMnwk26b7JjnJ7ACe0NuB04nJAhmn5sP9gd04/viewform?c=0" class="link">Bewerbung für die Crew</a><br><br>
+                            <a target="_blank" href="https://docs.google.com/forms/d/1Wh6SA_DMnwk26b7JjnJ7ACe0NuB04nJAhmn5sP9gd04/viewform?c=0" class="link">Bewerbung für die Crew</a><br><br>
                             <p>Setze dich bei ernsthaftem Interesse mit uns in Verbindung. Wir freuen uns über deine Bewerbung.</p>
                         </div>
                         <a class="mehr-btn">Mehr ...</a>
