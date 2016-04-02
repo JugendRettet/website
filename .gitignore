@@ -7,4 +7,6 @@ files/*
 
 fonts/*
 
+test/
+
 .DS_Store
