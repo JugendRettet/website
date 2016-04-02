@@ -10,13 +10,13 @@
 
         <meta property="og:title" content="Jugend Rettet" />
         <meta property="og:description" content="Wir sind eine Organisation von jungen Erwachsenen für junge Erwachsene. Wir sammeln Gelder für den Erwerb eines Schiffes und mit diesem Schiff werden wir private Seenotrettung auf dem Mittelmeer betreiben." />
-        <meta property="og:url" content="https://jugendrettet.org/aendern" />
+        <meta property="og:url" content="https://jugendrettet.org/retten" />
         <meta property="og:image" content="http://jugendrettet.org/images/jr-banner.jpg" />
         <meta property="og:image:secure_url" content="https://jugendrettet.org/images/jr-banner.jpg" />
         <meta property="og:type" content="website" />
         <meta property="og:site_name" content="Jugend Rettet" />
 
-        <link rel="alternate" hreflang="en" href="http://en.jugendrettet.org/aendern" />
+        <link rel="alternate" hreflang="en" href="http://en.jugendrettet.org/retten" />
 
         <link rel="shortcut icon" type="image/x-icon" href="./graphics/jr.ico" />
         <link rel="mask-icon" href="./graphics/jr-mask.svg" color="rgb(40,100,130)">
@@ -70,7 +70,7 @@
                         <li><a href="news">News</a></li>
                         <li><a href="schiff">Das Schiff</a></li>
                         <li><a href="team">Team</a></li>
-                        <li><a href="aendern" class="indicator">Retten</a></li>
+                        <li><a href="retten" class="indicator">Retten</a></li>
                         <li><a href="spenden">Spenden</a></li>
                         <li><a href="europe">Jugend Rettet <span class="lowercase">europe</span></a></li>
                     </ul>
@@ -122,7 +122,7 @@
                             <li><a href="impressum">Impressum</a></li>
                             <li><a href="transparenz">Transparenz</a></li>
                             <li class="br"></li>
-                            <li><a href="https://en.jugendrettet.org/aendern">en</a></li>
+                            <li><a href="https://en.jugendrettet.org/retten">en</a></li>
                         </ul>
                     </nav>
                 </footer>

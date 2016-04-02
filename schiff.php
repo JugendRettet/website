@@ -70,7 +70,7 @@
                         <li><a href="news">News</a></li>
                         <li><a href="schiff" class="indicator">Das Schiff</a></li>
                         <li><a href="team">Team</a></li>
-                        <li><a href="aendern">Retten</a></li>
+                        <li><a href="retten">Retten</a></li>
                         <li><a href="spenden">Spenden</a></li>
                         <li><a href="europe">Jugend Rettet <span class="lowercase">europe</span></a></li>
                     </ul>
