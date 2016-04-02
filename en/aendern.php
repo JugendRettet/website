@@ -164,16 +164,16 @@
                         <p>You would like to join us as a crew member on our rescue missions in the Mediteranean?</p>
                         <div class="mehr-klappe"><br>
                             <p>We look for people with job experiences that involved high risks and rescue operations. Ask yourself if you can bear these settings. It’s on these grounds that we are really picky and considerate on whom to choose as a crew member.<br><br>
-                        <p> We currently seek:</p>
-                        <p>- Captains</p>
-                        <p>- Navigators</p>
-                        <p>- Machinists</p>
-                        <p>- Deckhands (able to navigate tenders and to operate radios)</p>
-                        <p>- Doctors</p>
-                        <p>- first aid medical units</p>
-                        <p>- caregivers</p><br>
-                        <a href="mailto:retter@jugendrettet.org" class="link">retter@jugendrettet.org</a><br><br>
-                        <p>Contact us only if you are really interested. We look forward to your application.</p>
+                            <p> We currently seek:</p>
+                            <p>- Captains</p>
+                            <p>- Navigators</p>
+                            <p>- Machinists</p>
+                            <p>- Deckhands (able to navigate tenders and to operate radios)</p>
+                            <p>- Doctors</p>
+                            <p>- first aid medical units</p>
+                            <p>- caregivers</p><br>
+                            <a href="https://docs.google.com/forms/d/1Wh6SA_DMnwk26b7JjnJ7ACe0NuB04nJAhmn5sP9gd04" class="link">Apply for rescue missions</a><br><br>
+                            <p>Contact us only if you are really interested. We look forward to your application.</p>
                         </div>
                         <a class="mehr-btn">more ...</a>
                     </div>

@@ -161,19 +161,20 @@
                     </div>
                     <div class="column mehr" id="retter">
                         <h4><img alt="cap" class="icon" src="./graphics/cap.svg">Retter</h4>
-                        <p>Du willst als  Crewmitglied die Rettung auf dem Mittelmeer durchführen?</p>
+                        <p>Du willst beim Umbau des Schiffs helfen oder als Crewmitglied die Rettung auf dem Mittelmeer durchführen?</p>
                         <div class="mehr-klappe"><br>
-                        <p>Wir suchen Menschen mit Berufserfahrung, die sich über das hohe Risiko der Rettungsaktionen bewusst sind. Bitte frage dich selbst, ob du dir die Situation zutraust. Aufgrund der besonderen Anforderungen sind wir gezwungen die Crew sehr sorgsam auszuwählen.<br><br>
-                        <p>Wir suchen derzeit:</p>
-                        <p>- Kapitän_in</p>
-                        <p>- Steuermann_frau</p>
-                        <p>- Maschinist_in</p>
-                        <p>- Deckhands (Beiboote steuern und funken können)</p>
-                        <p>- Ärzt_innen</p>
-                        <p>- ausgebildete Rettungssanitäter_innen</p>
-                        <p>- Pflegepersonal</p><br>
-                        <a href="mailto:retter@jugendrettet.org" class="link">retter@jugendrettet.org</a><br><br>
-                        <p>Setze dich bei ernsthaftem Interesse mit uns in Verbindung. Wir freuen uns über deine Bewerbung.</p>
+                            <!--<a href="https://docs.google.com/forms/d/1Wh6SA_DMnwk26b7JjnJ7ACe0NuB04nJAhmn5sP9gd04" class="link">Bewerbung für den Umbau</a><br><br>-->
+                            <p>Wir suchen Menschen mit Berufserfahrung, die sich über das hohe Risiko der Rettungsaktionen bewusst sind. Bitte frage dich selbst, ob du dir die Situation zutraust. Aufgrund der besonderen Anforderungen sind wir gezwungen die Crew sehr sorgsam auszuwählen.<br><br>
+                            <p>Wir suchen derzeit:</p>
+                            <p>- Kapitän_in</p>
+                            <p>- Steuermann_frau</p>
+                            <p>- Maschinist_in</p>
+                            <p>- Deckhands (Beiboote steuern und funken können)</p>
+                            <p>- Ärzt_innen</p>
+                            <p>- ausgebildete Rettungssanitäter_innen</p>
+                            <p>- Pflegepersonal</p><br>
+                            <a href="https://docs.google.com/forms/d/1Wh6SA_DMnwk26b7JjnJ7ACe0NuB04nJAhmn5sP9gd04" class="link">Bewerbung für die Crew</a><br><br>
+                            <p>Setze dich bei ernsthaftem Interesse mit uns in Verbindung. Wir freuen uns über deine Bewerbung.</p>
                         </div>
                         <a class="mehr-btn">Mehr ...</a>
                     </div>

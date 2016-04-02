@@ -56,6 +56,9 @@ Redirect /Hh https://jugendrettet.org/news
 Redirect /hh https://jugendrettet.org/news
 Redirect /hH https://jugendrettet.org/news
 
+Redirect /crew https://docs.google.com/forms/d/1Wh6SA_DMnwk26b7JjnJ7ACe0NuB04nJAhmn5sP9gd04
+Redirect /Crew https://docs.google.com/forms/d/1Wh6SA_DMnwk26b7JjnJ7ACe0NuB04nJAhmn5sP9gd04
+
 # Error Documents
 ErrorDocument 403 https://jugendrettet.org/forbidden
 ErrorDocument 404 https://jugendrettet.org/notfound
