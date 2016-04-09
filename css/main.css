@@ -248,6 +248,7 @@ header ul.pop li:hover {
     text-align: center;
 	text-transform: uppercase;
 	font-weight: bold;
+    cursor: pointer;
 }
 .show:hover {
     cursor: pointer;
@@ -619,6 +620,14 @@ a.faq.open {
 }
 .ie {
     display: none;
+}
+#phase-text {
+    font-size: 80%;
+    position: absolute;
+    top: 41%;
+    width: 100%;
+    left: 5px;
+    text-align: center;
 }
 @media all and (-ms-high-contrast: none), (-ms-high-contrast: active) {
 /* IE10+ CSS styles go here */

@@ -92,7 +92,7 @@
                 width: <?php
                     $phase1 = file_get_contents('donations/phase1.txt');
                     $value1 = number_format((float)$phase1,2,",",".");
-                    ?>100%;
+                    ?>0%;
             }
         </style>
     </head>
@@ -146,7 +146,10 @@
                             <p><b>Kreditinstitut:</b> Berliner Sparkasse</p>
                         </div>
                         <br>
-                        <h4 style="padding-left:5px;"><a target="_blank" href="https://www.betterplace.org/de/organisations/26895-jugend-rettet-e-v/donations/new">→ direkt spenden</a></h4>
+                        <h4>Transparenz</h4>
+                        <a href="./transparenz"><img style="width:calc(100% - 12px);padding:5px;background:white;border:solid 1px #286482;" src="./graphics/Transparente_Zivilgesellschaft.svg"></a>
+                        <br>
+                        <p><a href="./faq#18">Was passiert mit den Spendengeldern, wenn wir unser Ziel nicht erreichen?</a></p>
                         <br>
                         <!--<h4>Rechner</h4>
                         <div id="rechner">
@@ -171,96 +174,87 @@
                         </div>-->
                     </div>
 
-                    <div class="column hideme" style="min-width: 300px;">
-                        <h4>SPENDENSTAND</h4>
-                        <div id="schiff-ani">
-                            <div class="schiff-klappe" id="1-klappe">
-                                <b>Schiffsschraube</b>
-                                <p>Im Heck unseres Schiffes finden sich Schiffsschraube und ein Beiboot.</p>
-                            </div>
-                            <div class="schiff-klappe" id="2-klappe">
-                                <b>Crewräume/Maschinenraum</b>
-                                <p>Unsere 11 köpfige Crew wird während unserer Rettungsoperation in den Crewräumen unterkommen. Eine kleine Küche, sanitäre Anlagen gehören ebenfalls zu den Crewräumen.</p>
-                            </div>
-                            <div class="schiff-klappe" id="3-klappe">
-                                <b>Raum Kapitän/Brücke</b>
-                                <p>Die Kabine unseres Kapitäns liegt unmittelbar in der Nähe der Kommandobrücke. Hier werden der Kapitän und sein Ersatz, der Steuermann, in Vier-Stunden-Schichten das Schiff steuern.</p>
-                            </div>
-                            <div class="schiff-klappe" id="4-klappe">
-                                <b>Räume medizinische Versorgung</b>
-                                <p>Der Brücke vorgelagert, auf Höhe des Decks liegt ein Raum für die medizinische Versorgung. Auf dem Mittelmeer häufige Symptome wie Unterkühlung, Dehydratation, Kretze oder Schürf-, und Platzwunden werden von unserem Arzt an Bord behandelt.</p>
-                            </div>
-                            <div class="schiff-klappe" id="5-klappe">
-                                <b>Deckfläche mit Hydraulikkran</b>
-                                <p>Der Hydraulikkran hebt unsere beiden Beiboote ins Wasser. Mit denen werden wir die Menschen von ihren Booten zu unserem Mutterschiff holen. Die Fläche an Deck ist für die geretteten Menschen vorgesehen. Frauen, Männer und Familien werden getrennt voneinander untergebracht.</p>
-                            </div>
-                            <div class="schiff-klappe" id="6-klappe">
-                                <b>Deckfläche</b>
-                                <p>Eine LKW-Plane schützt die Geretteten vor Wind und Wetter. Etwa 90 Personen werden an Deck Platz finden.</p>
-                            </div>
-                            <div class="schiff-klappe" id="7-klappe">
-                                <b>Lager für Rettungswesten/Kühllager für Verpflegung</b>
-                                <p>Ein Kühllager für Verpflegung von Crew und Geretteten sowie ein Lager für Schwimmwesten findet sich in diesem Bereich des Schiffes.</p>
-                            </div>
-                            <div class="schiff-klappe" id="8-klappe">
-                                <b>Bug/Frischwassertank</b>
-                                <p>In der Spitze des Schiffs finden sich Frischwassertanks, mit denen Crew und Gerettete versorgt werden.</p>
-                            </div>
-                            <br>
-                            <div id=schiff-container style="min-height:133px;width:300px;">
-                                <div id="schiff" style="position:absolute">
-                                  <img src="./graphics/schiff-starkekonturen-weiss.svg" alt="Das Schiff" style="width:300px;opacity:0.4">
-                                </div>
-                                <div class="balken" id="schiff-gespendet" style="position:absolute;overflow:hidden;width:300px;">
-                                  <img src="./graphics/schiff-blau-starkekontur.svg" alt="Das Schiff" style="width:300px">
-                                </div>
-                                <div style="position:absolute;width:300px;">
-                                    <!--<span id="0" class="unterteilungen">0m</span>-->
-                                    <a id="1" class="unterteilungen schiff" style="position:absolute;left: calc(300px*2/32)">2m</a>
-                                    <a id="2" class="unterteilungen schiff" style="position:absolute;left: calc(-5px + 300px*7/32)">7m</a>
-                                    <a id="3" class="unterteilungen schiff" style="position:absolute;left: calc(-5px + 300px*10/32)">10m</a>
-                                    <a id="4" class="unterteilungen schiff" style="position:absolute;left: calc(-5px + 300px*13/32)">12m</a>
-                                    <a id="5" class="unterteilungen schiff" style="position:absolute;left: calc(-5px + 300px*19/32)">19m</a>
-                                    <a id="6" class="unterteilungen schiff" style="position:absolute;left: calc(-15px + 300px*26/32)">26m</a>
-                                    <a id="7" class="unterteilungen schiff" style="position:absolute;left: calc(-15px + 300px*29/32)">29m</a>
-                                    <a id="8" class="unterteilungen schiff" style="position:absolute;left: calc(-15px + 300px)">32m</a>
-                                </div>
-                                <!--<div style="position:absolute;width:300px">
-                                    <span id="stand" class="spendenstand schiff" style="white-space: nowrap;position:absolute;left: calc(-15px + 300px*75432/80000)">75.4 Tsd. €</span>
-                                </div>-->
+                    <div class="column">
+                        <h4>direkt spenden</h4>
+                        <script type="text/javascript">
+                          /* Configure at https://www.betterplace.org/de/projects/42019-rette-mit-einsatz-zur-seenotrettung-auf-dem-mittelmeer/manage/iframe_donation_form */
+                          var _bp_iframe        = _bp_iframe || {};
+                          _bp_iframe.project_id = 42019; /* REQUIRED */
+                          _bp_iframe.lang       = 'de'; /* Language of the form */
+                          /* Remove "//" for further customization but *only* if you really need to! */
+                          // _bp_iframe.width = 600; /* Custom iframe-tag-width, integer */
+                           _bp_iframe.color = '286482'; /* Button and banderole color, hex without "#" */
+                           _bp_iframe.background_color = '142D3C'; /* Background-color, hex without "#" */
+                          // _bp_iframe.default_amount = 50; /* Donation-amount, integer 1-99 */
+                          // _bp_iframe.default_data_transfer_accepted = false; /* true (default), false */
+                          // _bp_iframe.recurring_interval = 'single'; /* Interval for recurring donations, string out of ["single", "monthly", "quarter_yearly", "half_yearly", "yearly"] */
+                          (function() {
+                            var bp = document.createElement('script'); bp.type = 'text/javascript'; bp.async = true;
+                            bp.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'asset1.betterplace.org/assets/load_donation_iframe.js';
+                            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(bp, s);
+                          })();
+                        </script>
+                        <div id="betterplace_donation_iframe" style="background: transparent url('https://www.betterplace.org/assets/new_spinner.gif') 275px 20px no-repeat;"><strong><a href="https://www.betterplace.org/de/projects/42019-rette-mit-einsatz-zur-seenotrettung-auf-dem-mittelmeer/donations/new">Jetzt Spenden für „Rette mit! - Einsatz zur Seenotrettung auf dem Mittelmeer“ bei unserem Partner betterplace.org</a></strong></div>
+                    </div>
+
+                    <div class="column hideme">
+                        <!--<h4>SPENDENSTAND</h4>-->
+                        <div id="mission-container incolumn" class="center">
+                            <!--<div id="belt incolumn">
+                              <img class="belt incolumn" src="./graphics/belt.svg" alt="Rettungsring">
+                            </div>-->
+                            <div class="belt-progress incolumn" id="mission-gespendet">
+                              <img class="belt-progress incolumn" src="./graphics/belt-progress.svg" alt="Rettungsring">
                             </div>
                         </div>
                         <br>
                         <div style="display:initial;" id="phase">
-                            <div style="max-width:300px;" class="ph-container" id="ph-eins">
+                            <div class="ph-container" id="ph-eins">
                                 <div class="header" style="text-align:center;">
-                                    <!--<span class="title">Phase 1</span>--><span class="percentage"><?php echo $value1;?> €</span>
+                                    <!--<span class="percentage"><?php echo $value1;?> / 40.000 €</span>-->
+                                    <span class="percentage">Phase 3</span>
                                     <hr id="ph-eins-progress">
                                 </div>
                                 <div class="content" id="ph-eins-content">
-                                    <p>Spendenphase 2 &#10003; Danke!<br>Wie geht's weiter?</p>
+                                    <p>
+                                    Unsere ersten Etappen haben wir erreicht: 123.000 Euro sind für den Umbau, die Überführung und den ersten Betriebsmonat zusammen gekommen. Das haben wir den vielen Spender_innen, der tatkräftigen Unterstützung vieler Menschen und nicht zuletzt unseren Botschafter_innen in mittlerweile 32 verschiedenen europäischen Städten zu verdanken. Vielen Dank für eure Hilfe!
+                                    </p>
+                                    <p>
+                                    Unser Ziel, Menschen aus Seenot zu retten, ist noch nicht erreicht, doch mit jeder Etappe kommen wir diesem näher. Nun geht es weiter mit der nächsten Etappe: Derzeit schließen wir die Umbauplanung und Kostenkalkulationen mit unserer Werft ab und suchen weiterhin mit Hochdruck nach Crewmitgliedern. Wenn wir die Planung abgeschlossen und noch mehr Crewmitglieder für unseren Einsatz gewonnen haben, können wir uns dem Kauf des Schiffes zuwenden. Dann soll es ans Schleifen, Lackieren und Hämmern gehen!
+                                    </p>
                                     <br>
-                                    <p>Liebe Unterstützer_innen! Wir arbeiten stetig daran, dass wir im Juni mit der Rettungsmission starten können. Unser Ziel bleibt: Jeder Mensch verdient die Rettung aus Seenot. Unsere Umbaupläne werden zur Zeit mit der Werft abgeschlossen und noch einigen letzten Prüfungen unterzogen. Das bedeutet auch, dass wir noch Zeit brauchen um euch mit den konkreten Neuigkeiten zu unseren nächsten Schritten versorgen zu können. Bitte habt noch Geduld! Soviel steht aber: Wir starten jetzt mit der neuen Etappe "Rettungsmission". Eure Unterstützung für den ersten Rettungseinsatz im Sommer wird gebraucht! Wir freuen uns über eure Hilfe. Rettet mit!</p>
+                                    <p>
+                                    Gleichzeitig beginnt eine weitere Spendenetappe um die laufenden Kosten der Rettungsmission zu decken: Neben dem Treibstoff für das Schiff, fallen hierbei Kosten für die Rettungsmittel, die Verpflegung der Crew und der Geretteten, Kleidung und Decken, die Schiffsversicherung u.a. an.
+                                    </p>
+                                    <br>
+                                    <p>
+                                    Um auch diese Etappe meistern zu können, bitten wir um deine Unterstützung: Spende jetzt für den Rettungseinsatz und hilf uns, ab Juni Menschen aus Lebensgefahr retten zu können! Gemeinsam können wir ein Zeichen gegen die Gleichgültigkeit und für mehr Menschlichkeit setzen. Rette mit!
+                                    </p>
                                     <br>
                                     <p>Weitere Infos zu unserem Schiff findest du <a href="schiff#wie">hier</a>.</p>
                                 </div>
                             </div>
                         </div>
                         <div class="content ie">
-                            <p>Spendenphase 2 &#10003; Danke!<br>Wie geht's weiter?</p>
-                                <br>
-                                <p>Liebe Unterstützer_innen! Wir arbeiten stetig daran, dass wir im Juni mit der Rettungsmission starten können. Unser Ziel bleibt: Jeder Mensch verdient die Rettung aus Seenot. Unsere Umbaupläne werden zur Zeit mit der Werft abgeschlossen und noch einigen letzten Prüfungen unterzogen. Das bedeutet auch, dass wir noch Zeit brauchen um euch mit den konkreten Neuigkeiten zu unseren nächsten Schritten versorgen zu können. Bitte habt noch Geduld! Soviel steht aber: Wir starten jetzt mit der neuen Etappe "Rettungsmission". Eure Unterstützung für den ersten Rettungseinsatz im Sommer wird gebraucht! Wir freuen uns über eure Hilfe. Rettet mit!</p>
-                                <br>
-                                <p>Weitere Infos zu unserem Schiff findest du <a href="schiff#wie">hier</a>.</p>
+                            <p>
+                            Unsere ersten Etappen haben wir erreicht: 123.000 Euro sind für den Umbau, die Überführung und den ersten Betriebsmonat zusammen gekommen. Das haben wir den vielen Spender_innen, der tatkräftigen Unterstützung vieler Menschen und nicht zuletzt unseren Botschafter_innen in mittlerweile 32 verschiedenen europäischen Städten zu verdanken. Vielen Dank für eure Hilfe!
+                            </p>
+                            <p>
+                            Unser Ziel, Menschen aus Seenot zu retten, ist noch nicht erreicht, doch mit jeder Etappe kommen wir diesem näher. Nun geht es weiter mit der nächsten Etappe: Derzeit schließen wir die Umbauplanung und Kostenkalkulationen mit unserer Werft ab und suchen weiterhin mit Hochdruck nach Crewmitgliedern. Wenn wir die Planung abgeschlossen und noch mehr Crewmitglieder für unseren Einsatz gewonnen haben, können wir uns dem Kauf des Schiffes zuwenden. Dann soll es ans Schleifen, Lackieren und Hämmern gehen!
+                            </p>
+                            <br>
+                            <p>
+                            Gleichzeitig beginnt eine weitere Spendenetappe um die laufenden Kosten der Rettungsmission zu decken: Neben dem Treibstoff für das Schiff, fallen hierbei Kosten für die Rettungsmittel, die Verpflegung der Crew und der Geretteten, Kleidung und Decken, die Schiffsversicherung u.a. an.
+                            </p>
+                            <br>
+                            <p>
+                            Um auch diese Etappe meistern zu können, bitten wir um deine Unterstützung: Spende jetzt für den Rettungseinsatz und hilf uns, ab Juni Menschen aus Lebensgefahr retten zu können! Gemeinsam können wir ein Zeichen gegen die Gleichgültigkeit und für mehr Menschlichkeit setzen. Rette mit!
+                            </p>
+                            <br>
+                            <p>Weitere Infos zu unserem Schiff findest du <a href="schiff#wie">hier</a>.</p>
                         </div>
                     </div>
 
-                    <div class="column">
-                        <h4>Transparenz</h4>
-                        <a href="./transparenz"><img style="width:calc(100% - 12px);padding:5px;background:white;border:solid 1px #286482;" src="./graphics/Transparente_Zivilgesellschaft.svg"></a>
-                        <br>
-                        <p><a href="./faq#18">Was passiert mit den Spendengeldern, wenn wir unser Ziel nicht erreichen?</a></p>
-                    </div>
                 </div>
             </div>
             <div id="content">

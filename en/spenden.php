@@ -89,7 +89,7 @@
                 width: <?php
                     $phase1 = file_get_contents('../donations/phase1.txt');
                     $value1 = number_format((float)$phase1,2,".",",");
-                    ?>100%;
+                    ?>0%;
             }
         </style>
     </head>
@@ -143,7 +143,8 @@
                             <p><b>Bank:</b> Berliner Sparkasse</p>
                         </div>
                         <br>
-                        <h4 style="padding-left:5px;"><a target="_blank" href="https://www.betterplace.org/de/organisations/26895-jugend-rettet-e-v/donations/new">→ Donate directly</a></h4>
+                        <h4>Transparency (de)</h4>
+                        <a href="https://jugendrettet.org/transparenz"><img style="width:calc(100% - 12px);padding:5px;background:white;border:solid 1px #286482;" src="../graphics/Transparente_Zivilgesellschaft.svg"></a>
                         <br>
                         <!--<h4>Calculator</h4>
                         <div id="rechner">
@@ -168,70 +169,45 @@
                         </div>-->
                     </div>
 
-                    <div class="column hideme" style="min-width: 300px;">
-                        <h4>RAISED FUNDS</h4>
-                        <div id="schiff-ani">
-                            <div class="schiff-klappe" id="1-klappe">
-                                <b>Ship's propeller</b>
-                                <p>In the rear of the ship are the propeller and a tender.</p>
-                            </div>
-                            <div class="schiff-klappe" id="2-klappe">
-                                <b>Crew cabin / engine room</b>
-                                <p>During our operation, our ship’s crew of 11 will live in the crew quarters. A small kitchen andsanitary installations also belong to the quarters.</p>
-                            </div>
-                            <div class="schiff-klappe" id="3-klappe">
-                                <b>Captains quarter / Bridge</b>
-                                <p>The quarter of our captain is in direct reach of the navigating bridge. Here, the captain and his surrogate, the helmsman, will steer the ship in four-hour shifts.</p>
-                            </div>
-                            <div class="schiff-klappe" id="4-klappe">
-                                <b>Medical quarters</b>
-                                <p>In front of the bridge, at deck’s height, is a room for medical supply. Typical symptoms on the Mediterranean Sea, like hypothermia, dehydration, itch or abrasion and lacerasion, will be treated on board by our doctor.</p>
-                            </div>
-                            <div class="schiff-klappe" id="5-klappe">
-                                <b>Deck with hydraulic crane</b>
-                                <p>The hydraulic crane lifts our tenders to the water. With those, we will get the people from their boats to our mothership. The space on deck is designated for the rescued people. Women, Men and families will be sheltered separately.</p>
-                            </div>
-                            <div class="schiff-klappe" id="6-klappe">
-                                <b>Deck</b>
-                                <p>A truck tarpaulin protects the rescued people from wind and weather. On deck will be space for approximately 90 people.</p>
-                            </div>
-                            <div class="schiff-klappe" id="7-klappe">
-                                <b>Storage for life vests / refrigerated hold for fare</b>
-                                <p>A refrigerated hold for provisions of crew and rescued as well as a storage for life vests is in this part of the ship.</p>
-                            </div>
-                            <div class="schiff-klappe" id="8-klappe">
-                                <b>Bow / fresh water tank</b>
-                                <p>In the bow of the ship are fresh water tanks to supply crew and rescued people.</p>
-                            </div>
-                            <br>
-                            <div id=schiff-container style="min-height:133px;width:300px;">
-                                <div id="schiff" style="position:absolute">
-                                  <img src="../graphics/schiff-starkekonturen-weiss.svg" alt="The Ship" style="width:300px;opacity:0.4">
-                                </div>
-                                <div class="blink balken" id="schiff-gespendet" style="position:absolute;overflow:hidden;width:300px;">
-                                  <img src="../graphics/schiff-blau-starkekontur.svg" alt="The Ship" style="width:300px" class="blink">
-                                </div>
-                                <div style="position:absolute;width:300px;">
-                                    <!--<span id="0" class="unterteilungen">0m</span>-->
-                                    <a id="1" class="unterteilungen schiff" style="position:absolute;left: calc(300px*2/32)">2m</a>
-                                    <a id="2" class="unterteilungen schiff" style="position:absolute;left: calc(-5px + 300px*7/32)">7m</a>
-                                    <a id="3" class="unterteilungen schiff" style="position:absolute;left: calc(-5px + 300px*10/32)">10m</a>
-                                    <a id="4" class="unterteilungen schiff" style="position:absolute;left: calc(-5px + 300px*13/32)">12m</a>
-                                    <a id="5" class="unterteilungen schiff" style="position:absolute;left: calc(-5px + 300px*19/32)">19m</a>
-                                    <a id="6" class="unterteilungen schiff" style="position:absolute;left: calc(-15px + 300px*26/32)">26m</a>
-                                    <a id="7" class="unterteilungen schiff" style="position:absolute;left: calc(-15px + 300px*29/32)">29m</a>
-                                    <a id="8" class="unterteilungen schiff" style="position:absolute;left: calc(-15px + 300px)">32m</a>
-                                </div>
-                                <!--<div style="position:absolute;width:300px">
-                                    <span id="stand" class="spendenstand schiff" style="white-space: nowrap;position:absolute;left: calc(-15px + 300px*75432/80000)">75.4 Tsd. €</span>
-                                </div>-->
+                    <div class="column">
+                        <h4>donate directly</h4>
+                        <script type="text/javascript">
+                          /* Configure at https://www.betterplace.org/de/projects/42019-rette-mit-einsatz-zur-seenotrettung-auf-dem-mittelmeer/manage/iframe_donation_form */
+                          var _bp_iframe        = _bp_iframe || {};
+                          _bp_iframe.project_id = 42019; /* REQUIRED */
+                          _bp_iframe.lang       = 'en'; /* Language of the form */
+                          /* Remove "//" for further customization but *only* if you really need to! */
+                          // _bp_iframe.width = 600; /* Custom iframe-tag-width, integer */
+                           _bp_iframe.color = '286482'; /* Button and banderole color, hex without "#" */
+                           _bp_iframe.background_color = '142D3C'; /* Background-color, hex without "#" */
+                          // _bp_iframe.default_amount = 50; /* Donation-amount, integer 1-99 */
+                          // _bp_iframe.default_data_transfer_accepted = false; /* true (default), false */
+                          // _bp_iframe.recurring_interval = 'single'; /* Interval for recurring donations, string out of ["single", "monthly", "quarter_yearly", "half_yearly", "yearly"] */
+                          (function() {
+                            var bp = document.createElement('script'); bp.type = 'text/javascript'; bp.async = true;
+                            bp.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'asset1.betterplace.org/assets/load_donation_iframe.js';
+                            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(bp, s);
+                          })();
+                        </script>
+                        <div id="betterplace_donation_iframe" style="background: transparent url('https://www.betterplace.org/assets/new_spinner.gif') 275px 20px no-repeat;"><strong><a href="https://www.betterplace.org/de/projects/42019-rette-mit-einsatz-zur-seenotrettung-auf-dem-mittelmeer/donations/new">Jetzt Spenden für „Rette mit! - Einsatz zur Seenotrettung auf dem Mittelmeer“ bei unserem Partner betterplace.org</a></strong></div>
+                    </div>
+
+                    <div class="column hideme">
+                        <!--<h4>RAISED FUNDS</h4>-->
+                        <div id="mission-container incolumn" class="center">
+                            <!--<div id="belt incolumn">
+                              <img class="belt incolumn" src="../graphics/belt.svg" alt="Rettungsring">
+                            </div>-->
+                            <div class="belt-progress incolumn" id="mission-gespendet">
+                              <img class="belt-progress incolumn" src="../graphics/belt-progress.svg" alt="life belt">
                             </div>
                         </div>
                         <br>
                         <div style="display:initial;" id="phase">
-                            <div style="max-width:300px;" class="ph-container" id="ph-eins">
+                            <div class="ph-container" id="ph-eins">
                                 <div class="header" style="text-align:center;">
-                                    <!--<span class="title">Phase 1</span>--><span class="percentage"><?php echo $value1;?> €</span>
+                                    <!--<span class="percentage"><?php echo $value1;?> €</span>-->
+                                    <span class="percentage">Phase 3</span>
                                     <hr id="ph-eins-progress">
                                 </div>
                                 <div class="content" id="ph-eins-content">
@@ -254,11 +230,6 @@
                             <br>
                             <p>You can find further information on our ship <a href="schiff#wie">here</a>.</p>
                         </div>
-                    </div>
-
-                    <div class="column">
-                        <h4>Transparency (de)</h4>
-                        <a href="https://jugendrettet.org/transparenz"><img style="width:calc(100% - 12px);padding:5px;background:white;border:solid 1px #286482;" src="../graphics/Transparente_Zivilgesellschaft.svg"></a>
                     </div>
 
                 </div>

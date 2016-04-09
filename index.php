@@ -70,32 +70,19 @@
             <div id="union">
                 <p id="slogan">Jeder Mensch<br>verdient die Rettung<br>aus Seenot.</p>
                 <hr class="wide">
-                <div class="index" id="schiff-ani">
-                    <div id="schiff-container" class="center" style="min-height:133px;width:300px;">
-                        <div id="schiff" style="position:absolute">
-                          <img src="./graphics/schiff-starkekonturen-weiss.svg" alt="Das Schiff" style="width:300px;">
-                        </div>
-                        <div class="balken" id="schiff-gespendet" style="position:absolute;overflow:hidden;width:300px;">
-                          <img src="./graphics/schiff-blau-starkekontur.svg" alt="Das Schiff" style="width:300px;opacity:0.4">
-                        </div>
-                    </div>
-                </div>
-                <div id="fundtext">
-                    <div id="phase" style="text-transform:none;">
-                        <div class="ph-container center" id="ph-eins" style="max-width:300px;">
-                            <div class="header index-page">
-                                <span class="percentage"><?php echo $value1;?> €</span>
-                                <hr id="ph-eins-progress">
+                <div class="index" id="mission-ani">
+                    <a href="./spenden">
+                        <div id="mission-container" class="center">
+                            <span id="phase-text" class="center">Phase 3</span>
+                            <div id="belt" style="position:absolute">
+                              <img class="belt" src="./graphics/belt.svg" alt="Rettungsring">
+                            </div>
+                            <div class="belt-progress" id="mission-gespendet">
+                              <img class="belt-progress" src="./graphics/belt-progress.svg" alt="Rettungsring">
                             </div>
                         </div>
-                    </div>
-                    <div id="clockdiv">
-                      <div>
-                        <p>Spendenphase 2 &#10003; Danke!<br>Wie geht's weiter?</p>
-                      </div>
-                    </div>
+                    </a>
                 </div>
-                <a id="aendern-btn" href="spenden">Ich rette mit!</a>
             </div>
             <div id="content">
                 <footer class="start">
