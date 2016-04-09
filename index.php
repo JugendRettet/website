@@ -21,9 +21,9 @@
         <link rel="stylesheet" href="./css/animations.1.css?0" type="text/css" />
         <link rel="stylesheet" href="./css/waves.1.css" type="text/css" />
         <link rel="stylesheet" href="./css/general.css" type="text/css" />
-        <link rel="stylesheet" href="./css/main.css?7" type="text/css" />
-        <link rel="stylesheet" href="./css/desktop.css?3" media="screen and (min-width: 851px)" type="text/css" />
-        <link rel="stylesheet" href="./css/mobile.css?4" media="screen and (max-width: 850px)" type="text/css" />
+        <link rel="stylesheet" href="./css/main.css?8" type="text/css" />
+        <link rel="stylesheet" href="./css/desktop.css?4" media="screen and (min-width: 851px)" type="text/css" />
+        <link rel="stylesheet" href="./css/mobile.css?5" media="screen and (max-width: 850px)" type="text/css" />
         <!--[if IE]>
             <link rel="stylesheet" href="./ie-css/noship.css" type="text/css" />
         <![endif]-->
