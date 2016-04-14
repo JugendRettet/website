@@ -621,10 +621,6 @@
                     <div class="column">
                       <h4>Events</h4>
                         <p>Hier findest du die Termine für die nächsten Jugend Rettet europe Treffen und Fortbildungen.</p><br>
-                        <a href="events?date=10-04-2016" class="event-container">
-                            <span class="event-date">Sonntag, 10. April</span>
-                            <span class="event-title">Work and Plan Bonn</span>
-                        </a>
                         <a href="events?date=17-04-2016" class="event-container">
                             <span class="event-date">Sonntag, 17. April</span>
                             <span class="event-title">Offenes Treffen Bonn</span>

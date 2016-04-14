@@ -169,11 +169,11 @@
                         <a href="events?date=23-03-2016" class="event-container">
                             <span class="event-date">Mittwoch, 23. März 2016</span>
                             <span class="event-title">Offenes Treffen Hamburg</span>
-                        </a> -->
+                        </a>
                         <a href="events?date=10-04-2016" class="event-container">
                             <span class="event-date">Sonntag, 10. April</span>
                             <span class="event-title">Work and Plan Bonn</span>
-                        </a>
+                        </a> -->
                         <a href="events?date=17-04-2016" class="event-container">
                             <span class="event-date">Sonntag, 17. April</span>
                             <span class="event-title">Offenes Treffen Bonn</span>
