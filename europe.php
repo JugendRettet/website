@@ -173,11 +173,11 @@
                         <a href="events?date=10-04-2016" class="event-container">
                             <span class="event-date">Sonntag, 10. April</span>
                             <span class="event-title">Work and Plan Bonn</span>
-                        </a> -->
+                        </a>
                         <a href="events?date=17-04-2016" class="event-container">
                             <span class="event-date">Sonntag, 17. April</span>
                             <span class="event-title">Offenes Treffen Bonn</span>
-                        </a>
+                        </a> -->
                         <a href="events?date=24-04-2016" class="event-container">
                             <span class="event-date">Sonntag, 24. April</span>
                             <span class="event-title">JUGEND RETTET meets ASYLAND Hannover</span>
