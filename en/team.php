@@ -186,6 +186,9 @@
 
                         <img src="../graphics/nwsh.png" alt="Netzwerk Selbsthilfe" style="background-color:white;width:100%;margin-top:20px;padding:5px">
                         <span>netzwerk-selbsthilfe.de</span>
+
+                        <img src="../graphics/start-with-a-friend-logo_klein.jpg" alt="Start with a Friend" style="margin-top:20px;width:100%;">
+                        <span>Start with a Friend</span>
                         <!--</a>-->
                         <br><br>
                         <p><u>Note:</u> We have to renounce linking our promoters and supporters, as this would - by law - constitute a tax effective service in return. This would change a donation into a sponsoring performance, for which we would be taxed. We ask for your comprehension.</p>
