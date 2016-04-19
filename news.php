@@ -95,6 +95,86 @@
                           </div>
                       </div><br>
 
+                      <a class="faq" id="83"><b>31. März</b> Ende der Spendenphase 2 </a>
+                      <div class="faq-klappe" id="83-klappe">
+                        <p>
+                          Unsere zweite Spendenphase endet erfolgreich. Danke!
+                        </p>
+                        <p>
+                          Wir arbeiten stetig daran, dass wir im Juni mit der Rettungsmission starten können. Unser Ziel bleibt: Jeder Mensch verdient die Rettung aus Seenot. Unsere Umbaupläne werden zur Zeit mit der Werft abgeschlossen und noch einigen letzten Prüfungen unterzogen. Das bedeutet auch, dass wir noch Zeit brauchen um euch mit den konkreten Neuigkeiten zu unseren nächsten Schritten versorgen zu können. Bitte habt noch Geduld! Soviel steht aber: Wir starten jetzt mit der neuen Etappe "Rettungsmission". Eure Unterstützung für den ersten Rettungseinsatz im Sommer wird gebraucht! Wir freuen uns über eure Hilfe. Rettet mit!
+                        </p>
+                      </div><br>
+
+                      <a class="faq" id="82"><b>30. März</b> Gespräch bei Netz gegen Nazis </a>
+                      <div class="faq-klappe" id="82-klappe">
+                        <p>
+                          Wir hatten in der letzen Woche ein Gespräch mit Oliver von Netz gegen Nazis, dem Onlineportal der Amadeu Antonio Stiftung gegen Rechtsextremismus. Viel Freude beim Lesen!
+                        </p>
+                        <a href="http://www.netz-gegen-nazis.de/artikel/jugend-rettet-wenn-menschen-im-mittelmeer-ertrinken-dann-schicken-wir-eben-ein-schiff" target="_blank">Link</a>
+                      </div><br>
+
+                      <a class="faq" id="81"><b>29. März</b> Interview mit SZ </a>
+                      <div class="faq-klappe" id="81-klappe">
+                        <p>
+                          Die Süddeutsche Zeitung hat mit Jakob und Pauline gesprochen.
+                        </p>
+                        <a href="http://www.sueddeutsche.de/politik/fluechtlingskrise-im-mittelmeer-ein-abiturient-will-fluechtlinge-retten-1.2925679" target="_blank">Link</a>
+                      </div><br>
+
+                      <a class="faq" id="80"><b>29. März</b> Botschafterin Jana im Interview mit Westfälische Nachrichten </a>
+                      <div class="faq-klappe" id="80-klappe">
+                        <p>
+                          Westfälische Nachrichten hat sich mit unserer Münster Botschafterin Jana unterhalten: <a target="_blank" href="http://bit.ly/1VRi7FW">http://bit.ly/1VRi7FW</a>
+                        </p>
+                        <p>
+                          Rette mit: <a target="_blank" href="jana@jugendrettet.org">jana@jugendrettet.org</a>
+                        </p>
+                        <a href="./images/20160329.jpg" target="_blank"><img class="news" src="./images/20160329.jpg"></a>
+                        <p>
+                          Foto: Sebastian Stachorra
+                        </p>
+                      </div><br>
+
+
+                      <a class="faq" id="79"><b>24. März</b> Statement Armin Rohde</a>
+                      <div class="faq-klappe" id="79-klappe">
+                        <p>
+                          „Ich freue mich sehr und empfinde allergrößten Respekt dafür, dass ihr in eurem Alter bereit seid Zeit, Kraft, Mut und Geld aufzubringen, um unter nicht ganz ungefährlichen Umständen Aufgaben zu übernehmen, von denen offizielle Stellen entweder überfordert sind oder nichts wissen wollen. Ihr macht euch auf den Weg um Menschenleben zu retten. Ein höheres Ziel kann man in diesem Leben nicht haben. Euren Mitstreitern und euch gehört meine größte Sympathie und Bewunderung. Euer Vorhaben lässt mich zuversichtlicher in die Welt schauen.“
+                        </p>
+                        <p>
+                          Wir danken Armin Rohde für diese Unterstützung.
+                        </p>
+                        <a href="./images/20160324.jpg" target="_blank"><img class="news" src="./images/20160324.jpg"></a>
+                      </div><br>
+
+                      <a class="faq" id="78"><b>23. März</b> Offenes Treffen Hamburg</a>
+                      <div class="faq-klappe" id="78-klappe">
+                        <a href="./images/20160323.jpg" target="_blank"><img class="news" src="./images/20160323.jpg"></a>
+                      </div><br>
+
+                      <a class="faq" id="77"><b>22. März</b> Offenes Treffen Lüneburg</a>
+                      <div class="faq-klappe" id="77-klappe">
+                        <a href="./images/20160322.jpg" target="_blank"><img class="news" src="./images/20160322.jpg"></a>
+                      </div><br>
+
+                      <a class="faq" id="76"><b>18. März</b> Spendenziel 2 erreicht + Soli-Party im Lauschangriff Berlin</a>
+                      <div class="faq-klappe" id="76-klappe">
+                        <p>
+                          Gestern haben wir unser erstes Spendenziel von 80.000 Euro erreicht! Es ist wirklich unglaublich und wir freuen uns wahnsinnig. Wir bedanken uns für so viel Zuspruch, Spendenbereitschaft und Unterstützung! 
+                        </p>
+                        <p>
+                          Wir werden jetzt weiterhin alles dafür tun, so bald wie möglich mit den Rettungsmissionen zu beginnen! Mit den bisher eingegangenen Spenden werden wir dann die Überführung und den Umbau finanzieren. Nun brauchen wir vor allem Mittel für die Wochen auf See, um uns dem Schiffskauf Anfang April zuwenden zu können. Parallel dazu suchen wir geeignete Mannschaften und Freiwillige, die unser Schiff begleiten können und uns auch beim Umbau helfen, sowie Handwerker, Schreiner und Schweißer.  
+                        </p>
+                        <p>
+                          Wir freuen uns, mit euch die nächsten Ziele und Etappen zu meistern.
+                        </p>
+                        <br>
+                        <p>
+                          Passend zum Anlass fand diesen Abend unsere Soli-Party im Lauschangriff Berlin statt.
+                        </p>
+                        <a href="./images/20160318.jpg" target="_blank"><img class="news" src="./images/20160318.jpg"></a>
+                      </div><br>
+
                       <a class="faq" id="75"><b>18. März</b> Bericht über Jugend Rettet bei ZEITjUNG </a>
                       <div class="faq-klappe" id="75-klappe">
                         <p>Wir hatten diese Woche ein nettes Gespräch mit ZEITjUNG.de. Das Ergebnis könnt ihr hier lesen.</p>
