@@ -95,6 +95,53 @@
                           </div>
                       </div><br>
 
+                      <a class="faq" id="87"><b>17. April</b> Beitrag im Europamagazin in der ARD</a>
+                      <div class="faq-klappe" id="87-klappe">
+                        <p>
+                          Jakob war heute Mittag beim Europamagazin der ARD zu Gast. Wer die Sendung verpasst hat, kann hier nochmal das Gespräch anschauen:
+                        </p>
+                        <a target="_blank" href="http://mediathek.daserste.de/Europamagazin/Rettungsschiff-f%C3%BCr-Fl%C3%BCchtlinge/Das-Erste/Video?documentId=34730882&topRessort&bcastId=342024">→ Link</a>
+                      </div><br>
+
+                      <a class="faq" id="86"><b>14. April</b> Aufbau und Vernetzung auf Malta </a>
+                      <div class="faq-klappe" id="86-klappe">
+                        <p>
+                          Malta steht für uns als Heimathafen zur Option. Deswegen ist Jakob gerade dort, um den Aufbau der Infrastruktur (Liegeplatz, Unterkunft Crew, Lager Rettungsmittel/Ersatzteile) für unsere Operation, Vernetzung mit Behörden und Initiativen vor Ort zu arrangieren. So hat er sich z.B. mit MOAS getroffen und einen Vortrag an der University of Malta gehalten.
+                        </p>
+                        <p>
+                          Meldet euch bei <a target="_blank" href="tobi@jugendrettet.org">tobi@jugendrettet.org</a>, wenn wir ihr unser Bonner Team unterstützen möchtet. 
+                        </p>
+                        <a href="./images/20160414.jpg" target="_blank"><img class="news" src="./images/20160414.jpg"></a>
+                      </div><br>
+
+                      <a class="faq" id="85"><b>09. April</b> Start der Spendenphase 3 </a>
+                      <div class="faq-klappe" id="85-klappe">
+                        <p>
+                          Wir beginnen mit unserer nächsten essentiellen Phase der Finanzierung auf Betterplace. Nachdem die Schiffsfinanzierung, die Überführung, der Umbau und die ersten Wochen auf See gesichert sind, geht es nun darum die weiteren laufenden Kosten für die Missionen zu sichern. Dazu zählen bspw. die Schiffsversicherung, Treibstoff, Verpflegung und Rettungsmittel. 40.000€ werden dazu benötigt. Nur mit euch können wir unsere Rettungsoperation über den Sommer fortsetzen.
+                        </p>
+                        <p>
+                          Rette mit: <a target="_blank" href="http://bit.ly/betterplace_JR">http://bit.ly/betterplace_JR</a>
+                        </p>
+                        <p>
+                          Danke auch an Alice Dwyer, Fabian Busch, Yvonne Catterfeld, Jonas Nay, Oliver Wnuk, Joel Basman, Jan Josef Liefers, Sabin Tambrea
+                        </p>
+                        <video class="news" style="max-width:100%" controls>
+                          <source src="./videos/betterplace.mp4" type="video/mp4">
+                          Your browser does not support the video tag.
+                        </video>
+                      </div><br>
+
+                      <a class="faq" id="84"><b>05. April 2016</b> Beitrag von RTL WEST </a>
+                      <div class="faq-klappe" id="84-klappe">
+                        <p>
+                          RTL WEST berichtete über uns.
+                        </p>
+                        <p>
+                          Meldet euch bei <a href="tobi@jugendrettet.org">tobi@jugendrettet.org</a>, wenn wir ihr unser Bonner Team unterstützen möchtet. 
+                        </p>
+                        <a target="_blank" href="http://www.rtl-west.de/beitrag/artikel/nicht-reden-machen/">→ Link</a>
+                      </div><br>
+
                       <a class="faq" id="83"><b>31. März</b> Ende der Spendenphase 2 </a>
                       <div class="faq-klappe" id="83-klappe">
                         <p>
@@ -110,7 +157,7 @@
                         <p>
                           Wir hatten in der letzen Woche ein Gespräch mit Oliver von Netz gegen Nazis, dem Onlineportal der Amadeu Antonio Stiftung gegen Rechtsextremismus. Viel Freude beim Lesen!
                         </p>
-                        <a href="http://www.netz-gegen-nazis.de/artikel/jugend-rettet-wenn-menschen-im-mittelmeer-ertrinken-dann-schicken-wir-eben-ein-schiff" target="_blank">Link</a>
+                        <a href="http://www.netz-gegen-nazis.de/artikel/jugend-rettet-wenn-menschen-im-mittelmeer-ertrinken-dann-schicken-wir-eben-ein-schiff" target="_blank">→ Link</a>
                       </div><br>
 
                       <a class="faq" id="81"><b>29. März</b> Interview mit SZ </a>
@@ -118,7 +165,7 @@
                         <p>
                           Die Süddeutsche Zeitung hat mit Jakob und Pauline gesprochen.
                         </p>
-                        <a href="http://www.sueddeutsche.de/politik/fluechtlingskrise-im-mittelmeer-ein-abiturient-will-fluechtlinge-retten-1.2925679" target="_blank">Link</a>
+                        <a href="http://www.sueddeutsche.de/politik/fluechtlingskrise-im-mittelmeer-ein-abiturient-will-fluechtlinge-retten-1.2925679" target="_blank">→ Link</a>
                       </div><br>
 
                       <a class="faq" id="80"><b>29. März</b> Botschafterin Jana im Interview mit Westfälische Nachrichten </a>
