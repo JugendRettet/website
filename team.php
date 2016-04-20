@@ -189,6 +189,9 @@
                         <img src="graphics/start-with-a-friend-logo_klein.jpg" alt="Start with a Friend" style="margin-top:20px;width:100%;">
                         <span>Start with a Friend</span>
 
+                        <img src="graphics/FW-Logo.svg" alt="Flüchtlinge Willkommen" style="background-color:white;width:100%;margin-top:20px;padding:5px">
+                        <span>Flüchtlinge Willkommen</span>
+
                         <!--</a>-->
                         <br><br>
                         <p><u>Hinweis in eigener Sache:</u> Auf eine Verlinkung zu unseren Förderern und Unterstützern müssen wir leider verzichten, da dies (aus gesetzlicher Sicht) eine steuerlich wirksame Gegenleistung darstellt. Dadurch würde aus einer Spende eine Sponsoringleistung, für die wir Steuern entrichten müssten. Wir bitten herzlich um Verständnis.</p>
