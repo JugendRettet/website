@@ -735,13 +735,14 @@
                           <li>&#10003; Wir haben ein Netz von 38 Botschafter_innen in 35 Städten aufgebaut.</li>
                           <li>&#10003; Wir haben Maria Furtwängler, Armin Rohde und Jasmin Gerat als Stimmen für <i>Jugend Rettet</i> gewinnen können.</li>
                           <li>&#10003; Wir haben in Berlin ein Kernteam von 11 Menschen aufgebaut.</li>
+                          <li>&#10003; Wir haben die Spendenphase 1 und 2 gemeistert, um ein Schiff zu kaufen, umzubauen und in eine erste Rettungsmisson zu schicken.</li>
                         </ul>
                         <br>
                       <h4>Was wir noch schaffen werden</h4>
                         <ul>
+                          <li>&#9633; Dass wir durch Spenden die laufenden Kosten für die Rettungsmissionen decken können.</li>
                           <li>&#9633; Dass Seenotrettung in der jungen Generation ein Thema bleibt und die Situation der Menschen auf dem Mittelmeer weiterhin in der Öffentlichkeit eine Rolle spielt.</li>
                           <li>&#9633; Dass wir unser Netzwerk an europäischen Botschaftern ausweiten.</li>
-                          <li>&#9633; Dass wir die Spendenphase bis Ende März meistern und unsere Crowdfunding-Kampagne erfolgreich abschließen.</li>
                           <li>&#9633; Dass wir Partnerschulen und Partner-Jugendorganisationen gewinnen.</li>
                         </ul>
                     </div>

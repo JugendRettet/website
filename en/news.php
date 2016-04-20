@@ -376,13 +376,14 @@
                           <li>&#10003; We built a network of 38 ambassadors in 35 cities.</li>
                           <li>&#10003; We won Maria Furtwängler, Armin Rohde and Jasmin Gerat as advocates for <i>Jugend Rettet</i>.</li>
                           <li>&#10003; We established a core team of 11 persons in Berlin.</li>
+                          <li>&#10003; We succesfully finished funding phases 1 and 2 to buy, convert and send our ship to it's first rescue mission.</li>
                         </ul>
                         <br>
                       <h4>What we will accomplish</h4>
                         <ul>
+                          <li>&#9633; That we will fund the ongoing expenditures for the rescue missions.</li>
                           <li>&#9633; That sea rescue sticks as a topic with the young generation and the situation of the people on the Mediterranean Sea stays in the public discourse. </li>
                           <li>&#9633; That we expand our network of european ambassadors.</li>
-                          <li>&#9633; That we master the funding phase until the end of march and successfully finish our crowdfunding campaign.</li>
                           <li>&#9633; That we win schools and youth organizations as partners.</li>
                         </ul>
                     </div>
