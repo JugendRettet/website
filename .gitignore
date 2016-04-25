@@ -10,3 +10,4 @@ fonts/*
 test/
 
 .DS_Store
+.!*!*
