@@ -138,11 +138,13 @@
                             <li>Bonn: <a href="mailto:Tobias@jugendrettet.org">Tobias</a></li>
                             <li>Brunsbüttel: <a href="mailto:Max@jugendrettet.org">Max</a></li>
                             <li>Chiemgau: <a href="mailto:Simon@jugendrettet.org">Simon</a></li>
+                            <li>Dresden: <a href="mailto:Charlotte@jugendrettet.org">Charlotte</a></li>
                             <li>Emsland: <a href="mailto:Jannik@jugendrettet.org">Jannik</a></li>
+                            <li>Erkrath: <a href="mailto:AnnaB@jugendrettet.org">Anna</a></li>
                             <li>Flensburg: <a href="mailto:Pauline@jugendrettet.org">Pauline</a></li>
                             <li>Freiburg: <a href="mailto:JohannaFR@jugendrettet.org">Johanna</a></li>
                             <li>Groningen: <a href="mailto:LenaP@jugendrettet.org">Lena</a></li>
-                            <li>Haltern: <a href="mailto:Anika@jugendrettet.org">Anika</a></li>
+                            <li>Haltern am See: <a href="mailto:Anika@jugendrettet.org">Anika</a></li>
                             <li>Hamburg: <a href="mailto:Marco@jugendrettet.org">Marco</a></li>
                             <li>Hannover: <a href="mailto:Micheel@jugendrettet.org">Micheel</a></li>
                             <li>Heilbronn: <a href="mailto:Jon@jugendrettet.org">Jon</a></li>
