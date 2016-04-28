@@ -72,7 +72,7 @@
                 <div class="container double">
                     <div class="column">
                         <h4>Das Team</h4>
-                        <a href="./images/team.jpg" target="_blank"><img class="news" alt="unser Team" src='./images/team_s.jpg'></a>
+                        <a href="./images/JR_kernteam_ah-02005.jpg" target="_blank"><img alt="team" class="news" src='./images/JR_kernteam_ah-02005_s.jpg'></a>
                         <ul>
                             <li><b>Jakob</b>: Gründer und 1. Vorsitzender
                                 <br>
