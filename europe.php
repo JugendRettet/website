@@ -182,6 +182,18 @@
                             <span class="event-date">Sonntag, 24. April</span>
                             <span class="event-title">JUGEND RETTET meets ASYLAND Hannover</span>
                         </a> -->
+                        <a href="events?date=12-05-2016" class="event-container">
+                            <span class="event-date">Donnerstag, 12. Mai</span>
+                            <span class="event-title">Offenes Treffen in Erkrath</span>
+                        </a>
+                        <a href="events?date=15-05-2016" class="event-container">
+                            <span class="event-date">Sonntag, 15. Mai</span>
+                            <span class="event-title">Jugend Rettet X Sonja Hilberger - BENEFIZKONZERT</span>
+                        </a>
+                        <a href="events?date=02-06-2016" class="event-container">
+                            <span class="event-date">Donnerstag, 2. Juni</span>
+                            <span class="event-title">Jugend Rettet X Leuchtfeuerworte</span>
+                        </a>
 
                     </div>
                 </div>

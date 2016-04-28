@@ -783,18 +783,18 @@
                     <div class="column">
                       <h4>Events</h4>
                         <p>Hier findest du die Termine für die nächsten Jugend Rettet europe Treffen und Fortbildungen.</p><br>
-						 <a href="events?date=12-05-2016" class="event-container">
-							<span class="event-date">Donnerstag, 12. Mai um 19:30</span>
-							<span class="event-title">Offenes Treffen in Erkrath</span>
--                        </a>
-						 <a href="events?date=15-05-2016" class="event-container">
-							<span class="event-date">Sonntag, 15. Mai um 20:00</span>
-							<span class="event-title">Jugend Rettet X Sonja Hilberger - BENEFIZKONZERT in Hamburg</span>
--                        </a>
-						 <a href="events?date=02-06-2016" class="event-container">
-							<span class="event-date">Donnerstag, 2. Juni um 19:00</span>
-							<span class="event-title">Jugend Rettet X Leuchtfeuerworte in Münster</span>
--                        </a>
+                        <a href="events?date=12-05-2016" class="event-container">
+                            <span class="event-date">Donnerstag, 12. Mai</span>
+                            <span class="event-title">Offenes Treffen in Erkrath</span>
+                        </a>
+                        <a href="events?date=15-05-2016" class="event-container">
+                            <span class="event-date">Sonntag, 15. Mai</span>
+                            <span class="event-title">Jugend Rettet X Sonja Hilberger - BENEFIZKONZERT</span>
+                        </a>
+                        <a href="events?date=02-06-2016" class="event-container">
+                            <span class="event-date">Donnerstag, 2. Juni</span>
+                            <span class="event-title">Jugend Rettet X Leuchtfeuerworte</span>
+                        </a>
                     </div>
                 </div>
                 <!--

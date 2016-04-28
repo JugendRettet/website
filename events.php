@@ -927,7 +927,7 @@ Botschafter des Vereins werden auch vor Ort über das Projekt informieren und de
                         </div><br>
                     </div>
 					
-					<div class="date-container" id="12-05-2016">
+					<div class="date-container" id="15-05-2016">
                         <h4>Jugend Rettet X Sonja Hilberger - BENEFIZKONZERT</h4>
                         <br>
                         <p><a target="_blank" href="https://www.facebook.com/events/1043316529082871/">→ facebook</a></p>
@@ -971,7 +971,7 @@ Botschafter des Vereins werden auch vor Ort über das Projekt informieren und de
                         </div><br>
                     </div>
 					
-					<div class="date-container" id="12-05-2016">
+					<div class="date-container" id="02-06-2016">
                         <h4>Jugend Rettet X Leuchtfeuerworte</h4>
                         <br>
                         <p><a target="_blank" href="https://www.facebook.com/events/1614177395571356/">→ facebook</a></p>
