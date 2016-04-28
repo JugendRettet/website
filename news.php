@@ -95,7 +95,41 @@
                           </div>
                       </div><br>
 
-                      <a class="faq" id="87"><b>17. April</b> Beitrag im Europamagazin in der ARD</a>
+                      <a class="faq" id="91"><b>28. April</b> Interview auf Radio Q</a>
+                      <div class="faq-klappe" id="91-klappe">
+                        <p>
+                          Heute Morgen konntet ihr ein kleines Interview auf Radio Q, dem Campusradio Münster, mit Pauline aus dem Kernteam Berlin hören.<br>
+						  Wenn Ihr bei Jugend Rettet mitmachen wollt, meldet Euch bei Botschafterin Jana unter: <a target="_blank" href="jana@jugendrettet.org">jana@jugendrettet.org</a>
+                        </p>
+                      </div><br>
+					  
+                      <a class="faq" id="90"><b>26. April</b> Beteiligung an "Dialog Extrem"</a>
+                      <div class="faq-klappe" id="90-klappe">
+                        <p>
+                          Heute waren wir bei der Veranstaltung Dialog Extrem, bei der Expert_innen ihre Projekte und ihr Vorhaben erklären können. Wir stellten Jugend Rettet vor und erklärten, warum es die Seenotrettung auf dem Mittelmeer braucht.
+                        </p>
+                        <a target="_blank" href="./images/20160426.jpg"><img class="news" src="./20160426"></a>
+                      </div><br>
+					  
+                      <a class="faq" id="89"><b>26. April</b> Bericht in Berliner Morgenpost</a>
+                      <div class="faq-klappe" id="89-klappe">
+                        <p>
+                          "Wir wollen langfristig denken und nach dieser Operation nicht nichts mehr tun." <br>
+						  Wir hatten Besuch von der Berliner Morgenpost. Das Ergebnis könnt ihr hier nachlesen:<br>
+						  <a target="_blank" href="http://www.morgenpost.de/berlin/article207469977/Junge-Berliner-wollen-Fluechtlinge-aus-dem-Mittelmeer-retten.html">→ Link</a>
+                        </p>
+                        <a target="_blank" href="./images/JR_kernteam_ah-02005_s.jpg"><img class="news" src="./images/JR_kernteam_ah-02005_s.jpg"></a>
+                      </div><br>
+
+                      <a class="faq" id="88"><b>23. April</b> Letztes Gutachten des Schiffs</a>
+                      <div class="faq-klappe" id="88-klappe">
+                        <p>
+                          Gute Neuigkeiten! Unser Schiff wurde unter Aufsicht unseres Gutachters in das Trockendock gehoben. Das Unterwasserschiff, sowie die Dicke der Außenwände ist in Ordnung. Außerdem sind keine größeren Schäden an Ruder, Propeller oder Bugstrahler zu verzeichnen. Nun können die nächsten Schritte eingeleitet werden.
+                        </p>
+                        <a target="_blank" href="./images/20160423.jpg"><img class="news" src="./images/20160423.jpg"></a>
+                      </div><br>
+					  
+					  <a class="faq" id="87"><b>17. April</b> Beitrag im Europamagazin in der ARD</a>
                       <div class="faq-klappe" id="87-klappe">
                         <p>
                           Jakob war heute Mittag beim Europamagazin der ARD zu Gast. Wer die Sendung verpasst hat, kann hier nochmal das Gespräch anschauen:
@@ -749,6 +783,18 @@
                     <div class="column">
                       <h4>Events</h4>
                         <p>Hier findest du die Termine für die nächsten Jugend Rettet europe Treffen und Fortbildungen.</p><br>
+						 <a href="events?date=12-05-2016" class="event-container">
+							<span class="event-date">Donnerstag, 12. Mai um 19:30</span>
+							<span class="event-title">Offenes Treffen in Erkrath</span>
+-                        </a>
+						 <a href="events?date=15-05-2016" class="event-container">
+							<span class="event-date">Sonntag, 15. Mai um 20:00</span>
+							<span class="event-title">Jugend Rettet X Sonja Hilberger - BENEFIZKONZERT in Hamburg</span>
+-                        </a>
+						 <a href="events?date=02-06-2016" class="event-container">
+							<span class="event-date">Donnerstag, 2. Juni um 19:00</span>
+							<span class="event-title">Jugend Rettet X Leuchtfeuerworte in Münster</span>
+-                        </a>
                     </div>
                 </div>
                 <!--

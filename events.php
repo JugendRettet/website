@@ -889,6 +889,122 @@ Botschafter des Vereins werden auch vor Ort über das Projekt informieren und de
                             <div class="event-title">11:00 Uhr</div>
                         </div><br>
                     </div>
+					
+					<div class="date-container" id="12-05-2016">
+                        <h4>Offenes Treffen in Erkrath</h4>
+                        <br>
+                        <p><a target="_blank" href="https://www.facebook.com/events/1013150122111925/">→ facebook</a></p>
+                        <br>
+                        <p>
+                            Im Jahr 2015 ertranken 3771 Menschen, bei dem Versuch über das Mittelmeer nach Europa zu flüchten. Die Dunkelziffer liegt weiter darüber. Diese Situation können wir nicht länger hinnehmen. Jeder Mensch verdient die Rettung aus Seenot!<br>
+							Jugend Rettet ist eine Organisation von jungen Erwachsenen, die Gelder für zur Seenotrettung auf der zentralen Mittelmeerroute zwischen Libyen und Italien sammeln. Unser Ziel ist klar: weniger Tote im Mittelmeer.<br>
+							Gleichzeitig werden wir uns im asylpolitischen Diskurs klar positionieren und fordern die EU zu einem Ende der Gleichgültigkeit gegenüber dem Sterben auf dem Mittelmeer auf.
+                        </p>
+                        <p>
+                            Die Finanzierung für den Kauf unseres Schiffes, sowie die Gelder für den Umbau, die Überführung sowie den ersten Monat auf See stehen. Nun geht es darum, die laufenden Kosten zu decken.
+                        </p>
+                        <br>
+                        <p>
+                            Wir suchen in ganz Deutschland und Europa nach engagierten Leuten, die Jugend Rettet bekannt machen und durch Spendenaktionen unsere Rettungsmissionen ermöglichen. 
+                        </p>
+						<p>
+							Am 12. Mai 2016 findet das erste offene Treffen in Erkrath statt. Unsere Botschafterin Anna wird das Projekt und den aktuellen Arbeitstand vorstellen. Anschließend geht es um die Suche nach weiteren Unterstützer_innen in Erkrath und es darf diskutiert werden.
+						</p>
+                        <br>
+                        <p>
+                            Wir freuen uns auf euch!
+                        </p>
+                        <p>
+                            Euer Jugend Rettet Team
+                        </p>
+                        <br>
+                        <div class="event-container">
+                            <div class="event-date">Donnerstag, 12. Mai</div>
+                            <div class="event-icon"><img src="./graphics/location.png" width="14px" alt="Location"></div>
+                            <div class="event-title"><a href="https://www.google.de/maps/place/Sedentaler+Str.+105,+40699+Erkrath/@51.2075633,6.9585113,17z/data=!3m1!4b1!4m2!3m1!1s0x47b8d20a3085d345:0x84b3bf0102ca2eb1" target="_blank"> Stadtbücherei Erkrath<br>Sedentaler Str. 105<br>40699 Erkrath</a></div><br>
+                            <div class="event-icon"><img src="./graphics/time.png" height="14px" alt="Time"></div>
+                            <div class="event-title">19:30 Uhr</div>
+                        </div><br>
+                    </div>
+					
+					<div class="date-container" id="12-05-2016">
+                        <h4>Jugend Rettet X Sonja Hilberger - BENEFIZKONZERT</h4>
+                        <br>
+                        <p><a target="_blank" href="https://www.facebook.com/events/1043316529082871/">→ facebook</a></p>
+                        <br>
+                        <p>
+                            Im Jahr 2015 ertranken 3771 Menschen bei dem Versuch über das Mittelmeer nach Europa zu flüchten. Die Dunkelziffer liegt weit darüber. Diese Situation können wir nicht länger hinnehmen. Jeder Mensch verdient die Rettung aus Seenot!<br>
+							Jugend Rettet ist eine Organisation von jungen Erwachsenen, die Gelder für zur Seenotrettung auf der zentralen Mittelmeerroute zwischen Libyen und Italien sammeln. Unser Ziel ist klar: weniger Tote im Mittelmeer.
+                        </p>
+                        <p>
+                            Die Finanzierung für den Kauf unseres Schiffes steht ebenso wie das Geld für den Umbau, die Überführung sowie den ersten Monat auf See. Nun geht es darum die laufenden Kosten abzudecken. Dazu zählen bspw. die Schiffsversicherung, Treibstoff, Verpflegung und Rettungsmittel. 40.000€ werden dazu benötigt. Nur mit euch können wir unsere Rettungsoperation über den Sommer fortsetzen.
+                        </p>
+                        <br>
+                        <p>
+                            Am 15.05.2016 findet in Hamburg das erste Benefizkonzert für Jugend Rettet statt: 
+                        </p>
+						<p>
+							In Love and Grave<br>
+							with<br>
+							Cash and Cave<br>
+						</p>
+						<p>
+							Die Geschichte einer großen Liebe. Zwei einsame Seelen - ein schüchterner Tanz bis zum ersten Blick in die Augen, Verbrechen, Leidenschaft, Gefängnis und schließlich die rasante Flucht zweier vom Gesetz Verfolgter. Eine Roadshow von Sonja Hilberger mit Liedern von Johnny Cash und Nick Cave.
+						</p>
+						<p>
+							Sonja Hilberger - Solo mit Gitarre
+						</p>
+						<br>
+                        <p>
+                            Wir freuen uns auf euch!
+                        </p>
+                        <p>
+                            Euer Jugend Rettet Team
+                        </p>
+                        <br>
+                        <div class="event-container">
+                            <div class="event-date">Sonntag, 15. Mai</div>
+                            <div class="event-icon"><img src="./graphics/location.png" width="14px" alt="Location"></div>
+                            <div class="event-title"><a href="https://www.google.de/maps/place/Stubnitz/@53.5367114,10.0108033,17z/data=!4m7!1m4!3m3!1s0x47b18ef649956893:0xa919a5cdb30c29ea!2sKirchenpauerkai,+20457+Hamburg!3b1!3m1!1s0x0000000000000000:0x9d6c4120fc591f5a" target="_blank"> MS Stubnitz<br>Kirchenpauerkai<br>20457 Hamburg</a></div><br>
+                            <div class="event-icon"><img src="./graphics/time.png" height="14px" alt="Time"></div>
+                            <div class="event-title">20:00 Uhr</div>
+                        </div><br>
+                    </div>
+					
+					<div class="date-container" id="12-05-2016">
+                        <h4>Jugend Rettet X Leuchtfeuerworte</h4>
+                        <br>
+                        <p><a target="_blank" href="https://www.facebook.com/events/1614177395571356/">→ facebook</a></p>
+                        <br>
+                        <p>
+                            Im Jahr 2015 ertranken 3771 Menschen, bei dem Versuch über das Mittelmeer nach Europa zu flüchten. Die Dunkelziffer liegt weiter darüber. Diese Situation können wir nicht länger hinnehmen. Jeder Mensch verdient die Rettung aus Seenot!<br>
+							Jugend Rettet ist eine Organisation von jungen Erwachsenen, die Gelder für zur Seenotrettung auf der zentralen Mittelmeerroute zwischen Libyen und Italien sammeln. Unser Ziel ist klar: weniger Tote im Mittelmeer.<br>
+							Gleichzeitig werden wir uns im asylpolitischen Diskurs klar positionieren und fordern die EU zu einem Ende der Gleichgültigkeit gegenüber dem Sterben auf dem Mittelmeer auf.<br>
+
+                        </p>
+                        <p>
+                            Die Finanzierung für den Kauf unseres Schiffes, sowie die Gelder für den Umbau, die Überführung sowie den ersten Monat auf See stehen. Nun geht es darum die laufenden Kosten zu decken.
+                        </p>
+                        <br>
+						<p>
+							Am 02.06.2016 findet deswegen ein Benefizslam für Jugend Rettet im SpecOps network in Münster statt. Freut euch auf einen wortreichen und spannenden Abend. :) 
+						</p>
+                        <br>
+                        <p>
+                            Wir freuen uns auf euch!
+                        </p>
+                        <p>
+                            Euer Jugend Rettet Team
+                        </p>
+                        <br>
+                        <div class="event-container">
+                            <div class="event-date">Donnerstag, 2. Juni</div>
+                            <div class="event-icon"><img src="./graphics/location.png" width="14px" alt="Location"></div>
+                            <div class="event-title"><a href="https://www.google.de/maps/place/SpecOps+network/@51.9593756,7.6319587,17z/data=!3m1!4b1!4m2!3m1!1s0x47b9badb8cfff20d:0xef061314bd4b3657" target="_blank">SpecOps network<br>Von-Vincke-Straße 5-7<br>48143 Münster</a></div><br>
+                            <div class="event-icon"><img src="./graphics/time.png" height="14px" alt="Time"></div>
+                            <div class="event-title">19:00 Uhr</div>
+                        </div><br>
+                    </div>
 
                 </div>
             </div>
