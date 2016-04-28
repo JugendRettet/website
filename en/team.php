@@ -136,6 +136,8 @@
                             <li>Berlin: <a href="mailto:Lukas@jugendrettet.org">Lukas</a></li>
                             <li>Berlin: <a href="mailto:Sonja@jugendrettet.org">Sonja</a></li>
                             <li>Bochum: <a href="mailto:Benedikt@jugendrettet.org">Benedikt</a></li>
+                            <li>Bonn: <a href="mailto:AnnaB@jugendrettet.org">Anna</a></li>
+                            <li>Bonn: <a href="mailto:Chris@jugendrettet.org">Chris</a></li>
                             <li>Bonn: <a href="mailto:Tobias@jugendrettet.org">Tobias</a></li>
                             <li>Brunsbüttel: <a href="mailto:Max@jugendrettet.org">Max</a></li>
                             <li>Chiemgau: <a href="mailto:Simon@jugendrettet.org">Simon</a></li>
@@ -153,6 +155,7 @@
                             <li>Heilbronn: <a href="mailto:Jon@jugendrettet.org">Jon</a></li>
                             <li>Kiel: <a href="mailto:Matthis@jugendrettet.org">Matthis</a></li>
                             <li>Koblenz: <a href="mailto:AlexW@jugendrettet.org">Alex</a></li>
+                            <li>Liechtenstein: <a href="mailto:David@jugendrettet.org">David</a></li>
                             <li>Liechtenstein: <a href="mailto:Helena@jugendrettet.org">Helena</a></li>
                             <li>London: <a href="mailto:LenaG@jugendrettet.org">Lena</a></li>
                             <li>Lüneburg: <a href="mailto:Alex@jugendrettet.org">Alex</a></li>
@@ -168,6 +171,8 @@
                             <li>Reutlingen: <a href="mailto:Fatih@jugendrettet.org">Fatih</a></li>
                             <li>Saarbrücken: <a href="mailto:Fabrizio@jugendrettet.org">Fabrizio</a></li>
                             <li>Saarlouis: <a href="mailto:AlexG@jugendrettet.org">Alex</a></li>
+                            <li>Salem: <a href="mailto:David@jugendrettet.org">David</a></li>
+                            <li>Salem: <a href="mailto:Helena@jugendrettet.org">Helena</a></li>
                             <li>Spiekeroog: <a href="mailto:AnnSophie@jugendrettet.org">Ann Sophie</a></li>
                             <li>Stuttgart: <a href="mailto:Harun@jugendrettet.org">Harun</a></li>
                             <li>Trier: <a href="mailto:Asa@jugendrettet.org">Asa</a></li>
