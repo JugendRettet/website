@@ -202,7 +202,7 @@
                                 </svg>
                             </div>
                             <div class="belt incolumn">
-                              <img class="belt incolumn" src="./graphics/belt-c.svg" alt="Rettungsring">
+                              <img class="belt incolumn" src="../graphics/belt-c.svg" alt="Rettungsring">
                             </div>
                         </div>
                         <br>
