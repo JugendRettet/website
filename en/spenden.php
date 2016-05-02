@@ -203,7 +203,7 @@
                             </div>
                             <span id="phase-text" class="center">Phase 3</span>
                             <div id="belt" style="position:absolute">
-                              <img class="belt" src="./graphics/belt-c.svg" alt="Rettungsring">
+                              <img class="belt" src="../graphics/belt-c.svg" alt="Rettungsring">
                             </div>
                         </div>
                         <br>
