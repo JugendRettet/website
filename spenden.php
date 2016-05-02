@@ -203,7 +203,7 @@
                             <div class="incolumn" id="belt-progress">
                                 <svg viewBox="-238.725 -238.725 477.45 477.45" class="incolumn" alt="Rettungsring">
                                     <!-- viewBox="-(2000 / 3pi) (4000 / 3pi)"-->
-                                    <circle r="159.15" cy="0" cx="4"/> <!-- r=(1000 / 2pi) cx=4 bc of offset to svg-->
+                                    <circle r="159.15" cy="0" cx="0"/> <!-- r=(1000 / 2pi) -->
                                 </svg>
                             </div>
                             <div class="belt incolumn">
