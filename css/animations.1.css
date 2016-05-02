@@ -115,6 +115,6 @@
 
 div#mission-container div#belt-progress svg {
     stroke-dasharray: 1000; /* (pi * r * 2) */
-    stroke-dashoffset: 1000; /* ( 1000 - ( 1000 * ( spendenstand / 40000 ) ) ) */
+    stroke-dashoffset: 500; /* ( 1000 - ( 1000 * ( spendenstand / 40000 ) ) ) */
     transform: rotate(-90deg);
 }
