@@ -76,12 +76,12 @@
                             <div id="belt-progress">
                                 <svg viewBox="-238.725 -238.725 477.45 477.45" class="incolumn" alt="Rettungsring">
                                     <!-- viewBox="-(2000 / 3pi) (4000 / 3pi)"-->
-                                    <circle r="159.15" cy="0" cx="4"/> <!-- r=(1000 / 2pi) cx=4 bc of offset to svg-->
+                                    <circle r="159.15" cy="7" cx="7"/> <!-- r=(1000 / 2pi); cy, cx offset to match svg-->
                                 </svg>
                             </div>
                             <span id="phase-text" class="center">Phase 3</span>
                             <div id="belt" style="position:absolute">
-                              <img class="belt" src="../graphics/belt-c.svg" alt="Rettungsring">
+                              <img class="belt" src="../graphics/belt.svg" alt="Rettungsring">
                             </div>
                         </div>
                     </a>
