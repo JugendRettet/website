@@ -3,16 +3,13 @@
 
 /* belt */
 
-div#mission-container{
+div.index div#mission-container{
     height:250px;width:250px;position:relative;
 }
-img.belt {
-    width:250px;opacity:0.4;
+div.index div#belt {
+    position:absolute;overflow:hidden;
 }
-div#belt-progress {
-    position:absolute;overflow:hidden;width:250px;
-}
-img.belt-progress {
+div.index img.belt {
     width:250px;
 }
 
@@ -52,16 +49,16 @@ div#schiff-ani.index {
 #union {
     font-size: 20px;
 }
-div#mission-container{
+div.index div#mission-container{
     height:200px;width:200px;
 }
-img.belt {
+div.index img.belt {
     width:200px;
 }
-div#belt-progress {
+div.index div#belt-progress {
     width:200px;
 }
-img.belt-progress {
+div.index img.belt-progress {
     width:200px;
 }
 #phase-text {
@@ -111,16 +108,16 @@ footer {
 }
 }
 @media screen and (min-width: 480px) and (max-height: 459px) {
-div#mission-container{
+div.index div#mission-container{
     height:150px;width:150px;
 }
-img.belt {
+div.index img.belt {
     width:150px;
 }
-div#belt-progress {
+div.index div#belt-progress {
     width:150px;
 }
-img.belt-progress {
+div.index img.belt-progress {
     width:150px;
 }
 #phase-text {
@@ -134,16 +131,16 @@ img.belt-progress {
 }
 }
 @media screen and (min-width: 480px) and (max-height: 369px) {
-div#mission-container{
+div.index div#mission-container{
     height:100px;width:100px;
 }
-img.belt {
+div.index img.belt {
     width:100px;
 }
-div#belt-progress {
+div.index div#belt-progress {
     width:100px;
 }
-img.belt-progress {
+div.index img.belt-progress {
     width:100px;
 }
 #phase-text {
@@ -641,16 +638,16 @@ div#schiff-ani.index {
 }
 }
 @media screen and (max-width: 479px) and (max-height: 599px) {
-div#mission-container{
+div.index div#mission-container{
     height:200px;width:200px;
 }
-img.belt {
+div.index img.belt {
     width:200px;
 }
-div#belt-progress {
+div.index div#belt-progress {
     width:200px;
 }
-img.belt-progress {
+div.index img.belt-progress {
     width:200px;
 }
 #phase-text {
@@ -658,16 +655,16 @@ img.belt-progress {
 }
 }
 @media screen and (max-width: 479px) and (max-height: 549px) {
-div#mission-container{
+div.index div#mission-container{
     height:150px;width:150px;
 }
-img.belt {
+div.index img.belt {
     width:150px;
 }
-div#belt-progress {
+div.index div#belt-progress {
     width:150px;
 }
-img.belt-progress {
+div.index img.belt-progress {
     width:150px;
 }
 #phase-text {
@@ -684,16 +681,16 @@ img.belt-progress {
 }
 }
 @media screen and (max-width: 479px) and (max-height: 469px) {
-div#mission-container{
+div.index div#mission-container{
     height:100px;width:100px;
 }
-img.belt {
+div.index img.belt {
     width:100px;
 }
-div#belt-progress {
+div.index div#belt-progress {
     width:100px;
 }
-img.belt-progress {
+div.index img.belt-progress {
     width:100px;
 }
 #phase-text {
@@ -777,7 +774,7 @@ div#schiff-ani.index {
 div#union hr.wide {
     display: none;
 }
-#mission-container {
+div.index #mission-container {
     display:none;
 }
 #slogan {

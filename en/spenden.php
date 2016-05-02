@@ -194,12 +194,16 @@
 
                     <div class="column hideme">
                         <!--<h4>RAISED FUNDS</h4>-->
-                        <div id="mission-container incolumn" class="center">
-                            <!--<div id="belt incolumn">
-                              <img class="belt incolumn" src="../graphics/belt.svg" alt="Rettungsring">
-                            </div>-->
-                            <div class="belt-progress incolumn" id="mission-gespendet">
-                              <img class="belt-progress incolumn" src="../graphics/belt-progress.svg" alt="life belt">
+                        <div id="mission-container" class="center">
+                            <div id="belt-progress">
+                                <svg viewBox="-238.725 -238.725 477.45 477.45" class="incolumn" alt="Rettungsring">
+                                    <!-- viewBox="-(2000 / 3pi) (4000 / 3pi)"-->
+                                    <circle r="159.15" cy="0" cx="0"/> <!-- r=(1000 / 2pi) -->
+                                </svg>
+                            </div>
+                            <span id="phase-text" class="center">Phase 3</span>
+                            <div id="belt" style="position:absolute">
+                              <img class="belt" src="./graphics/belt-c.svg" alt="Rettungsring">
                             </div>
                         </div>
                         <br>

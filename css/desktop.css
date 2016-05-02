@@ -59,16 +59,16 @@ footer li:hover {
 
 /* belt */
 
-div#mission-container{
+div.index div#mission-container{
     height:300px;width:300px;position:relative;
 }
-img.belt {
-    width:300px;opacity:0.4;
+div.index img.belt {
+    width:300px;
 }
-div#belt-progress {
+div.index div#belt-progress {
     position:absolute;overflow:hidden;width:300px;
 }
-img.belt-progress {
+div.index img.belt-progress {
     width:300px;
 }
 
@@ -244,8 +244,7 @@ header ul li a, header ul.open li a {
 #phase-text {
     font-size: 66%;
 }
-
-}
+} /* end @media screen and (min-width: 1040px) */
 
 @media screen and (min-width: 850px) and (max-width: 1039px) {
 /* Main */
@@ -411,7 +410,8 @@ header ul li a, header ul.open li a {
     width: calc(100vw - 80px);
     margin-top: 50px;
 }
-}
+} /* end @media screen and (min-width: 850px) and (max-width: 1039px) */
+
 @media screen and (min-width: 1040px) and (max-height: 639px) {
 div#schiff-ani.index {
     display: none;
@@ -448,30 +448,30 @@ div#schiff-ani.index {
 }
 }
 @media screen and (max-height: 579px) {
-div#mission-container{
+div.index div#mission-container{
     height:250px;width:250px;
 }
-img.belt {
+div.index img.belt {
     width:250px;
 }
-div#belt-progress {
+div.index div#belt-progress {
     width:250px;
 }
-img.belt-progress {
+div.index img.belt-progress {
     width:250px;
 }
 }
 @media screen and (max-height: 519px) {
-div#mission-container{
+div.index div#mission-container{
     height:200px;width:200px;
 }
-img.belt {
+div.index img.belt {
     width:200px;
 }
-div#belt-progress {
+div.index div#belt-progress {
     width:200px;
 }
-img.belt-progress {
+div.index img.belt-progress {
     width:200px;
 }
 }
@@ -487,16 +487,16 @@ img.belt-progress {
 }
 }
 @media screen and (max-height: 399px) {
-div#mission-container{
+div.index div#mission-container{
     height:150px;width:150px;
 }
-img.belt {
+div.index img.belt {
     width:150px;
 }
-div#belt-progress {
+div.index div#belt-progress {
     width:150px;
 }
-img.belt-progress {
+div.index img.belt-progress {
     width:150px;
 }
 #phase-text {
@@ -505,7 +505,7 @@ img.belt-progress {
 }
 }
 @media screen and (max-height: 359px) {
-#mission-container{
+div.index #mission-container{
     display: none;
 }
 div#union hr.wide {

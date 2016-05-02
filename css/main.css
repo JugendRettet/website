@@ -629,6 +629,30 @@ a.faq.open {
     left: 5px;
     text-align: center;
 }
+div#mission-container.incolumn {
+    width:100%;
+    position:relative;
+}
+div#mission-container.incolumn img.belt {
+    width:100%;
+}
+div#mission-container div#belt-progress {
+    position:absolute;
+    overflow:hidden;
+    z-index:-1;
+    width:100%;
+    height:100%;
+}
+div#mission-container div#belt-progress svg {
+    fill: transparent;
+    stroke: #286482;
+    stroke-width: 79.58; /* (1000 / 4pi) */
+}
+div#mission-container.incolumn div#belt-progress svg {
+    width:100%;
+    height:100%;
+}
+
 @media all and (-ms-high-contrast: none), (-ms-high-contrast: active) {
 /* IE10+ CSS styles go here */
     #schiff-ani {
