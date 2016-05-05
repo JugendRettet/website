@@ -49,7 +49,9 @@
                 width: <?php
                     $phase1 = file_get_contents('donations/phase1.txt');
                     $value1 = number_format((float)$phase1,2,",",".");
-                    ?>100%;
+                    $sd = ( 1000 - ( 1000 * ( $phase1 / 40000 ) ) );
+                    echo 100 / 40000 * $phase1;
+                    ?>%;
             }
         </style>
     </head>
@@ -74,12 +76,12 @@
                     <a href="./spenden">
                         <div id="mission-container" class="center">
                             <div id="belt-progress">
-                                <svg viewBox="-238.725 -238.725 477.45 477.45" class="incolumn" alt="Rettungsring">
+                                <svg viewBox="-238.725 -238.725 477.45 477.45" class="incolumn" alt="Rettungsring" style="stroke-dashoffset:<?php echo $sd;?>">
                                     <!-- viewBox="-(2000 / 3pi) (4000 / 3pi)"-->
                                     <circle r="159.15" cy="7" cx="7"/> <!-- r=(1000 / 2pi); cy, cx offset to match svg-->
                                 </svg>
                             </div>
-                            <span id="phase-text" class="center">Phase 3</span>
+                            <span id="phase-text" class="center">Monat 2</span>
                             <div id="belt" style="position:absolute">
                               <img class="belt" src="./graphics/belt.svg" alt="Rettungsring">
                             </div>

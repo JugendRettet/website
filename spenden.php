@@ -92,7 +92,9 @@
                 width: <?php
                     $phase1 = file_get_contents('donations/phase1.txt');
                     $value1 = number_format((float)$phase1,2,",",".");
-                    ?>0%;
+                    $sd = ( 1000 - ( 1000 * ( $phase1 / 40000 ) ) );
+                    echo 100 / 40000 * $phase1;
+                    ?>%;
             }
         </style>
     </head>
@@ -201,7 +203,7 @@
                         <!--<h4>SPENDENSTAND</h4>-->
                         <div id="mission-container" class="center incolumn">
                             <div class="incolumn" id="belt-progress">
-                                <svg viewBox="-238.725 -238.725 477.45 477.45" class="incolumn" alt="Rettungsring">
+                                <svg viewBox="-238.725 -238.725 477.45 477.45" class="incolumn" alt="Rettungsring" style="stroke-dashoffset:<?php echo $sd;?>">
                                     <!-- viewBox="-(2000 / 3pi) (4000 / 3pi)"-->
                                     <circle r="159.15" cy="7" cx="7"/> <!-- r=(1000 / 2pi); cy, cx offset to match svg-->
                                 </svg>
@@ -214,8 +216,8 @@
                         <div style="display:initial;" id="phase">
                             <div class="ph-container" id="ph-eins">
                                 <div class="header" style="text-align:center;">
-                                    <!--<span class="percentage"><?php echo $value1;?> / 40.000 €</span>-->
-                                    <span class="percentage">Phase 3</span>
+                                    <span class="percentage">Monat 2: <?php echo $value1;?> / 40.000 €</span>
+                                    <!--<span class="percentage">Monat 2</span>-->
                                     <hr id="ph-eins-progress">
                                 </div>
                                 <div class="content" id="ph-eins-content">

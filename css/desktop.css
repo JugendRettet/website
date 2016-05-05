@@ -242,7 +242,7 @@ header ul li a, header ul.open li a {
 /* belt */
 
 #phase-text {
-    font-size: 66%;
+    font-size: 56%;
 }
 } /* end @media screen and (min-width: 1040px) */
 
@@ -429,7 +429,7 @@ div#schiff-ani.index {
 }
 @media screen and (min-width: 1040px) and (max-height: 579px) {
 #phase-text {
-    font-size: 60%;
+    font-size: 50%;
 }
 }
 @media screen and (max-width: 1039px) and (max-height: 399px) {
@@ -439,12 +439,12 @@ div#schiff-ani.index {
 }
 @media screen and (min-width: 1040px) and (max-height: 519px) {
 #phase-text {
-    font-size: 45%;
+    font-size: 35%;
 }
 }
 @media screen and (max-width: 1039px) and (max-height: 519px) {
 #phase-text {
-    font-size: 66%;
+    font-size: 56%;
 }
 }
 @media screen and (max-height: 579px) {
@@ -483,7 +483,7 @@ div.index img.belt-progress {
     font-size: 25px;
 }
 #phase-text {
-    font-size: 66%;
+    font-size: 56%;
 }
 }
 @media screen and (max-height: 399px) {
@@ -500,7 +500,7 @@ div.index img.belt-progress {
     width:150px;
 }
 #phase-text {
-    font-size: 60%;
+    font-size: 50%;
     left:2px;
 }
 }
