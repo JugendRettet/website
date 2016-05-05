@@ -18,12 +18,12 @@
         <link rel="shortcut icon" type="image/x-icon" href="./graphics/jr.ico" />
         <link rel="mask-icon" href="./graphics/jr-mask.svg" color="rgb(40,100,130)">
         <link rel="apple-touch-icon" href="./graphics/apple-touch-icon.png"/>
-        <link rel="stylesheet" href="./css/animations.1.css?0" type="text/css" />
+        <link rel="stylesheet" href="./css/animations.1.css?1" type="text/css" />
         <link rel="stylesheet" href="./css/waves.1.css" type="text/css" />
         <link rel="stylesheet" href="./css/general.css" type="text/css" />
         <link rel="stylesheet" href="./css/main.css?8" type="text/css" />
-        <link rel="stylesheet" href="./css/desktop.css?4" media="screen and (min-width: 851px)" type="text/css" />
-        <link rel="stylesheet" href="./css/mobile.css?5" media="screen and (max-width: 850px)" type="text/css" />
+        <link rel="stylesheet" href="./css/desktop.css?5" media="screen and (min-width: 851px)" type="text/css" />
+        <link rel="stylesheet" href="./css/mobile.css?6" media="screen and (max-width: 850px)" type="text/css" />
         <!--[if IE]>
             <link rel="stylesheet" href="./ie-css/noship.css" type="text/css" />
         <![endif]-->

@@ -25,9 +25,9 @@
 
         <link href="./css/general.css" rel="stylesheet" type="text/css">
         <link href="./css/main.css?8" rel="stylesheet" type="text/css">
-        <link href="./css/desktop.css?4" media="screen and (min-width: 851px)" rel="stylesheet" type="text/css">
-        <link href="./css/mobile.css?5" media="screen and (max-width: 850px)" rel="stylesheet" type="text/css">
-        <link rel="stylesheet" href="./css/animations.1.css?0" type="text/css" />
+        <link href="./css/desktop.css?5" media="screen and (min-width: 851px)" rel="stylesheet" type="text/css">
+        <link href="./css/mobile.css?6" media="screen and (max-width: 850px)" rel="stylesheet" type="text/css">
+        <link rel="stylesheet" href="./css/animations.1.css?1" type="text/css" />
         <!--[if IE]>
             <link rel="stylesheet" href="./ie-css/noship.css" type="text/css" />
         <![endif]-->
