@@ -70,10 +70,9 @@
                     <h3>Legal Notice</h3>
                     <br>
                     <h4>Contact</h4>
-                    <br>
                     <p>E-Mail: <a href="mailto:info@jugendrettet.org">info@jugendrettet.org</a></p>
                     <p>Encrypted: <a href="mailto:pgp@jugendrettet.org">pgp@jugendrettet.org</a></p>
-                    <p><a href="../files/JR_pub.asc">PGP key</a></p>
+                    <p>&#8594; <a href="../files/JR_pub.asc">PGP key</a></p>
                     <br>
                     <h4>Diese Website wird betrieben von</h4>
                     <p>Jugend Rettet e.V.</p>

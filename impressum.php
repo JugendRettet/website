@@ -70,10 +70,9 @@
                     <h3>Impressum</h3>
                     <br>
                     <h4>Kontakt</h4>
-                    <br>
                     <p>E-Mail: <a href="mailto:info@jugendrettet.org">info@jugendrettet.org</a></p>
                     <p>Verschlüsselt: <a href="mailto:pgp@jugendrettet.org">pgp@jugendrettet.org</a></p>
-                    <p><a href="./files/JR_pub.asc">PGP-Schlüssel</a></p>
+                    <p>&#8594; <a href="./files/JR_pub.asc">PGP-Schlüssel</a></p>
                     <br>
                     <h4>Diese Website wird betrieben von</h4>
                     <p>Jugend Rettet e.V.</p>
