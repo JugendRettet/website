@@ -199,6 +199,10 @@
 
                         <img src="graphics/FW-Logo.svg" alt="Flüchtlinge Willkommen" style="background-color:white;width:100%;margin-top:20px;padding:5px">
                         <span>Flüchtlinge Willkommen</span>
+
+                        <img src="graphics/druckhaus-gremlich-logo.png" alt="Druckhaus Griemlich" style="width:100%;margin-top:20px;">
+                        <span>Druckhaus Griemlich</span>
+
                         <!--</a>-->
                         <br><br>
                         <p><u>Note:</u> We have to renounce linking our promoters and supporters, as this would - by law - constitute a tax effective service in return. This would change a donation into a sponsoring performance, for which we would be taxed. We ask for your comprehension.</p>
