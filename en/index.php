@@ -50,7 +50,9 @@
                     $phase1 = file_get_contents('../donations/phase1.txt');
                     $value1 = number_format((float)$phase1,2,".",",");
                     $sd = ( 1000 - ( 1000 * ( $phase1 / 40000 ) ) );
-                    echo 100 / 40000 * $phase1;
+                    $percent = ( 100 / 40000 * $phase1 );
+                    $perform = number_format((float)$percent,1,".",",");
+                    echo $percent;
                     ?>%;
             }
         </style>
@@ -81,7 +83,7 @@
                                     <circle r="159.15" cy="7" cx="7"/> <!-- r=(1000 / 2pi); cy, cx offset to match svg-->
                                 </svg>
                             </div>
-                            <span id="phase-text" class="center">Month 2</span>
+                            <span id="phase-text" class="center">Month 2:<br><?php echo $perform;?>%<br>reached</span>
                             <div id="belt" style="position:absolute">
                               <img class="belt" src="../graphics/belt.svg" alt="Rettungsring">
                             </div>
