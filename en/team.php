@@ -200,7 +200,7 @@
                         <img src="../graphics/FW-Logo.svg" alt="Flüchtlinge Willkommen" style="background-color:white;width:100%;margin-top:20px;padding:5px">
                         <span>Flüchtlinge Willkommen</span>
 
-                        <img src="../graphics/druckhaus-gremlich-logo.png" alt="Druckhaus Griemlich" style="width:100%;margin-top:20px;">
+                        <img src="../graphics/Logo_Druckhaus_Gremlich.svg" alt="Druckhaus Griemlich" style="background-color:white;width:100%;margin-top:20px;padding:5px">
                         <span>Druckhaus Griemlich</span>
 
                         <!--<img src="../graphics/Stage_For_Piece.svg" alt="Stage For Piece" style="background-color:white;width:100%;margin-top:20px;padding:5px">
