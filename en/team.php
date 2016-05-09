@@ -203,8 +203,8 @@
                         <img src="../graphics/druckhaus-gremlich-logo.png" alt="Druckhaus Griemlich" style="width:100%;margin-top:20px;">
                         <span>Druckhaus Griemlich</span>
 
-                        <img src="../graphics/Stage_For_Piece.svg" alt="Stage For Piece" style="background-color:white;width:100%;margin-top:20px;padding:5px">
-                        <span>Stage For Piece</span>
+                        <!--<img src="../graphics/Stage_For_Piece.svg" alt="Stage For Piece" style="background-color:white;width:100%;margin-top:20px;padding:5px">
+                        <span>Stage For Piece</span>-->
 
                         <!--</a>-->
                         <br><br>
