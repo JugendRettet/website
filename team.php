@@ -202,6 +202,9 @@
                         <img src="graphics/druckhaus-gremlich-logo.png" alt="Druckhaus Griemlich" style="width:100%;margin-top:20px;">
                         <span>Druckhaus Griemlich</span>
 
+                        <img src="graphics/Stage_For_Piece.svg" alt="Stage For Piece" style="background-color:white;width:100%;margin-top:20px;padding:5px">
+                        <span>Stage For Piece</span>
+
                         <!--</a>-->
                         <br><br>
                         <p><u>Hinweis in eigener Sache:</u> Auf eine Verlinkung zu unseren Förderern und Unterstützern müssen wir leider verzichten, da dies (aus gesetzlicher Sicht) eine steuerlich wirksame Gegenleistung darstellt. Dadurch würde aus einer Spende eine Sponsoringleistung, für die wir Steuern entrichten müssten. Wir bitten herzlich um Verständnis.</p>
