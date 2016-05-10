@@ -95,6 +95,26 @@
                           </div>
                       </div><br>
 
+                      <a class="faq" id="93"><b>02. Mai</b> Unterstützung von Jasmin Gerat</a>
+                      <div class="faq-klappe" id="93-klappe">
+                        <p>
+                          "Auf dem Weg zu langfristigen Lösungen darf nicht in Vergessenheit geraten, dass jeden Tag weitere Menschen auf der Flucht sind und sofort Hilfe brauchen - so direkt wie es geht. Ich unterstütze das Projekt von Jugend Rettet, weil es genau dort vor Ort ist, wo immer noch zu viele Menschen sterben müssen: auf dem Meer. Jugend Rettet handelt und lebt Nächstenliebe, das berührt mich sehr und ich bitte jede/n unterstützend zu spenden und sei es nur ein kleiner Betrag - jeder Cent zählt!"
+                        </p>
+					    <p>
+                          Wir danken Jasmin Gerat für die Unterstützung!
+                        </p>
+                        <a target="_blank" href="http://jugendrettet.org/betterplace">‪#‎rettemit‬: jugendrettet.org/betterplace</a>
+                        <a target="_blank" href="./images/20160502.jpg"><img class="news" src="./images/20160502.jpg"></a>
+                      </div><br>
+					  
+                      <a class="faq" id="92"><b>02. Mai</b> Bericht bei La Stampa</a>
+                      <div class="faq-klappe" id="92-klappe">
+                        <p>
+                          Ein wenig internationale Presse: La Stampa aus Italien berichtet über unsere Arbeit:
+                        </p>
+					  <a target="_blank" href="http://www.lastampa.it/2016/05/02/societa/la-nave-per-salvare-i-migranti-finanziata-grazie-al-crowdfunding-JK5BmQo7cDD5eWAdRuLahI/pagina.html">→ Link</a>
+                      </div><br>
+					  
                       <a class="faq" id="91"><b>28. April</b> Interview auf Radio Q</a>
                       <div class="faq-klappe" id="91-klappe">
                         <p>
