@@ -142,6 +142,7 @@
                             <li>Chiemgau: <a href="mailto:Simon@jugendrettet.org">Simon</a></li>
                             <li>Dresden: <a href="mailto:Charlotte@jugendrettet.org">Charlotte</a></li>
                             <li>Emsland: <a href="mailto:Jannik@jugendrettet.org">Jannik</a></li>
+                            <li>Emsland: <a href="mailto:MaxB@jugendrettet.org">Max</a></li>
                             <li>Erkrath: <a href="mailto:AnnaB@jugendrettet.org">Anna</a></li>
                             <li>Flensburg: <a href="mailto:Pauline@jugendrettet.org">Pauline</a></li>
                             <li>Freiburg: <a href="mailto:JohannaFR@jugendrettet.org">Johanna</a></li>
