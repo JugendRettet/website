@@ -108,6 +108,7 @@
                             <li><b>Kjeld</b>:  Layout</li>
                             <li><b>Leon</b>:  Webdesign</li>
                             <li><b>Titus</b>:  Coordinator Ship</li>
+                            <li><b>Christoph</b>:  IT</li>
                         </ul>
                         <br>
                         <h4>The Crew</h4>

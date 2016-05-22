@@ -107,6 +107,7 @@
                             <li><b>Kjeld</b>:  Gestaltung</li>
                             <li><b>Leon</b>:  Webdesign</li>
                             <li><b>Titus</b>:  Koordinator Schiff</li>
+                            <li><b>Christoph</b>:  IT</li>
                         </ul>
                         <br>
                         <h4>Die Crew</h4>
