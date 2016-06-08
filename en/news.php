@@ -455,6 +455,7 @@
                     <div class="column">
                       <h4>Events</h4>
                         <p>Here you may find the schedules for the next meetings of Jugend Rettet europe and further education.</p><br>
+                        <p><a target="_blank" href="https://www.facebook.com/JugendRettet/events">→ Link</a></p>
                     </div>
                 </div>
                 <!--

@@ -133,6 +133,8 @@
                             <span class="event-title">Soli-Party - Party for the conversion</span>
                         </a> -->
 
+                        <p><a target="_blank" href="https://www.facebook.com/JugendRettet/events">→ Link</a></p>
+
                     </div>
                 </div>
             </div>

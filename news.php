@@ -843,10 +843,7 @@
                     <div class="column">
                       <h4>Events</h4>
                         <p>Hier findest du die Termine für die nächsten Jugend Rettet europe Treffen und Fortbildungen.</p><br>
-                        <a href="events?date=02-06-2016" class="event-container">
-                            <span class="event-date">Donnerstag, 2. Juni</span>
-                            <span class="event-title">Jugend Rettet X Leuchtfeuerworte - Münster</span>
-                        </a>
+                        <p><a target="_blank" href="https://www.facebook.com/JugendRettet/events">→ Link</a></p>
                     </div>
                 </div>
                 <!--
