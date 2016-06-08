@@ -63,6 +63,9 @@ Redirect /Umbau https://docs.google.com/forms/d/1-BDVr3R__kjSiC5PyWAui0_BTWwIS8A
 Redirect /sachspenden https://drive.google.com/open?id=1iKpAX8xsuh_Njjm6v0xumFi0RaiaAoNnNA8M1DuNBzU
 Redirect /Sachspenden https://drive.google.com/open?id=1iKpAX8xsuh_Njjm6v0xumFi0RaiaAoNnNA8M1DuNBzU
 
+Redirect /events https://www.facebook.com/JugendRettet/events
+Redirect /events.php https://www.facebook.com/JugendRettet/events
+
 # Error Documents
 ErrorDocument 403 https://jugendrettet.org/forbidden
 ErrorDocument 404 https://jugendrettet.org/notfound
