@@ -96,6 +96,71 @@
                           </div>
                       </div><br>
 
+
+                      <!-- hinzugefügt von FN -->
+
+                      <a class="faq" id="67"><b>June 9th</b> Start of the reconstruction in Emden</a>
+                        <div class="faq-klappe" id="67-klappe">
+                          <p>
+                            If you’re interested in helping, send a mail with the reference „reconstruction“ to <a href="mailto:titus@jugendrettet.org">titus@jugendrettet.org</a>.
+                          </p>
+                        </div><br>
+
+                      <a class="faq" id="66"><b>June 8th</b> The ship arrives in Emden</a>
+                        <div class="faq-klappe" id="66-klappe">
+                        </div><br>
+
+                      <a class="faq" id="65"><b>June 7th</b> The ship got successfully reregistered</a>
+                        <div class="faq-klappe" id="65-klappe">
+                        </div><br>
+
+                      <a class="faq" id="64"><b>May 20th</b> We received a large load of life jackets!</a>
+                        <div class="faq-klappe" id="64-klappe">
+                          <p>
+                            We received a large load of life jackets! Thank you, Elsfleth Kutterpull-Team!
+                          </p>
+                          <p>
+                            Follow the link to see what else we need: <a href="http://jugendrettet.org/sachspenden" target="_blank">jugendrettet.org/sachspenden</a>.
+                          </p>
+                        </div><br>
+
+                      <a class="faq" id="63"><b>May 19th</b> Sale agreement signed!</a>
+                        <div class="faq-klappe" id="63-klappe">
+                          <p>
+                            Jakob has just signed the ship's sales agreement!
+                          </p>
+                        </div><br>
+
+                      <a class="faq" id="62"><b>May 10th</b> Jugend Rettet at ev1.tv</a>
+                        <div class="faq-klappe" id="62-klappe">
+                          <p>
+                            Ambassador Jannik presented Jugend Rettet at ev1.tv
+                          </p>
+                        </div><br>
+
+                      <a class="faq" id="61"><b>April 2016</b> Submission of the cost proposal for the ship</a>
+                        <div class="faq-klappe" id="61-klappe">
+                          <p>
+                            Launch of the second funding campaign on Betterplace. Supervised by our consultant the ship is lifted into the dry dock &#8594; The underwater hull as well as the external wall's thickness are looking good. Also the oars, propeller and bow thruster don't show any significant damages.
+                          </p>
+                        </div><br>
+
+                      <a class="faq" id="60"><b>March 2016</b> German actors manifest their support</a>
+                        <div class="faq-klappe" id="60-klappe">
+                          <p>
+                            German actress Maria Furtwängler and German Actor Jan Josef Liefers manifest their support for Jugend Rettet choosing the most suitable ship and getting it checked by a referee.
+                          </p>
+                        </div><br>
+
+                      <a class="faq" id="59"><b>March 20th</b> Jugend Rettet joins initiative</a>
+                        <div class="faq-klappe" id="59-klappe">
+                          <p>
+                            Jugend Rettet joins the "Initiative Transparente Zivilgesellschaft (ITZ)"
+                          </p>
+                        </div><br>
+
+                      <!-- /hinzugefügt von FN -->
+
                       <a class="faq" id="58"><b>February 20th</b> Start on betterplace.org </a>
                       <div class="faq-klappe" id="58-klappe">
                         <p>
@@ -136,14 +201,14 @@
                       <div class="faq-klappe" id="52-klappe">
                         <p>
                             Exciting news! The full 150.000€ which a ship will cost in our calculations, will be donated!
-                            <b>Condition</b> to this is, that we collect the money for conversion and running 
-                            costs for the first month - <b>80.000€ - until March 31st</b>. We are stunned by this generosity. 
-                            To make the conversion happen as planned, beginning April 1st, we need you more than ever: Please 
+                            <b>Condition</b> to this is, that we collect the money for conversion and running
+                            costs for the first month - <b>80.000€ - until March 31st</b>. We are stunned by this generosity.
+                            To make the conversion happen as planned, beginning April 1st, we need you more than ever: Please
                             support us by telling about us. Every little donation will bring us closer to our aim, to save human lives!
                         </p>
                         <br>
                         <p>
-                            Thank you so much everyone, who already donated to us and spread our word. It is important now to get 
+                            Thank you so much everyone, who already donated to us and spread our word. It is important now to get
                             everything going, so the conversion for rescue missions can be realized.
                         </p>
                         <a href="../files/schiff.gif" target="_blank"><img class="news" src='../files/schiff_twitter.gif'></a>
@@ -228,7 +293,7 @@
                           <a href="../images/wmtrier.jpg" target="_blank"><img class="news" src='../images/wmtrier.jpg'></a>
                       </div><br>
                       <a class="faq" id="31"><b>December 8th</b> Open meeting in Nuremberg</a>
-                      <div class="faq-klappe" id="31-klappe"> 
+                      <div class="faq-klappe" id="31-klappe">
                       </div><br>
                       <a class="faq" id="30"><b>December 2nd</b> Visit from Jule Müller and presentation at the b.traven secondary school</a>
                       <div class="faq-klappe" id="30-klappe">
@@ -287,7 +352,7 @@
                       <a class="faq" id="20"><b>November 11th</b> Invitation to Heimathafen Neukoelln</a>
                       <div class="faq-klappe" id="20-klappe">
                           <p>The director of the stageplay "Ultimo Ratio" invited us to Heimathafen Neukoelln.</p>
-                          <p>Ultimo Ratio is based on a true story and was made from original documents. It tells the story of Aliyah and her husband Rooble, who are to be deported due to the Dublin III regulation. Aliyah can't take anymore: Escape from Somalia. Through the Sahara. Lampedusa. Homeless  Aliyah ist am Ende ihrer Kräfte: Flucht aus Somalia. Durch die Sahara. Lampedusa. Without shelter and defence she was exposed to violence and abuse on the streets of Catania. - She could not bear that again. With their church asylum, the community Christophorus sets something against the authorities orders, and fights for Aliyah's story to be heard. 
+                          <p>Ultimo Ratio is based on a true story and was made from original documents. It tells the story of Aliyah and her husband Rooble, who are to be deported due to the Dublin III regulation. Aliyah can't take anymore: Escape from Somalia. Through the Sahara. Lampedusa. Homeless  Aliyah ist am Ende ihrer Kräfte: Flucht aus Somalia. Durch die Sahara. Lampedusa. Without shelter and defence she was exposed to violence and abuse on the streets of Catania. - She could not bear that again. With their church asylum, the community Christophorus sets something against the authorities orders, and fights for Aliyah's story to be heard.
                           After the stageplay, we had the opportunity to introduce us. We also had an information stand there.
                           ‬</p>
                       </div><br>
@@ -436,7 +501,7 @@
                             <li><a href="https://jugendrettet.org/transparenz">Transparency (de)</a></li>
                             <li class="br"></li>
                             <li><a href="https://jugendrettet.org/news">de</a></li>
-                        </ul> 
+                        </ul>
                     </nav>
                 </footer>
             </div>

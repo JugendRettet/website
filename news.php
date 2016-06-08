@@ -95,6 +95,46 @@
                           </div>
                       </div><br>
 
+                      <!-- hinzugefügt von FN -->
+
+                      <a class="faq" id="99"><b>9. Juni</b> Start der Umbauarbeiten</a>
+                        <div class="faq-klappe" id="99-klappe">
+                          <p>
+                            Interessierte HelferInnen können sich bei <a href="mailto:titus@jugendrettet.org">titus@jugendrettet.org</a> mit dem Betreff „Umbau“ melden.
+                          </p>
+                        </div><br>
+
+                      <a class="faq" id="98"><b>8. Juni</b> Ankunft des Schiffes in Emden </a>
+                        <div class="faq-klappe" id="98-klappe">
+                        </div><br>
+
+                      <a class="faq" id="97"><b>7. Juni</b> Ummeldung des Schiffes erfolgreich abgeschlossen!</a>
+                        <div class="faq-klappe" id="97-klappe">
+                        </div><br>
+
+                      <a class="faq" id="96"><b>20. Mai</b> Wir bekommen eine große Ladung Rettungswesten gespendet!</a>
+                        <div class="faq-klappe" id="96-klappe">
+                          <p>
+                            Danke an das Elsflether Kutterpull-Team! Wenn du uns auch mit Sachspenden helfen möchtest, kannst du hier sehen was wir benötigen: <a href="http://jugendrettet.org/sachspenden" target="_blank">jugendrettet.org/sachspenden</a>.
+                          </p>
+                        </div><br>
+
+                      <a class="faq" id="95"><b>19. Mai</b> Kaufvertrag unterzeichnet!</a>
+                        <div class="faq-klappe" id="95-klappe">
+                          <p>
+                            Jakob unterzeichnet den Kaufvertrag für das Schiff
+                          </p>
+                        </div><br>
+
+                      <a class="faq" id="94"><b>10. Mai</b> Jugend Rettet bei ev1.tv</a>
+                        <div class="faq-klappe" id="94-klappe">
+                          <p>
+                            Botschafter Jannik hat uns bei ev1.tv vorgestellt.
+                          </p>
+                        </div><br>
+
+                        <!-- /hinzugefügt von FN -->
+
                       <a class="faq" id="93"><b>02. Mai</b> Unterstützung von Jasmin Gerat</a>
                       <div class="faq-klappe" id="93-klappe">
                         <p>
@@ -106,7 +146,7 @@
                         <a target="_blank" href="http://jugendrettet.org/betterplace">‪#‎rettemit‬: jugendrettet.org/betterplace</a>
                         <a target="_blank" href="./images/20160502.jpg"><img class="news" src="./images/20160502.jpg"></a>
                       </div><br>
-					  
+
                       <a class="faq" id="92"><b>02. Mai 2016</b> Bericht bei La Stampa</a>
                       <div class="faq-klappe" id="92-klappe">
                         <p>
@@ -114,7 +154,7 @@
                         </p>
                         <a target="_blank" href="http://www.lastampa.it/2016/05/02/societa/la-nave-per-salvare-i-migranti-finanziata-grazie-al-crowdfunding-JK5BmQo7cDD5eWAdRuLahI/pagina.html">→ Link</a>
                       </div><br>
-					  
+
                       <a class="faq" id="91"><b>28. April</b> Interview auf Radio Q</a>
                       <div class="faq-klappe" id="91-klappe">
                         <p>
@@ -163,7 +203,7 @@
                           Malta steht für uns als Heimathafen zur Option. Deswegen ist Jakob gerade dort, um den Aufbau der Infrastruktur (Liegeplatz, Unterkunft Crew, Lager Rettungsmittel/Ersatzteile) für unsere Operation, Vernetzung mit Behörden und Initiativen vor Ort zu arrangieren. So hat er sich z.B. mit MOAS getroffen und einen Vortrag an der University of Malta gehalten.
                         </p>
                         <p>
-                          Meldet euch bei <a target="_blank" href="tobi@jugendrettet.org">tobi@jugendrettet.org</a>, wenn wir ihr unser Bonner Team unterstützen möchtet. 
+                          Meldet euch bei <a target="_blank" href="tobi@jugendrettet.org">tobi@jugendrettet.org</a>, wenn wir ihr unser Bonner Team unterstützen möchtet.
                         </p>
                         <a href="./images/20160414.jpg" target="_blank"><img class="news" src="./images/20160414.jpg"></a>
                       </div><br>
@@ -191,7 +231,7 @@
                           RTL WEST berichtete über uns.
                         </p>
                         <p>
-                          Meldet euch bei <a href="tobi@jugendrettet.org">tobi@jugendrettet.org</a>, wenn wir ihr unser Bonner Team unterstützen möchtet. 
+                          Meldet euch bei <a href="tobi@jugendrettet.org">tobi@jugendrettet.org</a>, wenn wir ihr unser Bonner Team unterstützen möchtet.
                         </p>
                         <a target="_blank" href="http://www.rtl-west.de/beitrag/artikel/nicht-reden-machen/">→ Link</a>
                       </div><br>
@@ -261,10 +301,10 @@
                       <a class="faq" id="76"><b>18. März</b> Spendenziel 2 erreicht + Soli-Party im Lauschangriff Berlin</a>
                       <div class="faq-klappe" id="76-klappe">
                         <p>
-                          Gestern haben wir unser erstes Spendenziel von 80.000 Euro erreicht! Es ist wirklich unglaublich und wir freuen uns wahnsinnig. Wir bedanken uns für so viel Zuspruch, Spendenbereitschaft und Unterstützung! 
+                          Gestern haben wir unser erstes Spendenziel von 80.000 Euro erreicht! Es ist wirklich unglaublich und wir freuen uns wahnsinnig. Wir bedanken uns für so viel Zuspruch, Spendenbereitschaft und Unterstützung!
                         </p>
                         <p>
-                          Wir werden jetzt weiterhin alles dafür tun, so bald wie möglich mit den Rettungsmissionen zu beginnen! Mit den bisher eingegangenen Spenden werden wir dann die Überführung und den Umbau finanzieren. Nun brauchen wir vor allem Mittel für die Wochen auf See, um uns dem Schiffskauf Anfang April zuwenden zu können. Parallel dazu suchen wir geeignete Mannschaften und Freiwillige, die unser Schiff begleiten können und uns auch beim Umbau helfen, sowie Handwerker, Schreiner und Schweißer.  
+                          Wir werden jetzt weiterhin alles dafür tun, so bald wie möglich mit den Rettungsmissionen zu beginnen! Mit den bisher eingegangenen Spenden werden wir dann die Überführung und den Umbau finanzieren. Nun brauchen wir vor allem Mittel für die Wochen auf See, um uns dem Schiffskauf Anfang April zuwenden zu können. Parallel dazu suchen wir geeignete Mannschaften und Freiwillige, die unser Schiff begleiten können und uns auch beim Umbau helfen, sowie Handwerker, Schreiner und Schweißer.
                         </p>
                         <p>
                           Wir freuen uns, mit euch die nächsten Ziele und Etappen zu meistern.
@@ -361,7 +401,7 @@
                       <a class="faq" id="65"><b>10. März</b> Statement von Maria Furtwängler </a>
                       <div class="faq-klappe" id="65-klappe">
                         <p>
-                          „Alle reden darüber. Viele haben eine Meinung. Und viel zu wenig Menschen handeln. Diese Initiative junger Menschen beeindruckt mich. Wir alle können davon lernen und uns inspirieren lassen von diesem Idealismus. Wir entwickeln uns nicht weiter durch die vielen Bedenkenträger sondern durch diejenigen, die ohne Bedenken vorbildlich Verantwortung tragen.“ 
+                          „Alle reden darüber. Viele haben eine Meinung. Und viel zu wenig Menschen handeln. Diese Initiative junger Menschen beeindruckt mich. Wir alle können davon lernen und uns inspirieren lassen von diesem Idealismus. Wir entwickeln uns nicht weiter durch die vielen Bedenkenträger sondern durch diejenigen, die ohne Bedenken vorbildlich Verantwortung tragen.“
                         </p>
                         <p>
                           Vielen Dank an Maria Furtwängler für die Unterstützung!
@@ -372,14 +412,14 @@
                       <a class="faq" id="64"><b>10. März</b> Danke Koljah! </a>
                       <div class="faq-klappe" id="64-klappe">
                         <p>
-                          Wir sind ganz verliebt in die Antilopen Gang. Koljah hat uns gestern vorgestellt. Ein großes Dankeschön von unserer Seite. Wir sind schon Fans und können euch die Gang nur empfehlen. 
+                          Wir sind ganz verliebt in die Antilopen Gang. Koljah hat uns gestern vorgestellt. Ein großes Dankeschön von unserer Seite. Wir sind schon Fans und können euch die Gang nur empfehlen.
                         </p>
                       </div><br>
 
                       <a class="faq" id="63"><b>08. März 2016</b> Unsere Verpflichtung zur Transparenz </a>
                       <div class="faq-klappe" id="63-klappe">
                         <p>
-                          Das Vertrauen unserer SpenderInnen und UnterstützerInnen wollen wir durch eine bestmögliche Transparenz über unsere Arbeit zurückgeben. Jugend Rettet ist deshalb offiziell Mitglied bei der Initiative Transparente Zivilgesellschaft (ITZ). Das bedeutet, dass wir uns freiwillig verpflichten, viele Informationen über unsere Vereinsstruktur, Tätigkeiten und Finanzen auf unserer Website öffentlich zugänglich zu machen und regelmäßig zu updaten: 
+                          Das Vertrauen unserer SpenderInnen und UnterstützerInnen wollen wir durch eine bestmögliche Transparenz über unsere Arbeit zurückgeben. Jugend Rettet ist deshalb offiziell Mitglied bei der Initiative Transparente Zivilgesellschaft (ITZ). Das bedeutet, dass wir uns freiwillig verpflichten, viele Informationen über unsere Vereinsstruktur, Tätigkeiten und Finanzen auf unserer Website öffentlich zugänglich zu machen und regelmäßig zu updaten:
                         </p>
                         <p>
                           <a target="_blank" href="./transparenz">&#8594; Transparenz</a>
@@ -398,7 +438,7 @@
                           "helping Jugend Rettet e.V. saving the world, one cupcake at a time. thanks to Tristeza :: kollektivkneipe :: for having us!"
                         </p>
                         <p>
-                          Vielen Dank für diese schöne Aktion! 
+                          Vielen Dank für diese schöne Aktion!
                         </p>
                         <a href="./images/20160310_2.jpg" target="_blank"><img class="news" src='./images/20160310_2.jpg'></a>
                       </div><br>
@@ -406,7 +446,7 @@
                       <a class="faq" id="66"><b>04. März</b> Wohin fließen die Spenden? </a>
                       <div class="faq-klappe" id="66-klappe">
                         <p>
-                          Wohin fließen eigentlich im Moment eure Spenden? Hier eine kleine Übersicht. Wir achten darauf, unsere Ausgaben so gering wie möglich zu halten. 
+                          Wohin fließen eigentlich im Moment eure Spenden? Hier eine kleine Übersicht. Wir achten darauf, unsere Ausgaben so gering wie möglich zu halten.
                         </p>
                         <a href="./images/20160304.jpg" target="_blank"><img class="news" src='./images/20160304.jpg'></a>
                       </div><br>
@@ -433,7 +473,7 @@
                       <a class="faq" id="60"><b>26. Februar</b> Vortrag an der Beaconhurst School in England </a>
                       <div class="faq-klappe" id="60-klappe">
                         <p>
-                          Ein riesiger Dank geht heute an Jana von der Beaconhurst School in England, die am Vormittag an ihrem College einen Vortag über uns gehalten hat, um uns aktiv bei unseren Anliegen zu unterstützen. 
+                          Ein riesiger Dank geht heute an Jana von der Beaconhurst School in England, die am Vormittag an ihrem College einen Vortag über uns gehalten hat, um uns aktiv bei unseren Anliegen zu unterstützen.
                         </p>
                         <a href="./images/20160226.jpg" target="_blank"><img class="news" src='./images/20160226.jpg'></a>
                       </div><br>
@@ -510,7 +550,7 @@
                         <a href="./images/5/tobi3.jpg" target="_blank"><img class="news" src='./images/5/tobi3.jpg'></a>
                         <br>
                         <p>
-                          Allgäu: Botschafterin Lioba richtete einen Infostand aus und bereitete gleichzeitig eine andere Aktion vor: es gab die Möglichkeit, Holzplanken zu bemalen, die dann wiederum Teil einer anderen Aktion zusammen mit Sternsingern werden. 
+                          Allgäu: Botschafterin Lioba richtete einen Infostand aus und bereitete gleichzeitig eine andere Aktion vor: es gab die Möglichkeit, Holzplanken zu bemalen, die dann wiederum Teil einer anderen Aktion zusammen mit Sternsingern werden.
                         </p>
                         <a href="http://lebenretten.sternsinger.org/">Link</a>
                         <a href="./images/5/lioba.jpg" target="_blank"><img class="news" src='./images/5/lioba.jpg'></a>
@@ -548,7 +588,7 @@
                       </div><br>
                       <a class="faq" id="50"><b>01. Februar 2016</b> Zu Gast bei Radio funkUP</a>
                       <div class="faq-klappe" id="50-klappe">
-                          <p>Lena und unser Potsdamer Botschafter Alex waren bei funkUP zu Gast und haben u.a. über linken Deutschrap und das Gefühl, Teil einer Jugendorganisation zu sein gesprochen. 
+                          <p>Lena und unser Potsdamer Botschafter Alex waren bei funkUP zu Gast und haben u.a. über linken Deutschrap und das Gefühl, Teil einer Jugendorganisation zu sein gesprochen.
                           <br> Viel Spaß beim hören!
                           <br><a href="http://www.funkup.me/2016/02/the-matik-119-jugend-rettet/">Link</a></p>
                       </div><br>
@@ -643,7 +683,7 @@
                           <a href="./images/wmtrier.jpg" target="_blank"><img class="news" src='./images/wmtrier.jpg'></a>
                       </div><br>
                       <a class="faq" id="31"><b>08. Dezember</b> Offenes Treffen in Nürnberg</a>
-                      <div class="faq-klappe" id="31-klappe"> 
+                      <div class="faq-klappe" id="31-klappe">
                       </div><br>
                       <a class="faq" id="30"><b>02. Dezember</b> Besuch von Jule Müller und Schulvortrag in der b.traven Oberschule</a>
                       <div class="faq-klappe" id="30-klappe">
