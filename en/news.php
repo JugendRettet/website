@@ -124,7 +124,7 @@
                           </p>
                         </div><br>
 
-                      <a class="faq" id="63"><b>May 19th</b> Sale agreement signed!</a>
+                      <a class="faq" id="63"><b>May 19th</b> Sales agreement signed!</a>
                         <div class="faq-klappe" id="63-klappe">
                           <p>
                             Jakob has just signed the ship's sales agreement!
