@@ -138,7 +138,6 @@
                             <li>Bochum: <a href="mailto:Benedikt@jugendrettet.org">Benedikt</a></li>
                             <li>Bonn: <a href="mailto:AnnaB@jugendrettet.org">Anna</a></li>
                             <li>Bonn: <a href="mailto:Chris@jugendrettet.org">Chris</a></li>
-                            <li>Bonn: <a href="mailto:Tobias@jugendrettet.org">Tobias</a></li>
                             <li>Brunsbüttel: <a href="mailto:Max@jugendrettet.org">Max</a></li>
                             <li>Chiemgau: <a href="mailto:Simon@jugendrettet.org">Simon</a></li>
                             <li>Dresden: <a href="mailto:Charlotte@jugendrettet.org">Charlotte</a></li>
@@ -155,7 +154,7 @@
                             <li>Kiel: <a href="mailto:Matthis@jugendrettet.org">Matthis</a></li>
                             <li>Koblenz: <a href="mailto:AlexW@jugendrettet.org">Alex</a></li>
                             <li>Kopenhagen: <a href="mailto:Kira@jugendrettet.org">Kira</a></li>
-                            <li>Köln: <a href="mailto:Carlo@jugendrettet.org">Carlo</a></li>
+                            <li>Köln: <a href="mailto:koeln@jugendrettet.org">Gwen und Hannah</a></li>
                             <li>Liechtenstein: <a href="mailto:David@jugendrettet.org">David</a></li>
                             <li>Liechtenstein: <a href="mailto:Helena@jugendrettet.org">Helena</a></li>
                             <li>London: <a href="mailto:LenaG@jugendrettet.org">Lena</a></li>
@@ -165,7 +164,7 @@
                             <li>München: <a href="mailto:Lisa@jugendrettet.org">Lisa</a></li>
                             <li>Münster: <a href="mailto:Jana@jugendrettet.org">Jana</a></li>
                             <li>Nürnberg: <a href="mailto:Jojo@jugendrettet.org">Jojo</a></li>
-                            <li>Paderborn: <a href="mailto:Wiebke@jugendrettet.org">Wiebke</a></li>
+                            <li>Paderborn: <a href="mailto:Paderborn@jugendrettet.org">Wiebke</a></li>
                             <li>Paris: <a href="mailto:Patrick@jugendrettet.org">Patrick</a></li>
                             <li>Potsdam: <a href="mailto:Alex@jugendrettet.org">Alex</a></li>
                             <li>Potsdam: <a href="mailto:Christoph@jugendrettet.org">Christoph</a></li>

@@ -438,7 +438,7 @@
                         <ul>
                           <li>&#10003; We inspected ships of our chosen kind, dutch fishtrawler. As soon as we have decided for a ship, we will make plans for the conversion in april.</li>
                           <!--<li>&#10003; We found an 11-person crew including captain and planned our six month mission.</li>-->
-                          <li>&#10003; We built a network of 43 ambassadors in 38 cities.</li>
+                          <li>&#10003; We built a network of 42 ambassadors in 38 cities.</li>
                           <li>&#10003; We won Maria Furtwängler, Armin Rohde and Jasmin Gerat as advocates for <i>Jugend Rettet</i>.</li>
                           <li>&#10003; We established a core team of 11 persons in Berlin.</li>
                           <li>&#10003; We succesfully finished funding phases 1 and 2 to buy, convert and send our ship to it's first rescue mission.</li>
