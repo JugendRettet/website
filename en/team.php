@@ -147,7 +147,7 @@
                             <li>Emsland: <a href="mailto:Jannik@jugendrettet.org">Jannik</a></li>
                             <li>Emsland: <a href="mailto:MaxB@jugendrettet.org">Max</a></li>
                             <li>Erkrath: <a href="mailto:AnnaB@jugendrettet.org">Anna</a></li>
-                            <li>Flensburg: <a href="mailto:Pauline@jugendrettet.org">Pauline</a></li>
+                            <li>Flensburg: <a href="mailto:Flensburg@jugendrettet.org">Pauline</a></li>
                             <li>Freiburg: <a href="mailto:JohannaFR@jugendrettet.org">Johanna</a></li>
                             <li>Groningen: <a href="mailto:LenaP@jugendrettet.org">Lena</a></li>
                             <li>Haltern am See: <a href="mailto:Anika@jugendrettet.org">Anika</a></li>
