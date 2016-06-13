@@ -104,6 +104,7 @@
                           <p>
                             If you’re interested in helping, send a mail with the reference „reconstruction“ to <a href="mailto:titus@jugendrettet.org">titus@jugendrettet.org</a>.
                           </p>
+                          <a target="_blank" href="https://www.facebook.com/JugendRettet/photos/?tab=album&album_id=497657640443474">→ photo album</a>
                         </div><br>
 
                       <a class="faq" id="66"><b>June 8th</b> The ship arrives in Emden</a>

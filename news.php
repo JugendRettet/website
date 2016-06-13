@@ -102,6 +102,7 @@
                           <p>
                             Interessierte HelferInnen können sich bei <a href="mailto:titus@jugendrettet.org">titus@jugendrettet.org</a> mit dem Betreff „Umbau“ melden.
                           </p>
+                          <a target="_blank" href="https://www.facebook.com/JugendRettet/photos/?tab=album&album_id=497657640443474">→ Fotoalbum</a>
                         </div><br>
 
                       <a class="faq" id="98"><b>8. Juni</b> Ankunft des Schiffes in Emden </a>
