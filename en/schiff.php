@@ -7,7 +7,7 @@
         <meta name="author" content="Jugend Rettet" />
         <meta name="keywords" content="Jugend, Rettet, Jugend Rettet, Jugend Rettet e. V., sea rescue, Mediterranean Sea, Refugees, Donations, Europe, Organization" />
         <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
-        
+
         <meta property="og:title" content="Jugend Rettet" />
         <meta property="og:description" content="We are an organization of young adults. We collect funds to buy a ship. With this ship, we will induce private sea rescue on the Mediterranean Sea." />
         <meta property="og:url" content="https://en.jugendrettet.org/schiff" />
@@ -20,14 +20,14 @@
 
         <link rel="shortcut icon" type="image/x-icon" href="../graphics/jr.ico" />
         <link rel="mask-icon" href="../graphics/jr-mask.svg" color="rgb(40,100,130)">
-        <link rel="apple-touch-icon" href="../graphics/apple-touch-icon.png"/>       
+        <link rel="apple-touch-icon" href="../graphics/apple-touch-icon.png"/>
         <link rel="stylesheet" href="../css/waves.1.css" type="text/css" />
 
         <link rel="stylesheet" href="../css/general.css" type="text/css" />
         <link rel="stylesheet" href="../css/main.css?9" type="text/css" />
         <link rel="stylesheet" href="../css/desktop.css?5" media="screen and (min-width: 851px)" type="text/css" />
         <link rel="stylesheet" href="../css/mobile.css?6" media="screen and (max-width: 850px)" type="text/css" />
-          
+
         <script src="../js/jquery-1.10.2.min.js"></script>
         <script type="text/javascript">
             $(window).load(function() {
@@ -35,13 +35,13 @@
         </script>
         <style type="text/css">
             #was {
-                background-image: url(../images/ocean.jpg);            
+                background-image: url(../images/06-2016/heck.jpg);
             }
             #warum {
-                background-image: url(../images/man.jpg);
+                background-image: url(../images/06-2016/andeck.jpg);
             }
             #wie {
-                background-image: url(../images/ship.jpg);
+                background-image: url(../images/06-2016/dock.jpg);
             }
         </style>
     </head>
@@ -77,7 +77,7 @@
                 </nav>
             </header>
             <div id="content">
-                <div id="menu" class="triple"> 
+                <div id="menu" class="triple">
                     <div class="child" id="was">
                         <div class="show" id="was-btn" style="height: 100%;">
                             <div class="tint">
@@ -129,7 +129,7 @@
                             <li><a href="https://jugendrettet.org/transparenz">Transparency (de)</a></li>
                             <li class="br"></li>
                             <li><a href="https://jugendrettet.org/schiff">de</a></li>
-                        </ul> 
+                        </ul>
                     </nav>
                 </footer>
             </div>
@@ -144,7 +144,7 @@
                         <h4>Transparency (de)</h4>
                         <a href="https://jugendrettet.org/transparenz"><img style="width:calc(100% - 12px);padding:5px;background:white;border:solid 1px #286482;" src="../graphics/Transparente_Zivilgesellschaft.svg"></a>
                         <br>
-                    </div>    
+                    </div>
                 </div>
             </div>
             <div class="popup" id="warum-btn-pop">
@@ -158,17 +158,17 @@
                         <p>We have two founding members here at <i>Jugend Rettet</i> and people who have sought asylum via the Mediterranean to answer this question.</p>
                         <div class="mehr-klappe"><br>
                             <!--
-                            
+
                             <div class="popup-img" style="background-image: url('../images/news.jpg');"></div>
-                            
+
                             -->
                             <img class="portrait" src="../images/Lena.jpg" alt="Lena">
                             <p>Lena: "I have been for long involved in an asylum hostel in which many people live, who have fled via the Mediterranean. It was then that I got the wish to commit myself to helping people on the Mediterranean. At <i>Jugend Rettet</i> I found the concrete action field, to constructively engage for my political ideals."
                             </p><br>
                             <!--
-                            
+
                             <div class="popup-img" style="background-image: url('../images/neu.jpg');"></div>
-                            
+
                             -->
                             <img class="portrait" src="../images/Jakob.jpg" alt="Jakob">
                             <p>Jakob: "No longer can I pass by a news of a ship mishap quietly. <i>Jugend Rettet</i> is a coalition of young people with the potential to change something. Europe-wide we link and connect motivated young people and show them how important it is to come up with a plan for a humane asylum policy. A ship is no long term solution. However it will save lives and would give rise to the question, why is it that instead of the European governments, it is the youth, who on their private initiative, have to take on this mission."</p><br>
@@ -177,7 +177,7 @@
                         <a class="mehr-btn">more ...</a>
                     </div>
                     <div class="column mehr" id="sit">
-                        <h4><img class="icon" src="../graphics/sit.svg" alt="Aktuelle Situation">Current Situation</h4>  
+                        <h4><img class="icon" src="../graphics/sit.svg" alt="Aktuelle Situation">Current Situation</h4>
                         <p>In 2014, 218.000 People have fled via the Mediterranean and sought refuge. 3500 people did not survive their journey.</p>
                         <div class="mehr-klappe"><br>
                             <p>The rate of failure is high. In 2015 there should be between 500,000 to 1 million people daring to escape via the Mediterranean, according to Frontex. The central Mediterranean remain the most important escape route. It starts from Libya and ends in Lampedusa, Malta or Sardinia and has been used by 78% of the refugees in 2014. This huge number is the result of the closed European external borders and embassies that permit only the illegal and hence dangerous entrance into Europe as the last option. (<a href="http://www.zeit.de/gesellschaft/zeitgeschehen/2015-03/frontex-rekordzahl-fluechtlinge" target="_blank">ZEIT, März 2015</a>)</p><br>
@@ -222,7 +222,7 @@
                 </div>
             </div>
         </div>
-        <!-- Scripts -->  
+        <!-- Scripts -->
         <script src="../js/main.js?0"></script>
         <script src="../js/peekfield.js?2"></script>
     </body>

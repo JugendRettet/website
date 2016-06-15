@@ -35,10 +35,10 @@
         </script>
         <style type="text/css">
             #was {
-                background-image: url(./images/board.jpg);
+                background-image: url(./images/06-2016/mappe.jpg);
             }
             #warum {
-                background-image: url(./images/shoe.jpg);
+                background-image: url(./images/06-2016/schiff_werft.jpg);
             }
             #wie {
                 background-image: url(./images/sepa.jpg);

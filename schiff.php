@@ -35,13 +35,13 @@
         </script>
         <style type="text/css">
             #was {
-                background-image: url(./images/ocean.jpg);
+                background-image: url(./images/06-2016/heck.jpg);
             }
             #warum {
-                background-image: url(./images/man.jpg);
+                background-image: url(./images/06-2016/andeck.jpg);
             }
             #wie {
-                background-image: url(./images/ship.jpg);
+                background-image: url(./images/06-2016/dock.jpg);
             }
         </style>
     </head>
