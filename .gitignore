@@ -1,13 +1,9 @@
 **/jquery*.js
-
 graphics/*
 images/*
 videos/*
 files/*
-
 fonts/*
-
 test/
-
 .DS_Store
 .!*!*
