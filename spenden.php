@@ -134,7 +134,7 @@
                 </div>
                 <div class="triple">
                     <h3>Spenden</h3>
-                    <p>Die Menschen auf dem Mittelmeer sterben jetzt. Deshalb brauchen wir Geld, um unser Schiff zu kaufen und mit der Rettung zu beginnen.</p>
+                    <p>Die Menschen auf dem Mittelmeer sterben jetzt. Deshalb brauchen wir Geld, um mit unserem Schiff die Rettung zu beginnen.</p>
                 </div>
                 <div class="container triple">
 
