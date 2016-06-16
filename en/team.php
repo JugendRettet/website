@@ -181,11 +181,10 @@
                         </ul>
                         <br>
                         <h4>Supporters</h4>
-                        <!--<a href="http://www.jugendpresse.de/">-->
+
                         <img src="../graphics/jpd.svg" alt="JPD" style="background-color:white;width:100%;padding:5px">
                         <span>Jugendpresse.de</span>
-                        <!--</a>-->
-                        <!--<a href="http://www.santinis.de/"> -->
+
                         <img src="../graphics/Santini-Logo_sw.svg" alt="Santini" style="background-color:white;width:100%;margin-top:20px;">
                         <span>Santinis.de</span>
 
@@ -204,10 +203,9 @@
                         <img src="../graphics/Logo_Druckhaus_Gremlich.svg" alt="Druckhaus Griemlich" style="background-color:white;width:100%;margin-top:20px;padding:5px">
                         <span>Druckhaus Griemlich</span>
 
-                        <!--<img src="../graphics/Stage_For_Piece.svg" alt="Stage For Piece" style="background-color:white;width:100%;margin-top:20px;padding:5px">
-                        <span>Stage For Piece</span>-->
+                        <img src="../graphics/Stage_For_Piece.png" alt="Stage For Peace" style="background-color:white;width:100%;margin-top:20px;padding:5px">
+                        <span>Stage For Piece</span>
 
-                        <!--</a>-->
                         <br><br>
                         <p><u>Note:</u> We have to renounce linking our promoters and supporters, as this would - by law - constitute a tax effective service in return. This would change a donation into a sponsoring performance, for which we would be taxed. We ask for your comprehension.</p>
                     </div>
