@@ -204,7 +204,7 @@
                         <span>Druckhaus Griemlich</span>
 
                         <img src="../graphics/Stage_For_Piece.png" alt="Stage For Peace" style="background-color:white;width:100%;margin-top:20px;padding:5px">
-                        <span>Stage For Piece</span>
+                        <span>Stage For Peace</span>
 
                         <br><br>
                         <p><u>Note:</u> We have to renounce linking our promoters and supporters, as this would - by law - constitute a tax effective service in return. This would change a donation into a sponsoring performance, for which we would be taxed. We ask for your comprehension.</p>

@@ -203,7 +203,7 @@
                         <span>Druckhaus Griemlich</span>
 
                         <img src="graphics/Stage_For_Piece.png" alt="Stage For Peace" style="background-color:white;width:100%;margin-top:20px;padding:5px">
-                        <span>Stage For Piece</span>
+                        <span>Stage For Peace</span>
 
                         <br><br>
                         <p><u>Hinweis in eigener Sache:</u> Auf eine Verlinkung zu unseren Förderern und Unterstützern müssen wir leider verzichten, da dies (aus gesetzlicher Sicht) eine steuerlich wirksame Gegenleistung darstellt. Dadurch würde aus einer Spende eine Sponsoringleistung, für die wir Steuern entrichten müssten. Wir bitten herzlich um Verständnis.</p>
