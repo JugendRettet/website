@@ -138,6 +138,7 @@
                             <li>Bochum: <a href="mailto:Benedikt@jugendrettet.org">Benedikt</a></li>
                             <li>Bonn: <a href="mailto:AnnaB@jugendrettet.org">Anna</a></li>
                             <li>Bonn: <a href="mailto:Chris@jugendrettet.org">Chris</a></li>
+                            <li>Bremen: <a href="mailto:Bremen@jugendrettet.org">Thomas</a></li>
                             <li>Brunsbüttel: <a href="mailto:Max@jugendrettet.org">Max</a></li>
                             <li>Chiemgau: <a href="mailto:Simon@jugendrettet.org">Simon</a></li>
                             <li>Dresden: <a href="mailto:Charlotte@jugendrettet.org">Charlotte</a></li>
