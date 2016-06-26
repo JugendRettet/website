@@ -97,7 +97,54 @@
                       </div><br>
 
 
-                      <!-- hinzugefügt von FN -->
+                      <a class="faq" id="74"><b>July 1st</b> Stage for Peace Festival</a>
+                        <div class="faq-klappe" id="96-klappe">
+                          <p>
+                            We're happy to be a part of the first Stage for Peace Festival in Nuremberg taking place on 1st of July. 50% of the revenue will be donated to Jugend Rettet. We can only recommend to everyone from the area to grap your tickets and to support a good cause: <a href="bit.ly/stageforpeace">bit.ly/stageforpeace</a>
+                          </p>
+                        </div><br>
+
+                      <a class="faq" id="73"><b>June 24th</b> Ship naming ceremony of IUVENTA</a>
+                        <div class="faq-klappe" id="96-klappe">
+                          <p>
+                            We would like to invite everyone to participate this event together with us. You can find all information here: <a href="https://www.facebook.com/events/1613805292244922/">https://www.facebook.com/events/1613805292244922/</a>
+                          </p>
+                        </div><br>
+
+                      <a class="faq" id="72"><b>June 20th</b> ZDFtivi reports</a>
+                        <div class="faq-klappe" id="96-klappe">
+                          <p>
+                            Mirko from the German tv cannel for children ZDFtivi visited us last week in Emden and Jakob showed him around the ship: <a href="http://bit.ly/zdftivi">http://bit.ly/zdftivi</a>
+                          </p>
+                        </div><br>
+
+                      <a class="faq" id="71"><b>June 19th</b> Lena at Rheingauer Wirtschaftsforum 2016</a>
+                        <div class="faq-klappe" id="96-klappe">
+                          <p>
+                            Within the Rheingauer Wirtschaftsforum 2016, Lena participated in debates on the topics „Female Shift“ and „War and Peace“.
+                          </p>
+                        </div><br>
+
+                      <a class="faq" id="70"><b>June 13th</b> Seminar on sea rescue</a>
+                        <div class="faq-klappe" id="96-klappe">
+                          <p>
+                            Proper preperation for our missions at the Mediterranean Sea is more than essential for us. Therefore a couple of Jugend Rettet crew members took a three-day training course on the subject of sea rescue on the sailing ship Thor Heyerdal. Thanks to Sea-Watch for the organization!
+                          </p>
+                        </div><br>
+
+                      <a class="faq" id="69"><b>June 10th</b> action medeor e.V.</a>
+                        <div class="faq-klappe" id="96-klappe">
+                          <p>
+                            <a href="https://www.facebook.com/actionmedeorev/">action medeor e.V.</a> donates the complete medicine equipment for our infirmary on board. Thank you very, very much!
+                          </p>
+                        </div><br>
+
+                      <a class="faq" id="68"><b>June 9th</b> Update on FluxFM</a>
+                        <div class="faq-klappe" id="96-klappe">
+                          <p>
+                            After our ship arrived in Emden, Pauline gave <a href="https://www.fluxfm.de/brokof-jugend-rettet-e-v-morningshow-am-nachmittag/">a little update on Flux FM</a>.
+                          </p>
+                        </div><br>
 
                       <a class="faq" id="67"><b>June 9th</b> Start of the reconstruction in Emden</a>
                         <div class="faq-klappe" id="67-klappe">
@@ -160,7 +207,7 @@
                           </p>
                         </div><br>
 
-                      <!-- /hinzugefügt von FN -->
+
 
                       <a class="faq" id="58"><b>February 20th</b> Start on betterplace.org </a>
                       <div class="faq-klappe" id="58-klappe">
