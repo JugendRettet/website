@@ -95,7 +95,56 @@
                           </div>
                       </div><br>
 
-                      <!-- hinzugefügt von FN -->
+
+                      <a class="faq" id="106"><b>1. Juli</b> Stage for Peace Festival in Nürnberg</a>
+                        <div class="faq-klappe" id="96-klappe">
+                          <p>
+                            Wir freuen uns, am 1.7. beim ersten <a href="https://www.facebook.com/stageforpeace/">Stage for Peace Festival</a> in Nürnberg dabei zu sein. Wir sind mit einem Infostand vor Ort und 50% der Einnahmen gehen an Jugend Rettet. Wir raten also allen aus der Gegend: Ticket holen und für den guten Zweck feiern: <a href="bit.ly/stageforpeace">bit.ly/stageforpeace</a>
+                          </p>
+                        </div><br>
+
+                      <a class="faq" id="105"><b>24. Juni</b> Schiffstaufe der IUVENTA</a>
+                        <div class="faq-klappe" id="96-klappe">
+                          <p>
+                            Wir laden Sie dazu alle herzlichst nach Emden ein. Alle Informationen finden Sie hier: <a href="https://www.facebook.com/events/1613805292244922/">https://www.facebook.com/events/1613805292244922/</a>
+                          </p>
+                        </div><br>
+
+                      <a class="faq" id="104"><b>20. Juni</b> ZDFtivi berichtet</a>
+                        <div class="faq-klappe" id="96-klappe">
+                          <p>
+                            Reporter Mirko von ZDFtivi hat sich von Jakob in Emden das Schiff zeigen lassen: <a href="http://bit.ly/zdftivi">http://bit.ly/zdftivi</a>
+                          </p>
+                        </div><br>
+
+                      <a class="faq" id="103"><b>19. Juni</b> Lena beim Rheingauer Wirtschaftsforum 2016</a>
+                        <div class="faq-klappe" id="96-klappe">
+                          <p>
+                            Lena hat im Rahmen des Rheingauer Wirtschaftsforums 2016 bei den Podiumsdiskussionen zum Thema „Female Shift“ und „Krieg und Frieden“ teilgenommen.
+                          </p>
+                        </div><br>
+
+                      <a class="faq" id="102"><b>13. Juni</b> Teilnahme an Seminar zum Thema Seenotrettung</a>
+                        <div class="faq-klappe" id="96-klappe">
+                          <p>
+                            Eine gute Vorbereitung für den Einsatz im Mittelmeer ist für uns essentiell. Vom 6. bis 8. Juni haben deshalb mehrere Crewmitglieder von Jugend Rettet an einem dreitätigen Lehrgang zum Thema Seenotrettung auf dem <a href="https://www.facebook.com/Segelschiff-Thor-Heyerdahl-150058301767227/">Segelschiff Thor Heyerdahl</a> teilgenommen. Wir bedanken uns bei <a href="https://www.facebook.com/seawatchprojekt/">Sea-Watch</a> für die Organisation!
+                          </p>
+                        </div><br>
+
+                      <a class="faq" id="101"><b>10. Juni</b> action medeor e.V.</a>
+                        <div class="faq-klappe" id="96-klappe">
+                          <p>
+                            <a href="https://www.facebook.com/actionmedeorev/">action medeor e.V.</a> spendet die gesamte Medikamentenausstattung für unsere Krankenstation an Bord. Vielen, vielen Dank dafür!
+                          </p>
+                        </div><br>
+
+                      <a class="faq" id="100"><b>9. Juni</b> Update auf FluxFM</a>
+                        <div class="faq-klappe" id="96-klappe">
+                          <p>
+                            Pauline gibt, nachdem unser Schiff in Emden zum Umbau angekommen ist, ein <a href="https://www.fluxfm.de/brokof-jugend-rettet-e-v-morningshow-am-nachmittag/">kleines Update auf FluxFM</a>.
+                          </p>
+                        </div><br>
+
 
                       <a class="faq" id="99"><b>9. Juni</b> Start der Umbauarbeiten</a>
                         <div class="faq-klappe" id="99-klappe">
@@ -134,7 +183,6 @@
                           </p>
                         </div><br>
 
-                        <!-- /hinzugefügt von FN -->
 
                       <a class="faq" id="93"><b>02. Mai</b> Unterstützung von Jasmin Gerat</a>
                       <div class="faq-klappe" id="93-klappe">
