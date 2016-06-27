@@ -106,7 +106,7 @@
                       <a class="faq" id="105"><b>24. Juni</b> Schiffstaufe der IUVENTA</a>
                         <div class="faq-klappe" id="105-klappe">
                           <p>
-                            Wir laden Sie dazu alle herzlichst nach Emden ein. Alle Informationen finden Sie hier: <a href="https://www.facebook.com/events/1613805292244922/">https://www.facebook.com/events/1613805292244922/</a>
+                            Wir laden Sie dazu alle herzlichst nach Emden ein. Alle Informationen finden Sie hier: <a href="https://www.facebook.com/events/1613805292244922/">facebook.com/events/1613805292244922</a>
                           </p>
                         </div><br>
 

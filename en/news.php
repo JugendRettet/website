@@ -107,7 +107,7 @@
                       <a class="faq" id="73"><b>June 24th</b> Ship naming ceremony of IUVENTA</a>
                         <div class="faq-klappe" id="73-klappe">
                           <p>
-                            We would like to invite everyone to participate this event together with us. You can find all information here: <a href="https://www.facebook.com/events/1613805292244922/">https://www.facebook.com/events/1613805292244922/</a>
+                            We would like to invite everyone to participate this event together with us. You can find all information here: <a href="https://www.facebook.com/events/1613805292244922/">facebook.com/events/1613805292244922</a>
                           </p>
                         </div><br>
 
