@@ -1,53 +1,50 @@
 <!DOCTYPE html>
-<html id="html_tag" xmlns="http://www.w3.org/1999/xhtml" lang="de" prefix="og: http://ogp.me/ns#">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="de" prefix="og: http://ogp.me/ns#">
     <head>
         <title>News — Jugend Rettet</title>
         <meta name="description" content="Wir sind eine Organisation von jungen Erwachsenen für junge Erwachsene. Wir sammeln Gelder für den Erwerb eines Schiffes und mit diesem Schiff werden wir private Seenotrettung auf dem Mittelmeer betreiben." />
         <meta charset="utf-8">
         <meta name="author" content="Jugend Rettet" />
         <meta name="keywords" content="Jugend, Rettet, Jugend Rettet, Jugend Rettet e. V., Seenotrettung, Mittelmeer, Flüchtlinge, Spenden, Europa, Organisation" />
-        <meta name="google-site-verification" content="KMNzTcq9zAtZpPFU4205bFNZx-FZKyiSFaNqrbi4XPI" />
         <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
 
         <meta property="og:title" content="Jugend Rettet" />
         <meta property="og:description" content="Wir sind eine Organisation von jungen Erwachsenen für junge Erwachsene. Wir sammeln Gelder für den Erwerb eines Schiffes und mit diesem Schiff werden wir private Seenotrettung auf dem Mittelmeer betreiben." />
-        <meta property="og:url" content="http://jugendrettet.org/news" />
+        <meta property="og:url" content="https://jugendrettet.org/news" />
         <meta property="og:image" content="http://jugendrettet.org/images/jr-banner.jpg" />
+        <meta property="og:image:secure_url" content="https://jugendrettet.org/images/jr-banner.jpg" />
         <meta property="og:type" content="website" />
         <meta property="og:site_name" content="Jugend Rettet" />
-	<meta id ='latest_update'>
 
-        <link rel="shortcut icon" type="image/x-icon" href="http://jugendrettet.org/graphics/jr.ico" />
-        <link rel="mask-icon" href="http://www.jugendrettet.org/graphics/jr-mask.svg" color="rgb(40,100,130)">
-        <link rel="apple-touch-icon" href="http://jugendrettet.org/graphics/apple-touch-icon.png"/>
-        <link rel="stylesheet" href="http://jugendrettet.org/css/waves.css" type="text/css" />
+        <link rel="alternate" hreflang="en" href="http://en.jugendrettet.org/news" />
 
-        <link rel="stylesheet" href="http://jugendrettet.org/css/general.css" type="text/css" />
-        <link rel="stylesheet" href="http://jugendrettet.org/css/main.css" type="text/css" />
-        <link rel="stylesheet" href="http://jugendrettet.org/css/desktop.css" media="screen and (min-device-width: 851px)" type="text/css" />
-        <link rel="stylesheet" href="http://jugendrettet.org/css/mobile.css" media="screen and (max-device-width: 850px)" type="text/css" />
+        <link rel="shortcut icon" type="image/x-icon" href="./graphics/jr.ico" />
+        <link rel="mask-icon" href="./graphics/jr-mask.svg" color="rgb(40,100,130)">
+        <link rel="apple-touch-icon" href="./graphics/apple-touch-icon.png"/>
+        <link rel="stylesheet" href="./css/waves.1.css" type="text/css" />
 
-	<script src="http://jugendrettet.org/js/jquery-1.10.2.min.js"></script>
+        <link rel="stylesheet" href="./css/general.css?0" type="text/css" />
+        <link rel="stylesheet" href="./css/main.css?9" type="text/css" />
+        <link rel="stylesheet" href="./css/desktop.css?5" media="screen and (min-width: 851px)" type="text/css" />
+        <link rel="stylesheet" href="./css/mobile.css?6" media="screen and (max-width: 850px)" type="text/css" />
+
+        <script src="http://jugendrettet.org/js/jquery-1.10.2.min.js"></script>
         <script src="js/readmore/readmore.min.js"></script>
         <script type="text/javascript">
             $(window).load(function() {
                 $('body').fadeIn(400);
             });
 
-        jQuery(document).ready(function ($) {
+            jQuery(document).ready(function ($) {
                 $('.news_content').readmore({
-			speed: 75,
-			collapsedHeight: 80,
-			moreLink: '<a href="#">weiterlesen</a>',
-			lessLink: '<a href="#">weniger anzeigen</a>'
-		});
-        });
+                  speed: 75,
+                  collapsedHeight: 80,
+                  moreLink: '<a href="#">weiterlesen</a>',
+                  lessLink: '<a href="#">weniger anzeigen</a>'
+                });
+            });
 
         </script>
-
-
-
-
         <style type="text/css">
             #was {
                 background-image: url(images/neu.jpg);
@@ -59,13 +56,12 @@
     </head>
 
     <body>
-
         <div id="pop-back"></div>
         <div id="header-back"></div>
 	    <div id="wrap">
             <header>
-                <a id="logo-wrap" href="index">
-                    <img id="logo" src="http://jugendrettet.org/graphics/logo.svg" alt="Jugend Rettet">
+                <a id="logo-wrap" href="/">
+                    <img id="logo" src="./graphics/logo.svg" alt="Jugend Rettet">
                     <div id="title">Jugend <b>Rettet</b></div>
                 </a>
                 <div id="bread">
@@ -83,7 +79,7 @@
                         <li><a href="news" class="indicator">News</a></li>
                         <li><a href="schiff">Das Schiff</a></li>
                         <li><a href="team">Team</a></li>
-                        <li><a href="aendern">Retten</a></li>
+                        <li><a href="retten">Retten</a></li>
                         <li><a href="spenden">Spenden</a></li>
                         <li><a href="europe">Jugend Rettet <span class="lowercase">europe</span></a></li>
                     </ul>
@@ -94,7 +90,7 @@
                     <h3>Neuigkeiten</h3>
                 </div>
                 <div class="container triple">
-                    <div class="column" id="news">
+                    <div class="column">
                       <a class="faq" id="0"><h4>→ FOLGE UNS</h4></a>
                       <div class="faq-klappe" id="0-klappe">
                           <b>Bleib auf dem neusten Stand</b>
@@ -110,73 +106,813 @@
                               </form>
                           </div>
                       </div><br>
-			
-			<!-- hinzugefügt von facebook -->
 
-			<!--insert_news_here--><div><a id="1"><b>Montag, 27. Juni 2016: </b></a><div id="1-klappe" class="news_entry"><div class="news_content"><p>Danke Sea-Watch! Auf gute Zusammenarbeit! 
-</p></div><img src="https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/13516465_1733685193516221_6778068589610504924_n.jpg?oh=5937ab3076bc86830e757401d4c3ae28&amp;oe=57F4B7F8" class="news"></div><br></div><div><a id="1"><b>Samstag, 25. Juni 2016: </b></a><div id="1-klappe" class="news_entry"><div class="news_content"><p>Nach 2 Wochen Umbau in Emden, konnte unser Rettungsschiff auf den Namen IUVENTA getauft werden. Danke an alle, die diesen großartigen Tag mit uns gefeiert haben. 
-Außerdem möchten wir uns bei der Werft in Emden, sowie allen UmbauhelferInnen bedanken. Unglaublich, dass so viele von euch aus ganz Deutschland angereist sind, um uns zu unterstützen.
-Danke auch nochmal an das Seemannsheim Emden - Ostfriesische Ev. Seemannsmission e.V., wo wir nicht nur kostenlos untergebracht wurden, sondern noch so viel mehr großartige Unterstützung erfahren haben.
-Und natürlich danke an alle SpenderInnen für eure finanzielle Beteiligung.</p></div><img src="https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/13528731_506389962903575_7233534618119162169_n.jpg?oh=8521900c1767bc3e0bb6188a8019d069&amp;oe=57F5EC75" class="news"></div><br></div><div><a id="2"><b>Freitag, 24. Juni 2016: </b></a><div id="2-klappe" class="news_entry"><div class="news_content"><p>Heute wurde unser Schiff getauft! Ab jetzt trägt sie offiziell den Namen "IUVENTA". Mit diesem Schiff werden wir Menschen vor dem Ertrinken retten. 
-Später wird das Schiff wieder zur Werft fahren, um für die Überfahrt nach Malta vorbereitet zu werden. 
-</p></div><img src="https://scontent.xx.fbcdn.net/v/t1.0-0/p180x540/13507148_506162532926318_2011430096458814045_n.jpg?oh=99518d37ecbca3451c6c10d975a790a9&amp;oe=580D7B3A" class="news"></div><br></div><div><a id="3"><b>Donnerstag, 23. Juni 2016: </b></a><div id="3-klappe" class="news_entry"><div class="news_content"><p>Heute Abend findet im Baiz in Berlin ein weiteres offenes Treffen statt zum Thema Mitmachmöglichkeit, aber insbesondere mit dem Schwerpunkt Crewsuche. Kommt vorbei, wir freuen uns auf euch! 
-</p></div><img src="https://scontent.xx.fbcdn.net/v/t1.0-9/c203.0.523.523/13312656_499249786950926_5224793397642841653_n.jpg?oh=156a8a9369345f73f39def9268e514c9&amp;oe=57F71165" class="news"></div><br></div><div><a id="5"><b>Mittwoch, 22. Juni 2016: </b></a><div id="5-klappe" class="news_entry"><div class="news_content"><p>Hier könnt ihr den Umbaufortschritt verfolgen. Umbaustart ist der 09.06.2016. UmbauhelferInnen erwünscht :)
-Hier erfahrt ihr alles: <a target="_blank" class="linkified" href="http://bit.ly/umbau_jr">http://bit.ly/umbau_jr</a>
+                      <!-- hinzugefügt von facebook - start-->
 
-</p></div><img src="https://scontent.xx.fbcdn.net/v/t1.0-9/s720x720/13507084_505361793006392_3244923112266065874_n.jpg?oh=cf413179383e6e2343f1ed041db6e320&amp;oe=57FFB0F3" class="news"></div><br></div><div><a id="6"><b>Dienstag, 21. Juni 2016: </b></a><div id="6-klappe" class="news_entry"><div class="news_content"><p>"Verantwortung übernehmen und helfen ist heute wichtiger denn je. Denn Menschen auf der Flucht haben wie jeder von uns ein uneingeschränktes Anrecht auf Menschenwürde. Und um das zu erreichen, müssen wir endlich aufwachen." 
-Danke an Frederik aus Team Köln, der sich in der Huffington Post Deutschland mit einem Statement bzgl. der aktuellen Situation zur Flucht und zu Jugend Rettet geäußert hat.
-</p></div><img src="https://external.xx.fbcdn.net/safe_image.php?d=AQBSBmnpYH4Yyg1a&amp;url=https%3A%2F%2Fwww.facebook.com%2Fads%2Fimage%2F%3Fd%3DAQLUCRLBTF9YiHleLp-70-TGRCPqHWL-T891CNFNzJMQePVchMjh08JRoKwT_EeZASoZEjO4LERpd9GhCoV9VQ6MKM-PUjQRJ7Yk0-rGnfnPZsBec27mLGE28HsP6gSqouCQ2A1rMOWyivtC1Vp7xqIt" class="news"></div><br></div><div><a id="7"><b>Montag, 20. Juni 2016: </b></a><div id="7-klappe" class="news_entry"><div class="news_content"><p>Die Woche in 3 Minuten</p></div><img src="undefined" class="news"></div><br></div><div><a id="8"><b>Montag, 20. Juni 2016: </b></a><div id="8-klappe" class="news_entry"><div class="news_content"><p>Hier gibt es die erste kleine Schiffsführung :) Mirko vom Kinderkanal ZDFtivi hat uns letzte Woche in Emden besucht und sich von Jakob das Schiff zeigen lassen:
-</p></div><img src="https://external.xx.fbcdn.net/safe_image.php?d=AQBRlw67EzDoprf2&amp;url=fbstaging%3A%2F%2Fgraph.facebook.com%2Fstaging_resources%2FMDE1MDQ0OTc4MDk3NTk0NTc6MTYwNzExMDg5NQ%3D%3D" class="news"></div><br></div><div><a id="9"><b>Montag, 20. Juni 2016: </b></a><div id="9-klappe" class="news_entry"><div class="news_content"><p>Hier könnt ihr den Umbaufortschritt verfolgen. Umbaustart ist der 09.06.2016. UmbauhelferInnen erwünscht :)
-Hier erfahrt ihr alles: <a target="_blank" class="linkified" href="http://bit.ly/umbau_jr">http://bit.ly/umbau_jr</a>
+                      <!--insert_news_here-->
 
-</p></div><img src="https://scontent.xx.fbcdn.net/t31.0-8/s720x720/13475094_504528809756357_3432462183010813128_o.jpg" class="news"></div><br></div><div><a id="10"><b>Freitag, 17. Juni 2016: </b></a><div id="10-klappe" class="news_entry"><div class="news_content"><p>"Seit Jahren hatten Menschenrechtsorganisationen (...) Aussagen über gewaltsame, teils tödliche Pushback-Aktionen durch die griechische Küstenwache gesammelt. Die EU-Grenzagentur Frontex hatte stets bestritten, an diesen Aktio­nen beteiligt gewesen zu sein. (...) Bilder (...) zeigen nun aber deutlich ein Schiff der rumänischen Küstenwache in unmittelbarer Nähe. Seit etwa 2009 werden eben diese rumänischen Schiffe im Rahmen von gemeinsamen Frontex-Missionen in die Ägäis entsandt." taz. die tageszeitung
-</p></div><img src="https://external.xx.fbcdn.net/safe_image.php?d=AQDon0hf4qxwnUaE&amp;url=http%3A%2F%2Fwww.taz.de%2Fpicture%2F1272715%2F948%2FFluechtlinge16062016_watchthemed.jpeg" class="news"></div><br></div><div><a id="11"><b>Donnerstag, 16. Juni 2016: </b></a><div id="11-klappe" class="news_entry"><div class="news_content"><p>Hier könnt ihr den Umbaufortschritt verfolgen. Umbaustart ist der 09.06.2016. UmbauhelferInnen erwünscht :)
-Hier erfahrt ihr alles: <a target="_blank" class="linkified" href="http://bit.ly/umbau_jr">http://bit.ly/umbau_jr</a>
 
-</p></div><img src="https://scontent.xx.fbcdn.net/v/t1.0-9/s720x720/13442243_502556349953603_7372425289165383543_n.jpg?oh=c4888baa98c037beb9ce8dcdbc46c51a&amp;oe=57FC3782" class="news"></div><br></div><div><a id="12"><b>Mittwoch, 15. Juni 2016: </b></a><div id="12-klappe" class="news_entry"><div class="news_content"><p>Wie ihr sicherlich mitbekommen habt, ist der Umbau unseres Schiffes in vollem Gange. Damit wir so schnell wir möglich auf das Mittelmeer können, zählt jede helfende Hand. Meldet euch bei <a class="linkified" href="mailto:titus@jugendrettet.org">titus@jugendrettet.org</a> mit dem Betreff "Umbau", wenn ihr uns unterstützen könnt. #rettemit
-</p></div><img src="https://scontent.xx.fbcdn.net/v/t1.0-9/s720x720/13450089_501947006681204_8203021322968595876_n.jpg?oh=c7758b1b25cd28def1e2f2c8c2d6ac81&amp;oe=58091A5D" class="news"></div><br></div><div><a id="13"><b>Dienstag, 14. Juni 2016: </b></a><div id="13-klappe" class="news_entry"><div class="news_content"><p>Die Jungs und Mädels der Schwarzesocke Mailorder haben uns 1000€ aus ihrem Solibändchenpott gespendet! DANKE!! Für 2€ könnt ihr euch auch eins holen: <a target="_blank" class="linkified" href="http://bit.ly/schwarzesocke">http://bit.ly/schwarzesocke</a> 
-Der Erlös wird dann regelmäßig an Flüchtlingsorganisationen gespendet. #rettemit
-</p></div><img src="https://scontent.xx.fbcdn.net/v/t1.0-0/p180x540/13342912_500221113520460_6135078290001689750_n.jpg?oh=e8b03d43963fbfe24bd861e5d3517293&amp;oe=57C19697" class="news"></div><br></div><div><a id="14"><b>Dienstag, 14. Juni 2016: </b></a><div id="14-klappe" class="news_entry"><div class="news_content"><p>Wir freuen uns, am 1.7. beim ersten Stage for Peace Festival in Nürnberg dabei zu sein. 50% der Einnahmen gehen an Jugend Rettet, die anderen 50% an eine lokale Flüchtlingsinitiative &lt;3 Danke an alle Beteiligten! Auf 3 Bühnen treten insgesamt 14 Acts von Alternative über HipHop bishin zu Elektro auf. Wir raten also allen aus der Gegend: Holt euch Tickets und feiert mit uns für den guten Zweck: <a target="_blank" class="linkified" href="http://bit.ly/stageforpeace">bit.ly/stageforpeace</a>
 
-Außerdem supportet uns Rap-Exclusive Bayern in Nürnberg, indem wir im Rahmen der Saloonsessions Spenden sammeln dürfen. Am Freitag gehts direkt mit Döll im Z-Bau los: <a target="_blank" class="linkified" href="https://www.facebook.com/events/1714598825423857/">https://www.facebook.com/events/1714598825423857/</a> Kommt rum!
-</p></div><img src="https://scontent.xx.fbcdn.net/v/t1.0-9/c261.0.315.315/13265869_998613816859661_3465784785127843213_n.jpg?oh=9bfb9eb487736a5f5d7bc82118e43736&amp;oe=57C211CF" class="news"></div><br></div><div><a id="15"><b>Montag, 13. Juni 2016: </b></a><div id="15-klappe" class="news_entry"><div class="news_content"><p>Unsere Woche in 3 Minuten</p></div><img src="undefined" class="news"></div><br></div><div><a id="16"><b>Montag, 13. Juni 2016: </b></a><div id="16-klappe" class="news_entry"><div class="news_content"><p>Hier könnt ihr den Umbaufortschritt verfolgen. Umbaustart ist der 09.06.2016. UmbauhelferInnen erwünscht :)
-Hier erfahrt ihr alles: <a target="_blank" class="linkified" href="http://bit.ly/umbau_jr">http://bit.ly/umbau_jr</a>
+                      <!-- hinzugefügt von facebook - end -->
 
-</p></div><img src="https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/13413551_501444390064799_5383335117684633684_n.jpg?oh=6cdf1039119fbea9cd5c89dc17942b07&amp;oe=57FBECEE" class="news"></div><br></div><div><a id="17"><b>Montag, 13. Juni 2016: </b></a><div id="17-klappe" class="news_entry"><div class="news_content"><p>Eine gute Vorbereitung für den Einsatz im Mittelmeer ist für uns essentiell. Vom 6. bis 8. Juni haben deshalb mehrere Crewmitglieder von Jugend Rettet an einem dreitätigen Lehrgang zum Thema Seenotrettung auf dem Segelschiff Thor Heyerdahl  teilgenommen. Bei dem Törn auf der Ostsee standen dabei insbesondere das praktische Vorgehen beim Abbergen von Flüchtlingsbooten, inklusive einer Einsatzsimulation auf dem Plan. Zudem wurden die Teilnehmer zum Umgang mit den durch den Einsatz entstehenden mentalen Herausforderungen geschult. Wir bedanken uns bei Sea-Watch für die Organisation!
-</p></div><img src="https://scontent.xx.fbcdn.net/v/t1.0-9/s720x720/13435357_500756543466917_5165179759404572622_n.jpg?oh=ba00e9fd335684fdf909a1e2eb62dbd3&amp;oe=580662A8" class="news"></div><br></div><div><a id="18"><b>Sonntag, 12. Juni 2016: </b></a><div id="18-klappe" class="news_entry"><div class="news_content"><p>Im Rahmen der Spende von action medeor e.V. hat der WDR über uns berichtet. Hier könnt ihr euch den Beitrag ansehen (1:10-4:10 min):</p></div><img src="https://external.xx.fbcdn.net/safe_image.php?d=AQCLsyRhjThaxxnX&amp;url=https%3A%2F%2Fwww.facebook.com%2Fads%2Fimage%2F%3Fd%3DAQKRO8wr1eXXCJD7_QV3lUXPuZj5Eyr4MuhaG6MNVW7EECzdHDL32zlSWatAWrNiq3oQXlzCrVXJlVMJYIcxigpas_ydcdUtcSCW-H2zAmwlEHLgx66ZNhwSA5wyS2JZ1bujzVgxkwt2N5HJTplxcxBF" class="news"></div><br></div><div><a id="19"><b>Freitag, 10. Juni 2016: </b></a><div id="19-klappe" class="news_entry"><div class="news_content"><p>Jakob zusammen mit Bernd Pastors von action medeor e.V. beim Packen von Medikamentenkisten. action medeor e.V. spendet die gesamte Medikamentenausstattung für unsere Krankenstation an Bord. Vielen, vielen Dank dafür!!
-</p></div><img src="https://scontent.xx.fbcdn.net/v/t1.0-0/p180x540/13413618_500314070177831_8717102893029753180_n.jpg?oh=7cf1c5f58df4cc9dffb13b2b8fc1e3c1&amp;oe=57F8E6AF" class="news"></div><br></div><div><a id="20"><b>Donnerstag, 9. Juni 2016: </b></a><div id="20-klappe" class="news_entry"><div class="news_content"><p>Pauline gibt euch, nachdem unser Schiff gestern in Emden zum Umbau angekommen ist, heute um 17.00 Uhr ein kleines Update auf FluxFM. In der Morningshow am Nachmittag hört ihr dann alle Infos zu den nächsten Wochen, der Überführung nach Malta und unserem generellen Arbeitsstand. Bis dahin!
 
-Hier geht's zum mithören im Livestream: <a target="_blank" class="linkified" href="http://streams.fluxfm.de/live/mp3-320/audio/">http://streams.fluxfm.de/live/mp3-320/audio/</a>
-</p></div><img src="https://scontent.xx.fbcdn.net/v/t1.0-0/p180x540/13319778_499890800220158_5547804320750569545_n.jpg?oh=85721c70533dea70afd063f6eb2f22b9&amp;oe=57F22DC4" class="news"></div><br></div><div><a id="21"><b>Mittwoch, 8. Juni 2016: </b></a><div id="21-klappe" class="news_entry"><div class="news_content"><p>---- Ich rette Mitt*woch ---- 
-Heute stellen wir euch Arne aus dem Kernteam vor. Zusammen mit Titus kümmert er sich um Schiffsfragen und den Umbau. Wenn du uns beim Umbau unterstützen willst, geht es hier entlang: <a target="_blank" class="linkified" href="http://bit.ly/umbau_jr">http://bit.ly/umbau_jr</a> 
-"Ich mache mit, weil wir jetzt vor Ort sein müssen und weil jeder Mensch die Rettung aus Seenot verdient. Während der Arbeit mit Jugend Rettet ist mir von vielen Seiten Gegenwind entgegen gekommen von Menschen, die anderen die Rettung aus Seenot nicht wünschen. Es ist für mich unfassbar, so wenig Nächstenliebe zeigen zu können und sich von einigen Gruppierungen beeinflussen zu lassen. Umso mehr engagieren wir uns! Jugend Rettet e.V. gibt mir und anderen die Möglichkeit sich zu beteiligen, jeder mit seinen eigenen Fähigkeiten, um zusammen etwas sehr Grosses zu schaffen und Menschen aus Seenot zu retten. Es ist nicht unmöglich zu helfen." #ichrettemit
-</p></div><img src="https://scontent.xx.fbcdn.net/v/t1.0-0/q82/p180x540/13332775_499088946967010_5926092914325686835_n.jpg?oh=1995e2bb3977ceceb541576b33e2236c&amp;oe=57ED6600" class="news"></div><br></div><div><a id="22"><b>Mittwoch, 8. Juni 2016: </b></a><div id="22-klappe" class="news_entry"><div class="news_content"><p>Liebe MünchnerInnen, am Samstag geht's zum meditieren in den Englischen Garten. Bringt eure Yogamatte mit und schon kann es los gehen. Egal ob Anfänger oder Fortgeschritten - jeder ist Willkommen! Wie viel ihr zahlt, bleibt euch überlassen - der gesamte Erlös wird an Jugend Rettet gespendet. Vielen Dank dafür schon mal an die Organisatorinnen und Lehrerin Nuri &lt;3
-</p></div><img src="https://scontent.xx.fbcdn.net/v/t1.0-9/13319812_1767064983574615_1191898112701530212_n.jpg?oh=337ee1a1684eb69c93461912d811e922&amp;oe=57F2425B" class="news"></div><br></div><div><a id="23"><b>Dienstag, 7. Juni 2016: </b></a><div id="23-klappe" class="news_entry"><div class="news_content"><p>Auf dem Weg nach Emden! 😊</p></div><img src="https://scontent.xx.fbcdn.net/v/t15.0-10/12525750_499304503612121_1718768366_n.jpg?oh=77760c45c8cd4d2189b8b8bc0cdc51ab&amp;oe=57F8B9B9" class="news"></div><br></div><div><a id="25"><b>Dienstag, 7. Juni 2016: </b></a><div id="25-klappe" class="news_entry"><div class="news_content"><p>Am Donnerstag beginnt unser Umbau und dazu brauchen wir UmbauhelferInnen. Drei Wochen sind dafür angesetzt (ca. bis 26.6.2016). Wenn du innerhalb dieser Zeit nach Emden kommen kannst, dann melde dich bei titus@jugendrettet.org mit dem Betreff "Umbau". 
+                      <a class="faq" id="106"><b>1. Juli</b> Stage for Peace Festival in Nürnberg</a>
+                        <div class="faq-klappe" id="106-klappe">
+                          <p>
+                            Wir freuen uns, am 1.7. beim ersten <a href="https://www.facebook.com/stageforpeace/">Stage for Peace Festival</a> in Nürnberg dabei zu sein. Wir sind mit einem Infostand vor Ort und 50% der Einnahmen gehen an Jugend Rettet. Wir raten also allen aus der Gegend: Ticket holen und für den guten Zweck feiern: <a href="bit.ly/stageforpeace">bit.ly/stageforpeace</a>
+                          </p>
+                        </div><br>
 
-Hier findest du alle benötigten Informationen zum Umbau: http://bit.ly/umbau_jr
+                      <a class="faq" id="105"><b>24. Juni</b> Schiffstaufe der IUVENTA</a>
+                        <div class="faq-klappe" id="105-klappe">
+                          <p>
+                            Wir laden Sie dazu alle herzlichst nach Emden ein. Alle Informationen finden Sie hier: <a href="https://www.facebook.com/events/1613805292244922/">facebook.com/events/1613805292244922</a>
+                          </p>
+                        </div><br>
 
-Danke für deine Unterstützung!
-</p></div><img src="https://scontent.xx.fbcdn.net/v/t1.0-9/s720x720/13407274_499081630301075_1691672753608734870_n.jpg?oh=99253d3e5b5ce539f78148d380006b6b&amp;oe=57F75738" class="news"></div><br></div>
-	
+                      <a class="faq" id="104"><b>20. Juni</b> ZDFtivi berichtet</a>
+                        <div class="faq-klappe" id="104-klappe">
+                          <p>
+                            Reporter Mirko von ZDFtivi hat sich von Jakob in Emden das Schiff zeigen lassen: <a href="http://bit.ly/zdftivi">http://bit.ly/zdftivi</a>
+                          </p>
+                        </div><br>
+
+                      <a class="faq" id="103"><b>19. Juni</b> Lena beim Rheingauer Wirtschaftsforum 2016</a>
+                        <div class="faq-klappe" id="103-klappe">
+                          <p>
+                            Lena hat im Rahmen des Rheingauer Wirtschaftsforums 2016 bei den Podiumsdiskussionen zum Thema „Female Shift“ und „Krieg und Frieden“ teilgenommen.
+                          </p>
+                        </div><br>
+
+                      <a class="faq" id="102"><b>13. Juni</b> Teilnahme an Seminar zum Thema Seenotrettung</a>
+                        <div class="faq-klappe" id="102-klappe">
+                          <p>
+                            Eine gute Vorbereitung für den Einsatz im Mittelmeer ist für uns essentiell. Vom 6. bis 8. Juni haben deshalb mehrere Crewmitglieder von Jugend Rettet an einem dreitätigen Lehrgang zum Thema Seenotrettung auf dem <a href="https://www.facebook.com/Segelschiff-Thor-Heyerdahl-150058301767227/">Segelschiff Thor Heyerdahl</a> teilgenommen. Wir bedanken uns bei <a href="https://www.facebook.com/seawatchprojekt/">Sea-Watch</a> für die Organisation!
+                          </p>
+                        </div><br>
+
+                      <a class="faq" id="101"><b>10. Juni</b> action medeor e.V.</a>
+                        <div class="faq-klappe" id="101-klappe">
+                          <p>
+                            <a href="https://www.facebook.com/actionmedeorev/">action medeor e.V.</a> spendet die gesamte Medikamentenausstattung für unsere Krankenstation an Bord. Vielen, vielen Dank dafür!
+                          </p>
+                        </div><br>
+
+                      <a class="faq" id="100"><b>9. Juni</b> Update auf FluxFM</a>
+                        <div class="faq-klappe" id="100-klappe">
+                          <p>
+                            Pauline gibt, nachdem unser Schiff in Emden zum Umbau angekommen ist, ein <a href="https://www.fluxfm.de/brokof-jugend-rettet-e-v-morningshow-am-nachmittag/">kleines Update auf FluxFM</a>.
+                          </p>
+                        </div><br>
+
+
+                      <a class="faq" id="99"><b>9. Juni</b> Start der Umbauarbeiten</a>
+                        <div class="faq-klappe" id="99-klappe">
+                          <p>
+                            Interessierte HelferInnen können sich bei <a href="mailto:titus@jugendrettet.org">titus@jugendrettet.org</a> mit dem Betreff „Umbau“ melden.
+                          </p>
+                          <a target="_blank" href="https://www.facebook.com/JugendRettet/photos/?tab=album&album_id=497657640443474">→ Fotoalbum</a>
+                        </div><br>
+
+                      <a class="faq" id="98"><b>8. Juni</b> Ankunft des Schiffes in Emden </a>
+                        <div class="faq-klappe" id="98-klappe">
+                        </div><br>
+
+                      <a class="faq" id="97"><b>7. Juni</b> Ummeldung des Schiffes erfolgreich abgeschlossen!</a>
+                        <div class="faq-klappe" id="97-klappe">
+                        </div><br>
+
+                      <a class="faq" id="96"><b>20. Mai</b> Wir bekommen eine große Ladung Rettungswesten gespendet!</a>
+                        <div class="faq-klappe" id="96-klappe">
+                          <p>
+                            Danke an das Elsflether Kutterpull-Team! Wenn du uns auch mit Sachspenden helfen möchtest, kannst du hier sehen was wir benötigen: <a href="http://jugendrettet.org/sachspenden" target="_blank">jugendrettet.org/sachspenden</a>.
+                          </p>
+                        </div><br>
+
+                      <a class="faq" id="95"><b>19. Mai</b> Kaufvertrag unterzeichnet!</a>
+                        <div class="faq-klappe" id="95-klappe">
+                          <p>
+                            Jakob unterzeichnet den Kaufvertrag für das Schiff
+                          </p>
+                        </div><br>
+
+                      <a class="faq" id="94"><b>10. Mai</b> Jugend Rettet bei ev1.tv</a>
+                        <div class="faq-klappe" id="94-klappe">
+                          <p>
+                            Botschafter Jannik hat uns bei ev1.tv vorgestellt.
+                          </p>
+                        </div><br>
+
+
+                      <a class="faq" id="93"><b>02. Mai</b> Unterstützung von Jasmin Gerat</a>
+                      <div class="faq-klappe" id="93-klappe">
+                        <p>
+                          "Auf dem Weg zu langfristigen Lösungen darf nicht in Vergessenheit geraten, dass jeden Tag weitere Menschen auf der Flucht sind und sofort Hilfe brauchen - so direkt wie es geht. Ich unterstütze das Projekt von Jugend Rettet, weil es genau dort vor Ort ist, wo immer noch zu viele Menschen sterben müssen: auf dem Meer. Jugend Rettet handelt und lebt Nächstenliebe, das berührt mich sehr und ich bitte jede/n unterstützend zu spenden und sei es nur ein kleiner Betrag - jeder Cent zählt!"
+                        </p>
+                        <p>
+                          Wir danken Jasmin Gerat für die Unterstützung!
+                        </p>
+                        <a target="_blank" href="http://jugendrettet.org/betterplace">‪#‎rettemit‬: jugendrettet.org/betterplace</a>
+                        <a target="_blank" href="./images/20160502.jpg"><img class="news" src="./images/20160502.jpg"></a>
+                      </div><br>
+
+                      <a class="faq" id="92"><b>02. Mai 2016</b> Bericht bei La Stampa</a>
+                      <div class="faq-klappe" id="92-klappe">
+                        <p>
+                          Ein wenig internationale Presse: La Stampa aus Italien berichtet über unsere Arbeit:
+                        </p>
+                        <a target="_blank" href="http://www.lastampa.it/2016/05/02/societa/la-nave-per-salvare-i-migranti-finanziata-grazie-al-crowdfunding-JK5BmQo7cDD5eWAdRuLahI/pagina.html">→ Link</a>
+                      </div><br>
+
+                      <a class="faq" id="91"><b>28. April</b> Interview auf Radio Q</a>
+                      <div class="faq-klappe" id="91-klappe">
+                        <p>
+                          Heute Morgen konntet ihr ein kleines Interview auf Radio Q, dem Campusradio Münster, mit Pauline aus dem Kernteam Berlin hören.<br>
+                          Wenn Ihr bei Jugend Rettet mitmachen wollt, meldet Euch bei Botschafterin Jana unter: <a target="_blank" href="mailto:jana@jugendrettet.org">jana@jugendrettet.org</a>
+                        </p>
+                      </div><br>
+
+                      <a class="faq" id="90"><b>26. April</b> Beteiligung an "Dialog Extrem"</a>
+                      <div class="faq-klappe" id="90-klappe">
+                        <p>
+                          Heute waren wir bei der Veranstaltung Dialog Extrem, bei der Expert_innen ihre Projekte und ihr Vorhaben erklären können. Wir stellten Jugend Rettet vor und erklärten, warum es die Seenotrettung auf dem Mittelmeer braucht.
+                        </p>
+                        <a target="_blank" href="./images/20160426.jpg"><img class="news" src="./images/20160426.jpg"></a>
+                      </div><br>
+
+                      <a class="faq" id="89"><b>26. April</b> Bericht in Berliner Morgenpost</a>
+                      <div class="faq-klappe" id="89-klappe">
+                        <p>
+                          "Wir wollen langfristig denken und nach dieser Operation nicht nichts mehr tun." <br>
+                          Wir hatten Besuch von der Berliner Morgenpost. Das Ergebnis könnt ihr hier nachlesen:<br>
+                          <a target="_blank" href="http://www.morgenpost.de/berlin/article207469977/Junge-Berliner-wollen-Fluechtlinge-aus-dem-Mittelmeer-retten.html">→ Link</a>
+                        </p>
+                        <a target="_blank" href="./images/JR_kernteam_ah-02005_s.jpg"><img class="news" src="./images/JR_kernteam_ah-02005_s.jpg"></a>
+                      </div><br>
+
+                      <a class="faq" id="88"><b>23. April</b> Letztes Gutachten des Schiffs</a>
+                      <div class="faq-klappe" id="88-klappe">
+                        <p>
+                          Gute Neuigkeiten! Unser Schiff wurde unter Aufsicht unseres Gutachters in das Trockendock gehoben. Das Unterwasserschiff, sowie die Dicke der Außenwände ist in Ordnung. Außerdem sind keine größeren Schäden an Ruder, Propeller oder Bugstrahler zu verzeichnen. Nun können die nächsten Schritte eingeleitet werden.
+                        </p>
+                        <a target="_blank" href="./images/20160423.jpg"><img class="news" src="./images/20160423.jpg"></a>
+                      </div><br>
+
+                      <a class="faq" id="87"><b>17. April</b> Beitrag im Europamagazin in der ARD</a>
+                      <div class="faq-klappe" id="87-klappe">
+                        <p>
+                          Jakob war heute Mittag beim Europamagazin der ARD zu Gast. Wer die Sendung verpasst hat, kann hier nochmal das Gespräch anschauen:
+                        </p>
+                        <a target="_blank" href="http://mediathek.daserste.de/Europamagazin/Rettungsschiff-f%C3%BCr-Fl%C3%BCchtlinge/Das-Erste/Video?documentId=34730882&topRessort&bcastId=342024">→ Link</a>
+                      </div><br>
+
+                      <a class="faq" id="86"><b>14. April</b> Aufbau und Vernetzung auf Malta </a>
+                      <div class="faq-klappe" id="86-klappe">
+                        <p>
+                          Malta steht für uns als Heimathafen zur Option. Deswegen ist Jakob gerade dort, um den Aufbau der Infrastruktur (Liegeplatz, Unterkunft Crew, Lager Rettungsmittel/Ersatzteile) für unsere Operation, Vernetzung mit Behörden und Initiativen vor Ort zu arrangieren. So hat er sich z.B. mit MOAS getroffen und einen Vortrag an der University of Malta gehalten.
+                        </p>
+                        <p>
+                          Meldet euch bei <a target="_blank" href="tobi@jugendrettet.org">tobi@jugendrettet.org</a>, wenn wir ihr unser Bonner Team unterstützen möchtet.
+                        </p>
+                        <a href="./images/20160414.jpg" target="_blank"><img class="news" src="./images/20160414.jpg"></a>
+                      </div><br>
+
+                      <a class="faq" id="85"><b>09. April</b> Start der Spendenphase 3 </a>
+                      <div class="faq-klappe" id="85-klappe">
+                        <p>
+                          Wir beginnen mit unserer nächsten essentiellen Phase der Finanzierung auf Betterplace. Nachdem die Schiffsfinanzierung, die Überführung, der Umbau und die ersten Wochen auf See gesichert sind, geht es nun darum die weiteren laufenden Kosten für die Missionen zu sichern. Dazu zählen bspw. die Schiffsversicherung, Treibstoff, Verpflegung und Rettungsmittel. 40.000€ werden dazu benötigt. Nur mit euch können wir unsere Rettungsoperation über den Sommer fortsetzen.
+                        </p>
+                        <p>
+                          Rette mit: <a target="_blank" href="http://bit.ly/betterplace_JR">http://bit.ly/betterplace_JR</a>
+                        </p>
+                        <p>
+                          Danke auch an Alice Dwyer, Fabian Busch, Yvonne Catterfeld, Jonas Nay, Oliver Wnuk, Joel Basman, Jan Josef Liefers, Sabin Tambrea
+                        </p>
+                        <video class="news" style="max-width:100%" controls>
+                          <source src="./videos/betterplace.mp4" type="video/mp4">
+                          Your browser does not support the video tag.
+                        </video>
+                      </div><br>
+
+                      <a class="faq" id="84"><b>05. April 2016</b> Beitrag von RTL WEST </a>
+                      <div class="faq-klappe" id="84-klappe">
+                        <p>
+                          RTL WEST berichtete über uns.
+                        </p>
+                        <p>
+                          Meldet euch bei <a href="tobi@jugendrettet.org">tobi@jugendrettet.org</a>, wenn wir ihr unser Bonner Team unterstützen möchtet.
+                        </p>
+                        <a target="_blank" href="http://www.rtl-west.de/beitrag/artikel/nicht-reden-machen/">→ Link</a>
+                      </div><br>
+
+                      <a class="faq" id="83"><b>31. März</b> Ende der Spendenphase 2 </a>
+                      <div class="faq-klappe" id="83-klappe">
+                        <p>
+                          Unsere zweite Spendenphase endet erfolgreich. Danke!
+                        </p>
+                        <p>
+                          Wir arbeiten stetig daran, dass wir im Juni mit der Rettungsmission starten können. Unser Ziel bleibt: Jeder Mensch verdient die Rettung aus Seenot. Unsere Umbaupläne werden zur Zeit mit der Werft abgeschlossen und noch einigen letzten Prüfungen unterzogen. Das bedeutet auch, dass wir noch Zeit brauchen um euch mit den konkreten Neuigkeiten zu unseren nächsten Schritten versorgen zu können. Bitte habt noch Geduld! Soviel steht aber: Wir starten jetzt mit der neuen Etappe "Rettungsmission". Eure Unterstützung für den ersten Rettungseinsatz im Sommer wird gebraucht! Wir freuen uns über eure Hilfe. Rettet mit!
+                        </p>
+                      </div><br>
+
+                      <a class="faq" id="82"><b>30. März</b> Gespräch bei Netz gegen Nazis </a>
+                      <div class="faq-klappe" id="82-klappe">
+                        <p>
+                          Wir hatten in der letzen Woche ein Gespräch mit Oliver von Netz gegen Nazis, dem Onlineportal der Amadeu Antonio Stiftung gegen Rechtsextremismus. Viel Freude beim Lesen!
+                        </p>
+                        <a href="http://www.netz-gegen-nazis.de/artikel/jugend-rettet-wenn-menschen-im-mittelmeer-ertrinken-dann-schicken-wir-eben-ein-schiff" target="_blank">→ Link</a>
+                      </div><br>
+
+                      <a class="faq" id="81"><b>29. März</b> Interview mit SZ </a>
+                      <div class="faq-klappe" id="81-klappe">
+                        <p>
+                          Die Süddeutsche Zeitung hat mit Jakob und Pauline gesprochen.
+                        </p>
+                        <a href="http://www.sueddeutsche.de/politik/fluechtlingskrise-im-mittelmeer-ein-abiturient-will-fluechtlinge-retten-1.2925679" target="_blank">→ Link</a>
+                      </div><br>
+
+                      <a class="faq" id="80"><b>29. März</b> Botschafterin Jana im Interview mit Westfälische Nachrichten </a>
+                      <div class="faq-klappe" id="80-klappe">
+                        <p>
+                          Westfälische Nachrichten hat sich mit unserer Münster Botschafterin Jana unterhalten: <a target="_blank" href="http://bit.ly/1VRi7FW">http://bit.ly/1VRi7FW</a>
+                        </p>
+                        <p>
+                          Rette mit: <a target="_blank" href="jana@jugendrettet.org">jana@jugendrettet.org</a>
+                        </p>
+                        <a href="./images/20160329.jpg" target="_blank"><img class="news" src="./images/20160329.jpg"></a>
+                        <p>
+                          Foto: Sebastian Stachorra
+                        </p>
+                      </div><br>
+
+
+                      <a class="faq" id="79"><b>24. März</b> Statement Armin Rohde</a>
+                      <div class="faq-klappe" id="79-klappe">
+                        <p>
+                          „Ich freue mich sehr und empfinde allergrößten Respekt dafür, dass ihr in eurem Alter bereit seid Zeit, Kraft, Mut und Geld aufzubringen, um unter nicht ganz ungefährlichen Umständen Aufgaben zu übernehmen, von denen offizielle Stellen entweder überfordert sind oder nichts wissen wollen. Ihr macht euch auf den Weg um Menschenleben zu retten. Ein höheres Ziel kann man in diesem Leben nicht haben. Euren Mitstreitern und euch gehört meine größte Sympathie und Bewunderung. Euer Vorhaben lässt mich zuversichtlicher in die Welt schauen.“
+                        </p>
+                        <p>
+                          Wir danken Armin Rohde für diese Unterstützung.
+                        </p>
+                        <a href="./images/20160324.jpg" target="_blank"><img class="news" src="./images/20160324.jpg"></a>
+                      </div><br>
+
+                      <a class="faq" id="78"><b>23. März</b> Offenes Treffen Hamburg</a>
+                      <div class="faq-klappe" id="78-klappe">
+                        <a href="./images/20160323.jpg" target="_blank"><img class="news" src="./images/20160323.jpg"></a>
+                      </div><br>
+
+                      <a class="faq" id="77"><b>22. März</b> Offenes Treffen Lüneburg</a>
+                      <div class="faq-klappe" id="77-klappe">
+                        <a href="./images/20160322.jpg" target="_blank"><img class="news" src="./images/20160322.jpg"></a>
+                      </div><br>
+
+                      <a class="faq" id="76"><b>18. März</b> Spendenziel 2 erreicht + Soli-Party im Lauschangriff Berlin</a>
+                      <div class="faq-klappe" id="76-klappe">
+                        <p>
+                          Gestern haben wir unser erstes Spendenziel von 80.000 Euro erreicht! Es ist wirklich unglaublich und wir freuen uns wahnsinnig. Wir bedanken uns für so viel Zuspruch, Spendenbereitschaft und Unterstützung!
+                        </p>
+                        <p>
+                          Wir werden jetzt weiterhin alles dafür tun, so bald wie möglich mit den Rettungsmissionen zu beginnen! Mit den bisher eingegangenen Spenden werden wir dann die Überführung und den Umbau finanzieren. Nun brauchen wir vor allem Mittel für die Wochen auf See, um uns dem Schiffskauf Anfang April zuwenden zu können. Parallel dazu suchen wir geeignete Mannschaften und Freiwillige, die unser Schiff begleiten können und uns auch beim Umbau helfen, sowie Handwerker, Schreiner und Schweißer.
+                        </p>
+                        <p>
+                          Wir freuen uns, mit euch die nächsten Ziele und Etappen zu meistern.
+                        </p>
+                        <br>
+                        <p>
+                          Passend zum Anlass fand diesen Abend unsere Soli-Party im Lauschangriff Berlin statt.
+                        </p>
+                        <a href="./images/20160318.jpg" target="_blank"><img class="news" src="./images/20160318.jpg"></a>
+                      </div><br>
+
+                      <a class="faq" id="75"><b>18. März</b> Bericht über Jugend Rettet bei ZEITjUNG </a>
+                      <div class="faq-klappe" id="75-klappe">
+                        <p>Wir hatten diese Woche ein nettes Gespräch mit ZEITjUNG.de. Das Ergebnis könnt ihr hier lesen.</p>
+                        <p>
+                          <a href="http://zeitjung.de/organisation-seenot-fluechtlinge-jugendrettet/">&#8594; Link</a>
+                        </p>
+                      </div><br>
+
+                      <a class="faq" id="74"><b>18. März</b> Bericht über Jugend Rettet bei Zeit Online </a>
+                      <div class="faq-klappe" id="74-klappe">
+                        <p>
+                          <a href="http://www.zeit.de/studium/uni-leben/2016-03/jugend-rettet-fluechtlinge-mittelmeer-private-seenothilfe">&#8594; Link</a>
+                        </p>
+                      </div><br>
+
+                      <a class="faq" id="73"><b>17. März</b> Blutspendenaktionen Bonn </a>
+                      <div class="faq-klappe" id="73-klappe">
+                        <p>
+                          Heute fand zum zweiten und vorerst letzten Mal die Blutspendeaktion in Bonn statt. Unser Botschafter Tobi und sein Team haben diese Aktion mit dem Blutspendedienst Haema Blutspendedienst organisiert, bei der durch jede Blutspende 25€ direkt an uns und die Finanzierung des Schiffes gingen. Eine schöne Gelegenheit gleich 2x etwas Gutes zu tun und wir sagen Dankeschön an alle Beteiligten.
+                        </p>
+                        <p>
+                          Wenn ihr mit Tobi und dem Team Bonn in Kontakt treten wollt, könnt ihr das via Mail: <a href="mailto:tobias@jugendrettet.org">tobias@jugendrettet.org</a>.
+                        </p>
+                        <a href="./images/20160317.jpg" target="_blank"><img class="news" src='./images/20160317.jpg'></a>
+                      </div><br>
+
+                      <a class="faq" id="72"><b>17. März</b> Jugend Rettet im ZDF beim "Morgenmagazin" </a>
+                      <div class="faq-klappe" id="72-klappe">
+                        <p>
+                          Heute Morgen waren wir wieder im ZDF. Diesmal beim "Morgenmagazin".
+                        </p>
+                        <p>
+                          Lena und Jakob haben mit Dunja Hayali über die aktuelle Situation und die geplanten Rettungsaktionen gesprochen.
+                        </p>
+                        <a href="https://www.youtube.com/watch?v=zl4Ga1oY2Fo" target="_blank"><img class="news" src='./images/20160317_2.jpg'></a>
+                        <p>
+                          (Video)
+                        </p>
+                      </div><br>
+
+                      <a class="faq" id="71"><b>16. März</b> Jugend Rettet im ZDF bei "heute – in Deutschland"  </a>
+                      <div class="faq-klappe" id="71-klappe">
+                        <p>
+                          Heute Mittag waren wir im ZDF bei "heute – in Deutschland" zu sehen!
+                        </p>
+                        <p>
+                          Es wurde auf die aktuelle Situation und unsere politische Forderung hingewiesen.
+                        </p>
+                        <a href="https://www.youtube.com/watch?v=PRWG8YXvOdk" target="_blank"><img class="news" src='./images/20160316.jpg'></a>
+                        <p>
+                          (Video)
+                        </p>
+                      </div><br>
+
+                      <a class="faq" id="70"><b>15. März</b> Offenes Treffen im Emsland </a>
+                      <div class="faq-klappe" id="70-klappe">
+                        <p>
+                          Heute fand das erste Treffen im Emsland statt. Unser Botschafter hat euch das Projekt und den aktuellen Arbeitsstand vorgestellt, diskutiert und nach weiteren Unterstützer_innen gesucht.
+                        </p>
+                      </div><br>
+
+                      <a class="faq" id="69"><b>14. März</b> Offenes Treffen im Baiz Berlin </a>
+                      <div class="faq-klappe" id="69-klappe">
+                        <p>
+                          Am Montag fand ein weiteres offenes Treffen im Baiz Berlin statt. Wir stellten das Projekt und unseren aktuellen Arbeitsstand vor.
+                        </p>
+                      </div><br>
+
+                      <a class="faq" id="68"><b>11. März</b> Statement von Jan Josef Liefers </a>
+                      <div class="faq-klappe" id="68-klappe">
+                        <p>
+                          Hier nochmal kurz und knackig unsere aktuelle Situation erklärt von Jan Josef Liefers. Wir freuen uns sehr über die Unterstützung!
+                        </p>
+                        <p>
+                          Mittlerweile haben wir mit eurer Hilfe fast 60% geschafft. 19 Tage bleiben noch zum Spenden.
+                        </p>
+                        <a href="https://www.youtube.com/watch?v=pdud4bijQHU" target="_blank"><img class="news" src='./images/20160311.jpg'></a>
+                        <p>
+                          (Video)
+                        </p>
+                      </div><br>
+
+                      <a class="faq" id="65"><b>10. März</b> Statement von Maria Furtwängler </a>
+                      <div class="faq-klappe" id="65-klappe">
+                        <p>
+                          „Alle reden darüber. Viele haben eine Meinung. Und viel zu wenig Menschen handeln. Diese Initiative junger Menschen beeindruckt mich. Wir alle können davon lernen und uns inspirieren lassen von diesem Idealismus. Wir entwickeln uns nicht weiter durch die vielen Bedenkenträger sondern durch diejenigen, die ohne Bedenken vorbildlich Verantwortung tragen.“
+                        </p>
+                        <p>
+                          Vielen Dank an Maria Furtwängler für die Unterstützung!
+                        </p>
+                        <a href="./images/20160310.jpg" target="_blank"><img class="news" src='./images/20160310.jpg'></a>
+                      </div><br>
+
+                      <a class="faq" id="64"><b>10. März</b> Danke Koljah! </a>
+                      <div class="faq-klappe" id="64-klappe">
+                        <p>
+                          Wir sind ganz verliebt in die Antilopen Gang. Koljah hat uns gestern vorgestellt. Ein großes Dankeschön von unserer Seite. Wir sind schon Fans und können euch die Gang nur empfehlen.
+                        </p>
+                      </div><br>
+
+                      <a class="faq" id="63"><b>08. März 2016</b> Unsere Verpflichtung zur Transparenz </a>
+                      <div class="faq-klappe" id="63-klappe">
+                        <p>
+                          Das Vertrauen unserer SpenderInnen und UnterstützerInnen wollen wir durch eine bestmögliche Transparenz über unsere Arbeit zurückgeben. Jugend Rettet ist deshalb offiziell Mitglied bei der Initiative Transparente Zivilgesellschaft (ITZ). Das bedeutet, dass wir uns freiwillig verpflichten, viele Informationen über unsere Vereinsstruktur, Tätigkeiten und Finanzen auf unserer Website öffentlich zugänglich zu machen und regelmäßig zu updaten:
+                        </p>
+                        <p>
+                          <a target="_blank" href="./transparenz">&#8594; Transparenz</a>
+                        </p>
+                        <br>
+                        <p>
+                          Als einer der 733 Unterzeichner der Initiative sprechen wir uns klar für Transparenz im gemeinnützigen Sektor aus.
+                        </p>
+                        <br>
+                        <a href="./transparenz"><img style="width:calc(100% - 12px);padding:5px;background:white;border:solid 1px #286482;" src="./graphics/Transparente_Zivilgesellschaft.svg"></a>
+                      </div><br>
+
+                      <a class="faq" id="67"><b>04. März</b> Schlemmen für das Schiff </a>
+                      <div class="faq-klappe" id="67-klappe">
+                        <p>
+                          "helping Jugend Rettet e.V. saving the world, one cupcake at a time. thanks to Tristeza :: kollektivkneipe :: for having us!"
+                        </p>
+                        <p>
+                          Vielen Dank für diese schöne Aktion!
+                        </p>
+                        <a href="./images/20160310_2.jpg" target="_blank"><img class="news" src='./images/20160310_2.jpg'></a>
+                      </div><br>
+
+                      <a class="faq" id="66"><b>04. März</b> Wohin fließen die Spenden? </a>
+                      <div class="faq-klappe" id="66-klappe">
+                        <p>
+                          Wohin fließen eigentlich im Moment eure Spenden? Hier eine kleine Übersicht. Wir achten darauf, unsere Ausgaben so gering wie möglich zu halten.
+                        </p>
+                        <a href="./images/20160304.jpg" target="_blank"><img class="news" src='./images/20160304.jpg'></a>
+                      </div><br>
+
+                      <a class="faq" id="62"><b>29. Februar</b> Schiffsbesichtigung in Holland </a>
+                      <div class="faq-klappe" id="62-klappe">
+                        <p>
+                          Heute waren wir nochmal in den Niederlanden, um eines der für uns geeignetsten Schiffe ein zweites Mal zu besichtigen. Dabei ging es vor allem darum, dass wir uns ein detailierteres Bild für den Umbau machen können.
+                        </p>
+                        <a href="./images/20160229.jpg" target="_blank"><img class="news" src='./images/20160229.jpg'></a>
+                      </div><br>
+
+                      <a class="faq" id="61"><b>27. Februar</b> Bötchen-Spendenaktion in Liechtenstein </a>
+                      <div class="faq-klappe" id="61-klappe">
+                        <p>
+                          Danke an unsere Liechtensteiner Botschafterin Helena, die ähnlich wie Team Aachen eine Bötchen-Aktion gestartet hat und damit 1100€ sammeln konnte. Tolle Arbeit!
+                        </p>
+                        <p>
+                          Wenn ihr Helena bei ihrer Arbeit in Liechtenstein unterstützen wollt, schickt ihr eine Mail an <a href="mailto:helena@jugendrettet.org">helena@jugendrettet.org</a>.
+                        </p>
+                        <a href="./images/20160227.jpg" target="_blank"><img class="news" src='./images/20160227.jpg'></a>
+                      </div><br>
+
+                      <a class="faq" id="60"><b>26. Februar</b> Vortrag an der Beaconhurst School in England </a>
+                      <div class="faq-klappe" id="60-klappe">
+                        <p>
+                          Ein riesiger Dank geht heute an Jana von der Beaconhurst School in England, die am Vormittag an ihrem College einen Vortag über uns gehalten hat, um uns aktiv bei unseren Anliegen zu unterstützen.
+                        </p>
+                        <a href="./images/20160226.jpg" target="_blank"><img class="news" src='./images/20160226.jpg'></a>
+                      </div><br>
+
+                      <a class="faq" id="59"><b>22. Februar</b> Jule blogt über uns bei "im gegenteil" </a>
+                      <div class="faq-klappe" id="59-klappe">
+                        <p>
+                          "Kein Dienst nach Plan, sondern eine Herzensangelegenheit"
+                       </p>
+                        <p>
+                          Jule von im gegenteil hat ein paar nette Worte über uns geschrieben! Wir freuen uns nicht nur über die positiven Worte von ihr, sondern auch, dass sie vielleicht im Sommer bei uns mit anpackt.
+                        </p>
+                        <br>
+                        <p>
+                          <a target="_blank" href="http://imgegenteil.de/blog/wie-jugendliche-menschen-aus-seenot-retten-wollen-waehrend-europa-versagt/">Link</a>
+                        </p>
+                      </div><br>
+
+                      <a class="faq" id="58"><b>20. Februar</b> Start auf betterplace.org </a>
+                      <div class="faq-klappe" id="58-klappe">
+                        <p>
+                          Seit heute sind wir auf betterplace.org vertreten.
+                        </p>
+                        <p>
+                          Noch 39 Tage - 80.000€. 24.000€ haben wir schon.
+                        </p>
+                        <p>
+                          Jetzt brauchen wir euch: Rettet mit!
+                        </p>
+                        <p>
+                          Jeder Euro geht direkt in den Umbau. Helft uns, im Juni rausfahren zu können.
+                        </p>
+                        <a href="./images/screenshot_bp.png" target="_blank"><img class="news" src='./images/screenshot_bp.png'></a>
+                      </div><br>
+                      <a class="faq" id="57"><b>18. Februar</b> Dreh für den Crowdfunding-Clip </a>
+                      <div class="faq-klappe" id="57-klappe">
+                        <p>
+                          Wir wurden heute bei unserer Arbeit im Büro begleitet. Aus diesem Material entsteht dann ein Teil unseres Crowdfunding-Clips.
+                        </p>
+                        <a href="./images/dreh.jpg" target="_blank"><img class="news" src='./images/dreh.jpg'></a>
+                      </div><br>
+                      <a class="faq" id="56"><b>15. Februar</b> Radiointerview bei BHeins </a>
+                      <div class="faq-klappe" id="56-klappe">
+                        <p>
+                          <a href="mailto:Lena@jugendrettet.org">Lena</a> und unsere beiden Botschafter <a href="mailto:alex@jugendrettet.org">Alex</a> und <a href="mailto:christoph@jugendrettet.org">Christoph</a> waren heute zum Interview beim Radiosender BHeins.
+                        </p>
+                        <p>
+                          Motivierte Potsdamer können sich per Mail an <a href="mailto:christoph@jugendrettet.org">Christoph</a> wenden.
+                        </p>
+                        <a href="./images/bheins.jpg" target="_blank"><img class="news" src='./images/bheins.jpg'></a>
+                      </div><br>
+                      <a class="faq" id="55"><b>15. Februar</b> Soliparty im newyorck59 </a>
+                      <div class="faq-klappe" id="55-klappe">
+                        <a href="./images/newyorck.jpg" target="_blank"><img class="news" src='./images/newyorck.jpg'></a>
+                      </div><br>
+                      <a class="faq" id="54"><b>13. Februar</b> Schiffsbesichtigung! </a>
+                      <div class="faq-klappe" id="54-klappe">
+                        <p>
+                          Wir waren heute in Holland, um die zwei Schiffe zu besichtigen, die für uns in der Endauswahl stehen. Unser Schiffsgutachter gibt grünes Licht, was die Technik anbelangt. Mehr Infos folgen ganz bald!
+                        </p>
+                        <a href="./images/20160213.jpg" target="_blank"><img class="news" src='./images/20160213.jpg'></a>
+                      </div><br>
+                      <a class="faq" id="53"><b>12. Februar</b> Aktionstage </a>
+                      <div class="faq-klappe" id="53-klappe">
+                        <p>
+                          In den letzten zwei Tagen starteten gleich 5 Botschafter-Aktionen.
+                        </p>
+                        <br>
+                        <p>
+                          Bonn: Botschafter Tobi organisierte eine Gedenkveranstaltung "In Gedenken an die Todesopfer während der Flucht 2015". Gemeinsam mit anderen Initiativen und Teilnehmern wurde dort vor der EU-Kommission ein Kranz niedergelegt. Anschließend wurden bei einem bekannten Brunnen noch Papierboote ins Wasser gesetzt.
+                        </p>
+                        <a href="./images/5/tobi.jpg" target="_blank"><img class="news" src='./images/5/tobi.jpg'></a>
+                        <a href="./images/5/tobi2.jpg" target="_blank"><img class="news" src='./images/5/tobi2.jpg'></a>
+                        <a href="./images/5/tobi3.jpg" target="_blank"><img class="news" src='./images/5/tobi3.jpg'></a>
+                        <br>
+                        <p>
+                          Allgäu: Botschafterin Lioba richtete einen Infostand aus und bereitete gleichzeitig eine andere Aktion vor: es gab die Möglichkeit, Holzplanken zu bemalen, die dann wiederum Teil einer anderen Aktion zusammen mit Sternsingern werden.
+                        </p>
+                        <a href="http://lebenretten.sternsinger.org/">Link</a>
+                        <a href="./images/5/lioba.jpg" target="_blank"><img class="news" src='./images/5/lioba.jpg'></a>
+                        <a href="./images/5/lioba2.jpg" target="_blank"><img class="news" src='./images/5/lioba2.jpg'></a>
+                        <br>
+                        <p>
+                          Münster: Botschafterin Jana hat im Cafe "Teilchen und Beschleuniger" selbstgebackenen Kuchen an die Gäste verkauft.
+                        </p>
+                        <a href="./images/5/jana.jpg" target="_blank"><img class="news" src='./images/5/jana.jpg'></a>
+                        <a href="./images/5/jana2.jpg" target="_blank"><img class="news" src='./images/5/jana2.jpg'></a>
+                        <br>
+                        <p>
+                          Köln: Botschafter Carlo war bei der Aufführung von "Der gute Mensch von Sezuan" für Jugend Rettet dabei. Es wurden Flyer verteilt und Spenden gesammelt.
+                        </p>
+                        <br>
+                        <p>
+                          Trier: Asa hat eine Vorführung von "Asyland" im Broadway Kino in Trier organisiert.
+                        </p>
+                        <br>
+                        <p>
+                          Danke für euren Einsatz!
+                        </p>
+                        <br>
+                      </div><br>
+                      <a class="faq" id="52"><b>10. Februar</b> Phase 1 fast abgeschlossen! </a>
+                      <div class="faq-klappe" id="52-klappe">
+                        <p>Die erste Etappe ist geschafft! Die Finanzierung für den Kauf unseres Schiffes steht. Jetzt brauchen wir das Geld für den Umbau, die Überführung sowie den ersten Monat auf See. Mindestens <b>80.000 Euro</b> (die genaue Summe prüfen wir gerade) müssen wir <b>bis Ende März</b> zusammenbekommen. Ohne diese Mittel können wir nicht in See stechen. Auch die Finanzierung des Schiffes durch zwei Privatpersonen hängt davon ab, ob wir es schaffen, unser Spendenziel zu erreichen.</p>
+                        <br>
+                        <p>Danke an alle, die schon so fleißig gespendet und von uns erzählt haben. Es gilt jetzt, alles zu mobilisieren, damit der Umbau für die Rettungsmissionen umgesetzt werden kann.</p>
+                        <a href="./files/schiff.gif" target="_blank"><img class="news" src='./files/schiff_twitter.gif'></a>
+                      </div><br>
+                      <a class="faq" id="51"><b>09. Februar</b> Berwerbung bei "HelferHerzen" von dm</a>
+                      <div class="faq-klappe" id="51-klappe">
+                          <p>Unsere Münster Botschafterin Jana hat uns bei dem Projekt "HelferHerzen" von dm angemeldet. Wir haben hier die Chance, mit bis zu 1000€ gefördert zu werden. Danke Jana! Und wer Jana in Münster und Umgebung gerne unterstützen möchte, schreibt gerne eine Mail an <a href="mailto:jana@jugendrettet.org">Jana</a>.
+                      </div><br>
+                      <a class="faq" id="50"><b>01. Februar 2016</b> Zu Gast bei Radio funkUP</a>
+                      <div class="faq-klappe" id="50-klappe">
+                          <p>Lena und unser Potsdamer Botschafter Alex waren bei funkUP zu Gast und haben u.a. über linken Deutschrap und das Gefühl, Teil einer Jugendorganisation zu sein gesprochen.
+                          <br> Viel Spaß beim hören!
+                          <br><a href="http://www.funkup.me/2016/02/the-matik-119-jugend-rettet/">Link</a></p>
+                      </div><br>
+                      <a class="faq" id="49"><b>30. Januar</b> "Bötchenaktion" des Team Aachen</a>
+                      <div class="faq-klappe" id="49-klappe">
+                          <p>Heute wollen wir euch die "Bötchenaktion" des Team Aachen vorstellen: Sie haben gestern mit den Klassen 5, 6, 7, 8 und 9 am Einhard Gymnasium Aachen kleine Bötchen gefaltet, dadurch konnten die Schüler ihre Unterstützung demonstrieren. Insgesamt sind so mehr als 850 Bötchen gebastelt worden. Für 10€ kann man eine Patenschaft für eines der Bötchen übernehmen. Es sind noch ein paar Patenschaften übrig. Wer Lust hat eine Patenschaft zu übernehmen, schreibt bitte an <a href="mailto:luisa@jugendrettet.org">Luisa</a>! Wir freuen uns über eure Unterstützung!</p>
+                          <br>
+                          <a href="./images/boetchen.jpg" target="_blank"><img class="news" src='./images/boetchen.jpg'></a>
+                      </div><br>
+                      <a class="faq" id="45"><b>29. Januar</b> Konferenz zur Zukunft bürgerschaftlichen Engagements für Flüchtlinge</a>
+                      <div class="faq-klappe" id="45-klappe">
+                          <p>Wir waren heute Teil der "Konferenz zur Zukunft bürgerschaftlichen Engagements für Flüchtlinge" von Bündnis 90/Die Grünen. Es sind gute Kontakte zu anderen Organisationen entstanden und wir freuen uns auf mögliche, zukünftige Zusammenarbeiten.</p>
+                          <br>
+                          <a href="./images/20160129.jpg" target="_blank"><img class="news" src='./images/20160129.jpg'></a>
+                      </div><br>
+                      <a class="faq" id="44"><b>20. Januar</b> Vortrag beim Rotary Club Aachen</a>
+                      <div class="faq-klappe" id="44-klappe">
+                          <p>Team Aachen, hier ein Teil des Teams zusammen mit Rotary-Präsidenten Jens Zier, hat heute einen Vortrag über uns im Rotary Club gehalten. Tolle Arbeit, danke dafür! Wer sich dem Team anschließen möchte, meldet sich bitte bei <a href="mailto:luisa@jugendrettet.org">Luisa</a>!</p>
+                          <br>
+                          <a href="./images/rotary.jpg" target="_blank"><img class="news" src='./images/rotary.jpg'></a>
+                      </div><br>
+                      <a class="faq" id="43"><b>16. Januar</b> Bericht bei n-tv</a>
+                      <div class="faq-klappe" id="43-klappe">
+                          <p>"Wir wollen den Jugendaspekt als Druckmittel benutzen. Wenn wir das ohne Erfahrung schaffen, dann gibt es keine Ausrede für das Versagen von staatlichen Akteuren." <br> <a href="http://www.n-tv.de/panorama/Jugend-Rettet-hat-Fluechtlingssterben-satt-article16749591.html">"n-tv Der Nachrichtensender"</a> hat sich mit den Gründungsmitgliedern Lena und Jakob getroffen. Viel Spaß beim lesen!</p>
+                      </div><br>
+                      <a class="faq" id="48"><b>14. Januar</b> Jugend Rettet macht Worte!</a>
+                      <div class="faq-klappe" id="48-klappe">
+                          <p>Jugend Rettet macht Worte! <br>Heute fand ein Supportslam für uns statt. Unser Dank an "Leuchtfeuerworte"!</p>
+                      </div><br>
+                      <a class="faq" id="47"><b>12. Januar</b> Wir sind auf Instagram!</a>
+                      <div class="faq-klappe" id="47-klappe">
+                          <p>Ihr findet uns ab jetzt auch auf <a href="https://www.instagram.com/jugendrettet/">Instagram</a>! Folgt uns!</p>
+                      </div><br>
+                      <a class="faq" id="46"><b>10. Januar</b> Spendenstand</a>
+                      <div class="faq-klappe" id="46-klappe">
+                          <p>Wir sagen DANKE zu 16.500€! Es gilt wie immer: erzählt euren Freunden und Bekannten von uns! Jede Spende zählt. Danke an euch alle für die tolle Unterstützung! <br> <a href="./spenden">spenden</a></p>
+                          <br>
+                          <a href="./images/16500.jpg" target="_blank"><img class="news" src='./images/16500.jpg'></a>
+                      </div><br>
+                      <a class="faq" id="42"><b>09. Januar</b> Bericht in Hochschulzeitung "Der Albrecht"</a>
+                      <div class="faq-klappe" id="42-klappe">
+                          <p>Der Albrecht, Hochschulzeitung der Christian-Albrechts-Universität in Kiel, hat einen Bericht über uns geschrieben, der auch wunderbar als vorbereitende Lektüre für unser erstes offenes Treffen am 19.1 in Kiel dienen kann. Unser Botschafter <a href="mailto:matthis@jugendrettet.org">Matthis</a> steht euch dort mit Rat und Tat zur Seite, meldet euch also wenn ihr dabei sein wollt!</p>
+                          <br>
+                          <a href="http://www.der-albrecht.net/jeder-kann-etwas-machen/">Bericht in "Der Albrecht"</a>
+                      </div><br>
+                      <a class="faq" id="41"><b>09. Januar</b> Soliparty in Berlin</a>
+                      <div class="faq-klappe" id="41-klappe">
+                          <p>Gestern Abend sind bei unserer ersten Soliparty 349,55€ zusammengekommen! Vielen Dank an alle, die mit uns gefeiert haben, sowie an unsere Berliner Botschafterin Sonja und ihre Kleinen Retter!</p>
+                          <a href="./images/schreina.jpg" target="_blank"><img class="news" src='./images/schreina.jpg'></a>
+                      </div><br>
+                      <a class="faq" id="40"><b>07. Januar</b> Bericht in den Aachener Nachrichten</a>
+                      <div class="faq-klappe" id="40-klappe">
+                          <p>Die Aachener Nachrichten haben unser Team vor Ort besucht und über uns geschrieben! Wer gerne Teil des Aachen-Teams werden möchte, meldet sich bei <a href="mailto:luisa@jugendrettet.org">Luisa</a>.</p>
+                          <a href="http://www.aachener-nachrichten.de/lokales/aachen/gruppe-jugend-rettet-ein-seetuechtiges-boot-bis-april-1.1262881">Bericht in den Aachener Nachrichten</a>
+                      </div><br>
+                      <a class="faq" id="39"><b>05. Januar</b> Party in Aachen</a>
+                      <div class="faq-klappe" id="39-klappe">
+                          <a href="./images/partyaachen.jpg" target="_blank"><img class="news" src='./images/partyaachen.jpg'></a>
+                      </div><br>
+                      <a class="faq" id="38"><b>04. Januar 2016</b> Bericht im K50 - Magazin für Köln und Region</a>
+                      <div class="faq-klappe" id="38-klappe">
+                          <p>Im K50 - Magazin für Köln und Region ist ein kleiner Bericht über uns erschienen. Wenn ihr bei uns dabei sein wollt, dann meldet euch bei unserem Kölner Botschafter <a href="mailto:carlo@jugendrettet.org">Carlo</a>.</p>
+                      </div><br>
+                      <a class="faq" id="37"><b>17. Dezember</b> Offenes Treffen in Aachen und Filmvorstellung Asyland in Bonn</a>
+                      <div class="faq-klappe" id="37-klappe">
+                          <p>Jakob und Luisa halten ein offenes Treffen im RWTH Audimax ab und in Bonn sind wir abermals bei der Filmvorstellung <a href="http://www.asyland.de/">Asyland</a> dabei.</p>
+                      </div><br>
+                      <a class="faq" id="36"><b>15. Dezember</b> Zu Gast beim Hochschulradio Aachen</a>
+                      <div class="faq-klappe" id="36-klappe">
+                          <p>Heute Morgen war unsere Aachener Botschafterin beim <a href="http://www.hochschulradio-aachen.de/">Hochschulradio Aachen</a> zu hören!</p>
+                          <a href="./images/radioaachen.jpg" target="_blank"><img class="news" src='./images/radioaachen.jpg'></a>
+                      </div><br>
+                      <a class="faq" id="35"><b>14. Dezember</b> Offenes Treffen in Bonn</a>
+                      <div class="faq-klappe" id="35-klappe">
+                          <p>Unser Botschafter Tobi veranstaltete ein offenes Treffen im Institut für Anglistik und Amerikanistik in Bonn.</p>
+                      </div><br>
+                      <a class="faq" id="34"><b>13. Dezember</b> Spendenstand</a>
+                      <div class="faq-klappe" id="34-klappe">
+                          <p>Bisher haben wir 10.300€ sammeln können und damit sind über 1,20 m von unserem Schiff finanziert. Danke an alle, die uns bisher so tatkräftig unterstützen. Trotzdem brauchen wir aber noch mehr Geld, um das Schiff kaufen können. Teilt diesen Post mit euren Freunden und erzählt von unserem Vorhaben. Nur so können wir gemeinsam das Schiff kaufen und ein Zeichen gegen die Untätigkeit der Regierungen setzen.</p>
+                          <p>Jede Spende zählt! Wir danken allen Unterstützern.</p>
+                          <a href="/spenden">hier spenden</a>
+                      </div><br>
+                      <a class="faq" id="33"><b>12. Dezember</b> Filmvorstellung Asyland in Hamburg</a>
+                      <div class="faq-klappe" id="33-klappe">
+                          <p>In Hamburg waren wir wieder bei der Filmvorstellung von <a href="http://www.asyland.de/">Asyland</a> und der anschließenden Gesprächsrunde dabei.</p>
+                      <a href="./images/hhasyland.jpg" target="_blank"><img class="news" src='./images/hhasyland.jpg'></a>
+                      </div><br>
+                      <a class="faq" id="32"><b>09. Dezember</b> Weihnachtsmarkt in Trier</a>
+                      <div class="faq-klappe" id="32-klappe">
+                          <p>Auf dem Weihnachtsmarkt in Trier konnten Besucher_innen an 2 Tagen Weihnachtskarten basteln und uns so beim Retten unterstützen.</p>
+                          <p>Danke an Botschafterin Asa und alle Kleinen Retter in Trier.</p>
+                          <a href="./images/wmtrier.jpg" target="_blank"><img class="news" src='./images/wmtrier.jpg'></a>
+                      </div><br>
+                      <a class="faq" id="31"><b>08. Dezember</b> Offenes Treffen in Nürnberg</a>
+                      <div class="faq-klappe" id="31-klappe">
+                      </div><br>
+                      <a class="faq" id="30"><b>02. Dezember</b> Besuch von Jule Müller und Schulvortrag in der b.traven Oberschule</a>
+                      <div class="faq-klappe" id="30-klappe">
+                          <p>Heute bekamen wir Besuch von Jule von <a href="http://imgegenteil.de/">im gegenteil</a>!</p>
+                          <a href="./images/julem.jpg" target="_blank"><img class="news" src='./images/julem.jpg'></a>
+                          <br>
+                          <p>Außerdem: "Warum können die Menschen nicht einfach mit dem Flugzeug kommen?" - diese und noch weitere Fragen durften wir heute bei unserem ersten Schulvortrag in der b.traven Oberschule beantworten!</p>
+                      </div><br>
+                      <a class="faq" id="29"><b>01. Dezember 2015</b> Offenes Treffen im Baiz Berlin und Interview FOCUS Online</a>
+                      <div class="faq-klappe" id="29-klappe">
+                          <p>Gestern waren wir im Baiz in Berlin! Wir haben das Projekt vorgestellt und viele Fragen beantwortet! Wir freuen uns über die neuen Unterstützer.</p><br>
+                          <p>Ihr wart nicht dabei? Wir haben in der nächsten Zeit noch einige offenen Treffen, bei denen ihr uns direkt Fragen stellen könnt und mit uns diskutieren könnt.</p>
+                          <a href="./images/20151201.jpg" target="_blank"><img class="news" src='./images/20151201.jpg'></a>
+                          <br>
+                          <p>Unser Gründungsmitglied Jakob wurde außerdem vom FOCUS Online interviewt! Bei dem Artikel geht es unter anderem um die Gründung und wie wir uns die Zeit auf dem Schiff vorstellen. Sehr lesenswert! <a href="http://www.focus.de/regional/berlin/mich-beruehrt-die-lage-sehr-jugendlicher-rettet-auf-eigene-faust-fluechtlinge-im-mittelmeer_id_5113218.html" target="_blank">Link</a></p>
+                      </div><br>
+                      <a class="faq" id="28"><b>29. November</b> Besuch im Paul-Löbe-Haus Berlin</a>
+                      <div class="faq-klappe" id="28-klappe">
+                          <p>Am Samstag waren wir bei der "Konferenz »Refugees welcome«" im Paul-Löbe-Haus in Berlin! In dem Workshop haben sich Privatleute, Organisationen und Vereine über ihre Arbeit ausgetauscht. Bei den unterschiedlichen Themen war für uns die internationale Flucht und Veränderung der Fluchtwege sehr interessant. Wir freuen uns auf weiteren Austausch!</p>
+                          <a href="./images/20151129.jpg" target="_blank"><img class="news" src='./images/20151129.jpg'></a>
+                      </div><br>
+                      <a class="faq" id="27"><b>26. November</b> Besuch beim Theater und Komödie am Kurfürstendamm</a>
+                      <div class="faq-klappe" id="27-klappe">
+                          <p>Heute Abend waren wir wieder beim <a target="_blank" href="https://www.facebook.com/theaterundkomoedieamkurfuerstendamm/">Theater und Komödie am Kurfürstendamm</a> bei dem Stück "Eine Familie" dabei. Großes Dankeschön an die <a target="_blank" href="https://www.facebook.com/SantinisProduction/">Santinis Production</a>, die uns hierbei durch das Sammeln von Spenden unterstützt.</p>
+                          <a href="./images/qdamm.jpg" target="_blank"><img class="news" src='./images/qdamm.jpg'></a>
+                      </div><br>
+                      <a class="faq" id="26"><b>24. November</b> Offenes Treffen Münster</a>
+                      <div class="faq-klappe" id="26-klappe">
+                          <a href="./images/trex1.jpg" target="_blank"><img class="news" src='./images/trex1.jpg'></a>
+                      </div><br>
+                      <a class="faq" id="25"><b>23. November</b> Besuch bei Radio Q in Münster</a>
+                      <div class="faq-klappe" id="25-klappe">
+                          <p>Lena war heute bei <a target="_blank" href="https://www.facebook.com/radioq/">Radio Q</a> in Münster zu Gast. Alle, die nicht aus der Gegend um Münster kommen oder es verpasst haben, können das Interview hier nachhören: <a target="_blank" href="https://soundcloud.com/radioq/jugend-rettet">soundcloud.com/radioq/jugend-rettet</a></p>
+                          <a href="./images/radioq1.jpg" target="_blank"><img class="news" src='./images/radioq1.jpg'></a>
+                      </div><br>
+                      <a class="faq" id="24"><b>22. November</b> Vorstellung beim Film Asyland</a>
+                      <div class="faq-klappe" id="24-klappe">
+                          <p>Heute durften wir uns in Köln bei der Aufführung des neuen Films #Asyland vorstellen. Der Film zeigt die Geschichte von Geflüchteten und wie es ihnen in Deutschland geht. Es wird klar, das man sich auf Augenhöhe begegnen muss! Sehr sehenswert. Unsere Botschafter aus Köln, Carlo, und Bonn, Tobi, waren auch dabei!</p>
+                          <a href="./images/asyland1.jpg" target="_blank"><img class="news" src='./images/asyland1.jpg'></a>
+                      </div><br>
+                      <a class="faq" id="23"><b>21. November</b> Statement Paris</a>
+                      <div class="faq-klappe" id="23-klappe">
+                        <video class="news" style="max-width:100%" controls>
+                          <source src="./videos/Unser_Europa_ist_menschlich.mp4" type="video/mp4">
+                          Your browser does not support the video tag.
+                        </video>
+                      </div><br>
+                      <p><b>19. November</b> Offenes Treffen in Potsdam</p><br>
+                      <a class="faq" id="21"><b>13. November</b> Harald Zindler berät Jugend Rettet + offenes Treffen in Berlin Neukoelln</a>
+                      <div class="faq-klappe" id="21-klappe">
+                          <p>Wir sind stolz, euch einen wichtigen Berater von Jugend Rettet vorstellen zu können: Harald Zindler, Gründungsmitglied von Greenpeace und Leiter mehrerer Greenpeace-Aktionen, wie der riskanten Besetzung in Nordenham (<a target="_blank" href="http://bit.ly/nrdnhm1">http://bit.ly/nrdnhm1</a>). Er hat selber vier Schiffe angeschafft und berät uns nun beim Schiffskauf.</p>
+                          <a href="./images/zindler.jpg" target="_blank"><div class="popup-img" style="background-image: url('./images/zindler.jpg');"></div></a>
+                          <p>Foto: Jann Wilken</p>
+                      </div><br>
+                      <a class="faq" id="20"><b>11. November</b> Einladung in den Haimathafen Neukoelln</a>
+                      <div class="faq-klappe" id="20-klappe">
+                          <p>Wir wurden von der Regisseurin des Stücks "Ultima Ratio" in den Heimathafen Neukoelln eingeladen.</p>
+                          <p>Ultima Ratio beruht auf einer wahren Geschichte und wurde anhand von Original-Dokumenten geschrieben. Erzählt wird die Geschichte von Aliyah und ihrem Mann Rooble, die aufgrund von Dublin III abgeschoben werden sollen. Aliyah ist am Ende ihrer Kräfte: Flucht aus Somalia. Durch die Sahara. Lampedusa. Obdachlos und vollkommen schutzlos war sie auf den Straßen Catanias Gewalt und Misshandlung ausgesetzt. - Das kann sie nicht noch einmal ertragen. Die Gemeinde Christophorus stellt sich mit dem Kirchenasyl gegen die Anordnung der Behörden und kämpft dafür, dass die Geschichte von Aliyah angehört wird.
+                          Im Anschluss an das Stück durften wir uns kurz vorstellen und waren außerdem mit einem Infostand dabei.</p>
+                      </div><br>
+                      <a class="faq" id="19"><b>9. November</b> Offenes Treffen Köln + erste Woche der Spendenphase</a>
+                      <div class="faq-klappe" id="19-klappe">
+                          <p>Unser erstes offenes Treffen in Köln fand statt.</p><br>
+                          <p>Gleichzeitig ging die erste Woche der Spendenphase vorbei und wir sind überwältigt: 6500 Euro! Danke an die 17 Unterstützer_Innen, die uns unserer ersten Rettungsoperation näher gebracht haben.</p>
+                      </div><br>
+                      <a class="faq" id="18"><b>7. November</b> Besuch bei den Jugendmedientagen in Bonn</a>
+                      <div class="faq-klappe" id="18-klappe">
+                          <p>Unser Besuch bei den Jugendmedientagen war ein voller Erfolg und wir haben einen engagierten Botschafter für Bonn gefunden. Damit er möglichst schnell seine Aktionsideen umsetzen kann, braucht er jetzt euch als Kleine Retter. Wenn ihr in Bonn lebt und bereit seid aktiv zu werden meldet euch bei <a href="mailto:tobias@jugendrettet.org">tobias@jugendrettet.org</a> .</p>
+                          <a href="./images/jmtage.jpg" target="_blank"><div class="popup-img" style="background-image: url('./images/jmtage.jpg');"></div></a>
+                      </div><br>
+                      <a class="faq" id="17"><b>6. November</b> Nürnberger Botschafterin bei Radio AFKmax</a>
+                      <div class="faq-klappe" id="17-klappe">
+                          <p>Unsere Nürnberger Botschafterin Jojo war beim Radiosender AFKmax zu Gast. Hier ein kurzer Mitschnitt: <a target="_blank" href="http://bit.ly/jrafkmax">http://bit.ly/jrafkmax</a></p>
+                          <a href="./images/afkmax.jpg" target="_blank"><div class="popup-img" style="background-image: url('./images/afkmax.jpg');"></div></a>
+                      </div><br>
+                      <a class="faq" id="16"><b>2. November</b> Start der 1. Phase</a>
+                      <div class="faq-klappe" id="16-klappe">
+                          <p>Die Menschen auf dem Mittelmeer sterben jetzt. Wir wollen und werden nicht weiter zuschauen. Deswegen beginnt heute unsere erste von drei Spendenphasen. Wir werden bis Februar 2016 die Summe von 270.000 Euro sammeln, um das Schiff zu kaufen und es für den Umbau nach Hamburg zu überführen. Jedes Mal, wenn eine Spende bei uns eingeht, wird hier ein Stück des Schiffdesigns aufgedeckt: <a target="_blank" href="spenden">jugendrettet.org/spenden</a>.</p>
+                              <p>Wir brauchen deine Spende, um der europäischen Gleichgkültigekit gegenüber der Sitaution auf dem Mittelmeer etwas entgegensetzen und Menschen zu retten. Spende jetzt!</p>
+                      </div><br>
+                      <a class="faq" id="15"><b>1. November 2015</b> Nowkoelln Flowmarkt</a>
+                      <div class="faq-klappe" id="15-klappe">
+                          <p>Heute konnten wir auf dem Nowkoelln Flowmarkt über unser Projekt berichten! Gleichzeitig konnten wir mit eurer Unterstützung ganze 600€ zusammen bekommen, die direkt in unser Schiff fließen.</p>
+                          <a href="./images/flowmarkt.jpg" target="_blank"><img class="news" src='./images/flowmarkt.jpg'></a>
+                      </div><br>
+                      <a class="faq" id="14"><b>31. Oktober</b> Besuch von <i>Jugend Rettet</i> und seiner Berater an der holländischen Küste</a>
+                      <div class="faq-klappe" id="14-klappe">
+                          <p>Unsere erste Rettungsmission wird immer greifbarer. Bei einem Besuch von Jugend Rettet und seiner Berater an der holländischen Küste wurden vier Schiffe besichtigt. Wir schauten uns besonders genau die Fläche an Deck, Lagerräume unter Deck und die Kräne an Bord an, ob diese für unser Vorhaben geeignet sind. Für uns war die Reise nach Holland ein großer Schritt, denn wir können zufrieden feststellen, wie unser Vorhaben Tag für Tag konkreter wird. Bei der nächsten Reise nach Holland werden wir den Rückweg mit unserem Schiff zurücklegen. Dafür sammeln wir ab Montag die Gelder. Noch 2 Tage bis zur 1. Spendenphase!</p>
+                      </div><br>
+                      <a class="faq" id="13"><b>19. Oktober</b> Start Twitter + Unser Spendenkonto ist eröffnet!</a>
+                      <div class="faq-klappe" id="13-klappe">
+                          <p>Ab sofort könnt ihr uns auch auf Twitter folgen, Fragen stellen und mit uns diskutieren: <a target="_blank" href="https://twitter.com/jugendrettet">https://twitter.com/jugendrettet</a></p><br>
+                          <p>Außerdem ist unser Spendenkonto eröffnet!</p>
+                      </div><br>
+                      <a class="faq" id="12"><b>15. Oktober</b> 2. Offenes Treffen in Berlin</a>
+                      <div class="faq-klappe" id="12-klappe">
+                          <p>Beim gestrigen Treffen im Mehringhof wurde viel diskutiert. Besonders der Einsatz der deutschen Marine auf dem Mittelmeer war ein wichtiges Thema. 6 Wochen lang waren zwei deutsche Marineschiffe ausschließlich zur Seenotrettung eingesetzt. Jetzt sollen sie als Teil der EU-Mission "Sophia" die Schmugglernetzwerke zerstören. Wir recherchieren zu den Hintergründen dieser Entscheidung und haben uns dazu bereits mit einem Vertreter des Verteidigundministeriums getroffen. In Kürze folgt ein Gespräch mit Vertretern der Bundeswehr.<br>Bei unseren offenen Treffen werdet ihr immer auf den neusten Stand gebracht.</p>
+                      </div><br>
+                      <a class="faq" id="11"><b>12. Oktober</b> Botschafteraktion Nürnberg</a>
+                      <div class="faq-klappe" id="11-klappe">
+                          <p>Wir sind gerade mit unserer <a target="_blank" href="aendern#botschafter">Botschafterin</a> in Nürnberg und starten die erste Flugblattaktion vor Ort.</p>
+                      <a href="./images/nuernberg-flugblaetter.jpg" target="_blank"><div class="popup-img" style="background-image: url('./images/nuernberg-flugblaetter.jpg');"></div></a>
+                      </div><br>
+                      <a class="faq" id="10"><b>10. Oktober</b> Vertreter der Bundeswehr berichten von ihrem Einsatz auf dem Mitttelmeer</a>
+                      <div class="faq-klappe" id="10-klappe">
+                          <p>Austausch mit Vertretern des Bundesministeriums der Verteidigung über den Bundeswehreinsatz im Rahmen der Operation Sophia, und Besuch des Einsatzführungskommandos.</p>
+                      </div><br>
+                      <a class="faq" id="9"><b>3. Oktober 2015</b> Gründung und 1. Offenes Treffen</a>
+                      <div class="faq-klappe" id="9-klappe">
+                          <p>Gründung des Vereins Jugend Rettet, Eintragung ins Vereinsregister.</p><br>
+                          <p>Unser erstes offenes Treffen gestern Abend war ein voller Erfolg. Vielen Dank an alle, die da waren.</p>
+                          <p>Wir werden den Vortrag regelmäßig wiederholen. Wer noch Tipps für Räumlichkeiten in Berlin oder anderen deutschen Städten hat, in denen wir uns vorstellen könnten, schreibt uns bitte an <a href="mailto:info@jugendrettet.org" class="link">info@jugendrettet.org</a>.</p>
+                      <a href="./images/erstes_treffen.jpg" target="_blank"><div class="popup-img" style="background-image: url('./images/erstes_treffen.jpg');"></div></a>
+                      </div><br>
+                      <a class="faq" id="8"><b>27. September</b>  Jugendrettet.org geht online</a>
+                      <div class="faq-klappe" id="8-klappe">
+                          <p>Start der Webpräsenz www.jugendrettet.org und des Facebook-Auftritts.</p>
+                      </div><br>
+                      <a class="faq" id="7"><b>20. September 2015</b> Gemeinnützigkeit geschafft!</a>
+                      <div class="faq-klappe" id="7-klappe">
+                          <p>Anerkennung der Gemeinnützigkeit durch die Finanzbehörden.</p>
+                      </div><br>
+                      <a class="faq" id="5"><b>20. Juli</b> Festlegung auf Schiff!</a>
+                      <div class="faq-klappe" id="5-klappe">
+                          <p>Festlegung auf einen holländischen Fischtrawler als geeignetes Schiff für die Ziele der Organisation.</p>
+                      </div><br>
+                      <p><b>Juli 2015</b> Bildung des Kernteams und Aufbau eines Botschafternetzwerks in Deutschland
+                      </p><br>
+                      <a class="faq" id="3"><b>Juni 2015</b> Prüfung unseres Konzeptes</a>
+                      <div class="faq-klappe" id="3-klappe">
+                          <p>Überprüfung des Konzepts von <i>Jugend Rettet</i> auf technische und finanzielle Machbarkeit. Kostenvoranschläge werden erarbeitet, die rechtliche Grundlage unseres Einsatzes  geklärt.</p>
+                      </div><br>
+                      <a class="faq" id="1"><b>Anfang Juni 2015</b> Idee zu <i>Jugend Rettet</i> entsteht</a>
+                      <div class="faq-klappe" id="1-klappe">
+                          <p>Meldungen über Tote im Mittelmeer jeden Tag. Die Idee <i>Jugend Rettet</i> zu gründen, entsteht. Meinungen zum Vorhaben werden eingeholt. Experten und Mitstreiter gesucht. Über Reeder, Verbände, Kapitäne werden Kontakte aufgebaut.</p>
+                      </div>
                     </div>
-                    <div class="column">
+                    <div class="column newsacc">
                       <h4>Was wir geschafft haben</h4>
                         <ul>
-                          <li>&#10003; Wir haben Schiffe unseres gewünschten Schiffstyps - holländische Fischtrawler - besichtigt. Sobald wir uns für ein Schiff entschieden haben erstellen wir die Pläne für den Umbau im April.</li><br>
-                          <li>&#10003; Wir haben eine 11-köpfige Crew inklusive Kapitän gefunden und gemeinsam unsere halbjährige Operation geplant.</li><br>
-                          <li>&#10003; Wir haben ein Netz von Botschaftern in über 15 deutschen Städten aufgebaut.</li><br>
-                          <li>&#10003; Wir haben Maria Furtwängler, Armin Rohde und Jasmin Gerat als Stimmen für <i>Jugend Rettet</i> gewinnen können.</li><br>
+                          <li>&#10003; Wir haben Schiffe unseres gewünschten Schiffstyps - holländische Fischtrawler - besichtigt. Sobald wir uns für ein Schiff entschieden haben erstellen wir die Pläne für den Umbau im April.</li>
+                          <!--<li>&#10003; Wir haben eine 11-köpfige Crew inklusive Kapitän gefunden und gemeinsam unsere halbjährige Operation geplant.</li>-->
+                          <li>&#10003; Wir haben ein Netz von 43 Botschafter_innen in 39 Städten aufgebaut.</li>
+                          <li>&#10003; Wir haben Maria Furtwängler, Armin Rohde und Jasmin Gerat als Stimmen für <i>Jugend Rettet</i> gewinnen können.</li>
                           <li>&#10003; Wir haben in Berlin ein Kernteam von 11 Menschen aufgebaut.</li>
+                          <li>&#10003; Wir haben die Spendenphase 1 und 2 gemeistert, um ein Schiff zu kaufen, umzubauen und in eine erste Rettungsmisson zu schicken.</li>
+                        </ul>
+                        <br>
+                      <h4>Was wir noch schaffen werden</h4>
+                        <ul>
+                          <li>&#9633; Dass wir durch Spenden die laufenden Kosten für die Rettungsmissionen decken können.</li>
+                          <li>&#9633; Dass Seenotrettung in der jungen Generation ein Thema bleibt und die Situation der Menschen auf dem Mittelmeer weiterhin in der Öffentlichkeit eine Rolle spielt.</li>
+                          <li>&#9633; Dass wir unser Netzwerk an europäischen Botschaftern ausweiten.</li>
+                          <li>&#9633; Dass wir Partnerschulen und Partner-Jugendorganisationen gewinnen.</li>
                         </ul>
                     </div>
                     <div class="column">
-                      <h4>Was wir noch schaffen werden</h4>
-                        <ul>
-                          <li>&#9633; Dass Seenotrettung in der jungen Generation ein Thema bleibt und die Situation der Menschen auf dem Mittelmeer weiterhin in der Öffentlichkeit eine Rolle spielt.</li><br>
-                          <li>&#9633; Dass wir unser Netzwerk an europäischen Botschaftern ausweiten.</li><br>
-                          <li>&#9633; Dass wir die Spendenphase bis Februar meistern und unsere Crowdfunding-Kampagne erfolgreich abschließen.</li><br>
-                          <li>&#9633; Dass wir Partnerschulen und Partner-Jugendorganisationen gewinnen.</li>
-                        </ul>
+                      <h4>Events</h4>
+                        <p>Hier findest du die Termine für die nächsten Jugend Rettet europe Treffen und Fortbildungen.</p><br>
+                        <p><a target="_blank" href="https://www.facebook.com/JugendRettet/events">→ Link</a></p>
                     </div>
                 </div>
                 <!--
@@ -184,8 +920,8 @@ Danke für deine Unterstützung!
                     <div class="column">
                         <ul id="social-media">
 
-                            <a href="https://www.facebook.com/JugendRettet" target="_blank"><li><img id="fb" width="30px" src="http://jugendrettet.org/graphics/fb.svg"></li></a>
-                            <a href="http://www.twitter.com/" target="_blank"><li><img id="tw" width="30px" src="http://jugendrettet.org/graphics/tw.svg"></li></a>
+                            <a href="https://www.facebook.com/JugendRettet" target="_blank"><li><img id="fb" width="30px" src="./graphics/fb.svg"></li></a>
+                            <a href="http://www.twitter.com/" target="_blank"><li><img id="tw" width="30px" src="./graphics/tw.svg"></li></a>
                             <li>
                                 <form class="newsletter">
                                     <input class="email" type="email" value="" placeholder="Deine E-Mail-Adresse" />
@@ -217,11 +953,12 @@ Danke für deine Unterstützung!
                     <nav class="footer">
                         <ul>
                             <li><a href="faq">FAQ</a></li>
-                            <li><a class="peek" id="kontakt">Kontakt</a></li>
+                            <li class="likelink"><span class="peek" id="folgen">Folgen</span></li>
+                            <li><a href="presse">Presse</a></li>
                             <li><a href="impressum">Impressum</a></li>
+                            <li><a href="transparenz">Transparenz</a></li>
                             <li class="br"></li>
-                            <li><a href="http://en.jugendrettet.org/news">English</a></li>
-                            <li><a href="http://jugendrettet.org/news">Deutsch</a></li>
+                            <li><a href="https://en.jugendrettet.org/news">en</a></li>
                         </ul>
                     </nav>
                 </footer>
@@ -229,11 +966,9 @@ Danke für deine Unterstützung!
         </div>
 
         <!-- Scripts -->
-        <script src="http://jugendrettet.org/js/main.js"></script>
-        <script src="http://jugendrettet.org/js/peekfield.js"></script>
-	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
-	<script src="js/linkify/linkify.min.js"></script>
-	<script src="js/linkify/linkify-jquery.min.js"></script>
+        <script src="./js/main.js?0"></script>
+        <script src="./js/peekfield.js?2"></script>
+        <script src="js/linkify/linkify.min.js"></script>
+        <script src="js/linkify/linkify-jquery.min.js"></script>
     </body>
 </html>
-
