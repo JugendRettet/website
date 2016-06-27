@@ -179,8 +179,7 @@
                             <p>- Maschinist_in</p>
                             <p>- Deckhands (Beiboote steuern und funken können)</p>
                             <p>- Ärzt_innen</p>
-                            <p>- ausgebildete Rettungssanitäter_innen</p>
-                            <p>- Pflegepersonal</p><br>
+                            <p>- ausgebildete Rettungssanitäter_innen</p><br>
                             <a target="_blank" href="https://docs.google.com/forms/d/1Wh6SA_DMnwk26b7JjnJ7ACe0NuB04nJAhmn5sP9gd04/viewform?c=0" class="link">Bewerbung für die Crew</a><br><br>
                             <p>Setze dich bei ernsthaftem Interesse mit uns in Verbindung. Wir freuen uns über deine Bewerbung.</p>
                         </div>

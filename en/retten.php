@@ -170,8 +170,7 @@
                             <p>- Machinists</p>
                             <p>- Deckhands (able to navigate tenders and to operate radios)</p>
                             <p>- Doctors</p>
-                            <p>- first aid medical units</p>
-                            <p>- caregivers</p><br>
+                            <p>- first aid medical units</p><br>
                             <a target="_blank" href="https://docs.google.com/forms/d/1Wh6SA_DMnwk26b7JjnJ7ACe0NuB04nJAhmn5sP9gd04" class="link">Apply for rescue missions</a><br><br>
                             <p>Contact us only if you are really interested. We look forward to your application.</p>
                         </div>
