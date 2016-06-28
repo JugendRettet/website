@@ -194,7 +194,7 @@
                         <img src="../graphics/Logo_Druckhaus_Gremlich.svg" alt="Druckhaus Griemlich" style="background-color:white;width:100%;margin-top:20px;padding:5px">
                         <span>Druckhaus Griemlich</span>
 
-                        <img src="../graphics/Stage_For_Piece.png" alt="Stage For Peace" style="background-color:white;width:100%;margin-top:20px;padding:5px">
+                        <img src="../graphics/Stage_For_Piece.svg" alt="Stage For Peace" style="background-color:white;width:100%;margin-top:20px;padding:5px">
                         <span>Stage For Peace</span>
 
                         <br><br>
