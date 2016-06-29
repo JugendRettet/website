@@ -97,17 +97,38 @@
                       </div><br>
 
 
-                      <a class="faq" id="74"><b>July 1st</b> Stage for Peace Festival</a>
-                        <div class="faq-klappe" id="74-klappe">
+                    <a class="faq" id="77"><b>July 5th</b> Football connects</a>
+                        <div class="faq-klappe" id="77-klappe">
+                          <p>
+                            A very special friendly match takes place: the ESV Neuaubing vs. SpVgg Unterhaching. The ESV Neuaubing is Bavarias first refugee team who plays in the Bavarian Football Association.
+                          </p>
+                        </div><br>
+
+                      <a class="faq" id="76"><b>July 1st</b> Stage for Peace Festival</a>
+                        <div class="faq-klappe" id="76-klappe">
                           <p>
                             We're happy to be a part of the first Stage for Peace Festival in Nuremberg taking place on 1st of July. 50% of the revenue will be donated to Jugend Rettet. We can only recommend to everyone from the area to grap your tickets and to support a good cause: <a href="bit.ly/stageforpeace">bit.ly/stageforpeace</a>
                           </p>
                         </div><br>
 
+                      <a class="faq" id="75"><b>June 2016</b> One year Jugend Rettet</a>
+                          <div class="faq-klappe" id="75-klappe">
+                            <p>
+                              One year ago Lena and Jakob founded Jugend Rettet e.V. We’re all very proud of what we could achieve so far.
+                            </p>
+                          </div><br>
+
+                      <a class="faq" id="74"><b>June 30th</b> The Iuventa leaves Emden</a>
+                          <div class="faq-klappe" id="74-klappe">
+                            <p>
+                              The Iuventa leaves Germany for Malta to start her rescue missions within a couple of weeks from there.
+                            </p>
+                          </div><br>
+
                       <a class="faq" id="73"><b>June 24th</b> Ship naming ceremony of IUVENTA</a>
                         <div class="faq-klappe" id="73-klappe">
                           <p>
-                            We would like to invite everyone to participate this event together with us. You can find all information here: <a href="https://www.facebook.com/events/1613805292244922/">facebook.com/events/1613805292244922</a>
+                            Our rescue ship received her official name „Iuventa“ on June 24th. <a href="https://www.facebook.com/JugendRettet/photos/?tab=album&album_id=506388526237052" target="_blank">Take a look at the pictures</a>.
                           </p>
                         </div><br>
 

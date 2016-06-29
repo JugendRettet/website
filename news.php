@@ -96,17 +96,45 @@
                       </div><br>
 
 
-                      <a class="faq" id="106"><b>1. Juli</b> Stage for Peace Festival in Nürnberg</a>
-                        <div class="faq-klappe" id="106-klappe">
+                      <a class="faq" id="110"><b>5. Juli</b> Fußball fairbindet</a>
+                        <div class="faq-klappe" id="110-klappe">
                           <p>
-                            Wir freuen uns, am 1.7. beim ersten <a href="https://www.facebook.com/stageforpeace/">Stage for Peace Festival</a> in Nürnberg dabei zu sein. Wir sind mit einem Infostand vor Ort und 50% der Einnahmen gehen an Jugend Rettet. Wir raten also allen aus der Gegend: Ticket holen und für den guten Zweck feiern: <a href="bit.ly/stageforpeace">bit.ly/stageforpeace</a>
+                            Wir sind bei einem Freundschaftsspiel der ganz besonderen Art dabei: ESV Neuaubing gegen die SpVgg Unterhaching. Der ESV Neuaubing ist die erste Flüchtlingsmannschaft im Bayrischen Fussballverband. Alle Infos gibt es  <a href="http://www.spvggunterhaching.de/aktuell/news/besonderes-freundschaftsspiel/" target="_blank">hier</a>.
                           </p>
                         </div><br>
+
+                      <a class="faq" id="109"><b>1. Juli</b> Stage for Peace Festival in Nürnberg</a>
+                        <div class="faq-klappe" id="109-klappe">
+                          <p>
+                            Wir freuen uns, am 1.7. beim ersten <a href="https://www.facebook.com/stageforpeace/" target="_blank">Stage for Peace Festival</a> in Nürnberg dabei zu sein. Wir sind mit einem Infostand vor Ort und 50% der Einnahmen gehen an Jugend Rettet. Wir raten also allen aus der Gegend: Ticket holen und für den guten Zweck feiern: <a href="bit.ly/stageforpeace" target="_blank">bit.ly/stageforpeace</a>
+                          </p>
+                        </div><br>
+
+                        <a class="faq" id="108"><b>Juni 2016</b> Ein Jahr Jugend Rettet</a>
+                          <div class="faq-klappe" id="108-klappe">
+                            <p>
+                              Vor einem Jahr haben Lena und Jakob Jugend Rettet e.V. gegründet. Wir sind alle stolz auf was wir bisher erreicht haben.
+                            </p>
+                          </div><br>
+
+                        <a class="faq" id="107"><b>30. Juni</b> Die Iuventa verlässt Emden</a>
+                          <div class="faq-klappe" id="107-klappe">
+                            <p>
+                              Die Iuventa macht sich auf den Weg nach Malta, um von dort aus in wenigen Wochen mit den Rettungsmissionen zu beginnen.
+                            </p>
+                          </div><br>
+
+                        <a class="faq" id="106"><b>26. Juni</b> Jugend Rettet in der FAZ</a>
+                          <div class="faq-klappe" id="106-klappe">
+                            <p>
+                              Die FAZ berichtet über uns. Den Artikel gibt es <a href="http://www.faz.net/aktuell/gesellschaft/die-organisation-jugend-rettet-will-fluechtlinge-aus-seenot-retten-14291451.html" target="_blank">hier</a>.
+                            </p>
+                          </div><br>
 
                       <a class="faq" id="105"><b>24. Juni</b> Schiffstaufe der IUVENTA</a>
                         <div class="faq-klappe" id="105-klappe">
                           <p>
-                            Wir laden Sie dazu alle herzlichst nach Emden ein. Alle Informationen finden Sie hier: <a href="https://www.facebook.com/events/1613805292244922/">facebook.com/events/1613805292244922</a>
+                            Unser Rettungsschiff wurde  am 24. Juni 2016 auf ihren offiziellen Namen „Iuventa“ getauft. <a href="https://www.facebook.com/JugendRettet/photos/?tab=album&album_id=506388526237052" target="_blank">Hier gehts zum Fotoalbum</a>.
                           </p>
                         </div><br>
 
@@ -127,21 +155,21 @@
                       <a class="faq" id="102"><b>13. Juni</b> Teilnahme an Seminar zum Thema Seenotrettung</a>
                         <div class="faq-klappe" id="102-klappe">
                           <p>
-                            Eine gute Vorbereitung für den Einsatz im Mittelmeer ist für uns essentiell. Vom 6. bis 8. Juni haben deshalb mehrere Crewmitglieder von Jugend Rettet an einem dreitätigen Lehrgang zum Thema Seenotrettung auf dem <a href="https://www.facebook.com/Segelschiff-Thor-Heyerdahl-150058301767227/">Segelschiff Thor Heyerdahl</a> teilgenommen. Wir bedanken uns bei <a href="https://www.facebook.com/seawatchprojekt/">Sea-Watch</a> für die Organisation!
+                            Eine gute Vorbereitung für den Einsatz im Mittelmeer ist für uns essentiell. Vom 6. bis 8. Juni haben deshalb mehrere Crewmitglieder von Jugend Rettet an einem dreitätigen Lehrgang zum Thema Seenotrettung auf dem <a href="https://www.facebook.com/Segelschiff-Thor-Heyerdahl-150058301767227/">Segelschiff Thor Heyerdahl</a> teilgenommen. Wir bedanken uns bei <a href="https://www.facebook.com/seawatchprojekt/" target="_blank">Sea-Watch</a> für die Organisation!
                           </p>
                         </div><br>
 
                       <a class="faq" id="101"><b>10. Juni</b> action medeor e.V.</a>
                         <div class="faq-klappe" id="101-klappe">
                           <p>
-                            <a href="https://www.facebook.com/actionmedeorev/">action medeor e.V.</a> spendet die gesamte Medikamentenausstattung für unsere Krankenstation an Bord. Vielen, vielen Dank dafür!
+                            <a href="https://www.facebook.com/actionmedeorev/" target="_blank">action medeor e.V.</a> spendet die gesamte Medikamentenausstattung für unsere Krankenstation an Bord. Vielen, vielen Dank dafür!
                           </p>
                         </div><br>
 
                       <a class="faq" id="100"><b>9. Juni</b> Update auf FluxFM</a>
                         <div class="faq-klappe" id="100-klappe">
                           <p>
-                            Pauline gibt, nachdem unser Schiff in Emden zum Umbau angekommen ist, ein <a href="https://www.fluxfm.de/brokof-jugend-rettet-e-v-morningshow-am-nachmittag/">kleines Update auf FluxFM</a>.
+                            Pauline gibt, nachdem unser Schiff in Emden zum Umbau angekommen ist, ein <a href="https://www.fluxfm.de/brokof-jugend-rettet-e-v-morningshow-am-nachmittag/" target="_blank">kleines Update auf FluxFM</a>.
                           </p>
                         </div><br>
 
@@ -151,7 +179,7 @@
                           <p>
                             Interessierte HelferInnen können sich bei <a href="mailto:titus@jugendrettet.org">titus@jugendrettet.org</a> mit dem Betreff „Umbau“ melden.
                           </p>
-                          <a target="_blank" href="https://www.facebook.com/JugendRettet/photos/?tab=album&album_id=497657640443474">→ Fotoalbum</a>
+                          <a target="_blank" href="https://www.facebook.com/JugendRettet/photos/?tab=album&album_id=497657640443474" target="_blank">→ Fotoalbum</a>
                         </div><br>
 
                       <a class="faq" id="98"><b>8. Juni</b> Ankunft des Schiffes in Emden </a>
