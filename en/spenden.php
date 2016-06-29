@@ -131,7 +131,7 @@
                 </div>
                 <div class="triple">
                     <h3>Donate</h3>
-                    <p>People on the Meditarranean are dying right now. That’s why we need money to start rescuing with our ship.</p>
+                    <p>People are dying on the Mediterranean right now. Therefore we need your support to finance our rescue missions. Please donate.</p>
                 </div>
                 <div class="container triple">
 
