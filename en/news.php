@@ -107,7 +107,7 @@
                       <a class="faq" id="76"><b>July 1st</b> Stage for Peace Festival</a>
                         <div class="faq-klappe" id="76-klappe">
                           <p>
-                            We're happy to be a part of the first Stage for Peace Festival in Nuremberg taking place on 1st of July. 50% of the revenue will be donated to Jugend Rettet. We can only recommend to everyone from the area to grap your tickets and to support a good cause: <a href="bit.ly/stageforpeace">bit.ly/stageforpeace</a>
+                            We're happy to be a part of the first Stage for Peace Festival in Nuremberg taking place on 1st of July. 50% of the revenue will be donated to Jugend Rettet. We can only recommend to everyone from the area to grap your tickets and to support a good cause: <a href="http://bit.ly/stageforpeace">bit.ly/stageforpeace</a>
                           </p>
                         </div><br>
 

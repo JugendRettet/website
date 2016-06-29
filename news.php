@@ -106,7 +106,7 @@
                       <a class="faq" id="109"><b>1. Juli</b> Stage for Peace Festival in Nürnberg</a>
                         <div class="faq-klappe" id="109-klappe">
                           <p>
-                            Wir freuen uns, am 1.7. beim ersten <a href="https://www.facebook.com/stageforpeace/" target="_blank">Stage for Peace Festival</a> in Nürnberg dabei zu sein. Wir sind mit einem Infostand vor Ort und 50% der Einnahmen gehen an Jugend Rettet. Wir raten also allen aus der Gegend: Ticket holen und für den guten Zweck feiern: <a href="bit.ly/stageforpeace" target="_blank">bit.ly/stageforpeace</a>
+                            Wir freuen uns, am 1.7. beim ersten <a href="https://www.facebook.com/stageforpeace/" target="_blank">Stage for Peace Festival</a> in Nürnberg dabei zu sein. Wir sind mit einem Infostand vor Ort und 50% der Einnahmen gehen an Jugend Rettet. Wir raten also allen aus der Gegend: Ticket holen und für den guten Zweck feiern: <a href="http://bit.ly/stageforpeace" target="_blank">bit.ly/stageforpeace</a>
                           </p>
                         </div><br>
 
