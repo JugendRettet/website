@@ -204,9 +204,8 @@
                 <div class="container single">
                     <div class="column newsacc">
                         <h4>The Ship</h4>
-                        <p>In May 2016 we bought our ship, reconstructed her with many volunteers and named her IUVENTA. She’s suitable for sea rescue for the following reasons:</p>
                         <img src="../images/06-2016/IUVENTA1.jpg" alt="Jugend Rettet Rettungsschiff IUVENTA" style="max-width:100%">
-                        <br>
+                        <p>In May 2016 we bought our ship, reconstructed her with many volunteers and named her IUVENTA. She’s suitable for sea rescue for the following reasons:</p>
                         <ul>
                           <li>&#10003; The IUVENTA has a big deck area. That way we can take 80-100 people onboard.</li>
                         </ul>
