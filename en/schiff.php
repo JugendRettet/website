@@ -206,11 +206,12 @@
                         <h4>The Ship</h4>
                         <img src="../images/06-2016/IUVENTA1.jpg" alt="Jugend Rettet Rettungsschiff IUVENTA" style="max-width:100%">
                         <p>In May 2016 we bought our ship, reconstructed her with many volunteers and named her IUVENTA. She’s suitable for sea rescue for the following reasons:</p>
+                        <br>
                         <ul>
                           <li>&#10003; The IUVENTA has a big deck area. That way we can take 80-100 people onboard.</li>
                         </ul>
+                        <img src="../images/06-2016/IUVENTA2.jpg" alt="Jugend Rettet Rettungsschiff IUVENTA" style="max-width:100%">
                         <br>
-                        <img src="../images/06-2016/IUVENTA2.jpg" alt="Jugend Rettet Rettungsschiff IUVENTA" style="max-width:100%"><br>
                         <ul>
                           <li>&#10003; IUVENTA’s sides are very low. That is important to bring people quickly and easily  on board.</li>
                           <li>&#10003; We have a hydraulic crane on deck to lower the dinghies quickly to water. We have two dinghies: people in maritime emergency get picked up by them and shuttled to the IUVENTA in order to avoid panic.</li>
