@@ -38,7 +38,7 @@
                 background-image: url(../images/06-2016/mappe.jpg);
             }
             #warum {
-                background-image: url(../06-2016/schiff_werft.jpg);
+                background-image: url(../images/06-2016/schiff_werft.jpg);
             }
             #wie {
                 background-image: url(../images/sepa.jpg);
@@ -151,7 +151,7 @@
                         </div>
                         <a class="mehr-btn">more ...</a>
                     </div>
-                    <div class="column mehr">
+                    <div class="column mehr" id="kl-retter">
                         <h4><img alt="fla" class="icon" src="../graphics/fla.svg">Fellow Retter</h4>
                         <p>You would like to get involved in a unique project?</p>
                         <div class="mehr-klappe"><br>
