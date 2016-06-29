@@ -72,16 +72,16 @@
                 </div>
                 <div class="container triple">
                     <div class="column">
-                        <h4><img class="icon" src="../graphics/fla.svg">Politically Active</h4>
-                        <p><i>Jugend Rettet</i> performs humanitarian rescue missions. With Jugend Rettet europe we take a stand, as we consider the Status Quo of the European Asylum Policy to be inhuman. The current state of affairs is unbearable. We criticize the current asylum policies, demand that the governments take responsibility and to start acting. We offer a platform in which the youth from all Europe can network, discuss and act.</p><br>
+                        <h4><img class="icon" src="../graphics/fla.svg">Political Approach</h4>
+                        <p><i>Jugend Rettet</i> performs humanitarian rescue missions. With Jugend Rettet europe we take a stand, as we consider the status quo of the European asylum policy to be inhuman. The current state of affairs is unbearable. We criticize the current asylum policies and demand that the governments take responsibility and to start acting. We offer a platform in which young people from all over Europe can network, discuss and act.</p><br>
                     </div>
                     <div class="column">
                         <h4><img class="icon" src="../graphics/phi.svg">Philosophy</h4>
-                        <p>Jugend Rettet europe is aside from its humanitarian activities of <i>Jugend Rettet</i> also a discussions platform from and for young adults. We are independent from any party. We want to lend the youth a voice and to discuss in a solution-orientated manner the asylum policies of the future. Something needs to change. Think with us, how a new concept could look like/ Jugend Rettet belongs to no party, church or already existing organization. We were founded in 2015 since we would like to take a stand and express our views as the young generation.</p><br>
+                        <p>Jugend Rettet europe is aside from its humanitarian activities of <i>Jugend Rettet</i> also a discussion platform from and for young adults. We are independent from any party, church or existing organization. We want to give young people a voice and a possibility to discuss in a solution-orientated manner mistakes in the current asylum policy and form together one of the future. Things need to change. Think with us, how a new concept could look like. We were founded in June 2015 since we need to take a stand and express our the young generation’s views.</p><br>
                     </div>
                     <div class="column">
                         <h4><img class="icon" src="../graphics/eve.svg">Events</h4>
-                        <p>Here you may find the schedules for the next meetings of Jugend Rettet europe and further education.</p><br>
+                        <p>Here you can find events either hosted by Jugend Rettet or where Jugend Rettet participates:</p><br>
                         <!--
                         <a href="events?date=26-11-2015" class="event-container">
                             <span class="event-date">Thursday, 26th November 2015</span>
