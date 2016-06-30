@@ -121,8 +121,8 @@
 				}
 				
 				
- 				var a = document.createElement('a');
-                                a.setAttribute('id', (i+1).toString());
+ 				var b = document.createElement('b');
+                                b.setAttribute('id', (i+1).toString());
                                 //a.className = 'faq';
  
 
@@ -166,7 +166,8 @@
 				
 				added_news.appendChild(wrapper);
 
-				wrapper.appendChild(a);
+				wrapper.appendChild(b);
+				wrapper.appendChild(del_icon)
 				wrapper.appendChild(div);
 				wrapper.appendChild(br);
 
@@ -174,7 +175,7 @@
 				del_icon.src = "http://oldkry.newfire.rocks/menu/side-items/img/icons/icon_x.png";
 				del_icon.setAttribute('align', 'right');
 				del_icon.setAttribute('height', '15px');
-				a.appendChild(del_icon);
+				//b.appendChild(del_icon);
 				
 				if (p.innerHTML == 'undefined'){
                                         added_news.removeChild(wrapper);
