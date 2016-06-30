@@ -107,8 +107,6 @@
 			latest_post = new Date(document.getElementById('date_input').value);
 			
                         FB.api('/jugendrettet', 'GET', {fields: 'posts.since(' + latest_post.toLocaleDateString('en-US')  +  '){caption, message, created_time, full_picture}'}, function(response) {
-                        //FB.api('/jugendrettet', 'GET', {fields: 'posts.since(' + document.getElementById('date_input').value  +  '){caption, message, created_time, full_picture}'}, function(response) {
-                        //    document.getElementById('status').innerHTML = response.posts[0];    //<img src='" + response.picture.data.url + "'>";
                         for (var i=0; i<response.posts.data.length; i++)
                         { 
 				
@@ -121,8 +119,7 @@
 				}
 				
 				
- 				var a = document.createElement('a');
-                                a.setAttribute('id', (i+1).toString());
+ 				var b = document.createElement('b');
                                 //a.className = 'faq';
  
 
@@ -141,7 +138,7 @@
 				}
 
 				var options = { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' };
-                                a.innerHTML = '<b>' + date_.toLocaleDateString('de-DE', options) + ': </b>'; 
+                                b.innerHTML =  date_.toLocaleDateString('de-DE', options); 
 				
                                 p.innerHTML = text;
 				p.innerHTML = p.innerHTML.replace(/__(.|\n)*/, "");
@@ -166,22 +163,22 @@
 				
 				added_news.appendChild(wrapper);
 
-				wrapper.appendChild(a);
-				wrapper.appendChild(div);
-				wrapper.appendChild(br);
-
 				var del_icon = document.createElement("img");
 				del_icon.src = "http://oldkry.newfire.rocks/menu/side-items/img/icons/icon_x.png";
 				del_icon.setAttribute('align', 'right');
 				del_icon.setAttribute('height', '15px');
-				a.appendChild(del_icon);
+
+				wrapper.appendChild(b);
+				wrapper.appendChild(del_icon)
+				wrapper.appendChild(div);
+				wrapper.appendChild(br);
 				
 				if (p.innerHTML == 'undefined'){
                                         added_news.removeChild(wrapper);
                                 }
 
 				del_icon.addEventListener("click", function(event){ 
-					document.getElementById('added_news').removeChild(event.target.parentNode.parentNode);
+					document.getElementById('added_news').removeChild(event.target.parentNode);
 				});
 
 					
