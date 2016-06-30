@@ -120,6 +120,7 @@
 				
 				
  				var b = document.createElement('b');
+                                b.setAttribute('id', (i+1).toString());
                                 //a.className = 'faq';
  
 
