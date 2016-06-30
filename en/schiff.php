@@ -187,7 +187,7 @@
                     </div>
                     <div class="column mehr" id="ide">
                         <h4><img class="icon" src="../graphics/ide.svg" alt="Ideal">Ideal</h4>
-                        <p>Women, children ad men daily die in the Mediterranean. We want this to end and we want to put an end to the ignorance of the European Community towards these needles deaths.</p>
+                        <p>Women, children and men daily die in the Mediterranean. We want this to end and we want to put an end to the ignorance of the European Community towards these needles deaths.</p>
                         <div class="mehr-klappe"><br>
                             <p>We stand for a more human, just and engaged asylum policy.</p>
                             <p>People who have to flee and leave their homes behind only differ from us by the cause of having to run from a situation for which they are not to blame for. Their natural right of human dignity has to remain untouched and reserved even during their escape. In order to achieve this, we want and we must take responsibility.</p>
