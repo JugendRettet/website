@@ -505,25 +505,26 @@
                     <div class="column newsacc">
                       <h4>What we accomplished</h4>
                         <ul>
-                          <li>&#10003; We inspected ships of our chosen kind, dutch fishtrawler. As soon as we have decided for a ship, we will make plans for the conversion in april.</li>
+                          <li>&#10003; We inspected ships of our chosen kind, the dutch fishtrawler and decided on one.</li>
                           <!--<li>&#10003; We found an 11-person crew including captain and planned our six month mission.</li>-->
-                          <li>&#10003; We built a network of 33 ambassadors in 30 cities.</li>
-                          <li>&#10003; We won Maria Furtwängler, Armin Rohde and Jasmin Gerat as advocates for <i>Jugend Rettet</i>.</li>
-                          <li>&#10003; We established a core team of 11 persons in Berlin.</li>
-                          <li>&#10003; We succesfully finished funding phases 1 and 2 to buy, convert and send our ship to it's first rescue mission.</li>
+                          <li>&#10003; We bought the ship in May, reconstructed her and named her IUVENTA</li>
+                          <li>&#10003; We built a network of 42 ambassadors in 37 European cities.</li>
+                          <li>&#10003; We won German actors like Jan Josef Liefers, Maria Furtwängler, Armin Rohde and Jasmin Gerat as advocates for <i>Jugend Rettet</i>.</li>
+                          <li>&#10003; We established a core team of 11 people in Berlin.</li>
+                          <li>&#10003; We succesfully finished funding phases 1 and 2 and the reconstruction to send the IUVENTA to her first rescue mission.</li>
                         </ul>
                         <br>
                       <h4>What we will accomplish</h4>
                         <ul>
-                          <li>&#9633; That we will fund the ongoing expenditures for the rescue missions.</li>
-                          <li>&#9633; That sea rescue sticks as a topic with the young generation and the situation of the people on the Mediterranean Sea stays in the public discourse. </li>
-                          <li>&#9633; That we expand our network of european ambassadors.</li>
-                          <li>&#9633; That we win schools and youth organizations as partners.</li>
+                          <li>&#9633; To fund the ongoing costs for the rescue missions.</li>
+                          <li>&#9633; To make sure sea rescue sticks as a topic with the young generation and the situation of the people at the Mediterranean Sea stays in the public discourse.</li>
+                          <li>&#9633; To we expand our network of European ambassadors.</li>
+                          <li>&#9633; To win schools and more youth organizations as partners.</li>
                         </ul>
                     </div>
                     <div class="column">
                       <h4>Events</h4>
-                        <p>Here you may find the schedules for the next meetings of Jugend Rettet europe and further education.</p><br>
+                        <p>Here you can find events either hosted by Jugend Rettet or where Jugend Rettet participates:</p><br>
                         <p><a target="_blank" href="https://www.facebook.com/JugendRettet/events">→ Link</a></p>
                       <br>
                       <h4>Ship's position</h4>

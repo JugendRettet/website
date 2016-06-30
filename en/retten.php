@@ -38,7 +38,7 @@
                 background-image: url(../images/06-2016/mappe.jpg);
             }
             #warum {
-                background-image: url(../images/06-2016/schiff_werft.jpg);
+                background-image: url(../images/06-2016/ACT.jpg);
             }
             #wie {
                 background-image: url(../images/sepa.jpg);
@@ -130,7 +130,7 @@
             <div class="popup" id="denken-pop">
                 <div class="single">
                     <h3>Think</h3>
-                    <p>You have a vision for the future of Asylum policy? <a href="europe" class="link">Jugend Rettet europe</a> offers you a Platform for that.<br><br>You can send us your concrete proposals and suggestions on how we can improve our project to <a href="mailto:info@jugendrettet.org" class="link">info@jugendrettet.org</a>.</p>
+                    <p>You have a vision for a more human draft of a future asylum policy? <a href="europe" class="link">Jugend Rettet europe</a> offers you a platform to get involved with your own ideas. Send a mail to <a href="mailto:lena@jugendrettet.org" class="link">lena@jugendrettet.org</a> to become one of our amabassadors/ambassadresses.<br><br>You can send us your concrete proposals and suggestions on how we can improve our project to <a href="mailto:info@jugendrettet.org" class="link">info@jugendrettet.org</a>.</p>
                 </div>
                 <div class="container single">
                     <div class="column">
@@ -146,7 +146,7 @@
                         <h4><img alt="bot" class="icon" src="../graphics/bot.svg">Ambassador</h4>
                         <p>You want to represent <i>Jugend Rettet</i> in your city?</p>
                         <div class="mehr-klappe"><br>
-                            <p>Then join us and become a local ambassador of our movement in your locale. Organize fundraisers, charities and donations or campaigns and find supporters for our idea. Together with other <a class="mehr" style="display: inline; opacity: 1 !important;">Fellow Retter</a> in your vicinity you will take charge of projects. You will be equipped and supplied with the necessary materials and will also assist you upon any questions or enquiry. You can find our ambassadors from the map.<p><br>
+                            <p>Then join us and become a local ambassador of our movement in your city. Inform people from your area about Jugend Rettet. Organize fundraisers, charities and donations or campaigns and find supporters for our idea. Together with other <a class="mehr" style="display: inline; opacity: 1 !important;">Fellow Retter</a> in your vicinity you will take charge of projects. You will be equipped and supplied with necessary materials. You can find our ambassadors on the map.<p><br>
                         <iframe id="map" src='https://a.tiles.mapbox.com/v4/leonvogler.nd99673k/attribution,zoompan,zoomwheel.html?access_token=pk.eyJ1IjoibGVvbnZvZ2xlciIsImEiOiI0MTI2MDcxMzk2MWI2NDczYzRjNzY5OWI4ZmRmODUyYiJ9.Bys3jr3YtztwTuGQ30NLug'></iframe>
                         </div>
                         <a class="mehr-btn">more ...</a>
@@ -161,18 +161,18 @@
                     </div>
                     <div class="column mehr" id="retter">
                         <h4><img alt="cap" class="icon" src="../graphics/cap.svg">Retter</h4>
-                        <p>You would like to join us as a crew member on our rescue missions in the Mediteranean?</p>
+                        <p>Would you like to join us as a crew member on our rescue missions on the Mediterranean?</p>
                         <div class="mehr-klappe"><br>
-                            <p>We look for people with job experiences that involved high risks and rescue operations. Ask yourself if you can bear these settings. It’s on these grounds that we are really picky and considerate on whom to choose as a crew member.<br><br>
+                            <p>We’re looking for people with job experiences that involved high risks and rescue operations. Ask yourself if you can bear these settings. It’s on these grounds that we are really picky and considerate on whom to choose as a crew member.<br><br>
                             <p> We currently seek:</p>
-                            <p>- Captains</p>
+                            <p>- Skippers</p>
                             <p>- Navigators</p>
                             <p>- Machinists</p>
                             <p>- Deckhands (able to navigate tenders and to operate radios)</p>
                             <p>- Doctors</p>
                             <p>- first aid medical units</p><br>
                             <a target="_blank" href="https://docs.google.com/forms/d/1Wh6SA_DMnwk26b7JjnJ7ACe0NuB04nJAhmn5sP9gd04" class="link">Apply for rescue missions</a><br><br>
-                            <p>Contact us only if you are really interested. We look forward to your application.</p>
+                            <p>Contact us only if you are really interested. We look forward to your application!</p>
                         </div>
                         <a class="mehr-btn">more ...</a>
                     </div>

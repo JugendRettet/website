@@ -139,8 +139,8 @@
                 </div>
                 <div class="container single">
                     <div class="column">
-                        <p>We are an organisation of young adults, who raise money to buy a ship. With this ship we will conduct rescue missions on the Mediterranean. We will then localize the people, take them in safely at the closest port. Our goal is clear: Less deaths in the Mediterranean Sea.</p>
-                        <p>Furthermore we intend to create a discussion platform via the <a href="europe">Jugend Rettet europe</a> program, in which the asylum policies are debated and scrutinized. We believe in the potential capacity and capabilities of our young generation to change the status quo of the Mediterranean for the better and to become more engaged in the discussions on asylum policy.</p>
+                        <p>We are an organisation of young adults, who bought a ship by raising donations. With this ship, IUVENTA, we are conducting sea rescue on the Mediterranean beginning in July 2016. We localize people in maritime emergency and will save them, dependent on the situation, with life rafts or by taking them onboard. Our goal is clear: Less deaths in the Mediterranean Sea.</p>
+                        <p>Furthermore we’re creating a discussion platform via the <a href="europe">Jugend Rettet europe</a> program, in which the asylum policies are debated and scrutinized. We believe in the potential capacity and capabilities of our young generation to change the status quo of the Mediterranean for the better and to become more engaged in the discussions on asylum policy.</p>
                         <h4>Transparency (de)</h4>
                         <a href="https://jugendrettet.org/transparenz"><img style="width:calc(100% - 12px);padding:5px;background:white;border:solid 1px #286482;" src="../graphics/Transparente_Zivilgesellschaft.svg"></a>
                         <br>
@@ -154,8 +154,8 @@
                 <div class="container triple">
                     <div class="column mehr" id="gründe">
                         <h4><img class="icon" src="../graphics/gru.svg" alt="Gründe">Reasons</h4>
-                        <p>Why did we initiate <i>Jugend Rettet?</i></p>
-                        <p>We have two founding members here at <i>Jugend Rettet</i> and people who have sought asylum via the Mediterranean to answer this question.</p>
+                        <p>Why did we start <i>Jugend Rettet?</i></p>
+                        <p>We asked our two founding members Lena and Jakob and Mohammad who had to escape via the Mediterranean to answer this question.</p>
                         <div class="mehr-klappe"><br>
                             <!--
 
@@ -163,7 +163,7 @@
 
                             -->
                             <img class="portrait" src="../images/Lena.jpg" alt="Lena">
-                            <p>Lena: "I have been for long involved in an asylum hostel in which many people live, who have fled via the Mediterranean. It was then that I got the wish to commit myself to helping people on the Mediterranean. At <i>Jugend Rettet</i> I found the concrete action field, to constructively engage for my political ideals."
+                            <p>Lena: "I got involved in a refugee home in which many people live, who have fled via the Mediterranean. It was then that I got the wish to commit myself to helping people on the Mediterranean. With Jugend Rettet I found a concrete field of action, to constructively constitute myself for my political ideals."
                             </p><br>
                             <!--
 
@@ -171,8 +171,8 @@
 
                             -->
                             <img class="portrait" src="../images/Jakob.jpg" alt="Jakob">
-                            <p>Jakob: "No longer can I pass by a news of a ship mishap quietly. <i>Jugend Rettet</i> is a coalition of young people with the potential to change something. Europe-wide we link and connect motivated young people and show them how important it is to come up with a plan for a humane asylum policy. A ship is no long term solution. However it will save lives and would give rise to the question, why is it that instead of the European governments, it is the youth, who on their private initiative, have to take on this mission."</p><br>
-                            <p>Mohammad, 24 from Homs, Syria: „The revolution started in my city on the 15th March 2011. First the university was closed, there I studied construction. By the 10th of March 2012 I fled to Egypt. I had to avoid being conscripted by the Syrian governments army. I knew that I would have to kill people there and that is something I am not willing to do. Yet life in Egypt was not easy. I had to work for small wages and every day was a fight for survival. And it was not going to get better in the future. The life in Egypt is not easy for the Syrians, yet also the Egyptians. Therefore the boat to Europe was my only way out."</p>
+                            <p>Jakob: "Jugend Rettet has, with all the young people who are involved, great potential to really change something. We will connect young people all over Europe and we will show, how important it is to find a design for a more human asylum policy together. Our ship will not be a long-term solution, but it'll safe human lives and it'll raise the question why young people have to overtake this task instead of the EU governments."</p><br>
+                            <p>Mohammad, 24 from Homs, Syria: „The revolution started in my city on 15th of March 2011. First the university was closed, where I studied construction. By the 10th of March 2012 I fled to Egypt. I had to avoid being conscripted by the Syrian governments’ army. I knew that I would have to kill people there and that is something I am not willing to do. Yet life in Egypt was not easy. I had to work for small wages and every day was a fight for survival. And it was not going to get better in the future. Life in Egypt is not easy for the Syrians, neither for the Egyptians. Therefore the boat to Europe was my only way out."</p>
                         </div>
                         <a class="mehr-btn">more ...</a>
                     </div>
@@ -187,11 +187,11 @@
                     </div>
                     <div class="column mehr" id="ide">
                         <h4><img class="icon" src="../graphics/ide.svg" alt="Ideal">Ideal</h4>
-                        <p>Women, Children, Men die in the Mediterranean. We would like to put an end to the ignorance of the European Community.</p>
+                        <p>Women, children ad men daily die in the Mediterranean. We want this to end and we want to put an end to the ignorance of the European Community towards these needles deaths.</p>
                         <div class="mehr-klappe"><br>
-                            <p>We stand for a more humane, just and engaged Asylum policy.</p>
-                            <p>People who decide to flee and escape their homelands are only distinct from us in that they have ran into a situation in which they are not to blame for. Their natural right of human dignity remains untouched and reserved even during their escape. In order to achieve this, we want and must take responsibility.</p>
-                            <p>Young adults want to use their potential and get involved politically. Anyone can change something. As modern Europeans, we place our trusts in the powers of a unified European Community to care and be more humane in its asylum policy as a whole.</p>
+                            <p>We stand for a more human, just and engaged asylum policy.</p>
+                            <p>People who have to flee and leave their homes behind only differ from us by the cause of having to run from a situation for which they are not to blame for. Their natural right of human dignity has to remain untouched and reserved even during their escape. In order to achieve this, we want and we must take responsibility.</p>
+                            <p>Young adults want to use their potential and get involved in political discourses. Anyone can change something. As modern Europeans, we place our trusts in the powers of a unified European Community to care and be more human in its asylum policy as a whole.</p>
                         </div>
                         <a class="mehr-btn">more ...</a>
                     </div>
@@ -216,20 +216,21 @@
                         <script type="text/javascript"
                             src="https://www.vesselfinder.com/aismap.js">
                         </script>
-                        <img src="../images/mittelmeerroute1.jpg" alt="Schiffsbesuch in den Niederlanden" style="max-width:100%">
                         <br>
-                        <p>Since october, we're inspecting ships of our desired kind, the dutch fishtrawler. Once we buy the ship, the following technical specifications are of importance:</p><br>
-                        <img src="../graphics/theship.svg" alt="Schiffsbesuch in den Niederlanden" style="max-width:100%"><br>
+                        <img src="../images/06-2016/IUVENTA1.jpg" alt="Jugend Rettet Rettungsschiff IUVENTA" style="max-width:100%">
+                        <p>In May 2016 we bought our ship, reconstructed her with many volunteers and named her IUVENTA. She’s suitable for sea rescue for the following reasons:</p>
+                        <br>
                         <ul>
-                          <li>&#10003; Our ship must have a big loading space on deck. That way we can take 80-100 people aboard. Above the deck space, a truck plane will be hanged, to protect the people from sun or rain. In winter this plane will be fixed on the sides, through which a closed interior is gained. </li>
+                          <li>&#10003; The IUVENTA has a big deck area. That way we can take 80-100 people onboard.</li>
                         </ul>
-                        <img src="../images/nl1.jpg" alt="Schiffsbesuch in den Niederlanden" style="max-width:100%"><br>
+                        <img src="../images/06-2016/IUVENTA2.jpg" alt="Jugend Rettet Rettungsschiff IUVENTA" style="max-width:100%">
+                        <br>
                         <ul>
-                          <li>&#10003; Our ship is ought to have a low ceiling. That eases bringing people on board, as well as lower our tenders into the water. </li>
-                          <li>&#10003; On deck a hydraulic crane will be installed, which can lower the tenders to water fast. We will have two tenders aboard. A ship in sea distress can be helped faster that way. Also, a possible panic aboard the distressed ship avoided. This might occur, when only one tender - with too less space for everyone - would verge. </li>
-                          <li>&#10003; Our ship has to have enough space for fresh water tanks. Some people in distress will have spent several days without drinking water on their boat. To alleviate possible dehydration, the people are to be supplied with fresh water. </li>
+                          <li>&#10003; IUVENTA’s sides are very low. That is important to bring people quickly and easily  on board.</li>
+                          <li>&#10003; We have a hydraulic crane on deck to lower the dinghies quickly to water. We have two dinghies: people in maritime emergency get picked up by them and shuttled to the IUVENTA in order to avoid panic.</li>
+                          <li>&#10003; We have enough fresh water tanks on board of the IUVENTA. Most people in distress spent several days without drinking water on their little boat. To alleviate possible dehydration, the people are to be supplied with fresh water.</li>
                         </ul>
-                        <img src="../images/nl4.jpg" alt="Schiffsbesuch in den Niederlanden" style="max-width:100%">
+                        <img src="../images/06-2016/IUVENTA3.jpg" alt="Jugend Rettet Rettungsschiff IUVENTA" style="max-width:100%"><br>
                     </div>
                 </div>
             </div>
