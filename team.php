@@ -66,10 +66,10 @@
                 </nav>
             </header>
             <div class="popup-flat">
-                <div class="double">
+                <div class="triple">
                     <h3>Team</h3>
                 </div>
-                <div class="container double">
+                <div class="container triple">
                     <div class="column">
                         <h4>Das Team</h4>
                         <a href="./images/JR_kernteam_ah-02005.jpg" target="_blank"><img alt="team" class="news" src='./images/JR_kernteam_ah-02005_s.jpg'></a>
@@ -113,17 +113,16 @@
                         <h4>Die Crew</h4>
                         <p>wird bestehen aus:</p>
                         <ul style="list-style: inherit;">
-                            <li>Kapitän</li>
-                            <li>Steuermann</li>
+                            <li>Kapitän_in</li>
+                            <li>Steuermann_frau</li>
                         </ul>
                         <p>(mit A1-Patent)</p>
                         <br>
                         <ul style="list-style: inherit;">
-                            <li>2 Maschinist_innen</li>
-                            <li>1 Funker_in</li>
-                            <li>2-3 Deckhands (Erste-Hilfe-Kurs, englische/französische Sprachkenntnisse)</li>
-                            <li>1 Sicherheitsbeauftragte_r</li>
-                            <li>2 Ärzt_innen</li>
+                            <li>Maschinist_in</li>
+                            <li>Ärzt_in</li>
+                            <li>Rettungssanitäter_in</li>
+                            <li>4-5 Deckhands (Erste-Hilfe-Kurs, englische/französische Sprachkenntnisse)</li>
                         </ul>
                         <p>Unsere Deckhands legen STCW - Basic Safety Trainings ab.</p>
                     </div>
@@ -171,6 +170,8 @@
                             <li>Zürich: <a href="mailto:Michael@jugendrettet.org">Michael</a></li>
                         </ul>
                         <br>
+                    </div>
+                    <div class="column">
                         <h4>Unterstützer</h4>
 
                         <img src="graphics/jpd.svg" alt="JPD" style="background-color:white;width:100%;padding:5px">

@@ -67,10 +67,10 @@
                 </nav>
             </header>
             <div class="popup-flat">
-                <div class="double">
+                <div class="triple">
                     <h3>Team</h3>
                 </div>
-                <div class="container double">
+                <div class="container triple">
                     <div class="column">
                         <h4>The Team</h4>
                         <a href="../images/JR_kernteam_ah-02005.jpg" target="_blank"><img alt="team" class="news" src='../images/JR_kernteam_ah-02005_s.jpg'></a>
@@ -120,11 +120,10 @@
                         <p>(A1 commission)</p>
                         <br>
                         <ul style="list-style: inherit;">
-                            <li>2 Machinists</li>
-                            <li>1 Radio Operator</li>
-                            <li>2-3 Deckhands (first aid course, english/french language skills)</li>
-                            <li>1 Safety Advisor</li>
-                            <li>2 Medical Doctors</li>
+                            <li>Machinist</li>
+                            <li>Medical Doctors</li>
+                            <li>Paramedic</li>
+                            <li>4-5 Deckhands (first aid course, english/french language skills)</li>
                         </ul>
                         <p>Our Deckhands will have STCW - Basic Safety Trainings.</p>
                     </div>
@@ -171,6 +170,8 @@
                             <li>Zürich: <a href="mailto:Michael@jugendrettet.org">Michael</a></li>
                         </ul>
                         <br>
+                    </div>
+                    <div class="column">
                         <h4>Supporters</h4>
 
                         <img src="../graphics/jpd.svg" alt="JPD" style="background-color:white;width:100%;padding:5px">
