@@ -921,6 +921,20 @@
                       <h4>Events</h4>
                         <p>Hier findest du die Termine für die nächsten Jugend Rettet europe Treffen und Fortbildungen.</p><br>
                         <p><a target="_blank" href="https://www.facebook.com/JugendRettet/events">→ Link</a></p>
+                      <br>
+                      <h4>Schiffsposition</h4>
+                      <script type="text/javascript">
+                        var width="100%";
+                        var height="500";
+                        var zoom="10";
+                        var mmsi="244870962";
+                        var show_track=true;
+                        var click_to_activate=false;
+                        var default_maptype=1;
+                      </script>
+                      <script type="text/javascript"
+                        src="https://www.vesselfinder.com/aismap.js">
+                      </script>
                     </div>
                 </div>
                 <!--

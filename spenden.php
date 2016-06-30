@@ -153,6 +153,19 @@
                         <br>
                         <p><a href="./faq#18">Was passiert mit den Spendengeldern, wenn wir unser Ziel nicht erreichen?</a></p>
                         <br>
+                        <h4>Schiffsposition</h4>
+                        <script type="text/javascript">
+                            var width="100%";
+                            var height="500";
+                            var zoom="10";
+                            var mmsi="244870962";
+                            var show_track=true;
+                            var click_to_activate=false;
+                            var default_maptype=1;
+                        </script>
+                        <script type="text/javascript"
+                            src="https://www.vesselfinder.com/aismap.js">
+                        </script>
                         <!--<h4>Rechner</h4>
                         <div id="rechner">
                             <input type="Text" id="spendeinput" oninput="rechnen()"> €

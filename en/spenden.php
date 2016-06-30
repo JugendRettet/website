@@ -148,6 +148,19 @@
                         <h4>Transparency (de)</h4>
                         <a href="https://jugendrettet.org/transparenz"><img style="width:calc(100% - 12px);padding:5px;background:white;border:solid 1px #286482;" src="../graphics/Transparente_Zivilgesellschaft.svg"></a>
                         <br>
+                        <h4>Ship's position</h4>
+                        <script type="text/javascript">
+                            var width="100%";
+                            var height="500";
+                            var zoom="10";
+                            var mmsi="244870962";
+                            var show_track=true;
+                            var click_to_activate=false;
+                            var default_maptype=1;
+                        </script>
+                        <script type="text/javascript"
+                            src="https://www.vesselfinder.com/aismap.js">
+                        </script>
                         <!--<h4>Calculator</h4>
                         <div id="rechner">
                             <input type="Text" id="spendeinput" oninput="rechnen()"> €

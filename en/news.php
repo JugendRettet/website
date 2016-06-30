@@ -525,6 +525,20 @@
                       <h4>Events</h4>
                         <p>Here you may find the schedules for the next meetings of Jugend Rettet europe and further education.</p><br>
                         <p><a target="_blank" href="https://www.facebook.com/JugendRettet/events">→ Link</a></p>
+                      <br>
+                      <h4>Ship's position</h4>
+                      <script type="text/javascript">
+                        var width="100%";
+                        var height="500";
+                        var zoom="10";
+                        var mmsi="244870962";
+                        var show_track=true;
+                        var click_to_activate=false;
+                        var default_maptype=1;
+                      </script>
+                      <script type="text/javascript"
+                        src="https://www.vesselfinder.com/aismap.js">
+                      </script>
                     </div>
                 </div>
                 <!--

@@ -204,6 +204,18 @@
                 <div class="container single">
                     <div class="column newsacc">
                         <h4>Das Schiff</h4>
+                        <script type="text/javascript">
+                            var width="100%";
+                            var height="500";
+                            var zoom="10";
+                            var mmsi="244870962";
+                            var show_track=true;
+                            var click_to_activate=false;
+                            var default_maptype=1;
+                        </script>
+                        <script type="text/javascript"
+                            src="https://www.vesselfinder.com/aismap.js">
+                        </script>
                         <img src="./images/mittelmeerroute1.jpg" alt="Schiffsbesuch in den Niederlanden" style="max-width:100%">
                         <br>
                         <p>Seit Oktober besichtigen wir fortwährend Schiffe unseres gewünschten Schiffstyps - holländische Fischtrawler. Wenn wir das Schiff kaufen sind folgende technische Eigenheiten von Bedeutung für uns:</p><br>
