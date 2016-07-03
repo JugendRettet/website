@@ -86,28 +86,23 @@
                         <br>
                         <ul>
                             <li><b>Lena</b>:  Organisation, Koordination Botschafter, Konzeption</li>
-                            <li><b>Mohammed</b>:  Koordination europ. Botschafter</li>
-                            <li><b>Sahra</b>:  Organisation, Konzeption, Öffentlichkeit, Gestaltung</li>
+                            <li><b>Sahra</b>:  Konzeption, Gestaltung</li>
                             <li><b>Sonja</b>:  Organisation, Recht, Finanzen</li>
-                            <li><b>Jakob</b>:  Konzeption, Öffentlichkeit, Recht, Finanzen</li>
+                            <li><b>Jakob</b>:  Konzeption, Recht, Finanzen</li>
                             <li><b>Pauline</b>:  Öffentlichkeit, Presse</li>
-                            <li><b>Jojo</b>:  Öffentlichkeit, Gestaltung</li>
-                            <li><b>Alex</b>:  IT, Gestaltung</li>
-                            <li><b>Matthias</b>:  Recherche</li>
-                            <li><b>Johanna</b>:  Öffentlichkeit</li>
-                            <li><b>Carlo</b>:  Öffentlichkeit</li>
-                            <li><b>Valeria</b>:  Öffentlichkeit, Finanzen</li>
-                            <li><b>Lars</b>:  IT</li>
-                            <li><b>Suse</b>:  Finanzen</li>
+                            <li><b>Jojo</b>:  Öffentlichkeit, Presse, Inhalte</li>
+                            <li><b>Alex</b>:  Technischer Leiter, Website, Gestaltung</li>
+                            <li><b>Titus</b>:  Koordinator Schiff</li>
+                            <li><b>Matthias</b>:  Recherche, Crew</li>
+                            <li><b>Arne</b>:  nautischer Koordinator</li>
+                            <li><b>Lars</b>:  IT, Website</li>
                             <li><b>Elke</b>:  Finanzen</li>
                             <li><b>Lukas</b>:  Finanzen</li>
-                            <li><b>Anna</b>:  Recherche</li>
-                            <li><b>Andreas</b>:  Recherche</li>
                             <li><b>Jonas</b>:  Gestaltung</li>
                             <li><b>Kjeld</b>:  Gestaltung</li>
                             <li><b>Leon</b>:  Webdesign</li>
-                            <li><b>Titus</b>:  Koordinator Schiff</li>
-                            <li><b>Christoph</b>:  IT</li>
+                            <li><b>Christoph</b>:  Schiff-IT</li>
+                            <li><b>Friedemann</b>:  Website</li>
                         </ul>
                         <br>
                         <h4>Die Crew</h4>

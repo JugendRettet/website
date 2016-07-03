@@ -155,7 +155,7 @@
                         <h4><img alt="fla" class="icon" src="../graphics/fla.svg">Fellow Retter</h4>
                         <p>You would like to get involved in a unique project?</p>
                         <div class="mehr-klappe"><br>
-                            <p>Then apply to become a fellow Retter by getting in touch with your local Ambassador and turn your idea into reality. Is there no Ambassador in your proximity, contact us. Tell us about your project and collect money for our ship or support us through material and goods donations. You may find what we are currently looking for on our <a href="https://www.facebook.com/JugendRettet" target="_blank">Facebook page</a> or in the <a class="link" href="news">News section</a>.</p><br>
+                            <p>Then apply to become a fellow Retter by getting in touch with your local ambassador and turn your idea into reality. If there’s no ambassador in your proximity, contact us. Tell us about your idea and collect money for our rescue missions or support us through material and goods donations. You find what we are currently looking for on our <a href="https://www.facebook.com/JugendRettet" target="_blank">Facebook page</a> or in the <a class="link" href="news">News section</a>.</p><br>
                         </div>
                         <a class="mehr-btn">more ...</a>
                     </div>

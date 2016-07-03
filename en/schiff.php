@@ -162,7 +162,7 @@
                             <div class="popup-img" style="background-image: url('../images/news.jpg');"></div>
 
                             -->
-                            <img class="portrait" src="../images/Lena.jpg" alt="Lena">
+                            <img class="portrait" src="../images/07-2016/Jakob_Lena_Jugend_Rettet.jpg" alt="Jakob and Lena Jugend Rettet">
                             <p>Lena: "I got involved in a refugee home in which many people live, who have fled via the Mediterranean. It was then that I got the wish to commit myself to helping people on the Mediterranean. With Jugend Rettet I found a concrete field of action, to constructively constitute myself for my political ideals."
                             </p><br>
                             <!--
@@ -170,7 +170,7 @@
                             <div class="popup-img" style="background-image: url('../images/neu.jpg');"></div>
 
                             -->
-                            <img class="portrait" src="../images/Jakob.jpg" alt="Jakob">
+
                             <p>Jakob: "Jugend Rettet has, with all the young people who are involved, great potential to really change something. We will connect young people all over Europe and we will show, how important it is to find a design for a more human asylum policy together. Our ship will not be a long-term solution, but it'll safe human lives and it'll raise the question why young people have to overtake this task instead of the EU governments."</p><br>
                             <p>Mohammad, 24 from Homs, Syria: „The revolution started in my city on 15th of March 2011. First the university was closed, where I studied construction. By the 10th of March 2012 I fled to Egypt. I had to avoid being conscripted by the Syrian governments’ army. I knew that I would have to kill people there and that is something I am not willing to do. Yet life in Egypt was not easy. I had to work for small wages and every day was a fight for survival. And it was not going to get better in the future. Life in Egypt is not easy for the Syrians, neither for the Egyptians. Therefore the boat to Europe was my only way out."</p>
                         </div>
@@ -180,8 +180,12 @@
                         <h4><img class="icon" src="../graphics/sit.svg" alt="Aktuelle Situation">Current Situation</h4>
                         <p>In 2014, 218.000 People have fled via the Mediterranean and sought refuge. 3500 people did not survive their journey.</p>
                         <div class="mehr-klappe"><br>
-                            <p>The rate of failure is high. In 2015 there should be between 500,000 to 1 million people daring to escape via the Mediterranean, according to Frontex. The central Mediterranean remain the most important escape route. It starts from Libya and ends in Lampedusa, Malta or Sardinia and has been used by 78% of the refugees in 2014. This huge number is the result of the closed European external borders and embassies that permit only the illegal and hence dangerous entrance into Europe as the last option. (<a href="http://www.zeit.de/gesellschaft/zeitgeschehen/2015-03/frontex-rekordzahl-fluechtlinge" target="_blank">ZEIT, März 2015</a>)</p><br>
-                            <p>60% of the Young people declared themselves ready to work with like-minded people on the issue, if they feel they are able to make a change (<a href="http://www.dgb.de/themen/++co++7525a922-220a-11df-7d31-00093d10fae2" target="_blank">DGB, September 2009</a>). Every 4th young person is eager to participate in concrete projects in the city or community of his/her. As of now, there has not been a comparable Youth Organization with the objective of conducting private rescue missions in the Mediterranean. Concrete independent initiatives for young people, through which one can express and exercise political will and determination, (<a href="http://www.spiegel.de/schulspiegel/leben/kinderhilfswerk-umfrage-kinder-wuerden-sich-gern-staerker-engagieren-a-890245.html">SPIEGEL Online, März 2013</a>). Aktuell gibt es keine vergleichbare von Jugendlichen initiierte Organisation mit dem Ziel der privaten Seenotrettung auf dem Mittelmeer. Konkrete, unabhängige Aktionsfelder für junge Erwachsene fehlen häufig, wodurch der Wille, sich politisch zu engagieren, oft nicht umgesetzt werden kann.</p>
+                            <p>Within the European Union the basic right of asylum obtains. Yet there’s hardly a legal way to apply for asylum. This leads to people choosing dangerous routes to arrive Europe. (<a href="http://www.zeit.de/politik/2016-04/fluechtlingsrouten-europa-mittelmeer" target="_blank">ZEIT, April 2016</a>)</p><br>
+                            <p>2015 more than one million people crossed the Mediterranean in unseaworthy boats  (<a href="https://www.uno-fluechtlingshilfe.de/nothilfe/europa.html" target="_blank">UNO, May 2016</a>). 3771 people died during that dangerous crossing.</p><br>
+                            <p>2016 187.920 migrants already arrived to Europa by crossing the Sea - 155.765 people arrived to Greece and 31.252 came to Italy. (<a href="https://www.uno-fluechtlingshilfe.de/news/italien-1000-menschen-aus-seenot-gerettet-475.html">UNO May 2016</a>).</p><br>
+                            <p>
+                              60% of the young people would be willing to declare themselves ready to work with like-minded people on political issues, if they feel it’s likely to make a change (<a href="http://www.dgb.de/themen/++co++7525a922-220a-11df-7d31-00093d10fae2" target="_blank">DGB, September 2009</a>). Every 4th teenager was eager to participate in concrete projects in the city or community of his/her (<a href="http://www.spiegel.de/schulspiegel/leben/kinderhilfswerk-umfrage-kinder-wuerden-sich-gern-staerker-engagieren-a-890245.html" target="_blank">SPIEGEL Online, March 2013</a>). Currently there has not been a comparable Youth Organization with the subject of conducting private rescue missions on the Mediterranean. Concrete independent initiatives for young people, through which one can express and exercise political will and determination.
+                            </p>
                         </div>
                         <a class="mehr-btn">more ...</a>
                     </div>

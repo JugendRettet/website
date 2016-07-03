@@ -229,62 +229,26 @@
                                     <hr id="ph-eins-progress">
                                 </div>
                                 <div class="content" id="ph-eins-content">
-                                    <p>We have accomplished our first stage: 123,000€ were collected
-                                    for renovation, transfer and first month at sea. We could not
-                                    have achieved this without the great support of our donors,
-                                    helpers and our ambassadors in more than 32 European cities.
-                                    Thank you!</p>
+                                    <p>We have accomplished all necessary requirements for our rescue missions: we raised enough donations to buy the IUVENTA, renovate her, transfer her to Malta from where she will start her first mission end of July 2016. The first month at sea already got financed. We could not have achieved this without the great support of our donors, helpers and our ambassadors in more than 37 European cities. Thank you!</p>
                                     <br>
-                                    <p>But we have not yet reached our main goal: rescuing people in
-                                    maritime distress. Every stage takes us one step closer to start
-                                    our missions. Right now we are about to finish our renovation
-                                    plans and calculation of costs together with our dockyard. In
-                                    the meantime we are looking for crew members. As soon as we
-                                    will have finished our planning and will be able to win more
-                                    crew members for our missions, we will move on with purchasing
-                                    the ship. The next steps include dragging, painting and
-                                    hammering!</p>
+                                    <p>As we’re now finally came to the core of Jugend Rettet, rescue people in maritime emergency, we need your support more than ever to make sure the IUVENTA safes lives: That means we need professional crew members (<a href="crew">jugendrettet.org/crew</a>). Please only apply, if you’re truly suitable. At the same time we have to cover the ongoing costs like petrol, saving appliances, food for the crew and the rescued, clothes and blankets, as well as the ship insurance.</p>
                                     <br>
-                                    <p>At the same time a new stage of donating begins to cover the
-                                    ongoing costs like petrol, saving appliances, food for the crew
-                                    and the rescued, clothes and blankets, as well as the ship
-                                    insurance.</p>
-                                    <br>
-                                    <p>To accomplish this stage we ask for your support: donate now for
-                                    our missions and help us save lives. Together we can take a
-                                    stand against ignorance and for more humanity. Join the rescue!</p>
+                                    <p>We ask for your support: donate now for our missions and help us to save lives. Together we can take a stand against ignorance of the EU governments and for more humanity. Join the rescue!
+</p>
                                     <br>
                                     <p>You can find further information on our ship <a href="schiff#wie">here</a>.</p>
                                 </div>
                             </div>
                         </div>
                         <div class="content ie">
-                            <p>We have accomplished our first stage: 123,000€ were collected
-                            for renovation, transfer and first month at sea. We could not
-                            have achieved this without the great support of our donors,
-                            helpers and our ambassadors in more than 32 European cities.
-                            Thank you!</p>
-                            <br>
-                            <p>But we have not yet reached our main goal: rescuing people in
-                            maritime distress. Every stage takes us one step closer to start
-                            our missions. Right now we are about to finish our renovation
-                            plans and calculation of costs together with our dockyard. In
-                            the meantime we are looking for crew members. As soon as we
-                            will have finished our planning and will be able to win more
-                            crew members for our missions, we will move on with purchasing
-                            the ship. The next steps include dragging, painting and
-                            hammering!</p>
-                            <br>
-                            <p>At the same time a new stage of donating begins to cover the
-                            ongoing costs like petrol, saving appliances, food for the crew
-                            and the rescued, clothes and blankets, as well as the ship
-                            insurance.</p>
-                            <br>
-                            <p>To accomplish this stage we ask for your support: donate now for
-                            our missions and help us save lives. Together we can take a
-                            stand against ignorance and for more humanity. Join the rescue!</p>
-                            <br>
-                            <p>You can find further information on our ship <a href="schiff#wie">here</a>.</p>
+                          <p>We have accomplished all necessary requirements for our rescue missions: we raised enough donations to buy the IUVENTA, renovate her, transfer her to Malta from where she will start her first mission end of July 2016. The first month at sea already got financed. We could not have achieved this without the great support of our donors, helpers and our ambassadors in more than 37 European cities. Thank you!</p>
+                          <br>
+                          <p>As we’re now finally came to the core of Jugend Rettet, rescue people in maritime emergency, we need your support more than ever to make sure the IUVENTA safes lives: That means we need professional crew members (<a href="crew">jugendrettet.org/crew</a>). Please only apply, if you’re truly suitable. At the same time we have to cover the ongoing costs like petrol, saving appliances, food for the crew and the rescued, clothes and blankets, as well as the ship insurance.</p>
+                          <br>
+                          <p>We ask for your support: donate now for our missions and help us to save lives. Together we can take a stand against ignorance of the EU governments and for more humanity. Join the rescue!
+</p>
+                          <br>
+                          <p>You can find further information on our ship <a href="schiff#wie">here</a>.</p>
                         </div>
                     </div>
 

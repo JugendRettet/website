@@ -901,25 +901,26 @@
                     <div class="column newsacc">
                       <h4>Was wir geschafft haben</h4>
                         <ul>
-                          <li>&#10003; Wir haben Schiffe unseres gewünschten Schiffstyps - holländische Fischtrawler - besichtigt. Sobald wir uns für ein Schiff entschieden haben erstellen wir die Pläne für den Umbau im April.</li>
+                          <li>&#10003; Wir haben Schiffe unseres gewünschten Schiffstyps - holländische Fischtrawler - besichtigt und uns für ein geeignetes Schiff entschieden.</li>
                           <!--<li>&#10003; Wir haben eine 11-köpfige Crew inklusive Kapitän gefunden und gemeinsam unsere halbjährige Operation geplant.</li>-->
-                          <li>&#10003; Wir haben ein Netz von 33 Botschafter_innen in 30 Städten aufgebaut.</li>
-                          <li>&#10003; Wir haben Maria Furtwängler, Armin Rohde und Jasmin Gerat als Stimmen für <i>Jugend Rettet</i> gewinnen können.</li>
+                          <li>&#10003; Im Mai 2016 haben wir das Schiff gekauft, umgebaut und sie auf den Namen IUVENTA getauft.</li>
+                          <li>&#10003; Wir haben ein Netz von 42 Botschafter_innen in 37 europäischen Städten aufgebaut.</li>
+                          <li>&#10003; Wir haben Jan Josef Liefers, Maria Furtwängler, Armin Rohde und Jasmin Gerat als Stimmen für Jugend Rettet gewinnen können.</li>
                           <li>&#10003; Wir haben in Berlin ein Kernteam von 11 Menschen aufgebaut.</li>
-                          <li>&#10003; Wir haben die Spendenphase 1 und 2 gemeistert, um ein Schiff zu kaufen, umzubauen und in eine erste Rettungsmisson zu schicken.</li>
+                          <li>&#10003; Wir haben die Spendenphase 1 und 2 und den Umbau gemeistert, um die IUVENTA auf ihre erste Rettungsmisson zu schicken.</li>
                         </ul>
                         <br>
                       <h4>Was wir noch schaffen werden</h4>
                         <ul>
-                          <li>&#9633; Dass wir durch Spenden die laufenden Kosten für die Rettungsmissionen decken können.</li>
+                          <li>&#9633; Die Spenden für die laufenden Kosten der Rettungsmissionen decken.</li>
                           <li>&#9633; Dass Seenotrettung in der jungen Generation ein Thema bleibt und die Situation der Menschen auf dem Mittelmeer weiterhin in der Öffentlichkeit eine Rolle spielt.</li>
-                          <li>&#9633; Dass wir unser Netzwerk an europäischen Botschaftern ausweiten.</li>
-                          <li>&#9633; Dass wir Partnerschulen und Partner-Jugendorganisationen gewinnen.</li>
+                          <li>&#9633; Dass wir unser Netzwerk an europäischen Botschaftern und Botschafterinnen ausweiten.</li>
+                          <li>&#9633; Dass wir Partnerschulen und weitere Partner-Jugendorganisationen gewinnen.</li>
                         </ul>
                     </div>
                     <div class="column">
                       <h4>Events</h4>
-                        <p>Hier findest du die Termine für die nächsten Jugend Rettet europe Treffen und Fortbildungen.</p><br>
+                        <p>Hier findest du die Termine für die nächsten offenen Jugend Rettet europe Treffen und Fortbildungen oder Veranstaltungen an denen wir teilnehmen:</p><br>
                         <p><a target="_blank" href="https://www.facebook.com/JugendRettet/events">→ Link</a></p>
                       <br>
                       <h4>Schiffsposition</h4>

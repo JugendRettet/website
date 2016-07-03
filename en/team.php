@@ -86,29 +86,24 @@
                         </ul>
                         <br>
                         <ul>
-                            <li><b>Lena</b>:  Organisation, Coordination of Ambassadors, Concept</li>
-                            <li><b>Mohammed</b>:  Coordination europ. Ambassadors</li>
-                            <li><b>Sahra</b>:  Organisation, Concept, Public Relations, Layout</li>
-                            <li><b>Sonja</b>:  Organisation, Law, Finance</li>
-                            <li><b>Jakob</b>:  Concept, Public Relations, Law, Finance</li>
-                            <li><b>Pauline</b>:  Public Relations, Press</li>
-                            <li><b>Jojo</b>:  Public Relations, Layout</li>
-                            <li><b>Alex</b>:  IT, Layout</li>
-                            <li><b>Matthias</b>:  Research</li>
-                            <li><b>Johanna</b>:  Public Relations</li>
-                            <li><b>Carlo</b>:  Public Relations</li>
-                            <li><b>Valeria</b>:  Public Relations, Finance</li>
-                            <li><b>Lars</b>:  IT</li>
-                            <li><b>Suse</b>:  Finance</li>
-                            <li><b>Elke</b>:  Finance</li>
-                            <li><b>Lukas</b>:  Finance</li>
-                            <li><b>Anna</b>:  Research</li>
-                            <li><b>Andreas</b>:  Research</li>
-                            <li><b>Jonas</b>:  Layout</li>
-                            <li><b>Kjeld</b>:  Layout</li>
-                            <li><b>Leon</b>:  Webdesign</li>
-                            <li><b>Titus</b>:  Coordinator Ship</li>
-                            <li><b>Christoph</b>:  IT</li>
+                          <li><b>Lena</b>:  Organisation, Coordination of Ambassadors, Concept</li>
+                          <li><b>Sahra</b>:  Concept, Design</li>
+                          <li><b>Sonja</b>:  Organisation, Law, Finance</li>
+                          <li><b>Jakob</b>:  Concept, Law, Finance</li>
+                          <li><b>Pauline</b>:  Public Relations, Press</li>
+                          <li><b>Jojo</b>:  Public Relations, Press, Content</li>
+                          <li><b>Alex</b>:  Technical Director, Website, Layout</li>
+                          <li><b>Titus</b>:  Coordinator Ship</li>
+                          <li><b>Matthias</b>:  Research, crew</li>
+                          <li><b>Arne</b>:  nautical coordinator</li>
+                          <li><b>Lars</b>:  IT, website</li>
+                          <li><b>Elke</b>:  Finance</li>
+                          <li><b>Lukas</b>:  Finance</li>
+                          <li><b>Jonas</b>:  Design</li>
+                          <li><b>Kjeld</b>:  Design</li>
+                          <li><b>Leon</b>:  Webdesign</li>
+                          <li><b>Christoph</b>:  Ship IT</li>
+                          <li><b>Friedemann</b>:  Website</li>
                         </ul>
                         <br>
                         <h4>The Crew</h4>
@@ -215,7 +210,7 @@
                                 <li><a href="https://jugendrettet.org/transparenz">Transparency (de)</a></li>
                                 <li class="br"></li>
                                 <li><a href="https://jugendrettet.org/team">de</a></li>
-                            </ul> 
+                            </ul>
                         </nav>
                     </footer>
                 </div>
