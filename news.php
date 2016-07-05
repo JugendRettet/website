@@ -914,7 +914,7 @@
                         <ul>
                           <li>&#9633; Die Spenden für die laufenden Kosten der Rettungsmissionen decken.</li>
                           <li>&#9633; Dass Seenotrettung in der jungen Generation ein Thema bleibt und die Situation der Menschen auf dem Mittelmeer weiterhin in der Öffentlichkeit eine Rolle spielt.</li>
-                          <li>&#9633; Dass wir unser Netzwerk an europäischen Botschaftern und Botschafterinnen ausweiten.</li>
+                          <li>&#9633; Dass wir unser Netzwerk an europäischen Botschafter_innen ausweiten.</li>
                           <li>&#9633; Dass wir Partnerschulen und weitere Partner-Jugendorganisationen gewinnen.</li>
                         </ul>
                     </div>

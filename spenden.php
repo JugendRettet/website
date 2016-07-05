@@ -254,17 +254,17 @@
                         </div>
                         <div class="content ie">
                           <p>
-                          Wir haben alle notwendigen Vorraussetzungen erreicht, um unsere Rettungsmissionen durchzuführen: wir haben genug Geld gesammelt, um die IUVENTA zu kaufen, sie renovieren, nach Malta zu überführen, von wo aus sie die Missionen starten. Außerdem ist auch der erste Betriebsmonat finanziert. Das haben wir den vielen Spender_innen, der tatkräftigen Unterstützung vieler Menschen und nicht zuletzt unseren Botschafter_innen in mittlerweile 37 verschiedenen europäischen Städten zu verdanken. Vielen Dank für eure Hilfe!
+                          Wir haben alle notwendigen Vorraussetzungen erreicht, um unsere Rettungsmissionen durchzuführen: wir haben genug Geld gesammelt, um die IUVENTA zu kaufen, sie zu renovieren und nach Malta zu überführen, von wo aus sie die Missionen startet. Außerdem ist auch der erste Betriebsmonat finanziert. Das haben wir den vielen Spender_innen, der tatkräftigen Unterstützung vieler Menschen und nicht zuletzt unseren Botschafter_innen in mittlerweile 37 verschiedenen europäischen Städten zu verdanken. Vielen Dank für eure Hilfe!
                           </p>
                           <p>
-                            Nun sind wir endlich zum Kern von Jugend Rettet gekommen: der Rettung von Menschen aus Seenot. Damit sichergestellt ist, dass die IUVENTA ihre Rettungen lange durchführen kann, brauchen wir Sie mehr denn je: Das bedeutet, dass wir weiterhin nach professionellen Crewmitgliedern (<a href="crew">jugendrettet.org/crew</a>) suchen. Bitte nur bewerben, wenn Sie wirklich für die Aufgaben geeignet sind.</p>
+                            Nun sind wir endlich zum Kern von Jugend Rettet gekommen: der Rettung von Menschen aus Seenot. Damit sichergestellt ist, dass die IUVENTA ihre Rettungen lange durchführen kann, brauchen wir euch mehr denn je: Das bedeutet, dass wir weiterhin nach professionellen Crewmitgliedern (<a href="crew">jugendrettet.org/crew</a>) suchen. Bitte nur bewerben, wenn ihr wirklich für die Aufgaben geeignet seid.</p>
                           <br>
                           <p>
                           Gleichzeitig brauchen wir Geld, um die laufenden Kosten der Rettungsmission zu decken: Neben dem Treibstoff für das Schiff, fallen hierbei Kosten für die Rettungsmittel, die Verpflegung der Crew und der Geretteten, Kleidung und Decken, die Schiffsversicherung u.a. an.
                           </p>
                           <br>
                           <p>
-                            Um auch diese Etappe meistern zu können, bitten wir um deine Unterstützung: Spende jetzt für den Rettungseinsatz und hilf uns, ab ende Juli Menschen aus Lebensgefahr retten zu können! Gemeinsam können wir ein Zeichen gegen die Gleichgültigkeit und für mehr Menschlichkeit setzen. Rette mit!
+                            Um auch diese Etappe meistern zu können, bitten wir um eure Unterstützung: Spende jetzt für den Rettungseinsatz und hilf uns, ab Ende Juli Menschen aus Lebensgefahr retten zu können! Gemeinsam können wir ein Zeichen gegen die Gleichgültigkeit und für mehr Menschlichkeit setzen. Rette mit!
                           </p>
                           <br>
                           <p>Weitere Infos zu unserem Schiff findest du <a href="schiff#wie">hier</a>.</p>
