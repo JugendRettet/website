@@ -29,7 +29,7 @@
         <link href="../css/mobile.css?6" media="screen and (max-width: 850px)" rel="stylesheet" type="text/css">
         <link rel="stylesheet" href="../css/animations.1.css?1" type="text/css" />
         <link rel="stylesheet" media="screen and (min-width: 851px)" href="../css/ship-pos.css?0" type="text/css" />
-        <link rel="stylesheet" media="screen and (max-width: 850px)" href="../css/ship-pos-hide.css?0" type="text/css" />
+        <link rel="stylesheet" media="screen and (max-width: 850px)" href="../css/ship-pos-hide.css?1" type="text/css" />
         <!--[if IE]>
             <link rel="stylesheet" href="../ie-css/noship.css" type="text/css" />
         <![endif]-->
