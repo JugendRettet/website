@@ -527,19 +527,6 @@
                         <p>Here you can find events either hosted by Jugend Rettet or where Jugend Rettet participates:</p><br>
                         <p><a target="_blank" href="https://www.facebook.com/JugendRettet/events">→ Link</a></p>
                       <br>
-                      <h4>Ship's position</h4>
-                      <script type="text/javascript">
-                        var width="100%";
-                        var height="500";
-                        var zoom="10";
-                        var mmsi="244870962";
-                        var show_track=true;
-                        var click_to_activate=false;
-                        var default_maptype=1;
-                      </script>
-                      <script type="text/javascript"
-                        src="https://www.vesselfinder.com/aismap.js">
-                      </script>
                     </div>
                 </div>
                 <!--
@@ -595,5 +582,15 @@
         <!-- Scripts -->
         <script src="../js/main.js?0"></script>
         <script src="../js/peekfield.js?2"></script>
+          <div id="ship-pos-container">
+            <div id="ship-pos">
+              <script type="text/javascript"
+                src="./js/vesselfinder-vars.js">
+              </script>
+              <script type="text/javascript"
+                src="https://www.vesselfinder.com/aismap.js">
+              </script>
+            </div>
+          </div>
     </body>
 </html>

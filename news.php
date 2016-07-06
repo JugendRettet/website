@@ -27,6 +27,7 @@
         <link rel="stylesheet" href="./css/main.css?9" type="text/css" />
         <link rel="stylesheet" href="./css/desktop.css?5" media="screen and (min-width: 851px)" type="text/css" />
         <link rel="stylesheet" href="./css/mobile.css?6" media="screen and (max-width: 850px)" type="text/css" />
+        <link rel="stylesheet" href="./css/ship-pos.css?0" type="text/css" />
 
         <script src="./js/jquery-1.10.2.min.js"></script>
         <script type="text/javascript">
@@ -923,19 +924,6 @@
                         <p>Hier findest du die Termine für die nächsten offenen Jugend Rettet europe Treffen und Fortbildungen oder Veranstaltungen an denen wir teilnehmen:</p><br>
                         <p><a target="_blank" href="https://www.facebook.com/JugendRettet/events">→ Link</a></p>
                       <br>
-                      <h4>Schiffsposition</h4>
-                      <script type="text/javascript">
-                        var width="100%";
-                        var height="500";
-                        var zoom="10";
-                        var mmsi="244870962";
-                        var show_track=true;
-                        var click_to_activate=false;
-                        var default_maptype=1;
-                      </script>
-                      <script type="text/javascript"
-                        src="https://www.vesselfinder.com/aismap.js">
-                      </script>
                     </div>
                 </div>
                 <!--
@@ -991,5 +979,15 @@
         <!-- Scripts -->
         <script src="./js/main.js?0"></script>
         <script src="./js/peekfield.js?2"></script>
+          <div id="ship-pos-container">
+            <div id="ship-pos">
+              <script type="text/javascript"
+                src="./js/vesselfinder-vars.js">
+              </script>
+              <script type="text/javascript"
+                src="https://www.vesselfinder.com/aismap.js">
+              </script>
+            </div>
+          </div>
     </body>
 </html>

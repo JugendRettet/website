@@ -148,19 +148,26 @@
                         <h4>Transparency (de)</h4>
                         <a href="https://jugendrettet.org/transparenz"><img style="width:calc(100% - 12px);padding:5px;background:white;border:solid 1px #286482;" src="../graphics/Transparente_Zivilgesellschaft.svg"></a>
                         <br>
-                        <h4>Ship's position</h4>
+                        <h4>donate directly</h4>
                         <script type="text/javascript">
-                            var width="100%";
-                            var height="500";
-                            var zoom="10";
-                            var mmsi="244870962";
-                            var show_track=true;
-                            var click_to_activate=false;
-                            var default_maptype=1;
+                          /* Configure at https://www.betterplace.org/de/projects/42019-rette-mit-einsatz-zur-seenotrettung-auf-dem-mittelmeer/manage/iframe_donation_form */
+                          var _bp_iframe        = _bp_iframe || {};
+                          _bp_iframe.project_id = 42019; /* REQUIRED */
+                          _bp_iframe.lang       = 'en'; /* Language of the form */
+                          /* Remove "//" for further customization but *only* if you really need to! */
+                          // _bp_iframe.width = 600; /* Custom iframe-tag-width, integer */
+                           _bp_iframe.color = '286482'; /* Button and banderole color, hex without "#" */
+                           _bp_iframe.background_color = '142D3C'; /* Background-color, hex without "#" */
+                          // _bp_iframe.default_amount = 50; /* Donation-amount, integer 1-99 */
+                          // _bp_iframe.default_data_transfer_accepted = false; /* true (default), false */
+                          // _bp_iframe.recurring_interval = 'single'; /* Interval for recurring donations, string out of ["single", "monthly", "quarter_yearly", "half_yearly", "yearly"] */
+                          (function() {
+                            var bp = document.createElement('script'); bp.type = 'text/javascript'; bp.async = true;
+                            bp.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'asset1.betterplace.org/assets/load_donation_iframe.js';
+                            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(bp, s);
+                          })();
                         </script>
-                        <script type="text/javascript"
-                            src="https://www.vesselfinder.com/aismap.js">
-                        </script>
+                        <div id="betterplace_donation_iframe" style="background: transparent url('https://www.betterplace.org/assets/new_spinner.gif') 275px 20px no-repeat;"><strong><a href="https://www.betterplace.org/de/projects/42019-rette-mit-einsatz-zur-seenotrettung-auf-dem-mittelmeer/donations/new">Jetzt Spenden für „Rette mit! - Einsatz zur Seenotrettung auf dem Mittelmeer“ bei unserem Partner betterplace.org</a></strong></div>
                         <!--<h4>Calculator</h4>
                         <div id="rechner">
                             <input type="Text" id="spendeinput" oninput="rechnen()"> €
@@ -185,26 +192,6 @@
                     </div>
 
                     <div class="column">
-                        <h4>donate directly</h4>
-                        <script type="text/javascript">
-                          /* Configure at https://www.betterplace.org/de/projects/42019-rette-mit-einsatz-zur-seenotrettung-auf-dem-mittelmeer/manage/iframe_donation_form */
-                          var _bp_iframe        = _bp_iframe || {};
-                          _bp_iframe.project_id = 42019; /* REQUIRED */
-                          _bp_iframe.lang       = 'en'; /* Language of the form */
-                          /* Remove "//" for further customization but *only* if you really need to! */
-                          // _bp_iframe.width = 600; /* Custom iframe-tag-width, integer */
-                           _bp_iframe.color = '286482'; /* Button and banderole color, hex without "#" */
-                           _bp_iframe.background_color = '142D3C'; /* Background-color, hex without "#" */
-                          // _bp_iframe.default_amount = 50; /* Donation-amount, integer 1-99 */
-                          // _bp_iframe.default_data_transfer_accepted = false; /* true (default), false */
-                          // _bp_iframe.recurring_interval = 'single'; /* Interval for recurring donations, string out of ["single", "monthly", "quarter_yearly", "half_yearly", "yearly"] */
-                          (function() {
-                            var bp = document.createElement('script'); bp.type = 'text/javascript'; bp.async = true;
-                            bp.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'asset1.betterplace.org/assets/load_donation_iframe.js';
-                            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(bp, s);
-                          })();
-                        </script>
-                        <div id="betterplace_donation_iframe" style="background: transparent url('https://www.betterplace.org/assets/new_spinner.gif') 275px 20px no-repeat;"><strong><a href="https://www.betterplace.org/de/projects/42019-rette-mit-einsatz-zur-seenotrettung-auf-dem-mittelmeer/donations/new">Jetzt Spenden für „Rette mit! - Einsatz zur Seenotrettung auf dem Mittelmeer“ bei unserem Partner betterplace.org</a></strong></div>
                     </div>
 
                     <div class="column hideme">
@@ -275,5 +262,15 @@
         <!-- Scripts -->
         <script src="../js/main.js?0"></script>
         <script src="../js/peekfield.js?2"></script>
+          <div id="ship-pos-container">
+            <div id="ship-pos">
+              <script type="text/javascript"
+                src="./js/vesselfinder-vars.js">
+              </script>
+              <script type="text/javascript"
+                src="https://www.vesselfinder.com/aismap.js">
+              </script>
+            </div>
+          </div>
     </body>
 </html>

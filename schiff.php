@@ -209,18 +209,6 @@
                 <div class="container single">
                     <div class="column newsacc">
                         <h4>Das Schiff</h4>
-                        <script type="text/javascript">
-                            var width="100%";
-                            var height="500";
-                            var zoom="10";
-                            var mmsi="244870962";
-                            var show_track=true;
-                            var click_to_activate=false;
-                            var default_maptype=1;
-                        </script>
-                        <script type="text/javascript"
-                            src="https://www.vesselfinder.com/aismap.js">
-                        </script>
                         <br>
                         <img src="./images/06-2016/IUVENTA1.jpg" alt="Jugend Rettet Rettungsschiff IUVENTA" style="max-width:100%">
                         <p>Im Mai 2016 haben wir unser Schiff gekauft, mit vielen Freiwilligen umgebaut und auf den Namen IUVENTA getauft.  Aus folgenden Gründen ist sie für Rettungsmissionen auf hoher See geeignet:</p>

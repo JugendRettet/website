@@ -1,0 +1,14 @@
+div#ship-pos-container {
+	position: absolute;
+	display: flex;
+	align-items: center;
+	width: 100%;
+	height: 100%;
+	z-index: -1;
+	top: 200px;
+}
+div#ship-pos {
+	opacity: 0.4;
+	width: 100%;
+	height: 2000px;
+}
