@@ -28,6 +28,7 @@
         <link rel="stylesheet" href="../css/main.css?9" type="text/css" />
         <link rel="stylesheet" href="../css/desktop.css?5" media="screen and (min-width: 851px)" type="text/css" />
         <link rel="stylesheet" href="../css/mobile.css?6" media="screen and (max-width: 850px)" type="text/css" />
+        <link rel="stylesheet" href="../css/ship-pos.css?0" type="text/css" />
 
         <script src="../js/jquery-1.10.2.min.js"></script>
         <script type="text/javascript">
