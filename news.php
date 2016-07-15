@@ -97,6 +97,27 @@
                       </div><br>
 
 
+                      <a class="faq" id="113"><b>22. Juli</b> Hans-Sachs-Gymnasium Nürnberg sammelt für Jugend Rettet</a>
+                        <div class="faq-klappe" id="113-klappe">
+                          <p>
+                            Das Hans-Sachs-Gymnasium in Nürnberg bekommt den Titel „Schule ohne Rassismus“ verliehen und sammelt unter dieser Initiative Spenden für Jugend Rettet. Danke an die SMV für die Organisation.
+                          </p>
+                        </div><br>
+                      
+                      <a class="faq" id="112"><b>14. Juli</b> Lena und Jakob in Rom beim MRCC</a>
+                        <div class="faq-klappe" id="112-klappe">
+                          <p>
+                            Lena und Jakob stellen heute beim UNA VIS Meeting in Rom Jugend Rettet vor. Für das Treffen sind alle NGOs, die im Mittelmeer tätig sind, die italienische Küstenwache und das Maritime Rescue Coordination Centre, das die Einsätze leitet, vor Ort.
+                          </p>
+                        </div><br>
+                      
+                      <a class="faq" id="111"><b>12. Juli</b> Die IUVENTA passiert die Säulen von Herakles</a>
+                        <div class="faq-klappe" id="111-klappe">
+                          <p>
+                            Um 6 Uhr morgens passiert die IUVENTA die Säulen von Herakles und ist damit offiziell im Mittelmeer angekommen.
+                          </p>
+                        </div><br>
+                      
                       <a class="faq" id="110"><b>5. Juli</b> Fußball fairbindet</a>
                         <div class="faq-klappe" id="110-klappe">
                           <p>

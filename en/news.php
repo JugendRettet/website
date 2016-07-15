@@ -98,6 +98,27 @@
                       </div><br>
 
 
+                    <a class="faq" id="80"><b>July 22nd</b> Hans-Sachs-Gymnasium Nuremberg collects donations for Jugend Rettet</a>
+                        <div class="faq-klappe" id="80-klappe">
+                          <p>
+                            The Hans-Sachs Gymnasium in Nuremberg awards the title "school without racism" and collects on this initiative donations for Jugend Rettet. Many thanks to the school council for organizing this.
+                          </p>
+                        </div><br>
+                      
+                      <a class="faq" id="79"><b>July 14th</b> Lena and Jakob in Rome at the MRRC</a>
+                        <div class="faq-klappe" id="79-klappe">
+                          <p>
+                            Lena and Jakob present Jugend Rettet today at the UNA VIS Meeting in Rome. All NGOs taking action in the Mediterranean, the Italian coastguard and the Maritime Rescue Coordination Centre, which coordinates all rescue operations on the Mediterranean are there for the meeting.
+                          </p>
+                        </div><br>
+                      
+                      <a class="faq" id="78"><b>July 12th</b> The IUVENTA passes the Pillars of Heracles</a>
+                        <div class="faq-klappe" id="78-klappe">
+                          <p>
+                            The IUVENTA passes the Pillars of Heracles and therefore officially arrived in the Mediterranean.
+                          </p>
+                        </div><br>
+                    
                     <a class="faq" id="77"><b>July 5th</b> Football connects</a>
                         <div class="faq-klappe" id="77-klappe">
                           <p>
