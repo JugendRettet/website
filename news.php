@@ -97,10 +97,18 @@
                       </div><br>
 
 
-                      <a class="faq" id="113"><b>22. Juli</b> Hans-Sachs-Gymnasium Nürnberg sammelt für Jugend Rettet</a>
-                        <div class="faq-klappe" id="113-klappe">
+                      
+                      <a class="faq" id="114"><b>22. Juli</b> Hans-Sachs-Gymnasium Nürnberg sammelt für Jugend Rettet</a>
+                        <div class="faq-klappe" id="114-klappe">
                           <p>
                             Das Hans-Sachs-Gymnasium in Nürnberg bekommt den Titel „Schule ohne Rassismus“ verliehen und sammelt unter dieser Initiative Spenden für Jugend Rettet. Danke an die SMV für die Organisation.
+                          </p>
+                        </div><br>
+                      
+                      <a class="faq" id="113"><b>17. Juli</b> G&#295;andi pja&#267;ir, Valetta! - Die Iuventa erreicht Malta</a>
+                        <div class="faq-klappe" id="113-klappe">
+                          <p>
+                            Nun dauert es nicht mehr lange bis die IUVENTA ihr eigentliches Ziel verfolgen kann: die Rettung aus Menschen in Seenot. Wir rechnen derzeit damit, dass sie am 24. Juli zu ihrer ersten Mission aufbrechen kann.<br><img src="./images/07-2016/iuventa.jpg" class="news">
                           </p>
                         </div><br>
                       
