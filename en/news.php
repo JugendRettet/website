@@ -98,10 +98,17 @@
                       </div><br>
 
 
-                    <a class="faq" id="80"><b>July 22nd</b> Hans-Sachs-Gymnasium Nuremberg collects donations for Jugend Rettet</a>
-                        <div class="faq-klappe" id="80-klappe">
+                    <a class="faq" id="81"><b>July 22nd</b> Hans-Sachs-Gymnasium Nuremberg collects donations for Jugend Rettet</a>
+                        <div class="faq-klappe" id="81-klappe">
                           <p>
                             The Hans-Sachs Gymnasium in Nuremberg awards the title "school without racism" and collects on this initiative donations for Jugend Rettet. Many thanks to the school council for organizing this.
+                          </p>
+                        </div><br>
+                      
+                      <a class="faq" id="80"><b>July 17th</b> G&#295;andi pja&#267;ir, Valetta! - The Iuventa reaches Malta</a>
+                        <div class="faq-klappe" id="80-klappe">
+                          <p>
+                            Not too long now until the IUVENTA will fulfil her intended goal: rescue people in maritime distress. We reckon she will leave for her first mission on 24th of July.<br><img src="../images/07-2016/iuventa.jpg" class="news">
                           </p>
                         </div><br>
                       
