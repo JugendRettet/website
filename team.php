@@ -91,6 +91,7 @@
                             <li><b>Jakob</b>:  Konzeption, Recht, Finanzen</li>
                             <li><b>Pauline</b>:  Öffentlichkeit, Presse</li>
                             <li><b>Jojo</b>:  Öffentlichkeit, Presse, Inhalte</li>
+                            <li><b>Isabel</b>:  Öffentlichkeit, Presse</li>
                             <li><b>Alex</b>:  Technischer Leiter, Website, Gestaltung</li>
                             <li><b>Titus</b>:  Koordinator Schiff</li>
                             <li><b>Matthias</b>:  Recherche, Crew</li>

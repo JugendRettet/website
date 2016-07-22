@@ -539,7 +539,7 @@
                           <li>&#10003; We bought the ship in May, reconstructed her and named her IUVENTA</li>
                           <li>&#10003; We built a network of 38 ambassadors in 30 European cities.</li>
                           <li>&#10003; We won German actors like Jan Josef Liefers, Maria Furtwängler, Armin Rohde and Jasmin Gerat as advocates for <i>Jugend Rettet</i>.</li>
-                          <li>&#10003; We established a core team of 10 people in Berlin.</li>
+                          <li>&#10003; We established a core team of 11 people in Berlin.</li>
                           <li>&#10003; We succesfully finished funding phases 1 and 2 and the reconstruction to send the IUVENTA to her first rescue mission.</li>
                         </ul>
                         <br>

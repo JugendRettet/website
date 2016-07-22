@@ -92,6 +92,7 @@
                           <li><b>Jakob</b>:  Concept, Law, Finance</li>
                           <li><b>Pauline</b>:  Public Relations, Press</li>
                           <li><b>Jojo</b>:  Public Relations, Press, Content</li>
+                          <li><b>Isabel</b>:  Public Relations, Press</li>
                           <li><b>Alex</b>:  Technical Director, Website, Layout</li>
                           <li><b>Titus</b>:  Coordinator Ship</li>
                           <li><b>Matthias</b>:  Research, crew</li>
