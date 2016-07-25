@@ -129,6 +129,7 @@
                         <ul>
                             <li>Aachen: <a href="mailto:Luisa@jugendrettet.org">Luisa</a></li>
                             <li>Allgäu: <a href="mailto:Lioba@jugendrettet.org">Lioba</a></li>
+                            <li>Berlin: <a href="mailto:Leonie-Berlin@jugendrettet.org">Leonie</a></li>
                             <li>Berlin: <a href="mailto:Lukas@jugendrettet.org">Lukas</a></li>
                             <li>Berlin: <a href="mailto:Sonja@jugendrettet.org">Sonja</a></li>
                             <li>Bonn: <a href="mailto:AnnaB@jugendrettet.org">Anna</a></li>
