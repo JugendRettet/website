@@ -124,18 +124,8 @@
                         <ul>
                             <li>Erster Vorsitzender: Jakob Schoen</li>
                             <li>Zweite Vorsitzende: Lena Waldhoff</li>
-                            <li>Clara Louise Scheer (Schatzmeisterin)</li>
                         </ul>
                         <br>
-                        <p>
-                            Weitere offizielle Mitglieder des Vereins:
-                        </p>
-                        <ul>
-                            <li>Ronja Krampitz</li>
-                            <li>Ronja Guggemos</li>
-                            <li>Anne Rittinghaus</li>
-                            <li>Johanna Bauernschmitt</li>
-                        </ul>
                         <h4>5. TÄTIGKEITSBERICHT</h4>
                         <p>
                             Eine Übersicht über die Tätigkeiten des Vereins finden Sie in unserem <a target="_blank" href="./files/Jahresbericht_2015.pdf">Jahresbericht 2015</a>.
