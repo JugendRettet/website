@@ -97,6 +97,15 @@
                           </div>
                       </div><br>
 
+                    <a class="faq" id="87"><b>July 29th</b> First rescue mission</a>
+                        <div class="faq-klappe" id="87-klappe">
+                          <p>
+                            426 people in maritime emergency were rescued by our crew of "Mission Solidarity". They were in wooden and rubber boats on the way. The crew supplied 146 directly on board of the <i>IUVENTA</i>, additional 280 were stabilised with life jackets and supplied.
+                          </p>
+                          <p>
+                            Everyone on maritime emergency deserves rescue.
+                          </p>
+                        </div><br>
 
                     <a class="faq" id="81"><b>July 22nd</b> Hans-Sachs-Gymnasium Nuremberg collects donations for Jugend Rettet</a>
                         <div class="faq-klappe" id="81-klappe">

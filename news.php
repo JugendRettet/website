@@ -97,6 +97,16 @@
                       </div><br>
 
 
+                      <a class="faq" id="120"><b>29. Juli</b> Erster Rettungseinsatz</a>
+                        <div class="faq-klappe" id="120-klappe">
+                          <p>
+                            426 Menschen konnten von unserer Crew der "Mission Solidarity" aus Seenot gerettet werden. Sie waren in Holz- und Schlauchbooten unterwegs. 146 Menschen wurden direkt an Bord der <i>IUVENTA</i> genommen und versorgt, weitere 280 Menschen wurden mit Rettungswesten stabilisiert und von Bord aus versorgt.
+                          </p>
+                          <p>
+                            Jeder Mensch verdient die Rettung aus Seenot.
+                          </p>
+                        </div><br>
+
                       
                       <a class="faq" id="114"><b>22. Juli</b> Hans-Sachs-Gymnasium Nürnberg sammelt für Jugend Rettet</a>
                         <div class="faq-klappe" id="114-klappe">
