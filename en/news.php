@@ -107,10 +107,46 @@
                           </p>
                         </div><br>
 
-                    <a class="faq" id="81"><b>July 22nd</b> Hans-Sachs-Gymnasium Nuremberg collects donations for Jugend Rettet</a>
-                        <div class="faq-klappe" id="81-klappe">
+                    <a class="faq" id="86"><b>July 27th</b> There’s Jugend Rettet Merchandise</a>
+                        <div class="faq-klappe" id="86-klappe">
+                          <p>
+                            Sea rescue with a T-shirt? You asked for it - we did it. Join the rescue and wear our lovely T-shirts, zippers and jumpers. The profits are directly going to our mission Humanity. By the way, the merchandise is not only completely fair-trade, but also from organic cotton and very comfy: <a target="_blank" href="https://jugendrettet.org/merch">jugendrettet.org/merch</a>
+                          </p>
+                        </div><br>
+
+                    <a class="faq" id="85"><b>July 24th</b> Mission „Solidarity“ leaves for starting the rescue</a>
+                        <div class="faq-klappe" id="85-klappe">
+                          <p>
+                            The <i>IUVENTA</i> starts her first mission. Every of mission has its own name. We call the first one „Solidarity“. The <i>IUVENTA</i> leaves Valetta at 8:00 pm and will be located in the operational area (12 nautical miles from the Libyan coast) from 26th of July. A massive thanks goes out to the crew! We wish you great strength in your dedicated and important work.
+                          </p>
+                        </div><br>
+
+                    <a class="faq" id="84"><b>July 22nd</b> Thomas from Sea Watch shares his experiences</a>
+                        <div class="faq-klappe" id="84-klappe">
+                          <p>
+                            Thomas from Sea Watch shares his experiences, which he collected during three missions, with our first crew. 
+                          </p>
+                        </div><br>
+
+                    <a class="faq" id="83"><b>July 22nd</b> Hans-Sachs-Gymnasium Nuremberg collects donations for Jugend Rettet</a>
+                        <div class="faq-klappe" id="83-klappe">
                           <p>
                             The Hans-Sachs Gymnasium in Nuremberg awards the title "school without racism" and collects on this initiative donations for Jugend Rettet. Many thanks to the school council for organizing this.
+                          </p>
+                        </div><br>
+
+                    <a class="faq" id="82"><b>July 21st</b> Spanish newspaper writes about Jugend Rettet </a>
+                        <div class="faq-klappe" id="82-klappe">
+                          <p>
+                            The Spanish newspaper europa press publishes an article about us.<br>
+                            <a target="_blank" href="http://www.europapress.es/internacional/noticia-jovenes-europeos-toman-iniciativa-salvar-vidas-mediterraneo-20160721114308.html">→ Link</a>
+                          </p>
+                        </div><br>
+
+                    <a class="faq" id="81"><b>July 21st</b> Preparation for the first mission</a>
+                        <div class="faq-klappe" id="81-klappe">
+                          <p>
+                            Our crew is currently preparing themselves for the first operation which starts this weekend. Navigator Nadja guides the safety training on board.
                           </p>
                         </div><br>
                       

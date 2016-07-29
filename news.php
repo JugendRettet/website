@@ -107,11 +107,46 @@
                           </p>
                         </div><br>
 
-                      
-                      <a class="faq" id="114"><b>22. Juli</b> Hans-Sachs-Gymnasium Nürnberg sammelt für Jugend Rettet</a>
-                        <div class="faq-klappe" id="114-klappe">
+                      <a class="faq" id="119"><b>27. Juli</b> Jugend Rettet Merchandise ist da</a>
+                        <div class="faq-klappe" id="119-klappe">
+                          <p>
+                            Seenotrettung mit einem T-Shirt? Ihr habt gefragt - wir haben gemacht. Rette mit und trage schöne T-Shirts, Zipper und Pullis. Der Erlös fließt direkt in Mission Humanity! Die Artikel sind übrigens nicht nur Fairtrade, sondern auch aus Biobaumwolle und sehr gemütlich: <a target="_blank" href="https://jugendrettet.org/merch">jugendrettet.org/merch</a>
+                          </p>
+                        </div><br>
+
+                      <a class="faq" id="118"><b>24. Juli</b> Mission „Solidarity“ startet ins Einsatzgebiet</a>
+                        <div class="faq-klappe" id="118-klappe">
+                          <p>
+                            Die <i>IUVENTA</i> beginnt mit ihrer ersten Mission. Jede unserer Missionen hat ihren eigenen Namen. Die erste haben wir „Solidarity“ getauft. Um 20:00 Uhr Ortszeit verlässt die IUVENTA den Hafen und ist ab 26.7. im Einsatzgebiet (12 Seemeilen vor der Libyschen Küste) unterwegs. Wir danken der Crew für ihren Einsatz und wünschen euch allen viel Kraft für eure wichtige Arbeit.
+                          </p>
+                        </div><br>
+
+                      <a class="faq" id="117"><b>22. Juli</b> Thomas von Sea Watch teilt seine Erfahrungen</a>
+                        <div class="faq-klappe" id="117-klappe">
+                          <p>
+                            Thomas von Sea Watch teilt seine Erfahrungen, die er bei drei Rettungsmissionen gesammelt hat, mit unserer ersten Einsatzcrew. Vielen Dank!
+                          </p>
+                        </div><br>
+
+                      <a class="faq" id="116"><b>22. Juli</b> Hans-Sachs-Gymnasium Nürnberg sammelt für Jugend Rettet</a>
+                        <div class="faq-klappe" id="116-klappe">
                           <p>
                             Das Hans-Sachs-Gymnasium in Nürnberg bekommt den Titel „Schule ohne Rassismus“ verliehen und sammelt unter dieser Initiative Spenden für Jugend Rettet. Danke an die SMV für die Organisation.
+                          </p>
+                        </div><br>
+
+                      <a class="faq" id="115"><b>21. Juli</b> Jugend Rettet in der spanischen Presse</a>
+                        <div class="faq-klappe" id="115-klappe">
+                          <p>
+                            Die spanische Zeitung europa press veröffentlicht einen Artikel über uns.<br>
+                            <a target="_blank" href="http://www.europapress.es/internacional/noticia-jovenes-europeos-toman-iniciativa-salvar-vidas-mediterraneo-20160721114308.html">→ Link</a>
+                          </p>
+                        </div><br>
+                      
+                      <a class="faq" id="114"><b>21. Juli</b> Einsatzvorbereitungen der Crew</a>
+                        <div class="faq-klappe" id="114-klappe">
+                          <p>
+                            Unsere erste Crew bereitet sich auf ihren Einsatz am kommenden Wochenende vor. Nautikerin Nadja leitet die Sicherheitsübungen an Bord an.
                           </p>
                         </div><br>
                       
