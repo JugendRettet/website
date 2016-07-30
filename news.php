@@ -117,7 +117,7 @@
                       <a class="faq" id="118"><b>24. Juli</b> Mission „Solidarity“ startet ins Einsatzgebiet</a>
                         <div class="faq-klappe" id="118-klappe">
                           <p>
-                            Die <i>IUVENTA</i> beginnt mit ihrer ersten Mission. Jede unserer Missionen hat ihren eigenen Namen. Die erste haben wir „Solidarity“ getauft. Um 20:00 Uhr Ortszeit verlässt die IUVENTA den Hafen und ist ab 26.7. im Einsatzgebiet (12 Seemeilen vor der Libyschen Küste) unterwegs. Wir danken der Crew für ihren Einsatz und wünschen euch allen viel Kraft für eure wichtige Arbeit.
+                            Die <i>IUVENTA</i> beginnt mit ihrer ersten Mission. Jede unserer Missionen hat ihren eigenen Namen. Die erste haben wir „Solidarity“ getauft. Um 20:00 Uhr Ortszeit verlässt die <i>IUVENTA</i> den Hafen und ist ab 26.7. im Einsatzgebiet (12 Seemeilen vor der Libyschen Küste) unterwegs. Wir danken der Crew für ihren Einsatz und wünschen euch allen viel Kraft für eure wichtige Arbeit.
                           </p>
                         </div><br>
 
