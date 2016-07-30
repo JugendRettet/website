@@ -74,7 +74,7 @@
                     <div class="column">
                         <h4>The Team</h4>
                         <a href="../images/JR_kernteam_ah-02005.jpg" target="_blank"><img alt="team" class="news" src='../images/JR_kernteam_ah-02005_s.jpg'></a>
-                        <br>
+                        <br><br>
                         <p>
                             <b><a href="/presse">→ press contact</a></b>
                         </p>
