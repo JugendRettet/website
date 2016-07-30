@@ -97,6 +97,13 @@
                           </div>
                       </div><br>
 
+                    <a class="faq" id="88"><b>July 30th</b> 131 people rescued</a>
+                        <div class="faq-klappe" id="88-klappe">
+                          <p>
+                            Our crew saved 131 people, who were on a rubber boat. One baby among them.
+                          </p>
+                        </div><br>
+                    
                     <a class="faq" id="87"><b>July 29th</b> First rescue mission</a>
                         <div class="faq-klappe" id="87-klappe">
                           <p>
