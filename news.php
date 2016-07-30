@@ -97,6 +97,13 @@
                       </div><br>
 
 
+                      <a class="faq" id="121"><b>30. Juli</b> 131 Menschen gerettet</a>
+                        <div class="faq-klappe" id="121-klappe">
+                          <p>
+                            Unsere Crew hat erneut Menschen aufgenommen: 131 Menschen, darunter ein Säugling.
+                          </p>
+                        </div><br>
+                      
                       <a class="faq" id="120"><b>29. Juli</b> Erster Rettungseinsatz</a>
                         <div class="faq-klappe" id="120-klappe">
                           <p>
