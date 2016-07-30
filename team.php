@@ -73,23 +73,16 @@
                     <div class="column">
                         <h4>Das Team</h4>
                         <a href="./images/JR_kernteam_ah-02005.jpg" target="_blank"><img alt="team" class="news" src='./images/JR_kernteam_ah-02005_s.jpg'></a>
-                        <ul>
-                            <li><b>Jakob</b>: Gründer und 1. Vorsitzender
-                                <br>
-                                Tel.: <a href="tel:+4916095683873">+49 160 95 68 38 73</a>
-                            </li>
-                            <li><b>Lena</b>: 2. Vorsitzende
-                                <br>
-                                Tel.: <a href="tel:+4915168446398">+49 151 68 44 63 98</a>
-                            </li>
-                        </ul>
+                        <p>
+                            <a href="/presse">→ Pressekontakt</a>
+                        </p>
                         <br>
                         <ul>
-                            <li><b>Lena</b>:  Organisation, Koordination Botschafter, Konzeption</li>
+                            <li><b>Jakob</b>:  Gründer und 1. Vorsitzender, Konzeption, Recht, Finanzen</li>
+                            <li><b>Lena</b>:  2. Vorsitzende, Organisation, Koordination Botschafter, Konzeption</li>
                             <li><b>Sahra</b>:  Konzeption, Gestaltung</li>
                             <li><b>Sonja</b>:  Organisation, Recht, Finanzen</li>
-                            <li><b>Jakob</b>:  Konzeption, Recht, Finanzen</li>
-                            <li><b>Pauline</b>:  Öffentlichkeit, Presse</li>
+                            <li><b>Pauline</b>:  Leiterin Pressekontakt</li>
                             <li><b>Jojo</b>:  Öffentlichkeit, Presse, Inhalte</li>
                             <li><b>Isabel</b>:  Öffentlichkeit, Presse</li>
                             <li><b>Alex</b>:  Technischer Leiter, Website, Gestaltung</li>

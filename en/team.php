@@ -74,23 +74,16 @@
                     <div class="column">
                         <h4>The Team</h4>
                         <a href="../images/JR_kernteam_ah-02005.jpg" target="_blank"><img alt="team" class="news" src='../images/JR_kernteam_ah-02005_s.jpg'></a>
-                        <ul>
-                            <li><b>Jakob</b>: Founder and 1st Chairman
-                                <br>
-                                Tel.: <a href="tel:+4916095683873">+49 160 95 68 38 73</a>
-                            </li>
-                            <li><b>Lena</b>: 2nd Chairman
-                                <br>
-                                Tel.: <a href="tel:+4915168446398">+49 151 68 44 63 98</a>
-                            </li>
-                        </ul>
+                        <p>
+                            <a href="/presse">→ press contact</a>
+                        </p>
                         <br>
                         <ul>
-                          <li><b>Lena</b>:  Organisation, Coordination of Ambassadors, Concept</li>
+                          <li><b>Jakob</b>:  Founder and 1st Chairman, Concept, Law, Finance</li>
+                          <li><b>Lena</b>:  2nd Chairman, Organisation, Coordination of Ambassadors, Concept</li>
                           <li><b>Sahra</b>:  Concept, Design</li>
                           <li><b>Sonja</b>:  Organisation, Law, Finance</li>
-                          <li><b>Jakob</b>:  Concept, Law, Finance</li>
-                          <li><b>Pauline</b>:  Public Relations, Press</li>
+                          <li><b>Pauline</b>:  Head of Press</li>
                           <li><b>Jojo</b>:  Public Relations, Press, Content</li>
                           <li><b>Isabel</b>:  Public Relations, Press</li>
                           <li><b>Alex</b>:  Technical Director, Website, Layout</li>
