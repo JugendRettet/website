@@ -155,6 +155,8 @@
                             <li>Munich: <a href="mailto:Lisa@jugendrettet.org">Lisa</a></li>
                             <li>Münster: <a href="mailto:Jana@jugendrettet.org">Jana</a></li>
                             <li>Nuremberg: <a href="mailto:Jojo@jugendrettet.org">Jojo</a></li>
+                            <li>Paderborn: <a href="mailto:Paderborn@jugendrettet.org">Elisa</a></li>
+                            <li>Paderborn: <a href="mailto:Paderborn@jugendrettet.org">Josefine</a></li>
                             <li>Paderborn: <a href="mailto:Paderborn@jugendrettet.org">Wiebke</a></li>
                             <li>Paris: <a href="mailto:Patrick@jugendrettet.org">Patrick</a></li>
                             <li>Potsdam: <a href="mailto:Christoph@jugendrettet.org">Christoph</a></li>
