@@ -71,7 +71,7 @@
                     <div class="column">
                         <h3>Press</h3>
 
-                        <p>Pauline Schmidt</p>
+                        <p>Pauline</p>
                         <p>Head of Press Jugend Rettet</p>
                         <p>Postfach 36 03 55 D- 10973 Berlin</p>
                         <p>Mail: <a href="mailto:Pauline@jugendrettet.org">Pauline@jugendrettet.org</a></p>
