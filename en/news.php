@@ -103,7 +103,7 @@
                             426 people in maritime emergency were rescued by our crew of "Mission Solidarity". They were in wooden and rubber boats on the way. The crew supplied 146 directly on board of the <i>IUVENTA</i>, additional 280 were stabilised with life jackets and supplied.
                           </p>
                           <p>
-                            Everyone on maritime emergency deserves rescue.
+                            Everyone in maritime emergency deserves rescue.
                           </p>
                         </div><br>
 
