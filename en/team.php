@@ -102,7 +102,7 @@
                         </ul>
                         <br>
                         <h4>The Crew</h4>
-                        <p>will consist of:</p>
+                        <p>consists of:</p>
                         <ul style="list-style: inherit;">
                             <li>Captain</li>
                             <li>Navigator</li>

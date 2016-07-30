@@ -101,7 +101,7 @@
                         </ul>
                         <br>
                         <h4>Die Crew</h4>
-                        <p>wird bestehen aus:</p>
+                        <p>besteht aus:</p>
                         <ul style="list-style: inherit;">
                             <li>Kapitän_in</li>
                             <li>Steuermann_frau</li>
