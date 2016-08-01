@@ -117,7 +117,7 @@
                         <p>Unsere Deckhands legen STCW - Basic Safety Trainings ab.</p>
                     </div>
                     <div class="column">
-                        <h4>Botschafter</h4>
+                        <h4>Botschaften</h4>
                         <iframe style="margin:20px 0 0;width:100%;height:300px" frameborder="0" src="https://a.tiles.mapbox.com/v4/leonvogler.nd99673k/attribution,zoompan,zoomwheel,share.html?access_token=pk.eyJ1IjoibGVvbnZvZ2xlciIsImEiOiI0MTI2MDcxMzk2MWI2NDczYzRjNzY5OWI4ZmRmODUyYiJ9.Bys3jr3YtztwTuGQ30NLug"></iframe>
                         <ul>
                             <li>Aachen: <a href="mailto:Luisa@jugendrettet.org">Luisa</a></li>
@@ -165,7 +165,7 @@
                         <br>
                     </div>
                     <div class="column">
-                        <h4>Unterstützer</h4>
+                        <h4>Unterstützung</h4>
 
                         <img src="graphics/jpd.svg" alt="JPD" style="background-color:white;width:100%;padding:5px">
                         <span>Jugendpresse.de</span>
