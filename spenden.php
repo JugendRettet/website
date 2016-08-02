@@ -150,10 +150,13 @@
                             <p><b>Kreditinstitut:</b> Berliner Sparkasse</p>
                         </div>
                         <br>
-                        <h4>Transparenz</h4>
-                        <a href="./transparenz"><img style="width:calc(100% - 12px);padding:5px;background:white;border:solid 1px #286482;" src="./graphics/Transparente_Zivilgesellschaft.svg"></a>
-                        <br>
-                        <p><a href="./faq#18">Was passiert mit den Spendengeldern, wenn wir unser Ziel nicht erreichen?</a></p>
+                        <h4>Merchandise</h4>
+                        <p>
+                            <a href="/merch">Seenotrettung mit einem T-Shirt? Ihr habt gefragt - wir haben gemacht. Rette mit
+                            und trage schöne T-Shirts, Zipper und Pullis. Der Erlös fließt direkt in Mission
+                            Humanity! Die Artikel sind übrigens nicht nur Fairtrade, sondern auch aus
+                            Biobaumwolle und sehr gemütlich.</a>
+                        </p>
                         <br>
                         <h4>direkt spenden</h4>
                         <script type="text/javascript">
