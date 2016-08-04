@@ -97,6 +97,13 @@
                       </div><br>
 
 
+                      <a class="faq" id="122"><b>2. August</b> IUVENTA im Einsatzgebiet</a>
+                        <div class="faq-klappe" id="121-klappe">
+                          <p>
+                            Seit einer Woche sind wir nun mit der IUVENTA im Einsatzgebiet unterwegs und konnten in dieser Zeit 1.228 Menschen aus Seenot retten. Zwei Menschen konnten trotz Wiederbelebungsmaßnahmen nicht mehr gerettet werden. Wir fordern legale Einreisewege!
+                          </p>
+                        </div><br>
+                      
                       <a class="faq" id="121"><b>30. Juli</b> 131 Menschen gerettet</a>
                         <div class="faq-klappe" id="121-klappe">
                           <p>

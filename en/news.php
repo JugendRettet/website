@@ -97,6 +97,13 @@
                           </div>
                       </div><br>
 
+                    <a class="faq" id="89"><b>July 30th</b> IUVENTA in operational area</a>
+                        <div class="faq-klappe" id="89-klappe">
+                          <p>
+                            We’re in our operational area with IUVENTA for almost one week now and could save 1.228 people. Despite the revival measures two people couldn't be saved. We demand legal possibilities of entry.
+                          </p>
+                        </div><br>
+                    
                     <a class="faq" id="88"><b>July 30th</b> 131 people rescued</a>
                         <div class="faq-klappe" id="88-klappe">
                           <p>
