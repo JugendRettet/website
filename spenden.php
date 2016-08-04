@@ -152,7 +152,7 @@
                         <br>
                         <h4>Merchandise</h4>
                         <p>
-                            <a href="/merch">Seenotrettung mit einem T-Shirt? Ihr habt gefragt - wir haben gemacht. Rette mit
+                            <a target="_blank" href="/merch">Seenotrettung mit einem T-Shirt? Ihr habt gefragt - wir haben gemacht. Rette mit
                             und trage schöne T-Shirts, Zipper und Pullis. Der Erlös fließt direkt in Mission
                             Humanity! Die Artikel sind übrigens nicht nur Fairtrade, sondern auch aus
                             Biobaumwolle und sehr gemütlich.</a>

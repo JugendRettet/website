@@ -147,8 +147,10 @@
                             <p><b>Bank:</b> Berliner Sparkasse</p>
                         </div>
                         <br>
-                        <h4>Transparency (de)</h4>
-                        <a href="https://jugendrettet.org/transparenz"><img style="width:calc(100% - 12px);padding:5px;background:white;border:solid 1px #286482;" src="../graphics/Transparente_Zivilgesellschaft.svg"></a>
+                        <h4>Merchandise</h4>
+                        <p>
+                            <a target="_blank" href="/merch">Sea rescue with a T-shirt? You asked for it - we did it. Join the rescue and wear our lovely T-shirts, zippers and jumpers. The profits are directly going to our mission 'Humanity'. By the way, the merchandise is not only completely fair-trade, but also from organic cotton and very comfy.</a>
+                        </p>
                         <br>
                         <h4>donate directly</h4>
                         <script type="text/javascript">
