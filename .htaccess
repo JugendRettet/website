@@ -43,6 +43,8 @@
  </filesmatch>
 </ifmodule>
 
+Redirect /donate /spenden
+
 Redirect /betterplace https://www.betterplace.org/de/projects/42019-rette-mit-einsatz-zur-seenotrettung-auf-dem-mittelmeer
 Redirect /Betterplace https://www.betterplace.org/de/projects/42019-rette-mit-einsatz-zur-seenotrettung-auf-dem-mittelmeer
 
