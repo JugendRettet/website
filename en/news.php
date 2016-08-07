@@ -30,6 +30,8 @@
         <link rel="stylesheet" href="../css/mobile.css?6" media="screen and (max-width: 850px)" type="text/css" />
         <link rel="stylesheet" href="../css/ship-pos.css?0" type="text/css" />
 
+
+
         <script src="../js/jquery-1.10.2.min.js"></script>
         <script type="text/javascript">
             $(window).load(function() {
@@ -89,6 +91,12 @@
                               <form action="//jugendrettet.us11.list-manage.com/subscribe/post?u=f6a6af2c458db9585a65cbee8&amp;id=cf9c18faae" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
                                   <div id="mc_embed_signup_scroll">
                                       <input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="Your email address" required>
+                                      <div style="display:none;" class="mc-field-group input-group">
+                                        <strong>Sprache / Language </strong>
+                                        <ul><li><input type="radio" value="1" name="group[14025]" id="mce-group[14025]-14025-0"><label for="mce-group[14025]-14025-0">Deutsch</label></li>
+                                        <li><input type="radio" value="2" name="group[14025]" id="mce-group[14025]-14025-1" checked="checked"><label for="mce-group[14025]-14025-1">English</label></li>
+                                        </ul>
+                                      </div>
                                       <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
                                       <div style="position: absolute; left: -5000px;"><input type="text" name="b_f6a6af2c458db9585a65cbee8_cf9c18faae" tabindex="-1" value=""></div>
                                       <div class="clear"><input type="submit" value="OK" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
