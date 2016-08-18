@@ -105,6 +105,27 @@
                           </div>
                       </div><br>
 
+                    <a class="faq" id="92"><b>August 5th</b> Mission Equality starts</a>
+                        <div class="faq-klappe" id="92-klappe">
+                          <p>
+                            Our second crew left Valetta for the SAR-zone today at noon. We named the mission Equality as we stand up for everyone having equal rights. Everyone in maritime emergency deserves rescue, regardless how they got there and where they come from.
+                          </p>
+                        </div><br>
+                    
+                    <a class="faq" id="91"><b>August 5th</b> Mission Solidarity completed</a>
+                        <div class="faq-klappe" id="91-klappe">
+                          <p>
+                            Our first crew was able to rescue 1388 people in maritime emergency. We’re very proud and grateful.
+                          </p>
+                        </div><br>
+                    
+                    <a class="faq" id="90"><b>August 2nd</b> In the SAR for one week</a>
+                        <div class="faq-klappe" id="90-klappe">
+                          <p>
+                            
+                          </p>
+                        </div><br>
+                    
                     <a class="faq" id="89"><b>July 30th</b> IUVENTA in operational area</a>
                         <div class="faq-klappe" id="89-klappe">
                           <p>

@@ -103,7 +103,21 @@
                       </div><br>
 
 
-                      <a class="faq" id="122"><b>2. August</b> IUVENTA im Einsatzgebiet</a>
+                      <a class="faq" id="124"><b>12. August</b> Mission Equality startet</a>
+                        <div class="faq-klappe" id="124-klappe">
+                          <p>
+                            Unsere zweite Crew hat heute Mittag Valetta verlassen und befindet sich auf dem Weg in die SAR-Zone. Die Mission läuft unter dem Namen Equality: Wir setzen uns dafür ein, dass jeder Mensch die gleichen Rechte hat. Jeder Mensch verdient die Rettung aus Seenot, egal aus welchen Gründen man in diese Lage kommt oder woher man stammt.
+                          </p>
+                        </div><br>
+                      
+                      <a class="faq" id="123"><b>5. August</b> Mission Solidarity abgeschlossen</a>
+                        <div class="faq-klappe" id="123-klappe">
+                          <p>
+                            1388 Menschen konnte unsere erste Crew retten. Wir sind sehr stolz und danken euch für euren großartigen Einsatz!
+                          </p>
+                        </div><br>
+                      
+                      <a class="faq" id="122"><b>2. August</b> Eine Woche im Einsatzgebiet</a>
                         <div class="faq-klappe" id="122-klappe">
                           <p>
                             Seit einer Woche sind wir nun mit der IUVENTA im Einsatzgebiet unterwegs und konnten in dieser Zeit 1.228 Menschen aus Seenot retten. Zwei Menschen konnten trotz Wiederbelebungsmaßnahmen nicht mehr gerettet werden. Wir fordern legale Einreisewege!
