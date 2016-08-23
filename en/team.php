@@ -141,9 +141,11 @@
                             <li>Groningen: <a href="mailto:LenaP@jugendrettet.org">Lena</a></li>
                             <li>Hamburg: <a href="mailto:Marco@jugendrettet.org">Marco</a></li>
                             <li>Hanover: <a href="mailto:Micheel@jugendrettet.org">Micheel</a></li>
+                            <li>Kassel: <a href="mailto:Leif_Kassel@jugendrettet.org">Leif</a></li>
                             <li>Kiel: <a href="mailto:Matthis@jugendrettet.org">Matthis</a></li>
                             <li>Liechtenstein: <a href="mailto:David@jugendrettet.org">David</a></li>
                             <li>Liechtenstein: <a href="mailto:Helena@jugendrettet.org">Helena</a></li>
+                            <li>Limburg: <a href="mailto:Matthias_Limburg@jugendrettet.org">Matthias</a></li>
                             <li>London: <a href="mailto:LenaG@jugendrettet.org">Lena</a></li>
                             <li>Lüneburg: <a href="mailto:Alex@jugendrettet.org">Alex</a></li>
                             <li>Munich: <a href="mailto:Leo@jugendrettet.org">Leo</a></li>
