@@ -215,7 +215,7 @@
                         <div style="display:initial;" id="phase">
                             <div class="ph-container" id="ph-eins">
                                 <div class="header" style="text-align:center;">
-                                    <span class="percentage">Mission Unity: <?php echo $value1;?> / 40,000 €</span>
+                                    <span class="percentage">Mission Unity: <?php echo $value1;?> / 75,850 €</span>
                                     <!--<span class="percentage">Month 2</span>-->
                                     <hr id="ph-eins-progress">
                                 </div>
