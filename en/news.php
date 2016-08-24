@@ -105,6 +105,13 @@
                           </div>
                       </div><br>
 
+                    <a class="faq" id="93"><b>August 20th</b> End of Mission Equality</a>
+                        <div class="faq-klappe" id="93-klappe">
+                          <p>
+                            For our crew of Mission Equality a short mission with few application has come to an end. After a couple of uneasy days at sea too dangerous to attempt the crossing, they were able to conduct sea rescue of 140 people together with Moas and Sea Watch. Now they're back in Malta safe and sound. Thank you for your effort! #missionequality
+                          </p>
+                        </div><br>
+                    
                     <a class="faq" id="92"><b>August 5th</b> Mission Equality starts</a>
                         <div class="faq-klappe" id="92-klappe">
                           <p>
