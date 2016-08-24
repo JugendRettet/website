@@ -90,9 +90,9 @@
                 transition: 800ms ease;
                 width: <?php
                     $phase1 = file_get_contents('../donations/phase1.txt');
-                    $value1 = number_format((float)$phase1,2,".",",");
-                    $sd = ( 1000 - ( 1000 * ( $phase1 / 40000 ) ) );
-                    echo 100 / 40000 * $phase1;
+                    $value1 = number_format((float)$phase1,0,".",",");
+                    $sd = ( 1000 - ( 1000 * ( $phase1 / 75850 ) ) );
+                    echo 100 / 75850 * $phase1;
                     ?>%;
             }
         </style>
@@ -215,7 +215,7 @@
                         <div style="display:initial;" id="phase">
                             <div class="ph-container" id="ph-eins">
                                 <div class="header" style="text-align:center;">
-                                    <span class="percentage">Month 2: <?php echo $value1;?> / 40,000 €</span>
+                                    <span class="percentage">Mission Unity: <?php echo $value1;?> / 40,000 €</span>
                                     <!--<span class="percentage">Month 2</span>-->
                                     <hr id="ph-eins-progress">
                                 </div>

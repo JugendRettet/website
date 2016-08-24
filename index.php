@@ -83,7 +83,7 @@
                                     <circle r="159.15" cy="7" cx="7"/> <!-- r=(1000 / 2pi); cy, cx offset to match svg-->
                                 </svg>
                             </div>
-                            <span id="phase-text" class="center">Monat 2:<br><?php echo $perform;?>%<br>erreicht</span>
+                            <span id="phase-text" class="center">Mission Unity:<br><?php echo $perform;?>%<br>erreicht</span>
                             <div id="belt" style="position:absolute">
                               <img class="belt" src="./graphics/belt.svg" alt="Rettungsring">
                             </div>
