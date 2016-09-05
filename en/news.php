@@ -105,6 +105,28 @@
                           </div>
                       </div><br>
 
+                    <a class="faq" id="96"><b>September 3rd</b> We won at ZEIT ONLINE's Z2X Festival</a>
+                        <div class="faq-klappe" id="96-klappe">
+                          <p>
+                            The participants of the festival voted which project should promoted in the future by Zeitonline. With 250 votes Jugend Rettet won. Thank you so much!
+                          </p>
+                        </div><br>
+                    
+                    <a class="faq" id="95"><b>September 1st</b> Start of Mission Responsibility</a>
+                        <div class="faq-klappe" id="95-klappe">
+                          <p>
+                            Our crew of Mission Responsibility leaves Malta today to start their operation. We wish you strength and are grateful for your valuable service.
+We decided on the name Responsibility as the organization, our crews, our ambassadors and our donors take responsibility instead of looking away. When people are forced to take such a dangerous escape route as there aren't any legal possibilities then the only thing left to say is that states fail to render assistance. #safepassage
+                          </p>
+                        </div><br>
+                    
+                    <a class="faq" id="94"><b>August 27th</b> Stories from board</a>
+                        <div class="faq-klappe" id="94-klappe">
+                          <p>
+                            Visit us on Instagram for stories from board: <a target="_blank" href="http://bit.ly/jrinsta">bit.ly/jrinsta</a>
+                          </p>
+                        </div><br>
+                    
                     <a class="faq" id="93"><b>August 20th</b> End of Mission Equality</a>
                         <div class="faq-klappe" id="93-klappe">
                           <p>

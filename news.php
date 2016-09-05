@@ -103,10 +103,31 @@
                       </div><br>
 
 
-                      <a class="faq" id="126"><b>3.-4. September</b> Jugend Rettet beim ZEIT ONLINE Festival Z2X</a>
-                        <div class="faq-klappe" id="126-klappe">
+                      <a class="faq" id="129"><b>3. September</b> Gewinner beim Z2X Festival von ZEIT ONLINE</a>
+                        <div class="faq-klappe" id="129-klappe">
+                          <p>
+                            Die Teilnehmer_innen stimmten über das Projekt ab, das von ZEIT ONLINE weiter gefördert werden soll. Mit knapp 250 Stimmen wählte die Z2X Community Jugend Rettet. Wir sagen danke und freuen uns auf das was kommt.
+                          </p>
+                        </div><br>
+                      
+                      <a class="faq" id="128"><b>3.-4. September</b> Jugend Rettet beim ZEIT ONLINE Festival Z2X</a>
+                        <div class="faq-klappe" id="128-klappe">
                           <p>
                             Am 3.- 4. September 2016 findet das "Z2X - Festival der neuen Visionäre" in Berlin statt. Das Wochenende wird von <a target="_blank" href="https://www.facebook.com/zeitonline/">ZEIT ONLINE</a> organisiert und soll Denkanstöße liefern, wie unsere Gesellschaft nachhaltig verbessert werden kann. An zwei Tagen soll zu verschiedensten gesamtgesellschaftlich relevanten Themen in Form von verschiedene Panels, Diskussionsrunden und Vorträgen intensiver Austausch stattfinden. Jugend Rettet wird ebenfalls in Form von Matthias (Crewing), Titus (Koordinator Schiff) und Pauline (Presse/ Öffentlichkeit) teilnehmen und von ihren Erfahrungen auf See und dem Aufbau der Organisation berichten.<br>Unter diesem Link könnt ihr teilnehmen: <a target="_blank" href="http://www.zeit.de/z2x/register/">http://www.zeit.de/z2x/register/</a>
+                          </p>
+                        </div><br>
+                      
+                      <a class="faq" id="127"><b>1. September</b> Missionsstart Mission Responsibility</a>
+                        <div class="faq-klappe" id="127-klappe">
+                          <p>
+                            Wir haben uns für den Missionsnamen Responsibility entschieden, weil der Verein, unsere Crews, unsere Botschafter_Innen und unsere Spender_Innen Verantwortung übernehmen, anstatt wegzusehen. Wenn Menschen auf so eine gefährliche Fluchtroute aufgrund fehlender legaler Möglichkeiten gezwungen werden, dann können wir von staatlicher Seite aus nur von unterlassener Hilfeleistung sprechen. #safepassage
+                          </p>
+                        </div><br>
+                      
+                      <a class="faq" id="126"><b>27. August</b> Geschichten von Bord</a>
+                        <div class="faq-klappe" id="126-klappe">
+                          <p>
+                            Besuch uns auf Instagram für Geschichten von Bord: <a target="_blank" href="http://bit.ly/jrinsta">bit.ly/jrinsta</a>
                           </p>
                         </div><br>
                       
