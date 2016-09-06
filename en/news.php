@@ -108,7 +108,7 @@
                     <a class="faq" id="96"><b>September 3rd</b> We won at ZEIT ONLINE's Z2X Festival</a>
                         <div class="faq-klappe" id="96-klappe">
                           <p>
-                            The participants of the festival voted which project should promoted in the future by Zeitonline. With 250 votes Jugend Rettet won. Thank you so much!
+                            The participants of the festival voted which project should get promoted in the future by Zeitonline. With 250 votes Jugend Rettet won. Thank you so much!
                           </p>
                         </div><br>
                     
