@@ -158,7 +158,7 @@
                         <script type="text/javascript">
                           /* Configure at https://www.betterplace.org/de/projects/42019-rette-mit-einsatz-zur-seenotrettung-auf-dem-mittelmeer/manage/iframe_donation_form */
                           var _bp_iframe        = _bp_iframe || {};
-                          _bp_iframe.project_id = 42019; /* REQUIRED */
+                          _bp_iframe.project_id = 48425; /* REQUIRED */
                           _bp_iframe.lang       = 'en'; /* Language of the form */
                           /* Remove "//" for further customization but *only* if you really need to! */
                           // _bp_iframe.width = 600; /* Custom iframe-tag-width, integer */
@@ -173,7 +173,7 @@
                             var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(bp, s);
                           })();
                         </script>
-                        <div id="betterplace_donation_iframe" style="background: transparent url('https://www.betterplace.org/assets/new_spinner.gif') 275px 20px no-repeat;"><strong><a href="https://www.betterplace.org/de/projects/42019-rette-mit-einsatz-zur-seenotrettung-auf-dem-mittelmeer/donations/new">Jetzt Spenden für „Rette mit! - Einsatz zur Seenotrettung auf dem Mittelmeer“ bei unserem Partner betterplace.org</a></strong></div>
+                        <div id="betterplace_donation_iframe" style="background: transparent url('https://www.betterplace.org/assets/new_spinner.gif') 275px 20px no-repeat;"><strong><a href="https://www.betterplace.org/en/projects/48425-rette-mit-spende-fur-mission-unity/donations/new">"Join the rescue: sea rescue on the Mediterranean". The donation is processed by our partner betterplace.org</a></strong></div>
                         <!--<h4>Calculator</h4>
                         <div id="rechner">
                             <input type="Text" id="spendeinput" oninput="rechnen()"> €
