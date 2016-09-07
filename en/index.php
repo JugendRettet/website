@@ -48,9 +48,10 @@
                 transition: 800ms ease;
                 width: <?php
                     $phase1 = file_get_contents('../donations/phase1.txt');
+                    $needed = file_get_contents('../donations/needed.txt');
                     $value1 = number_format((float)$phase1,2,".",",");
-                    $sd = ( 1000 - ( 1000 * ( $phase1 / 75850 ) ) );
-                    $percent = ( 100 / 75850 * $phase1 );
+                    $sd = ( 1000 - ( 1000 * ( $phase1 / $needed ) ) );
+                    $percent = ( 100 / $needed * $phase1 );
                     $perform = number_format((float)$percent,1,".",",");
                     echo $percent;
                     ?>%;

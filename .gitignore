@@ -4,7 +4,7 @@ images/*
 videos/*
 files/*
 fonts/*
-donations/*
+donations/phase*.txt
 test/
 .DS_Store
 .!*!*
