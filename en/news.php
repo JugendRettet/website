@@ -105,6 +105,14 @@
                           </div>
                       </div><br>
 
+                    <a class="faq" id="97"><b>September 5th</b> First rescue of Mission Responsibility</a>
+                        <div class="faq-klappe" id="97-klappe">
+                          <p>
+                            Our crew of Mission Responsibility rescued serveral boats with people in need for protection together with Proactiva and Moas. All in all the IUVENTA took 280 people from two rubber boats on board. 228 men, 48 women (of which nine were pregnant) and four children. The people got supplied with medical care and fresh clothes.<br>
+#jointherescue and donate now: <a target="_blank" href="http://en.jugendrettet.org/spenden">en.jugendrettet.org/spenden</a>
+                          </p>
+                        </div><br>
+                    
                     <a class="faq" id="96"><b>September 3rd</b> We won at ZEIT ONLINE's Z2X Festival</a>
                         <div class="faq-klappe" id="96-klappe">
                           <p>

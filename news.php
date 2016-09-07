@@ -103,6 +103,14 @@
                       </div><br>
 
 
+                      <a class="faq" id="130"><b>5. September</b> Erste Rettung Mission Responsibility</a>
+                        <div class="faq-klappe" id="130-klappe">
+                          <p>
+                            Unsere der Crew Mission Responsibility hat zusammen mit <a target="_blank" href="https://www.facebook.com/proactivaservice/">Proactiva Open Arms</a> und <a target="_blank" href="https://www.facebook.com/migrantoffshoreaidstation/">MOAS</a> Schutzbedürftige von zahlreichen Booten gerettet. Insgesamt hat die IUVENTA 280 Personen von zwei Schlauchbooten an Bord genommen, davon 228 Männer, 48 Frauen (darunter neun Schwangere), vier Kinder. Die Menschen wurden medizinisch und mit frischer Kleidung versorgt.<br>
+                            #rettemit und spende jetzt: <a target="_blank" href="http://jugendrettet.org/betterplace">jugendrettet.org/betterplace</a>
+                          </p>
+                        </div><br>
+                      
                       <a class="faq" id="129"><b>3. September</b> Gewinner beim Z2X Festival von ZEIT ONLINE</a>
                         <div class="faq-klappe" id="129-klappe">
                           <p>
