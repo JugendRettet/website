@@ -45,8 +45,8 @@
 
 Redirect /donate /spenden
 
-Redirect /betterplace https://www.betterplace.org/en/projects/48425-rette-mit-spende-fur-mission-unity
-Redirect /Betterplace https://www.betterplace.org/en/projects/48425-rette-mit-spende-fur-mission-unity
+Redirect /betterplace https://www.betterplace.org/projects/48425-rette-mit-spende-fur-mission-unity
+Redirect /Betterplace https://www.betterplace.org/projects/48425-rette-mit-spende-fur-mission-unity
 
 Redirect /merch https://diraction.org/cat/index/sCategory/257
 Redirect /Merch https://diraction.org/cat/index/sCategory/257
