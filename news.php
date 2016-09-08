@@ -1056,7 +1056,7 @@
                           <li>&#10003; Wir haben Schiffe unseres gewünschten Schiffstyps - holländische Fischtrawler - besichtigt und uns für ein geeignetes Schiff entschieden.</li>
                           <li>&#10003; Wir haben eine 11-köpfige Crew inklusive Kapitän gefunden und gemeinsam unsere halbjährige Operation geplant.</li>
                           <li>&#10003; Im Mai 2016 haben wir das Schiff gekauft, umgebaut und sie auf den Namen IUVENTA getauft.</li>
-                          <li>&#10003; Wir haben ein Netz von 44 Botschafter_innen in 33 europäischen Städten aufgebaut.</li>
+                          <li>&#10003; Wir haben ein Netz von 46 Botschafter_innen in 35 europäischen Städten aufgebaut.</li>
                           <li>&#10003; Wir haben Jan Josef Liefers, Maria Furtwängler, Armin Rohde und Jasmin Gerat als Stimmen für Jugend Rettet gewinnen können.</li>
                           <li>&#10003; Wir haben in Berlin ein Kernteam von 10 Menschen aufgebaut.</li>
                           <li>&#10003; Wir haben die Spendenphase 1 und 2 und den Umbau gemeistert, um die IUVENTA auf ihre erste Rettungsmisson zu schicken.</li>

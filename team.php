@@ -135,6 +135,7 @@
                             <li>Erkrath: <a href="mailto:AnnaB@jugendrettet.org">Anna</a></li>
                             <li>Erlangen: <a href="mailto:Felix_Erlangen@jugendrettet.org">Felix</a></li>
                             <li>Flensburg: <a href="mailto:Flensburg@jugendrettet.org">Pauline</a></li>
+                            <li>Fürth: <a href="mailto:Maria_Fuerth@jugendrettet.org">Maria</a></li>
                             <li>Groningen: <a href="mailto:LenaP@jugendrettet.org">Lena</a></li>
                             <li>Hamburg: <a href="mailto:Marco@jugendrettet.org">Marco</a></li>
                             <li>Hannover: <a href="mailto:Micheel@jugendrettet.org">Micheel</a></li>
@@ -163,6 +164,7 @@
                             <li>Salem: <a href="mailto:David@jugendrettet.org">David</a></li>
                             <li>Salem: <a href="mailto:Helena@jugendrettet.org">Helena</a></li>
                             <li>Trier: <a href="mailto:Asa@jugendrettet.org">Asa</a></li>
+                            <li>Wien: <a href="mailto:AnnKatrin_Wien@jugendrettet.org">Ann-Katrin</a></li>
                             <li>Zürich: <a href="mailto:Michael@jugendrettet.org">Michael</a></li>
                         </ul>
                         <br>
