@@ -102,6 +102,32 @@
                           </div>
                       </div><br>
 
+                      <a class="faq" id="133"><b>14. September</b> Das Botschafternetzwerk wächst</a>
+                        <div class="faq-klappe" id="133-klappe">
+                          <p>
+                            Wir freuen uns, dass unser Botschafternetzwerk stetig Zuwachs bekommt. Aktuell sind wir mit 46 Botschaftern und Botschafterinnen in verschiedenen europäischen Städten vertreten: <a href="https://jugendrettet.org/team">jugendrettet.org/team</a>
+                          </p>
+                        </div><br>
+
+                      <a class="faq" id="132"><b>12. September</b> 1.454 Leben durch Mission Responsibility gerettet</a>
+                          <div class="faq-klappe" id="132-klappe">
+                            <p>
+                              Innerhalb von nur einer Woche war unsere Crew an der Rettung von insgesamt 1.454 Menschenleben beteiligt. Über den ersten Einsatz letzten Montag, wobei 280 Menschen aus Seenot gerettet werden konnten, haben wir bereits berichtet. Am Wochenende kam die Versorgung von 6 Schlauchbooten mit ca. jeweils 150 Menschen dazu, wovon 440 direkt an Bord der IUVENTA genommen wurden.
+                            </p>
+                            <p>
+                              Am Sonntag wurden dann noch 74 Personen, darunter 12 Kinder, von Holzbooten geborgen. Ebenfalls am Sonntag konnten unsere Beiboote 200 Menschen aus einem überfüllten Schlauchboot retten und an die Boat Refugee Foundation übergeben. Unsere Crew berichtet, dass die Menschen in sehr schlechtem Zustand waren. 
+                            </p>
+                          </div><br>
+
+                      <a class="faq" id="131"><b>12. September</b> Crew 3 zurück in Valetta</a>
+                          <div class="faq-klappe" id="131-klappe">
+                            <p>
+                              Die IUVENTA kehrt zurück nach Malta. Wir danken der Crew von Mission Responsibility für euren Einsatz.
+                            </p>
+                            <p>
+                              Kathrin, Crewmitglied der dritten Mission, über den Einsatz: "Sobald alle Rettungswesten anhaben, können wir das erste Mal durchatmen."
+                            </p>
+                          </div><br>
 
                       <a class="faq" id="130"><b>5. September</b> Erste Rettung Mission Responsibility</a>
                         <div class="faq-klappe" id="130-klappe">

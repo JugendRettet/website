@@ -105,6 +105,33 @@
                           </div>
                       </div><br>
 
+                    <a class="faq" id="100"><b>September 14th</b> Ambassador network grows</a>
+                        <div class="faq-klappe" id="100-klappe">
+                          <p>
+                            We’re happy that our ambassador network keeps on growing. Currently there are 46 ambassadors and ambassadresses in many different European cities. Check it out: <a href="https://en.jugendrettet.org/team">en.jugendrettet.org/team</a>
+                          </p>
+                        </div><br>
+
+                    <a class="faq" id="99"><b>September 12th</b> 1,454 lives saved by Mission Responsibility</a>
+                        <div class="faq-klappe" id="99-klappe">
+                          <p>
+                            Within only one week our crew was a part of saving 1.454 lives. You already know about the first rescue where 280 people were rescued last Monday. Additionally our crew supplied 6 rubber boats with each 150 people from which our crew took 440 on board of the IUVENTA on Saturday.
+                          </p>
+                          <p>
+                            On Sunday they were able to save 74 people of which 12 were children from wooden boats. Also on Sunday our dinghies rescued 200 people from an overcrowded rubber boat and handed them over the Boat Refugee Foundation. The crew reported that the people were in a very poor condition.
+                          </p>
+                        </div><br>
+
+                    <a class="faq" id="98"><b>September 12th</b> Crew 3 arrives in Valletta</a>
+                        <div class="faq-klappe" id="98-klappe">
+                          <p>
+                            The IUVENTA is now back to Malta. We thank our crew of Mission Responsibility for their great effort.
+                          </p>
+                          <p>
+                            Crew member Kathrin about the operation: "When everyone wears their life jackets, it's time to breathe for the first time."
+                          </p>
+                        </div><br>
+
                     <a class="faq" id="97"><b>September 5th</b> First rescue of Mission Responsibility</a>
                         <div class="faq-klappe" id="97-klappe">
                           <p>
