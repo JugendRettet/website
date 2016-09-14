@@ -157,6 +157,7 @@
                             <li>Paderborn: <a href="mailto:Paderborn@jugendrettet.org">Josefine</a></li>
                             <li>Paderborn: <a href="mailto:Paderborn@jugendrettet.org">Wiebke</a></li>
                             <li>Paris: <a href="mailto:Patrick@jugendrettet.org">Patrick</a></li>
+                            <li>Passau: <a href="mailto:Ben_Passau@jugendrettet.org">Ben</a></li>
                             <li>Potsdam: <a href="mailto:Christoph@jugendrettet.org">Christoph</a></li>
                             <li>Potsdam: <a href="mailto:Alex@jugendrettet.org">Alex</a></li>
                             <li>Saarbrücken: <a href="mailto:Fabrizio@jugendrettet.org">Fabrizio</a></li>
