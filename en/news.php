@@ -108,7 +108,7 @@
                     <a class="faq" id="100"><b>September 14th</b> Ambassador network grows</a>
                         <div class="faq-klappe" id="100-klappe">
                           <p>
-                            We’re happy that our ambassador network keeps on growing. Currently there are 46 ambassadors and ambassadresses in many different European cities. Check it out: <a href="https://en.jugendrettet.org/team">en.jugendrettet.org/team</a>
+                            We’re happy that our ambassador network keeps on growing. Currently there are 47 ambassadors and ambassadresses in many different European cities. Check it out: <a href="https://en.jugendrettet.org/team">en.jugendrettet.org/team</a>
                           </p>
                         </div><br>
 

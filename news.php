@@ -105,7 +105,7 @@
                       <a class="faq" id="133"><b>14. September</b> Das Botschafternetzwerk wächst</a>
                         <div class="faq-klappe" id="133-klappe">
                           <p>
-                            Wir freuen uns, dass unser Botschafternetzwerk stetig Zuwachs bekommt. Aktuell sind wir mit 46 Botschaftern und Botschafterinnen in verschiedenen europäischen Städten vertreten: <a href="https://jugendrettet.org/team">jugendrettet.org/team</a>
+                            Wir freuen uns, dass unser Botschafternetzwerk stetig Zuwachs bekommt. Aktuell sind wir mit 47 Botschaftern und Botschafterinnen in verschiedenen europäischen Städten vertreten: <a href="https://jugendrettet.org/team">jugendrettet.org/team</a>
                           </p>
                         </div><br>
 
