@@ -102,6 +102,46 @@
                           </div>
                       </div><br>
 
+                      <a class="faq" id="137"><b>21. September</b> 131 Personen aus Seenot gerettet</a>
+                        <div class="faq-klappe" id="137-klappe">
+                          <p>
+                            Trotz mäßigem Wetters sind gestern einige wenige Boote aus Libyen ausgelaufen.
+                          </p>
+                          <p>
+                            Unsere Crew der Mission Humanity versorgte ein Schlauchboot mit Rettungswesten und nahm alle 131 Personen auf die IUVENTA. Darunter zwölf Frauen, keine Kinder.
+                          </p>
+                          <p>
+                            Zwei Schussverletzungen wurden durch das Medical Team versorgt, sonst waren alle trotz der Umstände recht gut drauf.
+                          </p>
+                          <p>
+                            Am späten Nachmittag konnten alle Gäste wohlbehalten an Save the Children übergeben werden, die die Menschen sicher nach Italien brachte.
+                          </p>
+                        </div><br>
+
+                      <a class="faq" id="136"><b>19. September</b> Deutsch-Japanischer Austausch</a>
+                        <div class="faq-klappe" id="136-klappe">
+                          <p>
+                            Lena, Alex und Sonja hielten im Rahmen des Deutsch-Japanischer Austausches in Berlin einen Vortrag über Jugend Rettet e.V. und die Rettungsmissionen.
+                          </p>
+                        </div><br>
+
+                      <a class="faq" id="135"><b>18. September</b> Kooperation mit Humany Tee</a>
+                        <div class="faq-klappe" id="135-klappe">
+                          <p>
+                            Mit dem Beginn des Missionsstarts von Mission Humanity gehen 60% von jedem verkauften Shirt von Humany Tee an uns: <a target="_blank" href="https://humanytee.teemill.co.uk">https://humanytee.teemill.co.uk</a>
+                          </p>
+                        </div><br>
+
+                      <a class="faq" id="134"><b>16. September</b> Start von Mission Humanity</a>
+                        <div class="faq-klappe" id="134-klappe">
+                          <p>
+                            Unsere vierte Crew verlässt heute den Hafen von Valetta für ihren Einsatz auf dem Mittelmeer.
+                          </p>
+                          <p>
+                            Der Missionsname Humanity steht nicht nur einfach für Menschlichkeit, die Flüchtenden entgegengebracht werden muss, sondern für Mitgefühl und den Einsatz für die uneingeschränkte Gleichwertigkeit aller Menschen. Gerade Menschen auf der Flucht müsste in unserer Gesellschaft ein hoher Stellenwert zugeschrieben werden, statt sie zu stigmatisieren. Wir fordern eine Entkriminalisierung von Menschen auf der Flucht, sowie Unterstützung und Chancengleichheit.
+                          </p>
+                        </div><br>
+
                       <a class="faq" id="133"><b>14. September</b> Das Botschafternetzwerk wächst</a>
                         <div class="faq-klappe" id="133-klappe">
                           <p>

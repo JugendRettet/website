@@ -105,6 +105,46 @@
                           </div>
                       </div><br>
 
+                      <a class="faq" id="104"><b>September 21st</b> 131 people rescued</a>
+                        <div class="faq-klappe" id="104-klappe">
+                          <p>
+                            Despite moderate weather, a couple of boats left Libya yesterday.
+                          </p>
+                          <p>
+                            Our crew of Mission Humanity supplied one rubber boat with life jackets and took all 131 people on board of the IUVENTA. Among them twelve women, no children.
+                          </p>
+                          <p>
+                            Our medical team treated two gunshot wounds and in spite of the circumstances, everyone was well.
+                          </p>
+                          <p>
+                            In the late afternoon our crew handed the rescued over to Save the Children, who took everyone safely to Italy.
+                          </p>
+                        </div><br>
+
+                      <a class="faq" id="103"><b>September 19th</b> German-Japanese exchange</a>
+                        <div class="faq-klappe" id="103-klappe">
+                          <p>
+                            Lena, Alex and Sonja presented Jugend Rettet at the German-Japanese exchange in Berlin.
+                          </p>
+                        </div><br>
+
+                    <a class="faq" id="102"><b>September 18th</b> Cooperation with Humany Tee</a>
+                        <div class="faq-klappe" id="102-klappe">
+                          <p>
+                            With the start of <i>Mission Humanity</i> Humany Tee gives 60% from the profit of every sold shirt to us: <a target="_blank" href="https://humanytee.teemill.co.uk">https://humanytee.teemill.co.uk</a>
+                          </p>
+                        </div><br>
+
+                    <a class="faq" id="101"><b>September 16th</b> Start of Mission Humanity</a>
+                        <div class="faq-klappe" id="101-klappe">
+                          <p>
+                            Our fourth crew of Mission Humanity leaves Valetta today for their operation on the Med.
+                          </p>
+                          <p>
+                            With Humanity we express our empathy for people on the run and the effort for the unlimited equivalence of all individuals. Especially people on the move should rate high within our society instead of being stigmatized. We demand the decriminalization of fleeing people as well as support and equal opportunity.
+                          </p>
+                        </div><br>
+
                     <a class="faq" id="100"><b>September 14th</b> Ambassador network grows</a>
                         <div class="faq-klappe" id="100-klappe">
                           <p>
