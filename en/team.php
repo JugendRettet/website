@@ -126,6 +126,7 @@
                             <li>Berlin: <a href="mailto:Leonie_Berlin@jugendrettet.org">Leonie</a></li>
                             <li>Berlin: <a href="mailto:Lukas@jugendrettet.org">Lukas</a></li>
                             <li>Berlin: <a href="mailto:Sonja@jugendrettet.org">Sonja</a></li>
+                            <li>Bielefeld: <a href="mailto:Andreas_Bielefeld@jugendrettet.org">Andreas</a></li>
                             <li>Bonn: <a href="mailto:AnnaB@jugendrettet.org">Anna</a></li>
                             <li>Bonn: <a href="mailto:Chris@jugendrettet.org">Chris</a></li>
                             <li>Bremen: <a href="mailto:Bremen@jugendrettet.org">Thomas</a></li>
@@ -153,6 +154,7 @@
                             <li>Munich: <a href="mailto:Lisa@jugendrettet.org">Lisa</a></li>
                             <li>Münster: <a href="mailto:Jana@jugendrettet.org">Jana</a></li>
                             <li>Nuremberg: <a href="mailto:Jojo@jugendrettet.org">Jojo</a></li>
+                            <li>Osnabrück: <a href="mailto:Jascha_Osnabrueck@jugendrettet.org">Jascha</a></li>
                             <li>Paderborn: <a href="mailto:Paderborn@jugendrettet.org">Elisa</a></li>
                             <li>Paderborn: <a href="mailto:Paderborn@jugendrettet.org">Josefine</a></li>
                             <li>Paderborn: <a href="mailto:Paderborn@jugendrettet.org">Wiebke</a></li>
