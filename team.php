@@ -123,25 +123,19 @@
                             <li>Aachen: <a href="mailto:Luisa@jugendrettet.org">Luisa</a></li>
                             <li>Allgäu: <a href="mailto:Lioba@jugendrettet.org">Lioba</a></li>
                             <li>Berlin: <a href="mailto:Leonie_Berlin@jugendrettet.org">Leonie</a></li>
-                            <li>Berlin: <a href="mailto:Lukas@jugendrettet.org">Lukas</a></li>
                             <li>Berlin: <a href="mailto:Sonja@jugendrettet.org">Sonja</a></li>
                             <li>Bielefeld: <a href="mailto:Andreas_Bielefeld@jugendrettet.org">Andreas</a></li>
                             <li>Bonn: <a href="mailto:AnnaB@jugendrettet.org">Anna</a></li>
                             <li>Bonn: <a href="mailto:Chris@jugendrettet.org">Chris</a></li>
                             <li>Bremen: <a href="mailto:Bremen@jugendrettet.org">Thomas</a></li>
-                            <li>Chiemgau: <a href="mailto:Simon@jugendrettet.org">Simon</a></li>
                             <li>Dresden: <a href="mailto:Charlotte@jugendrettet.org">Charlotte</a></li>
                             <li>Emsland: <a href="mailto:Jannik@jugendrettet.org">Jannik</a></li>
                             <li>Emsland: <a href="mailto:MaxB@jugendrettet.org">Max</a></li>
                             <li>Erkrath: <a href="mailto:AnnaB@jugendrettet.org">Anna</a></li>
                             <li>Erlangen: <a href="mailto:Felix_Erlangen@jugendrettet.org">Felix</a></li>
-                            <li>Flensburg: <a href="mailto:Flensburg@jugendrettet.org">Pauline</a></li>
                             <li>Fürth: <a href="mailto:Maria_Fuerth@jugendrettet.org">Maria</a></li>
-                            <li>Groningen: <a href="mailto:LenaP@jugendrettet.org">Lena</a></li>
-                            <li>Hamburg: <a href="mailto:Marco@jugendrettet.org">Marco</a></li>
                             <li>Hannover: <a href="mailto:Micheel@jugendrettet.org">Micheel</a></li>
                             <li>Kassel: <a href="mailto:Leif_Kassel@jugendrettet.org">Leif</a></li>
-                            <li>Kiel: <a href="mailto:Matthis@jugendrettet.org">Matthis</a></li>
                             <li>Kopenhagen: <a href="mailto:Kira@jugendrettet.org">Kira</a></li>
                             <li>Köln: <a href="mailto:koeln@jugendrettet.org">Gwen</a></li>
                             <li>Köln: <a href="mailto:koeln@jugendrettet.org">Hannah</a></li>
@@ -158,17 +152,12 @@
                             <li>Paderborn: <a href="mailto:Paderborn@jugendrettet.org">Elisa</a></li>
                             <li>Paderborn: <a href="mailto:Paderborn@jugendrettet.org">Josefine</a></li>
                             <li>Paderborn: <a href="mailto:Paderborn@jugendrettet.org">Wiebke</a></li>
-                            <li>Paris: <a href="mailto:Patrick@jugendrettet.org">Patrick</a></li>
                             <li>Passau: <a href="mailto:Ben_Passau@jugendrettet.org">Ben</a></li>
                             <li>Potsdam: <a href="mailto:Alex@jugendrettet.org">Alex</a></li>
                             <li>Potsdam: <a href="mailto:Christoph@jugendrettet.org">Christoph</a></li>
-                            <li>Saarbrücken: <a href="mailto:Fabrizio@jugendrettet.org">Fabrizio</a></li>
-                            <li>Saarlouis: <a href="mailto:AlexG@jugendrettet.org">Alex</a></li>
                             <li>Salem: <a href="mailto:David@jugendrettet.org">David</a></li>
                             <li>Salem: <a href="mailto:Helena@jugendrettet.org">Helena</a></li>
-                            <li>Trier: <a href="mailto:Asa@jugendrettet.org">Asa</a></li>
                             <li>Wien: <a href="mailto:AnnKatrin_Wien@jugendrettet.org">Ann-Katrin</a></li>
-                            <li>Zürich: <a href="mailto:Michael@jugendrettet.org">Michael</a></li>
                         </ul>
                         <br>
                     </div>
