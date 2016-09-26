@@ -151,7 +151,7 @@
                         <br>
                         <h4>Merchandise</h4>
                         <p>
-                            <a target="_blank" href="/merch">Sea rescue with a T-shirt? You asked for it - we did it. Join the rescue and wear our lovely T-shirts, zippers and jumpers. The profits are directly going to our mission 'Humanity'. By the way, the merchandise is not only completely fair-trade, but also from organic cotton and very comfy.</a>
+                            <a target="_blank" href="/merch">Sea rescue with a T-shirt? You asked for it - we did it. Join the rescue and wear our lovely T-shirts, zippers and jumpers. The profits go directly to our missions. By the way, the merchandise is not only completely fair-trade, but also from organic cotton and very comfy.</a>
                         </p>
                         <br>
                         <h4>donate directly</h4>
