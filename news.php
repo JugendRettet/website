@@ -102,6 +102,13 @@
                           </div>
                       </div><br>
 
+                      <a class="faq" id="138"><b>25. September</b> Jugend Rettet im ARD Europamagazin</a>
+                        <div class="faq-klappe" id="138-klappe">
+                          <p>
+                            Die Crew der Mission Responsibility wurde während ihrer Operation auf dem Mittelmeer begleitet. Den ganzen Beitrag könnt ihr euch hier ansehen: <a href="http://bit.ly/jr_ard" target="_blank">bit.ly/jr_ard</a>
+                          </p>
+                        </div><br>
+                      
                       <a class="faq" id="137"><b>21. September</b> 131 Personen aus Seenot gerettet</a>
                         <div class="faq-klappe" id="137-klappe">
                           <p>
