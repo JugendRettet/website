@@ -102,6 +102,36 @@
                           </div>
                       </div><br>
 
+                      <a class="faq" id="142"><b>4. Oktober</b> Missionsstart Unity</a>
+                        <div class="faq-klappe" id="142-klappe">
+                          <p>
+                            Im Zuge der am Wochenende gefeierten Wiedervereinigung Deutschlands möchten wir drauf hinweisen, dass Grenzen, ob sie sich in Köpfen befinden oder auf Landkarten, niemals rechtfertigen können, dass Menschen um ihr Leben fürchten müssen. 
+Als Gruppe junger Europäer vertrauen wir in die Kraft eines vereinten europäischen Engagements und fordern das Festalten an demokratischen und humanitären Werten, die leider aktuell zu oft diskutiert und infrage gestellt werden.
+<a href="https://www.facebook.com/hashtag/rettemit" target="_blank">#rettemit</a>: <a href="https://www.betterplace.org/de/projects/48425-rette-mit-spende-fur-rettungseinsatze-auf-dem-mittelmeer" target="_blank">jugendrettet.org/betterplace</a>
+                          </p>
+                        </div><br>
+                      
+                      <a class="faq" id="141"><b>4. Oktober</b> Fotos von Mission Humanity</a>
+                        <div class="faq-klappe" id="141-klappe">
+                          <p>
+                            Auf unserer letzten Mission, Mission Humanity, hatten wir Zohra Bensemra von Reuters an Bord, deren Bilder nun auf Reuters veröffentlicht wurden und vom The Wall Street Journal zusätzlich in der vergangenen Woche unter der Rubrik "Bilder des Tages" geführt wurden: <a href="http://de.reuters.com/news/picture/migrants-plucked-from-overloaded-dinghy?articleId=UKRTSOT3O" target="_blank">http://de.reuters.com/news/picture/migrants-plucked-from-overloaded-dinghy?articleId=UKRTSOT3O</a>
+                          </p>
+                        </div><br>
+                      
+                      <a class="faq" id="140"><b>3. Oktober</b> Jugend Rettet bei @meinengagement</a>
+                        <div class="faq-klappe" id="140-klappe">
+                          <p>
+                            Wir übernehmen diese Woche den Twitter Account von mein_engagement! <a href="https://twitter.com/meinengagement" target="_blank">Folgt uns!</a>
+                          </p>
+                        </div><br>
+                      
+                      <a class="faq" id="139"><b>25. September</b> Mission Humanity beendet</a>
+                        <div class="faq-klappe" id="139-klappe">
+                          <p>
+                            Unsere Crew der Mission Humanity ist sicher zurück auf Malta. Wir danken euch für euren großartigen Einsatz und der Rettung von 131 Menschen.
+                          </p>
+                        </div><br>
+                      
                       <a class="faq" id="138"><b>25. September</b> Jugend Rettet im ARD Europamagazin</a>
                         <div class="faq-klappe" id="138-klappe">
                           <p>

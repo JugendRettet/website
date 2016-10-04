@@ -105,6 +105,27 @@
                           </div>
                       </div><br>
 
+                      <a class="faq" id="107"><b>October 4th</b> Start of Mission Unity</a>
+                        <div class="faq-klappe" id="107-klappe">
+                          <p>
+                            As part of the the Day of Reunification of Germany, we want it to point out that borders - if they are in the heads of people or on maps - can never justify that people have to fear for their lives. As a group of young Europeans we trust in the power of a unified European commitment. We need to hold on to our democratic and humanitarian values which are unfortunately at the moment too often discussed and questioned.
+                          </p>
+                        </div><br>
+                      
+                      <a class="faq" id="106"><b>October 4th</b> Photos of Mission Humanity</a>
+                        <div class="faq-klappe" id="106-klappe">
+                          <p>
+                            On our last mission, Mission Humanity, we had Zohra Bensemra by Reuters on board, whose images have been published on Reuters and were also conducted during the last week under the heading "Pictures of the day" at The Wall Street Journal: <a href="http://de.reuters.com/news/picture/migrants-plucked-from-overloaded-dinghy?articleId=UKRTSOT3O" target="_blank">http://de.reuters.com/news/picture/migrants-plucked-from-overloaded-dinghy?articleId=UKRTSOT3O</a>
+                          </p>
+                        </div><br>
+                      
+                      <a class="faq" id="105"><b>September 30th</b> Mission Humanity finished</a>
+                        <div class="faq-klappe" id="105-klappe">
+                          <p>
+                            Our crew of Mission Humanity came back to Malta safe and sound. Thank you very much for your great effort and the rescue of 131 people. 
+                          </p>
+                        </div><br>
+                      
                       <a class="faq" id="104"><b>September 21st</b> 131 people rescued</a>
                         <div class="faq-klappe" id="104-klappe">
                           <p>
