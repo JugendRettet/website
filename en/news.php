@@ -105,6 +105,13 @@
                           </div>
                       </div><br>
 
+                      <a class="faq" id="108"><b>October 5th</b> Rescue of 30 people</a>
+                        <div class="faq-klappe" id="108-klappe">
+                          <p>
+                            30 people, who were on a wooden boat, were rescued by our crew of Mission Unity 50nm off the Libyan coast. The people were already at sea for two days. At some point the motor broke. Everyone was taken on board of the Iuventa, where they also spent the night until they were handed over to the Italian coast guard. 
+                          </p>
+                        </div><br>
+                      
                       <a class="faq" id="107"><b>October 4th</b> Start of Mission Unity</a>
                         <div class="faq-klappe" id="107-klappe">
                           <p>

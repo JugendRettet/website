@@ -102,6 +102,18 @@
                           </div>
                       </div><br>
 
+                      <a class="faq" id="144"><b>25. November</b> Solikonzert Radio Havanna</a>
+                        <div class="faq-klappe" id="144-klappe">
+                          <p>
+                            Organisiert von unserem Botschafter_innen-Team aus Niedersachsen findet am 25.11.2016 in der <a href="https://www.facebook.com/diskothek.limit/" target="_blank">Diskothek Limit Ihrhove</a>  ein Solikonzert mit <a href="https://www.facebook.com/radiohavanna/" target="_blank">RADIO HAVANNA</a> und anschließender Aftershow zu unseren Gunsten statt.</p>
+                        </div><br>
+                      
+                      <a class="faq" id="143"><b>5. Oktober</b> Rettung von 30 Menschen</a>
+                        <div class="faq-klappe" id="143-klappe">
+                          <p>
+                            30 Menschen, die in einem Holzboot unterwegs waren, konnten in einer Entfernung von 50 Seemeilen vor libyschen Küste von unserer Crew der Mission Unity gerettet werden. Die Menschen waren bereits seit zwei Tagen unterwegs, irgendwann ging der Motor des Bootes kaputt. Alle wurden an Bord der Iuventa genommen und verbrachten dort die Nacht ehe sie von der italienischen Küstenwache abgeholt wurden.</p>
+                        </div><br>
+                      
                       <a class="faq" id="142"><b>4. Oktober</b> Missionsstart Unity</a>
                         <div class="faq-klappe" id="142-klappe">
                           <p>
