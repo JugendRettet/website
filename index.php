@@ -49,10 +49,10 @@
                 width: <?php
                     $phase1 = file_get_contents('donations/phase1.txt');
                     $needed = file_get_contents('donations/needed.txt');
-                    $value1 = number_format((float)$phase1,2,",",".");
+                    $value1 = number_format((float)$phase1,0,",",".");
                     $sd = ( 1000 - ( 1000 * ( $phase1 / $needed ) ) );
                     $percent = ( 100 / $needed * $phase1 );
-                    $perform = number_format((float)$percent,1,",",".");
+                    $perform = number_format((float)$percent,0,",",".");
                     echo $percent;
                     ?>%;
             }
