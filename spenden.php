@@ -223,11 +223,12 @@
                         <div style="display:initial;" id="phase">
                             <div class="ph-container" id="ph-eins">
                                 <div class="header" style="text-align:center;">
-                                    <span class="percentage">Bedarfe: <?php echo $value1;?> / <?php echo $needed_format;?> €</span>
+                                    <span class="percentage">Aktuell: <?php echo $value1;?> / <?php echo $needed_format;?> €</span>
                                     <!--<span class="percentage">Monat 2</span>-->
                                     <hr id="ph-eins-progress">
                                 </div>
                                 <div class="content" id="ph-eins-content">
+                                    <p><a target="_blank" href="betterplace">→ Aufschlüsselung</a></p>
                                     <p>
                                     Wir haben alle notwendigen Vorraussetzungen erreicht, um unsere Rettungsmissionen durchzuführen: wir haben genug Geld gesammelt, um die IUVENTA zu kaufen, sie zu renovieren und nach Malta zu überführen, von wo aus sie die Missionen startet. Außerdem ist auch der erste Betriebsmonat finanziert. Das haben wir den vielen Spender_innen, der tatkräftigen Unterstützung vieler Menschen und nicht zuletzt unseren Botschafter_innen in mittlerweile 37 verschiedenen europäischen Städten zu verdanken. Vielen Dank für eure Hilfe!
                                     </p>

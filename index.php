@@ -84,7 +84,7 @@
                                     <circle r="159.15" cy="7" cx="7"/> <!-- r=(1000 / 2pi); cy, cx offset to match svg-->
                                 </svg>
                             </div>
-                            <span id="phase-text" class="center">Bedarfe:<br><?php echo $perform;?>%<br>finanziert</span>
+                            <span id="phase-text" class="center">Aktuell:<br><?php echo $perform;?>%<br>finanziert</span>
                             <div id="belt" style="position:absolute">
                               <img class="belt" src="./graphics/belt.svg" alt="Rettungsring">
                             </div>
