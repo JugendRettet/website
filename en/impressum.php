@@ -82,7 +82,7 @@
                     <p>Vereinsregister: Amtsgericht Berlin (Charlottenburg) VR 34604</p>
                     <p>&#8594; <a href="../files/Vereinssatzung_v1.pdf">Vereinssatzung</a></p>
                     <br>
-                    <p>Tel.: <a href="tel:+4916095683873">+49 160 95 68 38 73</a></p>
+                    <p>Tel.: <a href="tel:+491758228735">+49 175 822 87 35</a></p>
                     <p>E-Mail: <a href="mailto:info@jugendrettet.org">info@jugendrettet.org</a></p>
                     <br>
                     <h4>Vertreten durch</h4>
