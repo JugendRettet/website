@@ -17,7 +17,7 @@ body.start {
     background-image: url(https://jugendrettet.org/images/error.jpg);
     background-size: cover;
 }
-body.start:hover, #cross:hover, #bread:hover, .mehr:hover {
+#cross:hover, #bread:hover, .mehr:hover {
     cursor: pointer;
 }
 #wrap {
@@ -248,7 +248,6 @@ header ul.pop li:hover {
     text-align: center;
 	text-transform: uppercase;
 	font-weight: bold;
-    cursor: pointer;
 }
 .show:hover {
     cursor: pointer;
