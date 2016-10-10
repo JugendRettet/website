@@ -173,7 +173,7 @@
                             var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(bp, s);
                           })();
                         </script>
-                        <div id="betterplace_donation_iframe" style="background: transparent url('https://www.betterplace.org/assets/new_spinner.gif') 275px 20px no-repeat;"><strong><a href="https://www.betterplace.org/en/projects/48425-rette-mit-spende-fur-mission-unity/donations/new">"Join the rescue: sea rescue on the Mediterranean". The donation is processed by our partner betterplace.org</a></strong></div>
+                        <div id="betterplace_donation_iframe" style="background: transparent url('https://www.betterplace.org/assets/new_spinner.gif') 275px 20px no-repeat;"><strong><a href="https://www.betterplace.org/en/projects/48425-rette-mit-spende-fur-rettungseinsatze-auf-dem-mittelmeer/donations/new">"Join the rescue: sea rescue on the Mediterranean". The donation is processed by our partner betterplace.org</a></strong></div>
                         <!--<h4>Calculator</h4>
                         <div id="rechner">
                             <input type="Text" id="spendeinput" oninput="rechnen()"> €
@@ -217,7 +217,7 @@
                         <div style="display:initial;" id="phase">
                             <div class="ph-container" id="ph-eins">
                                 <div class="header" style="text-align:center;">
-                                    <span class="percentage">Mission Unity: <?php echo $value1;?> / <?php echo $needed_format;?> €</span>
+                                    <span class="percentage">Needs: <?php echo $value1;?> / <?php echo $needed_format;?> €</span>
                                     <!--<span class="percentage">Month 2</span>-->
                                     <hr id="ph-eins-progress">
                                 </div>
