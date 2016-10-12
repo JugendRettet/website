@@ -119,7 +119,7 @@
                     </div>
                     <div class="column">
                         <h4>Ambassadors</h4>
-                        <iframe style="margin:20px 0 0" width="100%" height="300px" frameborder="0" src="https://a.tiles.mapbox.com/v4/leonvogler.nd99673k/attribution,zoompan,zoomwheel,share.html?access_token=pk.eyJ1IjoibGVvbnZvZ2xlciIsImEiOiI0MTI2MDcxMzk2MWI2NDczYzRjNzY5OWI4ZmRmODUyYiJ9.Bys3jr3YtztwTuGQ30NLug"></iframe>
+                        <iframe style="margin:20px 0 0" width="100%" height="420px" frameborder="0" src="https://a.tiles.mapbox.com/v4/leonvogler.nd99673k/attribution,zoompan,zoomwheel,share.html?access_token=pk.eyJ1IjoibGVvbnZvZ2xlciIsImEiOiI0MTI2MDcxMzk2MWI2NDczYzRjNzY5OWI4ZmRmODUyYiJ9.Bys3jr3YtztwTuGQ30NLug"></iframe>
                         <ul>
                             <li>Barcelona: <a href="mailto:Leo@jugendrettet.org">Leo</a></li>
                             <li>Berlin: <a href="mailto:Sonja@jugendrettet.org">Sonja</a></li>
