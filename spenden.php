@@ -248,6 +248,7 @@
                             </div>
                         </div>
                         <div class="content ie">
+                          <p><a target="_blank" href="betterplace">→ Aufschlüsselung</a></p>
                           <p>
                           Wir haben alle notwendigen Vorraussetzungen erreicht, um unsere Rettungsmissionen durchzuführen: wir haben genug Geld gesammelt, um die IUVENTA zu kaufen, sie zu renovieren und nach Malta zu überführen, von wo aus sie die Missionen startet. Außerdem ist auch der erste Betriebsmonat finanziert. Das haben wir den vielen Spender_innen, der tatkräftigen Unterstützung vieler Menschen und nicht zuletzt unseren Botschafter_innen in mittlerweile 37 verschiedenen europäischen Städten zu verdanken. Vielen Dank für eure Hilfe!
                           </p>
