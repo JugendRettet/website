@@ -102,6 +102,17 @@
                           </div>
                       </div><br>
 
+                      <a class="faq" id="149"><b>14. Oktober</b> 148 Menschen gerettet</a>
+                        <div class="faq-klappe" id="149-klappe">
+                          <p>130 Menschen hat unsere Crew der laufenden Mission Unity von einem Schlauchboot bergen können, sowie weitere 18 von einem Holzboot. Die Geflüchteten wurden an Bord der Iuventa sowohl mit Essen, Trinken als auch medizinisch versorgt. Wir wünschen ihnen weiterhin alles Gute.</p>
+                        </div><br>
+                      
+                      <a class="faq" id="148"><b>12. Oktober</b> Rettung unter erschwerten Bedingungen</a>
+                        <div class="faq-klappe" id="148-klappe">
+                          <p>In der Nacht vom 12. auf den 13. Oktober war unsere Crew an der Rettung von 126 Personen beteiligt. Die Rettung stellte nicht nur wegen der Dunkelheit, sondern auch aufgrund der hohen Wellen und des starken Windes eine besondere Herausforderung dar, sodass das Schlauchboot zurück in libysches Hoheitsgewässer gedrängt wurde. Die Luftaufnahmen der Organisation <a href="https://www.facebook.com/migrantoffshoreaidstation/" target="_blank">MOAS</a> (per Drohne) zeigten, dass bereits ein Schlauch geplatzt war und Menschen ins Wasser fielen. Unsere Crew konnte nicht mehr warten - die Astral bestätigte die Erlaubnis, in die libyschen Hoheitsgewässer reinfahren zu können. Schnellstmöglich waren wir vor Ort und brachten die Geretteten mit der Unterstützung von <a href="https://www.facebook.com/proactivaservice/" target="_blank">Proactiva Open Arms</a>, <a href="https://www.facebook.com/stichtingbootvluchteling/" target="_blank">Stichting Bootvluchteling</a> und MOAS zur Phoenix.<br> Für 17 Menschen, darunter ein vierjähriges Kind, kam die Rettung zu spät.
+Im gestrigen Heute-journal lief ein <a href="http://www.zdf.de/ZDFmediathek/beitrag/video/2858264/Jugend-rettet-Fluechtlinge-aus-Seenot#/beitrag/video/2858264/Jugend-rettet-Fluechtlinge-aus-Seenot" target="_blank">Beitrag</a> zur Rettung.</p>
+                        </div><br>
+                      
                       <a class="faq" id="147"><b>12. Oktober</b> Beitrag auf Heute+ im ZDF</a>
                         <div class="faq-klappe" id="147-klappe">
                           <p>Reporter Carsten Behrendt begleitet unsere derzeitige Crew der Mission Unity. Er berichtet von seinen Eindrücken an Bord und interviewt Crew, sowie Geflüchtete: <a href="http://www.zdf.de/ZDFmediathek#/beitrag/video/2855598/Flüchtlinge:-Einsatz-auf-der-Iuventa" target="_blank">Mediathek-Link</a>.</p>

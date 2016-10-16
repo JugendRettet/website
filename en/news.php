@@ -105,6 +105,16 @@
                           </div>
                       </div><br>
 
+                      <a class="faq" id="111"><b>October 14th</b> 148 people rescued</a>
+                        <div class="faq-klappe" id="111-klappe">
+                          <p>130 people were held by our crew of the current mission Unity from a rubber boat and another 18 from a wooden boat. Our crew supplied them with water, food and medicine. We wish them all the best for their future.</p>
+                        </div><br>
+                      
+                      <a class="faq" id="110"><b>October 12th</b> Rescue under difficult conditions</a>
+                        <div class="faq-klappe" id="110-klappe">
+                          <p>In the night of the 12th to 13th October our crew was part of rescuing 126 people. The rescue was not only because it was pitch black outside extremely difficult, but also due to high waves and strong wind. The weather pushed the rubber boat back into Libyan territorial waters. Yet there was not much time to think as MOAS drone showed that one tube already bursted and people slipped into the water. Together with Proactiva, Boat Refugee Foundation and MOAS our RIB shuttled the rescued to the Phoenix. 17 people, among them a four-year old could not get rescued.</p>
+                        </div><br>
+                      
                       <a class="faq" id="109"><b>October 7th</b> Rescue of 132 people</a>
                         <div class="faq-klappe" id="109-klappe">
                           <p>132 people were saved from a robber boat - among them a family with four kids, who were extremely happy about their new cuddly toys.
