@@ -102,6 +102,21 @@
                           </div>
                       </div><br>
 
+                      <a class="faq" id="147"><b>12. Oktober</b> Beitrag auf Heute+ im ZDF</a>
+                        <div class="faq-klappe" id="147-klappe">
+                          <p>Reporter Carsten Behrendt begleitet unsere derzeitige Crew der Mission Unity. Er berichtet von seinen Eindrücken an Bord und interviewt Crew, sowie Geflüchtete: <a href="http://www.zdf.de/ZDFmediathek#/beitrag/video/2855598/Flüchtlinge:-Einsatz-auf-der-Iuventa" target="_blank">Mediathek-Link</a>.</p>
+                        </div><br>
+                      
+                      <a class="faq" id="146"><b>11. Oktober</b> Jugend Rettet im ZDF Morgenmagazin</a>
+                        <div class="faq-klappe" id="146-klappe">
+                          <p>Lena und Jakob sind zum zweiten Mal zu Gast im MoMa. Das Interview könnt ihr euch hier nochmal anschauen: <a href="http://www.zdf.de/ZDFmediathek/beitrag/video/2855726/Fluechtlinge-Staat-muss-aktiv-werden?bc=kua884718&ipad=true#/beitrag/video/2855726/Fluechtlinge-Staat-muss-aktiv-werden" target="_blank">Mediathek-Link</a>.</p>
+                        </div><br>
+                      
+                      <a class="faq" id="145"><b>7. Oktober</b> Rettung von 132 Menschen</a>
+                        <div class="faq-klappe" id="145-klappe">
+                          <p>132 Personen wurden von einem Schlauchboot aufgenommen - darunter eine Familie mit vier Kindern, die sich besonders über ihre neuen Kuscheltiere freuten.</p>
+                        </div><br>
+                      
                       <a class="faq" id="144"><b>25. November</b> Solikonzert Radio Havanna</a>
                         <div class="faq-klappe" id="144-klappe">
                           <p>

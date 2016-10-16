@@ -105,6 +105,12 @@
                           </div>
                       </div><br>
 
+                      <a class="faq" id="109"><b>October 7th</b> Rescue of 132 people</a>
+                        <div class="faq-klappe" id="109-klappe">
+                          <p>132 people were saved from a robber boat - among them a family with four kids, who were extremely happy about their new cuddly toys.
+                          </p>
+                        </div><br>
+                      
                       <a class="faq" id="108"><b>October 5th</b> Rescue of 30 people</a>
                         <div class="faq-klappe" id="108-klappe">
                           <p>
