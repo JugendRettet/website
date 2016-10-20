@@ -138,6 +138,7 @@
 <li>Engstingen: <a href="mailto:Jeremias_Engstingen@jugendrettet.org">Jeremias</a></li>
 <li>Erkrath: <a href="mailto:AnnaB@jugendrettet.org">Anna</a></li>
 <li>Erlangen: <a href="mailto:Felix_Erlangen@jugendrettet.org">Felix</a></li>
+<li>Frankfurt: <a href="mailto:Markus_Frankfurt@jugendrettet.org">Markus</a></li>
 <li>Fürth: <a href="mailto:Maria_Fuerth@jugendrettet.org">Maria</a></li>
 <li>Hanover: <a href="mailto:Micheel@jugendrettet.org">Micheel</a></li>
 <li>Kassel: <a href="mailto:Leif_Kassel@jugendrettet.org">Leif</a></li>
@@ -151,6 +152,7 @@
 <li>Munich: <a href="mailto:Lioba@jugendrettet.org">Lioba</a></li>
 <li>Munich: <a href="mailto:Lisa@jugendrettet.org">Lisa</a></li>
 <li>Nuremberg: <a href="mailto:Jojo@jugendrettet.org">Jojo</a></li>
+<li>Oldenburg: <a href="mailto:Sabeth_Oldenburg@jugendrettet.org">Sabeth</a></li>
 <li>Osnabrück: <a href="mailto:Jascha_Osnabrueck@jugendrettet.org">Jascha</a></li>
 <li>Paderborn: <a href="mailto:Paderborn@jugendrettet.org">Elisa</a></li>
 <li>Paderborn: <a href="mailto:Paderborn@jugendrettet.org">Josefine</a></li>
