@@ -105,6 +105,26 @@
                           </div>
                       </div><br>
 
+                      <a class="faq" id="115"><b>October 29th</b> Refugee Rescue Solidarity Party in Berlin</a>
+                        <div class="faq-klappe" id="115-klappe">
+                          <p>Berlin! The next must-attend event for everyone who likes to combine doing good and celebrating is coming: Tilman dedicates his 25th birthday to us and invites everyone to Loophole Berlin next Saturday. Thank you, Tilman! <a href="https://www.facebook.com/events/137691560025395/" target="_blank">More information</a>.</p>
+                        </div><br>
+                      
+                      <a class="faq" id="114"><b>October 28th</b> 15-year-old Greek starts charity circumnavigation</a>
+                        <div class="faq-klappe" id="114-klappe">
+                          <p>The 15-year-old Andronikus, so far the youngest supporter of Jugend Rettet e.V., will start a symbolic charity circumnavigation of his native island Lesbos on 28th October 2016 to draw attention to the dying on the Mediterranean. "With my circumnavigation I would like to help Jugend Rettet to proceed with their missions successfully, because every person in maritime emergency deserves rescue. Each of us can support this in his or her way through actions like this or through donations. Jugend Rettet shows this in a way that impressed me deeply and will be an example for me for a lifetime,“ Andronikos explains.</p>
+                        </div><br>
+                      
+                      <a class="faq" id="113"><b>October 21st</b> Start of Mission Dignity</a>
+                        <div class="faq-klappe" id="113-klappe">
+                          <p>"Human dignity is inviolable" that's how it is written in Article 1 of the Constitution. It's hard to trust this sentence, while the European Union forces people to take such a dangerous rout like the one via the Mediterranean. This why we try to at least keep a little dignity alive by not letting them drown. We see it as our duty to support people on the run instead of turning away from them. To safe and respect the dignity of every single human also means to avoid shocking pictures of people in the water who fear for their lives.</p>
+                        </div><br>
+                      
+                      <a class="faq" id="112"><b>October 14th</b> Mission Unity finished</a>
+                        <div class="faq-klappe" id="112-klappe">
+                          <p>Welcome back to our amazing crew of Mission Unity! Thank you for your great effort and the rescue of 423 lives.</p>
+                        </div><br>
+                      
                       <a class="faq" id="111"><b>October 14th</b> 148 people rescued</a>
                         <div class="faq-klappe" id="111-klappe">
                           <p>130 people were held by our crew of the current mission Unity from a rubber boat and another 18 from a wooden boat. Our crew supplied them with water, food and medicine. We wish them all the best for their future.</p>

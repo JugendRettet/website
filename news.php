@@ -102,6 +102,48 @@
                           </div>
                       </div><br>
 
+                      <a class="faq" id="157"><b>29. Oktober</b> Refugee Rescue Solidarity Party in Berlin</a>
+                        <div class="faq-klappe" id="157-klappe">
+                          <p>Liebe Berliner, wir erwarten euch nächsten Samstag im Loophole Berlin, denn Tilman widmet uns seine Geburtstagsfeier, sodass Gutes tun und feiern mal wieder gleichzeitig absolviert werden können. Danke Tilman!
+<a href="https://www.facebook.com/events/137691560025395/" target="_blank">Hier geht es zu den Veranstaltungsinfos</a>.</p>
+                        </div><br>
+                      
+                      <a class="faq" id="156"><b>28. Oktober</b> Benefizumsegelung der Insel Lesbos durch einen fünfzehnjährigen</a>
+                        <div class="faq-klappe" id="156-klappe">
+                          <p>Andronicus, 15, wird am 28. Oktober eine Benefizumsegelung um seine Heimatinsel Lesbos starten, um Spendengelder für Jugend Rettet zu sammeln und für das Thema zu Flucht sensibilisieren. „Mit meiner Umsegelung möchte ich Jugend Rettet helfen, ihre Missionen erfolgreich weiterzuführen, denn jeder Mensch, der in Seenot geraten ist, muss gerettet werden. Jeder von uns kann dies auf seine Weise durch Aktionen wie diese oder durch Spenden unterstützen. Jugend Rettet zeigt das in einer Weise, die mich tief beeindruckt hat und die für mich lebenslang ein Vorbild sein wird.“, erklärt Andronikos.</p>
+                        </div><br>
+                      
+                      <a class="faq" id="155"><b>24. Oktober</b> Titus und Jule bei Radio Fritz</a>
+                        <div class="faq-klappe" id="155-klappe">
+                          <p>Titus und Jule sind von 22:00 - 24:00 Uhr bei <a href="https://www.facebook.com/Fritz.de/" target="_blank">Radio Fritz</a> zu Gast.</p>
+                        </div><br>
+                      
+                      <a class="faq" id="154"><b>22. Oktober</b> Jugend Rettet im ZDF Länderspiegel</a>
+                        <div class="faq-klappe" id="154-klappe">
+                          <p>Gestern lief im ZDF Länderspiegel ein abschließender Beitrag (<a href="http://www.zdf.de/ZDFmediathek/beitrag/video/2863666/Jugend-rettet-auf-dem-Mittelmeer#/beitrag/video/2863666/Jugend-rettet-auf-dem-Mittelmeer" target="_blank">Link</a>) über Mission Unity mit Eindrücken und Beweggründen der Crew, Team Berlin und den Geflüchteten selbst.</p>
+                        </div><br>
+                      
+                      <a class="faq" id="153"><b>21. Oktober</b> Start von Mission Dignity</a>
+                        <div class="faq-klappe" id="153-klappe">
+                          <p>"Die Würde des Menschen ist unantastbar" so steht es schon im Artikel 1 des Grundgesetzes geschrieben. Es fällt aber schwer diesem Satz zu glauben, wenn Menschen durch die Europäische Regierung gezwungen werden, den lebensgefährlichen Weg über das Mittelmeer anzutreten. Deswegen versuchen wir durch unsere Missionen mit der IUVENTA wenigstens einen Teil der Würde zu wahren. Wir sehen es als unsere Pflicht Flüchtende zu unterstützen, statt sich von ihnen abzuschotten. Die Würde jedes einzelnen Geflüchteten zu wahren schließt aber auch ein, dass wir keine "Schockbilder" von Menschen zeigen, die im Wasser um ihr Leben fürchten, nur um zu zeigen wie schrecklich die Situation vor Ort ist.</p>
+                        </div><br>
+                      
+                      <a class="faq" id="152"><b>20. Oktober</b> Crew-Interviews bei ZDF heuteplus</a>
+                        <div class="faq-klappe" id="152-klappe">
+                          <p>Wir sind sehr stolz auf unsere Crews! Ohne sie wäre das alles nicht möglich.
+<a href="https://www.facebook.com/heuteplus/videos/1362938670385044/" target="_blank">Hier</a> geht es zu den Beweggründen der Mitglieder.</p>
+                        </div><br>
+                      
+                      <a class="faq" id="151"><b>20. Oktober</b> Pauline und Uli bei Flux FM</a>
+                        <div class="faq-klappe" id="151-klappe">
+                          <p>Pauline und unser Kapitän der Mission 3-6, Uli, waren bei FluxFM und haben über die aktuelle Situation gesprochen. <a href="https://www.fluxfm.de/iuventa/" target="_blank">Hier</a> könnt euch das ganze Interview nochmal anhören.</p>
+                        </div><br>
+                      
+                      <a class="faq" id="150"><b>18. Oktober</b> Mission Unity beendet</a>
+                        <div class="faq-klappe" id="150-klappe">
+                          <p>Unsere Crew der Mission Unity ist zurück auf Malta! Willkommen zurück und danke für euren großartigen Einsatz und der Rettung von 423 Leben.</p>
+                        </div><br>
+                      
                       <a class="faq" id="149"><b>14. Oktober</b> 148 Menschen gerettet</a>
                         <div class="faq-klappe" id="149-klappe">
                           <p>130 Menschen hat unsere Crew der laufenden Mission Unity von einem Schlauchboot bergen können, sowie weitere 18 von einem Holzboot. Die Geflüchteten wurden an Bord der Iuventa sowohl mit Essen, Trinken als auch medizinisch versorgt. Wir wünschen ihnen weiterhin alles Gute.</p>
