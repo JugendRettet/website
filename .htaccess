@@ -44,6 +44,7 @@
 </ifmodule>
 
 Redirect /donate /spenden
+Redirect /spende /spenden
 
 Redirect /betterplace https://www.betterplace.org/projects/48425-rette-mit-spende-fur-mission-unity
 Redirect /Betterplace https://www.betterplace.org/projects/48425-rette-mit-spende-fur-mission-unity
