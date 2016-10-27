@@ -113,9 +113,36 @@
                           <p>Andronicus, 15, wird am 28. Oktober eine Benefizumsegelung um seine Heimatinsel Lesbos starten, um Spendengelder für Jugend Rettet zu sammeln und für das Thema zu Flucht sensibilisieren. „Mit meiner Umsegelung möchte ich Jugend Rettet helfen, ihre Missionen erfolgreich weiterzuführen, denn jeder Mensch, der in Seenot geraten ist, muss gerettet werden. Jeder von uns kann dies auf seine Weise durch Aktionen wie diese oder durch Spenden unterstützen. Jugend Rettet zeigt das in einer Weise, die mich tief beeindruckt hat und die für mich lebenslang ein Vorbild sein wird.“, erklärt Andronikos.</p>
                         </div><br>
                       
+                      <a class="faq" id="162"><b>27. Oktober</b> Weitere Rettungseinsätze</a>
+                        <div class="faq-klappe" id="162-klappe">
+                          <p>Die aktuelle Situation auf dem Mittelmeer ist kaum zu beschreiben. Es vergeht kein Tag ohne nicht mindestens eine Rettung und unsere Crew hat kaum Zeit, sich von den anstrengenden Einsätzen zu erholen. Auch für die Flüchtenden ist die Situation aufgrund extremer Wetterbedingungen noch gefährlicher.
+Gestern wurden erneut 169 Menschen von einem Schlauch- und einem Holzboot aufgenommen. Eine Person konnte nur noch tot geborgen werden. Des Weiteren assistierte unser Team bei der Bergung einer weiteren Leiche. 
+Nur 2h nachdem der Einsatz abgeschlossen war und die Gäste für den Transport an die VOS Hestia übergeben wurden, erreichte die Crew der Mission Dignity ein weiterer Notruf. Die Iuventa ist seit heute Nacht 02:35 Uhr im Einsatz und hat erneut zwischen 280-300 Menschen aufgenommen. Darunter zwei schwangere Frauen, kurz vor der Entbindung.</p>
+                        </div><br>
+                      
+                      <a class="faq" id="161"><b>26. Oktober</b> Mission Equality auf jetzt.de</a>
+                        <div class="faq-klappe" id="161-klappe">
+                          <p>Journalist Lukas hat unsere Mission Equality begleitet. <a href="http://www.jetzt.de/fluechtlinge/vor-der-kueste-libyens?utm_source=whatsapp&utm_medium=whatsbroadcast&utm_campaign=sz_jetzt" target="_blank">Hier geht es zu seinen Eindrücken</a>.</p>
+                        </div><br>
+                      
+                      <a class="faq" id="160"><b>25. Oktober</b> Jugend Rettet im Süddeutsche Magazin</a>
+                        <div class="faq-klappe" id="160-klappe">
+                          <p>César Dezfuli, Fotojournalist aus Madrid, hat unsere Crew auf der ersten Rettungsmission der IUVENTA begleitet. In den zwei gemeinsamen Wochen lernte er unsere Crew und viele Geflüchtete kennen. Seine Eindrücke beschriebt er <a href="http://sz-magazin.sueddeutsche.de/texte/anzeigen/45149/Ich-wollte-verstehen-wer-sie-sind" target="_blank">hier im Gespräch mit dem Süddeutsche Zeitung Magazin</a>.</p>
+                        </div><br>
+                      
+                      <a class="faq" id="159"><b>25. Oktober</b> Mission Dignity im Dauereinsatz</a>
+                        <div class="faq-klappe" id="159-klappe">
+                          <p>Seit unsere Crew am Sonntag in der SAR-Zone angekommen ist, ist sie im Dauereinsatz. Am Sonntag erreichte das Team um 09:38 ein Notruf koordiniert vom MRCC zu zwei Schlauchbooten. Beide Boote waren glücklicherweise stabil. Wir haben Rettungswesten ausgegeben und alle 279 Personen an Bord aufgenommen. Da leider viele erschöpfte, dehydrierte Personen sowie Menschen mit schweren Verbrennungen dabei waren, hatte das Medical-Team von R@inbow for Africa - R4A viel zu tun. Langwierige Gespräche mit MRCC Rom brachten sehr spät eine Transportlösung für die Geretteten. Erst um 22:05 konnten wir alle Geretteten an die "Rio Segura" der Spanischen Küstenwache übergeben. Wir wünschen allen eine sichere Weiterreise.<br>Gestern nahm die Crew dann erneut 268 Menschen auf, die kurz nach Mitternacht an ein Maltesisches Kriegsschiff übergeben wurden. Nur 15 Minuten später kam der nächste Notruf.<br>Auch alle anderen NGOs befinden sich im Dauereinsatz. Unglaublich, dass diese Aufgabe von privaten Organisationen übernommen werden muss.</p>
+                        </div><br>
+                      
                       <a class="faq" id="155"><b>24. Oktober</b> Titus und Jule bei Radio Fritz</a>
                         <div class="faq-klappe" id="155-klappe">
-                          <p>Titus und Jule sind von 22:00 - 24:00 Uhr bei <a href="https://www.facebook.com/Fritz.de/" target="_blank">Radio Fritz</a> zu Gast.</p>
+                          <p>Titus und Jule sind von 22:00 - 24:00 Uhr bei <a href="http://www.fritz.de/programm/sendungen/blue_moon.html" target="_blank">Radio Fritz</a> zu Gast.</p>
+                        </div><br>
+                      
+                      <a class="faq" id="158"><b>23. Oktober</b> Andronikus Umsegelung</a>
+                        <div class="faq-klappe" id="158-klappe">
+                          <p>Am 28. Oktober startet der 15-jährige Andronikus eine Benefizumsegelung um seine Heimatinsel Lesbos. <a href="http://www.taz.de/!5347553/" target="_blank">Mehr erfahrt ihr hier</a>.</p>
                         </div><br>
                       
                       <a class="faq" id="154"><b>22. Oktober</b> Jugend Rettet im ZDF Länderspiegel</a>

@@ -115,6 +115,18 @@
                           <p>The 15-year-old Andronikus, so far the youngest supporter of Jugend Rettet e.V., will start a symbolic charity circumnavigation of his native island Lesbos on 28th October 2016 to draw attention to the dying on the Mediterranean. "With my circumnavigation I would like to help Jugend Rettet to proceed with their missions successfully, because every person in maritime emergency deserves rescue. Each of us can support this in his or her way through actions like this or through donations. Jugend Rettet shows this in a way that impressed me deeply and will be an example for me for a lifetime,“ Andronikos explains.</p>
                         </div><br>
                       
+                      <a class="faq" id="117"><b>October 27th</b> More rescues</a>
+                        <div class="faq-klappe" id="117-klappe">
+                          <p>The current situation on the Mediterranean can hardly be described. Not a day goes by without at least one rescue and our crew gets hardly any time to rest and recover from these strenuous missions. Due to extreme weather conditions the situation gets more and more dangerous for the fleeing, too.
+Our crew took 169 people from a rubber and a wooden boat on board yesterday. One person could only be brought out of the rubber boat dead. Furthermore our team helped retrieving one more corpse out of the water.
+Only 2h after finishing their use and the guests got handed over for their transport to the VOS Hestia, another emergency call reached our crew of Mission Dignity. Since this night the Iuventa is in use with again 280 between 300 guets on board. Among them two pregnant women, about to give birth.</p>
+                        </div><br>
+                      
+                      <a class="faq" id="116"><b>October 25th</b> Mission Dignity in continuous use</a>
+                        <div class="faq-klappe" id="116-klappe">
+                          <p>As soon as our crew of reached the SAR zone they were is in continuous use. Already on sunday an emergency call about two rubber boats reached the crew. Luckily both boats were stable. We distributed life jackets and took all 279 people on board. Unfortunately there were many dehydrated and exhausted people as well as persons with severe burns so that our medical team of Rainbow4Africa was very busy. Due to long discussions with the MRCC in Rome it took a while until we had a solution to transport the rescued. Only at five past ten in the evening the rescued got handed over to the Spanish coast guard. We wish everyone an onward journey.<br>Yesterday 268 people were taken on board and handed over to a Maltese warship shortly after midnight. Only 15 minutes later the next emergency call came in.<br>All the other NGOs are in continuous use, too. Unbelievable that private organizations have to do all this work.</p>
+                        </div><br>
+                      
                       <a class="faq" id="113"><b>October 21st</b> Start of Mission Dignity</a>
                         <div class="faq-klappe" id="113-klappe">
                           <p>"Human dignity is inviolable" that's how it is written in Article 1 of the Constitution. It's hard to trust this sentence, while the European Union forces people to take such a dangerous rout like the one via the Mediterranean. This why we try to at least keep a little dignity alive by not letting them drown. We see it as our duty to support people on the run instead of turning away from them. To safe and respect the dignity of every single human also means to avoid shocking pictures of people in the water who fear for their lives.</p>
