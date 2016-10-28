@@ -142,6 +142,7 @@
 <li>Mainz: <a href="mailto:Christian_Mainz@jugendrettet.org">Christian</a></li>
 <li>München: <a href="mailto:Lioba@jugendrettet.org">Lioba</a></li>
 <li>München: <a href="mailto:Lisa@jugendrettet.org">Lisa</a></li>
+<li>Münster: <a href="mailto:Paul_Muenster@jugendrettet.org">Paul</a></li>
 <li>Nürnberg: <a href="mailto:Jojo@jugendrettet.org">Jojo</a></li>
 <li>Oldenburg: <a href="mailto:Sabeth_Oldenburg@jugendrettet.org">Sabeth</a></li>
 <li>Osnabrück: <a href="mailto:Jascha_Osnabrueck@jugendrettet.org">Jascha</a></li>
@@ -157,6 +158,7 @@
 <li>Weimar: <a href="mailto:Manuel_Weimar@jugendrettet.org">Manuel</a></li>
 <li>Wien: <a href="mailto:AnnKatrin_Wien@jugendrettet.org">Ann-Katrin</a></li>
 <li>Wuppertal: <a href="mailto:Natalie_Wuppertal@jugendrettet.org">Natalie</a></li>
+<li>Zürich: <a href="mailto:Adrian_Zuerich@jugendrettet.org">Adrian</a></li>
                         </ul>
                         <br>
                     </div>
