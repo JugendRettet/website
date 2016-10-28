@@ -128,7 +128,7 @@
 <li>Erlangen: <a href="mailto:Felix_Erlangen@jugendrettet.org">Felix</a></li>
 <li>Frankfurt: <a href="mailto:Markus_Frankfurt@jugendrettet.org">Markus</a></li>
 <li>Fürth: <a href="mailto:Maria_Fuerth@jugendrettet.org">Maria</a></li>
-<li>Goeteborg: <a href="mailto:Jana_Goeteborg@jugendrettet.org">Jana</a></li>
+<li>Göteborg: <a href="mailto:Jana_Goeteborg@jugendrettet.org">Jana</a></li>
 <li>Hanover: <a href="mailto:Micheel@jugendrettet.org">Micheel</a></li>
 <li>Heidelberg: <a href="mailto:Franziska_Heidelberg@jugendrettet.org">Franziska</a></li>
 <li>Kassel: <a href="mailto:Leif_Kassel@jugendrettet.org">Leif</a></li>
