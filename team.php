@@ -142,6 +142,7 @@
 <li>Fürth: <a href="mailto:Maria_Fuerth@jugendrettet.org">Maria</a></li>
 <li>Goeteborg: <a href="mailto:Jana_Goeteborg@jugendrettet.org">Jana</a></li>
 <li>Hannover: <a href="mailto:Micheel@jugendrettet.org">Micheel</a></li>
+<li>Heidelberg: <a href="mailto:Franziska_Heidelberg@jugendrettet.org">Franziska</a></li>
 <li>Kassel: <a href="mailto:Leif_Kassel@jugendrettet.org">Leif</a></li>
 <li>Konstanz: <a href="mailto:Luisa_Konstanz@jugendrettet.org">Luisa</a></li>
 <li>Konstanz: <a href="mailto:Semmi_Konstanz@jugendrettet.org">Semmi</a></li>
