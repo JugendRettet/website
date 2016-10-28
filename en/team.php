@@ -101,21 +101,6 @@
                           <li><b>Friedemann</b>:  Website</li>
                         </ul>
                         <br>
-                        <h4>The Crew</h4>
-                        <p>consists of:</p>
-                        <ul style="list-style: inherit;">
-                            <li>Captain</li>
-                            <li>Navigator</li>
-                        </ul>
-                        <p>(A1 commission)</p>
-                        <br>
-                        <ul style="list-style: inherit;">
-                            <li>Machinist</li>
-                            <li>Medical Doctors</li>
-                            <li>Paramedic</li>
-                            <li>4-5 Deckhands (first aid course, english/french language skills)</li>
-                        </ul>
-                        <p>Our Deckhands will have STCW - Basic Safety Trainings.</p>
                     </div>
                     <div class="column">
                         <h4>Ambassadors</h4>
@@ -204,6 +189,9 @@
 
                         <img src="../graphics/Falkun_Films.svg" alt="Falkun Films" style="background-color:white;width:100%;margin-top:20px;padding:5px">
                         <span>Falkun Films</span>
+
+                        <img src="../graphics/sbe.svg" alt="SbE Bundesvereinigung Stressbearbeitung nach belastenden Ereignissen e.V." style="background-color:white;width:100%;margin-top:20px;padding:5px">
+                        <span>SbE Bundesvereinigung Stressbearbeitung nach belastenden Ereignissen e.V.</span>
 
                         <br><br>
                         <p><u>Note:</u> We have to renounce linking our promoters and supporters, as this would - by law - constitute a tax effective service in return. This would change a donation into a sponsoring performance, for which we would be taxed. We ask for your comprehension.</p>

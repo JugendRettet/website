@@ -100,21 +100,6 @@
                             <li><b>Friedemann</b>:  Website</li>
                         </ul>
                         <br>
-                        <h4>Die Crew</h4>
-                        <p>besteht aus:</p>
-                        <ul style="list-style: inherit;">
-                            <li>Kapitän_in</li>
-                            <li>Steuermann_frau</li>
-                        </ul>
-                        <p>(mit A1-Patent)</p>
-                        <br>
-                        <ul style="list-style: inherit;">
-                            <li>Maschinist_in</li>
-                            <li>Ärzt_in</li>
-                            <li>Rettungssanitäter_in</li>
-                            <li>4-5 Deckhands (Erste-Hilfe-Kurs, englische/französische Sprachkenntnisse)</li>
-                        </ul>
-                        <p>Unsere Deckhands legen STCW - Basic Safety Trainings ab.</p>
                     </div>
                     <div class="column">
                         <h4>Botschaften</h4>
@@ -204,6 +189,9 @@
 
                         <img src="graphics/Falkun_Films.svg" alt="Falkun Films" style="background-color:white;width:100%;margin-top:20px;padding:5px">
                         <span>Falkun Films</span>
+
+                        <img src="graphics/sbe.svg" alt="SbE Bundesvereinigung Stressbearbeitung nach belastenden Ereignissen e.V." style="background-color:white;width:100%;margin-top:20px;padding:5px">
+                        <span>SbE Bundesvereinigung Stressbearbeitung nach belastenden Ereignissen e.V.</span>
 
                         <br><br>
                         <p><u>Hinweis in eigener Sache:</u> Auf eine Verlinkung zu unseren Förderern und Unterstützern müssen wir leider verzichten, da dies (aus gesetzlicher Sicht) eine steuerlich wirksame Gegenleistung darstellt. Dadurch würde aus einer Spende eine Sponsoringleistung, für die wir Steuern entrichten müssten. Wir bitten herzlich um Verständnis.</p>
