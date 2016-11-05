@@ -114,6 +114,7 @@
 <li>Bonn: <a href="mailto:Chris@jugendrettet.org">Chris</a></li>
 <li>Bremen: <a href="mailto:Bremen@jugendrettet.org">Thomas</a></li>
 <li>Bremen: <a href="mailto:Niklas_Bremen@jugendrettet.org">Niklas</a></li>
+<li>Bremerhaven: <a href="mailto:Birk_Bremerhaven@jugendrettet.org">Birk</a></li>
 <li>Cologne: <a href="mailto:koeln@jugendrettet.org">Gwen and Hannah</a></li>
 <li>Copenhagen: <a href="mailto:Kira@jugendrettet.org">Kira</a></li>
 <li>Cuxhaven: <a href="mailto:Nadine_Cuxhaven@jugendrettet.org">Nadine</a></li>
@@ -129,6 +130,8 @@
 <li>Frankfurt: <a href="mailto:Markus_Frankfurt@jugendrettet.org">Markus</a></li>
 <li>Fürth: <a href="mailto:Maria_Fuerth@jugendrettet.org">Maria</a></li>
 <li>Göteborg: <a href="mailto:Jana_Goeteborg@jugendrettet.org">Jana</a></li>
+<li>Hamburg: <a href="mailto:Lorena_Hamburg@jugendrettet.org">Lorena</a></li>
+<li>Hamburg: <a href="mailto:Marie_Hamburg@jugendrettet.org">Marie</a></li>
 <li>Hanover: <a href="mailto:Micheel@jugendrettet.org">Micheel</a></li>
 <li>Heidelberg: <a href="mailto:Franziska_Heidelberg@jugendrettet.org">Franziska</a></li>
 <li>Kassel: <a href="mailto:Leif_Kassel@jugendrettet.org">Leif</a></li>
@@ -146,12 +149,15 @@
 <li>Nuremberg: <a href="mailto:Jojo@jugendrettet.org">Jojo</a></li>
 <li>Oldenburg: <a href="mailto:Sabeth_Oldenburg@jugendrettet.org">Sabeth</a></li>
 <li>Osnabrück: <a href="mailto:Jascha_Osnabrueck@jugendrettet.org">Jascha</a></li>
+<li>Ostfriesland: <a href="mailto:Julia@jugendrettet.org">Julia</a></li>
+<li>Ostfriesland: <a href="mailto:Mareke@jugendrettet.org">Mareke</a></li>
 <li>Paderborn: <a href="mailto:Paderborn@jugendrettet.org">Elisa</a></li>
 <li>Paderborn: <a href="mailto:Paderborn@jugendrettet.org">Josefine</a></li>
 <li>Paderborn: <a href="mailto:Paderborn@jugendrettet.org">Wiebke</a></li>
 <li>Passau: <a href="mailto:Ben_Passau@jugendrettet.org">Ben</a></li>
 <li>Potsdam: <a href="mailto:Christoph@jugendrettet.org">Christoph</a></li>
 <li>Potsdam: <a href="mailto:Alex@jugendrettet.org">Alex</a></li>
+<li>Roma: <a href="mailto:Carla_Roma@jugendrettet.org">Carla</a></li>
 <li>Salem: <a href="mailto:David@jugendrettet.org">David</a></li>
 <li>Salem: <a href="mailto:Helena@jugendrettet.org">Helena</a></li>
 <li>Stockholm: <a href="mailto:Jonas_Stockholm@jugendrettet.org">Jonas</a></li>
