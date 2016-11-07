@@ -75,28 +75,29 @@
                         <a href="./images/JR_kernteam_ah-02005.jpg" target="_blank"><img alt="team" class="news" src='./images/JR_kernteam_ah-02005_s.jpg'></a>
                         <br><br>
                         <p>
+                            <b><a href="mailto:info@jugendrettet.org">→ Kontakt an das Team</a></b>
                             <b><a href="/presse">→ Pressekontakt</a></b>
                         </p>
                         <br>
                         <ul>
-                            <li><b>Jakob</b>:  Gründer und 1. Vorsitzender, Konzeption, Recht, Finanzen</li>
-                            <li><b>Lena</b>:  2. Vorsitzende, Organisation, Koordination Botschafter, Konzeption</li>
-                            <li><b>Sahra</b>:  Konzeption, Gestaltung</li>
-                            <li><b>Sonja</b>:  Organisation, Recht, Finanzen</li>
-                            <li><b>Pauline</b>:  Leiterin Pressekontakt</li>
-                            <li><b>Jojo</b>:  Öffentlichkeit, Presse, Inhalte</li>
-                            <li><b>Isabel</b>:  Öffentlichkeit, Presse</li>
-                            <li><b>Alex</b>:  Technischer Leiter, Website, Gestaltung</li>
-                            <li><b>Titus</b>:  Koordinator Schiff</li>
-                            <li><b>Matthias</b>:  Recherche, Crew</li>
-                            <li><b>Arne</b>:  nautischer Koordinator</li>
-                            <li><b>Lars</b>:  IT, Website</li>
+                            <li><a href="mailto:jakob@jugendrettet.org"><b>Jakob</b></a>:  Gründer und 1. Vorsitzender, Konzeption, Recht, Finanzen</li>
+                            <li><a href="mailto:lena@jugendrettet.org"><b>Lena</b></a>:  2. Vorsitzende, Organisation, Koordination Botschafter, Konzeption</li>
+                            <li><a href="mailto:sahra@jugendrettet.org"><b>Sahra</b></a>:  Konzeption, Gestaltung</li>
+                            <li><a href="mailto:sonja@jugendrettet.org"><b>Sonja</b></a>:  Organisation, Recht, Finanzen</li>
+                            <li><a href="mailto:pauline@jugendrettet.org"><b>Pauline</b></a>:  Leiterin Pressekontakt</li>
+                            <li><a href="mailto:jojo@jugendrettet.org"><b>Jojo</b></a>:  Öffentlichkeit, Presse, Inhalte</li>
+                            <li><a href="mailto:isa@jugendrettet.org"><b>Isabel</b></a>:  Öffentlichkeit, Presse</li>
+                            <li><a href="mailto:alex@jugendrettet.org"><b>Alex</b></a>:  Technischer Leiter, Website, Gestaltung</li>
+                            <li><a href="mailto:titus@jugendrettet.org"><b>Titus</b></a>:  Koordinator Schiff</li>
+                            <li><a href="mailto:matthias@jugendrettet.org"><b>Matthias</b></a>:  Recherche, Crew</li>
+                            <li><a href="mailto:arne@jugendrettet.org"><b>Arne</b></a>:  nautischer Koordinator</li>
+                            <li><a href="mailto:lars@jugendrettet.org"><b>Lars</b></a>:  IT, Website</li>
                             <li><b>Elke</b>:  Finanzen</li>
                             <li><b>Lukas</b>:  Finanzen</li>
                             <li><b>Jonas</b>:  Gestaltung</li>
                             <li><b>Kjeld</b>:  Gestaltung</li>
                             <li><b>Leon</b>:  Webdesign</li>
-                            <li><b>Christoph</b>:  Schiff-IT</li>
+                            <li><a href="mailto:chris-it@jugendrettet.org"><b>Christoph</b></a>:  Schiff-IT</li>
                             <li><b>Friedemann</b>:  Website</li>
                         </ul>
                         <br>
