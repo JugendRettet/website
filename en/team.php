@@ -77,6 +77,7 @@
                         <br><br>
                         <p>
                             <b><a href="mailto:info@jugendrettet.org">→ mail to the team</a></b>
+                            <br>
                             <b><a href="/presse">→ press contact</a></b>
                         </p>
                         <br>
