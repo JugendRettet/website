@@ -113,7 +113,6 @@
 <li>Bielefeld: <a href="mailto:Andreas_Bielefeld@jugendrettet.org">Andreas</a></li>
 <li>Bonn: <a href="mailto:Alex_Bonn@jugendrettet.org">Alex</a></li>
 <li>Bonn: <a href="mailto:AnnaB@jugendrettet.org">Anna</a></li>
-<li>Bonn: <a href="mailto:Chris@jugendrettet.org">Chris</a></li>
 <li>Bremen: <a href="mailto:Bremen@jugendrettet.org">Thomas</a></li>
 <li>Bremen: <a href="mailto:Niklas_Bremen@jugendrettet.org">Niklas</a></li>
 <li>Bremerhaven: <a href="mailto:Birk_Bremerhaven@jugendrettet.org">Birk</a></li>
