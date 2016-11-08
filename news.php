@@ -102,6 +102,32 @@
                           </div>
                       </div><br>
 
+                      <a class="faq" id="162"><b>7. November</b> Captain Uli übergibt das Kommando an Kai</a>
+                        <div class="faq-klappe" id="162-klappe">
+                          <p>Nach vier Mission übergibt unser Captain Uli die IUVENTA an unseren nächsten Captain Kai.<br>Vielen, vielen Dank für dein großartiges Engagement und dein Durchhaltevermögen, Uli!<br>Alles Gute an Kai! Danke für deine Unterstützung.</p>
+                        </div><br>
+                      
+                      <a class="faq" id="161"><b>6. November</b> Jakob beim Tigerenten Club</a>
+                        <div class="faq-klappe" id="161-klappe">
+                          <p>Jakob war zu Gast beim Tigerenten Club. Hier gehts zur ganzen Folge: <a href="http://bit.ly/JR_tigerente" target="_blank">bit.ly/JR_tigerente</a>.</p>
+                        </div><br>
+                      
+                      <a class="faq" id="160"><b>6. November</b> Mission Dignity abgeschlossen - 2733 Menschen gerettet</a>
+                        <div class="faq-klappe" id="160-klappe">
+                          <p>Die Mission war unglaublich anstrengend, mental wie körperlich, über lange Strecken ohne Schlaf, dafür aber mit unbeschreiblichen Erfolgen. In sieben Einsatztagen konnten wir 2733 Menschenleben retten, davon gaben wir 1293 Menschen auf der IUVENTA Schutz, medizinische Versorgung, Wasser und auch Essen. Unser Medical-Team von <a href="https://www.facebook.com/Rainbow4Africa/" target="_blank">R@inbow for Africa - R4A</a> versorgte Schusswunden, komplizierte Frakturen, Hochschwangere in kritischem Zustand und zahlreiche - teils schwerste - Verbrennungen. Auch die ein oder andere Seekrankheit wurde erfolgreich bekämpft. Zwei Patientinnen mussten dringend mit einem italienischen Marinehubschrauber ausgeflogen und in ein Krankenhaus auf Malta gebracht werden. Wieder einmal waren alle Boote völlig überladen und somit in kritischem Zustand. Die Schläuche mehrerer Boote kollabierten unter dem Gewicht, sodass Menschen ins Wasser fielen. Glücklicherweise war stets unser RIB vor Ort, die die Menschen schnell und sicher aus den Fluten gerettet und in Sicherheit gebracht haben. Wie bereits während der Mission Unity waren die Einsatzzeiten über den gesamten Tag verteilt, sodass wir auch nachts Such- und Rettungsaktionen in absoluter Dunkelheit durchführen mussten. Zusammen mit unseren beiden RIBs haben wir jedoch alle Boote gefunden und alle Menschen gerettet.<br>Wir können unserer Crew der Mission Dignity nicht genug für ihren unglaublichen Einsatz danken! Wir sind stolz auf euch!</p>
+                        </div><br>
+                      
+                      <a class="faq" id="159"><b>4. November</b> 840 Menschen gerettet</a>
+                        <div class="faq-klappe" id="159-klappe">
+                          <p>Die Crew der IUVENTA ist seit 02:00 wieder im Einsatz. Eine Notfallmeldung vom MRCC hat die Besatzung aus den Kojen geholt und die Posten beziehen lassen. Mit vielen Lookouts, dem RIB im Wasser und der Bourbon Argos (MSF) an unserer Seite haben wir das erste Schlauchboot um kurz vor vier gefunden und sogleich Rettungwesten verteilt. Die Flüchtenden wurden glücklicherweise sofort von der Bourbon Argos an Bord genommen, sodass wir die Suche nach einem zweiten Boot fortsetzen konnten, das nach Angaben der Personen an Bord mit ihnen gestartet ist. Fast gleichzeitig ging eine neue Meldung vom MRCC ein, dass sich ein weiteres Schlauchboot auf den Weg gemacht hat. Dies wurde nördlich der 15nm Grenze gesichtet und mit Westen versorgt. Auch diese Menschen wurden von der Bourbon Argos aufgenommen.
+09:55... 6 Schlauchboote später. Iuventa, Minden (<a href="https://www.facebook.com/lifeboatminden/" target="_blank">LifeBoat</a>), Bourbon Argos und Topaz Responder (<a href="https://www.facebook.com/migrantoffshoreaidstation/" target="_blank">MOAS</a>) sind immernoch im Einsatz. Iuventa hat 140 Menschen an Board aufgenommen, insgesammt 840 Menschen in 8 stunden gerettet. Momentan werden weitere Leute vom Iuventa RIB von einem Schlauchboot zur Topaz Responder geshuttlet, dabei assistiert ihnen die LCG.</p>
+                        </div><br>
+                      
+                      <a class="faq" id="158"><b>3. November</b> Rettung von 420 Menschen</a>
+                        <div class="faq-klappe" id="158-klappe">
+                          <p>Nach dem gestrigen Unglück zwischen Libyen und Italien werden laut UNHCR mindestens 239 Personen vermisst. Auch der heutige Tag ist wieder sehr unruhig. Unsere Crew der „Mission Dignity“ war im Verlauf des Tages an der Rettung von 420 Personen beteiligt. Alle Passagiere sind nun sicher an Bord der Phoenix von <a href="https://www.facebook.com/migrantoffshoreaidstation/" target="_blank">MOAS</a>.<br>Aktuell befindet sich unsere Crew noch immer im Rettungseinsatz. Katastrophen wie das Unglück des gestrigen Abends können vermieden werden: Durch sichere und legale Einreisewege! Wir fordern die europäischen Regierungen und die europäische Gesellschaft auf, die Augen nicht länger zu verschließen und endlich zu handeln!</p>
+                        </div><br>
+                      
                       <a class="faq" id="157"><b>29. Oktober</b> Refugee Rescue Solidarity Party in Berlin</a>
                         <div class="faq-klappe" id="157-klappe">
                           <p>Liebe Berliner, wir erwarten euch nächsten Samstag im Loophole Berlin, denn Tilman widmet uns seine Geburtstagsfeier, sodass Gutes tun und feiern mal wieder gleichzeitig absolviert werden können. Danke Tilman!

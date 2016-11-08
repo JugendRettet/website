@@ -105,6 +105,28 @@
                           </div>
                       </div><br>
 
+                      <a class="faq" id="119"><b>November 7th</b> Skipper Uli passes the commando to Kai</a>
+                        <div class="faq-klappe" id="119-klappe">
+                          <p>After four missions our Skipper Uli passes the IUVENTA over to our new Skipper Kai.
+Thank you very, very much for your great engagement and perseverance, Uli!<br>All the best to Kai and thank you for your support!</p>
+                        </div><br>
+                      
+                      <a class="faq" id="118"><b>November 6th</b> Mission Dignity completed - 2733 people rescued</a>
+                        <div class="faq-klappe" id="118-klappe">
+                          <p>The mission was unbelievably demanding, mentally as physically, long stretches without any sleep, but yet with indescribable success. Within seven operating days we were able to save 2733 lives, of which we gave 1293 people protection on board of the IUVENTA, medical supply, water and food. Our medical team of Rainbow 4 Africa took care of bullet wounds, complicated fractures, heavily pregnants in critical condition and numerous - partly severe - combustions. Some cases of seasickness were successfully treated, too. Two female patients urgently had to get picked up by a helicopter of the Italian marine and were brought to a hospital on Malta. Again all boats were overloaded and therefore in a critical condition. The tubes of several boats collapsed due to too much weight. Luckily our RIB was always on-site to rescue the people quickly and safely. As it already happened during Mission Unity, the boats appeared at any day and night time, which lead to search and rescue even when it was pitch black. Together with our two RIBs we managed to find every boat and rescue everyone.
+We can not say thank you enough to our crew of Mission Dignity. We're proud of you!</p>
+                        </div><br>
+                      
+                      <a class="faq" id="117"><b>November 4th</b> 840 people rescued</a>
+                        <div class="faq-klappe" id="117-klappe">
+                          <p>Since 2am our crew is in use again. An emergency call from the MRCC woke the crew to take their position. With many lookouts, our dinghy in the water and the help of the Bourbon Argos (MSF) we managed to discover the first boat and supplied everyone with life jackets. The Bourbon Argos took everyone on board. According to the people they started with two boats, so we continued the search for the second one. Almost simultaneously another call from the MRCC came in to tell us about another boat. It was sighted north of the 15nm zone and got supplied with life jackets, too. The Bourbon Argos took all of them on board again.<br>09:55am ... 6 rubber boats later. The Iuventa, Minden (LifeBoat), Bourbon Argos and Topaz Responder (MOAS) are still in use. The Iuventa took 140 people on board. All in all 840 were rescued within 8 hours. Right now our RIB is shuttling people from a rubber boat to Topaz Responder. The LCG is assisting them.</p>
+                        </div><br>
+                      
+                      <a class="faq" id="116"><b>November 3rd</b> Rescue of 420 people</a>
+                        <div class="faq-klappe" id="116-klappe">
+                          <p>UNHCR informs that 239 people are missing after the catastrophe between Lybia and Italy yesterday evening. Today was a rough day as well. Our crew of „Mission Dignity“ assisted rescuing 420 people from maritime emergency. All passengers were brought to the Phoenix of MOAS safely.<br>Right now our crew is still busy with ongoing rescue missions. Catastrophes like the one that happened yesterday can be avoided: By safe and legal passages! We demand action from European governments and the civil society right now!</p>
+                        </div><br>
+                      
                       <a class="faq" id="115"><b>October 29th</b> Refugee Rescue Solidarity Party in Berlin</a>
                         <div class="faq-klappe" id="115-klappe">
                           <p>Berlin! The next must-attend event for everyone who likes to combine doing good and celebrating is coming: Tilman dedicates his 25th birthday to us and invites everyone to Loophole Berlin next Saturday. Thank you, Tilman! <a href="https://www.facebook.com/events/137691560025395/" target="_blank">More information</a>.</p>
