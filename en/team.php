@@ -113,7 +113,7 @@
 <li>Bielefeld: <a href="mailto:Andreas_Bielefeld@jugendrettet.org">Andreas</a></li>
 <li>Bonn: <a href="mailto:Alex_Bonn@jugendrettet.org">Alex</a></li>
 <li>Bonn: <a href="mailto:AnnaB@jugendrettet.org">Anna</a></li>
-<li>Bremen: <a href="mailto:Bremen@jugendrettet.org">Thomas</a></li>
+<li>Bremen: <a href="mailto:Thomas@jugendrettet.org">Thomas</a></li>
 <li>Bremen: <a href="mailto:Niklas_Bremen@jugendrettet.org">Niklas</a></li>
 <li>Bremerhaven: <a href="mailto:Birk_Bremerhaven@jugendrettet.org">Birk</a></li>
 <li>Cologne: <a href="mailto:koeln@jugendrettet.org">Gwen and Hannah</a></li>
@@ -141,6 +141,7 @@
 <li>Liechtenstein: <a href="mailto:David@jugendrettet.org">David</a></li>
 <li>Liechtenstein: <a href="mailto:Helena@jugendrettet.org">Helena</a></li>
 <li>Limburg: <a href="mailto:Matthias_Limburg@jugendrettet.org">Matthias</a></li>
+<li>Lindau: <a href="mailto:Laura_Lindau@jugendrettet.org">Laura</a></li>
 <li>London: <a href="mailto:LenaG@jugendrettet.org">Lena</a></li>
 <li>Lüneburg: <a href="mailto:Alex@jugendrettet.org">Alex</a></li>
 <li>Mainz: <a href="mailto:Christian_Mainz@jugendrettet.org">Christian</a></li>
