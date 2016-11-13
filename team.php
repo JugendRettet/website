@@ -150,11 +150,10 @@
 <li>Münster: <a href="mailto:Paul_Muenster@jugendrettet.org">Paul</a></li>
 <li>Nürnberg: <a href="mailto:Jojo@jugendrettet.org">Jojo</a></li>
 <li>Oldenburg: <a href="mailto:Sabeth_Oldenburg@jugendrettet.org">Sabeth</a></li>
+<li>Oldenburg: <a href="mailto:Maxi_Oldenburg@jugendrettet.org">Maxi</a></li>
 <li>Osnabrück: <a href="mailto:Jascha_Osnabrueck@jugendrettet.org">Jascha</a></li>
 <li>Ostfriesland: <a href="mailto:Julia@jugendrettet.org">Julia</a></li>
 <li>Ostfriesland: <a href="mailto:Mareke@jugendrettet.org">Mareke</a></li>
-<li>Paderborn: <a href="mailto:Paderborn@jugendrettet.org">Elisa</a></li>
-<li>Paderborn: <a href="mailto:Paderborn@jugendrettet.org">Josefine</a></li>
 <li>Paderborn: <a href="mailto:Paderborn@jugendrettet.org">Wiebke</a></li>
 <li>Passau: <a href="mailto:Ben_Passau@jugendrettet.org">Ben</a></li>
 <li>Potsdam: <a href="mailto:Alex@jugendrettet.org">Alex</a></li>
@@ -162,6 +161,7 @@
 <li>Rom: <a href="mailto:Carla_Roma@jugendrettet.org">Carla</a></li>
 <li>Salem: <a href="mailto:David@jugendrettet.org">David</a></li>
 <li>Salem: <a href="mailto:Helena@jugendrettet.org">Helena</a></li>
+<li>Slupsk: <a href="mailto:Radek_Slupsk@jugendrettet.org">Radek</a></li>
 <li>Stockholm: <a href="mailto:Jonas_Stockholm@jugendrettet.org">Jonas</a></li>
 <li>Weimar: <a href="mailto:Manuel_Weimar@jugendrettet.org">Manuel</a></li>
 <li>Wien: <a href="mailto:AnnKatrin_Wien@jugendrettet.org">Ann-Katrin</a></li>
