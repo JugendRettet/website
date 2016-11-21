@@ -75,12 +75,12 @@
                         <p>Head of Press Jugend Rettet</p>
                         <p>Postfach 36 03 55 D- 10973 Berlin</p>
                         <p>Mail: <a href="mailto:Pauline@jugendrettet.org">Pauline@jugendrettet.org</a></p>
-                        <p>Fon: <a href="tel:+491758228735">+49 175 822 87 35</a></p>
+                        <p>Fon: <a href="tel:+491758228735">+49 177 8333911</a></p>
                         <br>
                         <p>&#8594; <a href="../files/press_portfolio_JR.pdf">press portfolio (updated August 7th '16)</a></p>
                         <br>
-                        <p>&#8594; <a href="../files/presse.vcf">save contact</a> or scan:</p>
-                        <a href="../files/presse_qr.png" target="_blank"><img alt="qr" class="news" src='../files/presse_qr.png'></a>
+                        <!--<p>&#8594; <a href="../files/presse.vcf">save contact</a> or scan:</p>
+                        <a href="../files/presse_qr.png" target="_blank"><img alt="qr" class="news" src='../files/presse_qr.png'></a>-->
                     </div>
                 </div>
             </div>
