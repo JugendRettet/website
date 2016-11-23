@@ -212,6 +212,9 @@ div#lastlinks a {
 div.hor-el p {
   padding: 0.5ch;
 }
+div#bp-column {
+	min-width: 210px;
+}
 /* end structure */
 /* styling */
 body {
