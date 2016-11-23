@@ -1,0 +1,516 @@
+@font-face {
+  font-family: 'Open Sans';
+  font-weight: 300;
+  font-style: normal;
+  src: url('../fonts/Open-Sans-300/Open-Sans-300.eot');
+  src: url('../fonts/Open-Sans-300/Open-Sans-300.eot?#iefix') format('embedded-opentype'),
+       local('Open Sans Light'),
+       local('Open-Sans-300'),
+       url('../fonts/Open-Sans-300/Open-Sans-300.woff2') format('woff2'),
+       url('../fonts/Open-Sans-300/Open-Sans-300.woff') format('woff'),
+       url('../fonts/Open-Sans-300/Open-Sans-300.ttf') format('truetype'),
+       url('../fonts/Open-Sans-300/Open-Sans-300.svg#OpenSans') format('svg');
+}
+
+@font-face {
+  font-family: 'Open Sans';
+  font-weight: 400;
+  font-style: normal;
+  src: url('../fonts/Open-Sans-regular/Open-Sans-regular.eot');
+  src: url('../fonts/Open-Sans-regular/Open-Sans-regular.eot?#iefix') format('embedded-opentype'),
+       local('Open Sans'),
+       local('Open-Sans-regular'),
+       url('../fonts/Open-Sans-regular/Open-Sans-regular.woff2') format('woff2'),
+       url('../fonts/Open-Sans-regular/Open-Sans-regular.woff') format('woff'),
+       url('../fonts/Open-Sans-regular/Open-Sans-regular.ttf') format('truetype'),
+       url('../fonts/Open-Sans-regular/Open-Sans-regular.svg#OpenSans') format('svg');
+}
+
+@font-face {
+  font-family: 'Open Sans';
+  font-weight: 600;
+  font-style: normal;
+  src: url('../fonts/Open-Sans-600/Open-Sans-600.eot');
+  src: url('../fonts/Open-Sans-600/Open-Sans-600.eot?#iefix') format('embedded-opentype'),
+       local('Open Sans Semibold'),
+       local('Open-Sans-600'),
+       url('../fonts/Open-Sans-600/Open-Sans-600.woff2') format('woff2'),
+       url('../fonts/Open-Sans-600/Open-Sans-600.woff') format('woff'),
+       url('../fonts/Open-Sans-600/Open-Sans-600.ttf') format('truetype'),
+       url('../fonts/Open-Sans-600/Open-Sans-600.svg#OpenSans') format('svg');
+}
+
+@font-face {
+  font-family: 'Open Sans';
+  font-weight: 700;
+  font-style: normal;
+  src: url('../fonts/Open-Sans-700/Open-Sans-700.eot');
+  src: url('../fonts/Open-Sans-700/Open-Sans-700.eot?#iefix') format('embedded-opentype'),
+       local('Open Sans Bold'),
+       local('Open-Sans-700'),
+       url('../fonts/Open-Sans-700/Open-Sans-700.woff2') format('woff2'),
+       url('../fonts/Open-Sans-700/Open-Sans-700.woff') format('woff'),
+       url('../fonts/Open-Sans-700/Open-Sans-700.ttf') format('truetype'),
+       url('../fonts/Open-Sans-700/Open-Sans-700.svg#OpenSans') format('svg');
+}
+
+@font-face {
+  font-family: 'Open Sans';
+  font-weight: 800;
+  font-style: normal;
+  src: url('../fonts/Open-Sans-800/Open-Sans-800.eot');
+  src: url('../fonts/Open-Sans-800/Open-Sans-800.eot?#iefix') format('embedded-opentype'),
+       local('Open Sans Extrabold'),
+       local('Open-Sans-800'),
+       url('../fonts/Open-Sans-800/Open-Sans-800.woff2') format('woff2'),
+       url('../fonts/Open-Sans-800/Open-Sans-800.woff') format('woff'),
+       url('../fonts/Open-Sans-800/Open-Sans-800.ttf') format('truetype'),
+       url('../fonts/Open-Sans-800/Open-Sans-800.svg#OpenSans') format('svg');
+}
+
+@font-face {
+  font-family: 'Open Sans';
+  font-weight: 300;
+  font-style: italic;
+  src: url('../fonts/Open-Sans-300italic/Open-Sans-300italic.eot');
+  src: url('../fonts/Open-Sans-300italic/Open-Sans-300italic.eot?#iefix') format('embedded-opentype'),
+       local('Open Sans Light Italic'),
+       local('Open-Sans-300italic'),
+       url('../fonts/Open-Sans-300italic/Open-Sans-300italic.woff2') format('woff2'),
+       url('../fonts/Open-Sans-300italic/Open-Sans-300italic.woff') format('woff'),
+       url('../fonts/Open-Sans-300italic/Open-Sans-300italic.ttf') format('truetype'),
+       url('../fonts/Open-Sans-300italic/Open-Sans-300italic.svg#OpenSans') format('svg');
+}
+
+@font-face {
+  font-family: 'Open Sans';
+  font-weight: 400;
+  font-style: italic;
+  src: url('../fonts/Open-Sans-italic/Open-Sans-italic.eot');
+  src: url('../fonts/Open-Sans-italic/Open-Sans-italic.eot?#iefix') format('embedded-opentype'),
+       local('Open Sans Italic'),
+       local('Open-Sans-italic'),
+       url('../fonts/Open-Sans-italic/Open-Sans-italic.woff2') format('woff2'),
+       url('../fonts/Open-Sans-italic/Open-Sans-italic.woff') format('woff'),
+       url('../fonts/Open-Sans-italic/Open-Sans-italic.ttf') format('truetype'),
+       url('../fonts/Open-Sans-italic/Open-Sans-italic.svg#OpenSans') format('svg');
+}
+
+@font-face {
+  font-family: 'Open Sans';
+  font-weight: 600;
+  font-style: italic;
+  src: url('../fonts/Open-Sans-600italic/Open-Sans-600italic.eot');
+  src: url('../fonts/Open-Sans-600italic/Open-Sans-600italic.eot?#iefix') format('embedded-opentype'),
+       local('Open Sans Semibold Italic'),
+       local('Open-Sans-600italic'),
+       url('../fonts/Open-Sans-600italic/Open-Sans-600italic.woff2') format('woff2'),
+       url('../fonts/Open-Sans-600italic/Open-Sans-600italic.woff') format('woff'),
+       url('../fonts/Open-Sans-600italic/Open-Sans-600italic.ttf') format('truetype'),
+       url('../fonts/Open-Sans-600italic/Open-Sans-600italic.svg#OpenSans') format('svg');
+}
+
+@font-face {
+  font-family: 'Open Sans';
+  font-weight: 700;
+  font-style: italic;
+  src: url('../fonts/Open-Sans-700italic/Open-Sans-700italic.eot');
+  src: url('../fonts/Open-Sans-700italic/Open-Sans-700italic.eot?#iefix') format('embedded-opentype'),
+       local('Open Sans Bold Italic'),
+       local('Open-Sans-700italic'),
+       url('../fonts/Open-Sans-700italic/Open-Sans-700italic.woff2') format('woff2'),
+       url('../fonts/Open-Sans-700italic/Open-Sans-700italic.woff') format('woff'),
+       url('../fonts/Open-Sans-700italic/Open-Sans-700italic.ttf') format('truetype'),
+       url('../fonts/Open-Sans-700italic/Open-Sans-700italic.svg#OpenSans') format('svg');
+}
+
+@font-face {
+  font-family: 'Open Sans';
+  font-weight: 800;
+  font-style: italic;
+  src: url('../fonts/Open-Sans-800italic/Open-Sans-800italic.eot');
+  src: url('../fonts/Open-Sans-800italic/Open-Sans-800italic.eot?#iefix') format('embedded-opentype'),
+       local('Open Sans Extrabold Italic'),
+       local('Open-Sans-800italic'),
+       url('../fonts/Open-Sans-800italic/Open-Sans-800italic.woff2') format('woff2'),
+       url('../fonts/Open-Sans-800italic/Open-Sans-800italic.woff') format('woff'),
+       url('../fonts/Open-Sans-800italic/Open-Sans-800italic.ttf') format('truetype'),
+       url('../fonts/Open-Sans-800italic/Open-Sans-800italic.svg#OpenSans') format('svg');
+}
+/* structure */
+body {
+	min-width: 30ch;
+}
+div#header {
+	height: 100vh;
+	display:flex;
+	justify-content:center;
+	align-items:center;
+	width:100%;
+}
+a#introlink {
+	overflow: hidden;
+	display: inline-block;
+	width: 100%;
+	padding: 0;
+}
+div#center {
+  position: relative;
+  z-index: 3;
+	width: 50%;
+	height: 50vh;
+}
+div#center p {
+	margin: 0;
+}
+div#center h1, div#center p {
+  font-size: 6vw;
+  margin-bottom: 0;
+}
+div#center object, div#center img {
+	width: 100%;
+	max-height: 50vh;
+}
+nav {
+	overflow: hidden;
+	top: 0;
+	z-index: 1;
+	position: fixed;
+	width: 100%;
+}
+nav a {
+  display: inline-block;
+  margin-top: 1px;
+}
+nav a p {
+	margin: 0;
+}
+div#margin-box {
+	margin-left: 2ch;
+}
+div#lastlinks {
+	max-width: 84ch;
+}
+article {
+	padding-top: 3ch;
+	margin-left: 3ch;
+	margin-right: 3ch;
+	padding-bottom: 3ch;
+	max-width: 100ch;
+}
+header {
+	padding-bottom: 8ch;
+}
+div#lastlinks {
+	padding-top: 2ch;
+	padding-bottom: 2ch;
+}
+div#lastlinks a {
+	margin-top: 0.5ch;
+	display: inline-block;
+}
+div.hor-el p {
+  padding: 0.5ch;
+}
+/* end structure */
+/* styling */
+body {
+	/*background: #286482;*/
+	font-family: Open Sans;
+  color: #142d3c;
+	margin: 0;
+	font-size: large;
+}
+div#center a {
+	border: none;
+}
+header, footer {
+	font-size:0.8em;
+	font-family: monospace;
+}
+div#center h1, div#center p {
+  color: white;
+}
+nav {
+	background: #286482;
+}
+div#paper, nav a:hover, div#lastlinks a:hover {
+	/* border: solid; */
+}
+article {
+	line-height:140%;
+	word-wrap:break-word;
+}
+pre {
+	color:white;
+	background-color:black;
+	overflow-x:auto;
+	word-wrap:normal;
+	max-width:95%;
+	margin: auto;
+	margin-bottom: 1ch;
+	padding: 1ch;
+}
+pre,.quote {
+	line-height:normal;
+}
+a {
+	color:inherit;
+}
+body a {
+	padding: 1ch;
+	text-decoration: none;
+	border-bottom: solid thin;
+}
+a#introlink {
+	border: none;
+}
+div#paper a {
+	padding: initial;
+}
+p {
+	text-align:center;
+	max-width: 80ch;
+}
+p, div.p-highlight, div.p-dark {
+	margin: 0.5em;
+}
+h1 {
+	font-weight: normal;
+	text-align: center;
+	margin-bottom: 4ch;
+	text-transform: uppercase;
+}
+h2 {
+	/*border-left:solid;*/
+	/*padding-left:2ch;*/
+  padding: 2ch;
+	text-transform: uppercase;
+	margin-top: 1.4em;
+	background: rgb(141, 160, 169);
+  color: white;
+}
+h3 {
+  text-transform: uppercase;
+}
+h1, h2, h3, h4, h5, h6 {
+	font-family: Open Sans;
+}
+div#paper {
+	background: white;
+}
+footer {
+	border-top: thin solid gray;
+	word-break:break-all;
+}
+ul {
+	/*list-style-type: hebrew;*/
+}
+li {
+	margin-bottom: 0.5ch;
+}
+footer ul {
+	list-style-type: none;
+	padding-left: 0;
+}
+nav a {
+  text-transform: uppercase;
+  background: #286482;
+  color: white;
+  font-size: smaller;
+  padding: 1ch;
+  border: none;
+  transition: background-color 0.2s linear,
+  color 0.2s linear,
+  border 0.2s;
+}
+nav a:hover, nav a:hover.red, nav a:hover.dark {
+	background: white;
+	color: #286482;
+	border: none;
+}
+nav a:hover.red {
+	color: rgb(249,69,0);
+}
+nav a:hover.dark {
+	color: #142d3c;
+}
+nav a p {
+	margin: 0;
+}
+/* end styling */
+/* classes */
+.center, p {
+	margin-left: auto;
+	margin-right: auto;
+}
+.text-center, .hor {
+	text-align: center;
+}
+.text-long p {
+	text-align: left;
+}
+.monospace {
+	font-family: monospace;
+}
+.red, nav a.red {
+	background: rgb(249,69,0);	
+}
+.container {
+
+}
+.left {
+
+}
+.right {
+
+}
+.text-lighter {
+  color: #286482;
+}
+.text-darker {
+  color: #142d3c;
+}
+.text-large {
+	font-size: large;
+}
+.text-smaller {
+  font-size: smaller;
+}
+.text-small, .hor-4, .hor-5 {
+  font-size: small;
+}
+div.p-highlight p, div.p-dark p {
+	padding: 1em;
+	margin: 0;
+}
+.highlight, nav a.highlight, div.box-highlight, div.p-highlight {
+  background: rgb(219, 233, 238);
+}
+.dark, nav a.dark, div.box-dark, div.p-dark {
+	color: white;
+	background-color: #142d3c;
+}
+div.a-dark {
+	transition: background-color 0.3s ease,
+  color 0.6s ease,
+  border-color 0.6s ease;
+}
+div.a-dark:hover {
+	background-color: white;
+	color: #142d3c;
+}
+div.box-dark, div.box-highlight {
+	padding: 0.4ch;
+}
+div.box-dark, div.box-highlight, div.hor {
+	margin-bottom: 18px;
+}
+.a-dark a, .a-highlight a {
+	color: inherit;
+	background: inherit;
+	border-bottom: none;
+}
+.a-dark:hover a {
+	border-bottom: solid thin;
+}
+div.box-pic {
+  height: 40vh;
+  background-position: center;
+  background-image: url(http://2d0yaz2jiom3c6vy7e7e5svk.wpengine.netdna-cdn.com/wp-content/uploads/2015/07/full-moon-800x430.jpg);
+}
+div.box-pic-s {
+  height: 100px;
+  background-position: center;
+  background-image: url(http://2d0yaz2jiom3c6vy7e7e5svk.wpengine.netdna-cdn.com/wp-content/uploads/2015/07/full-moon-800x430.jpg);
+}
+div.hor-el {
+  display: inline-block;
+  vertical-align: top;
+  overflow-x: auto;
+  overflow-y: hidden;
+  min-width: 100px;
+  margin-bottom: 1em;
+  /*border: thin solid white;*/
+}
+div.hor-2 {
+  width: 48%;
+}
+div.hor-3 {
+  width: 32%;
+}
+div.hor-4 {
+  width: 23%;
+}
+div.hor-5 {
+  width: 18%;
+}
+div.hor-last, .box-pic, .box-pic-s{
+  border-right: none;
+}
+p, h2, h3 {
+	text-align:center;
+}
+video.header-video {
+	object-fit: cover;
+	height: 100vh;
+	width: 100%;
+	z-index: 2;
+	position: absolute;
+	top: 0;
+	left: 0;
+}
+span.fake {
+	color: transparent;
+}
+span.hidden {
+	display: none;
+}
+span.big-margin {
+	display: inline-block;
+	margin: 2em;
+}
+.std {
+	font-weight: normal;
+}
+.box-highlight, .box-dark, .p-highlight, .p-dark, .hor {
+	max-width: 95%;
+	margin-left: auto;
+	margin-right: auto;
+}
+/* end classes */
+@media screen and (max-width: 690px) {
+	div.hor-3 {
+	  width: 100%;
+	}
+	body {
+	  font-size: medium;
+	}
+}
+@media screen and (max-width: 600px) {
+	div.hor-5 {
+	  font-size: x-small;
+	}
+	body, div.hor-2 {
+	  font-size: medium;
+	}
+}
+@media screen and (max-width: 500px) {
+	div.hor-4 {
+	  font-size: x-small;
+	}
+	div.hor-2 {
+	  font-size: smaller;
+	}
+}
+@media screen and (max-width: 400px) {
+	nav a {
+	  font-size: 3vw;
+	}
+	div.hor-2 {
+	  font-size: small;
+	}
+}
+video::-webkit-media-controls-start-playback-button {
+  display: none !important;
+}
