@@ -1,0 +1,157 @@
+#!/usr/local/bin/mksh
+# Script by Ypnose - http://ywstd.fr
+
+WSH_RAC="$1"
+
+function prynt_err {
+	print -u2 "ERR:" "$1"
+	exit 1
+}
+
+function get_config {
+	if [[ -r ${WSH_RAC}/wswsh.conf ]]; then
+		. "${WSH_RAC}/wswsh.conf"
+	else
+		prynt_err "Missing wswsh.conf in $WSH_RAC"
+	fi
+	# NOT FINAL (SYMLINKS?)...
+	if [[ -f ${WSH_RAC}/includes/layout ]]; then
+		. "${WSH_RAC}/includes/layout"
+	fi
+}
+
+function get_structure {
+	typeset WSH_SDIR
+
+	if [[ ! -d ${WSH_RAC}/src ]]; then
+		prynt_err "src doesn't exist"
+	fi
+	# Create src/ hierarchy in dest/
+	( cd "${WSH_RAC}/src"; find . -type d ) | while IFS=$'\n' read -r WSH_SDIR; do
+		mkdir -p "${WSH_RAC}/dest/${WSH_SDIR#*/}"
+	done
+}
+
+function def_regex {
+	# Extensible part...
+	case $WSH_INTERP in
+		./ahrf*)
+			WSH_PAT="^[\t ]*:"
+			WSH_REG="^[\t ]*:[\t ]*|[\t ]*:[\t ]*$"
+			;;
+		*)
+			WSH_PAT="<h1>"
+			WSH_REG="^[\t ]*<h1>[\t ]*|[\t ]*<\/h1>.*$"
+			;;
+	esac
+}
+
+function run_hook {
+	typeset WSH_HOOK
+
+	WSH_HOOK="$1"
+	if [[ -f ${WSH_RAC}/includes/${WSH_HOOK} ]]; then
+		. "${WSH_RAC}/includes/${WSH_HOOK}"
+	fi
+}
+
+function gen_page {
+	typeset WSH_GENF WSH_GENF_NOSRC WSH_GENF_FINAL WSH_GENF_TITLE
+
+	if [[ -n $WSH_INTERP && ! -x $(whence -p $WSH_INTERP) ]]; then
+		prynt_err "$WSH_INTERP not found"
+	fi
+
+	if [[ -n $WSH_CSSF && -r ${WSH_RAC}/src/${WSH_CSSF} ]]; then
+		WSH_CSS="1"
+		cp "${WSH_RAC}/src/${WSH_CSSF}" "${WSH_RAC}/dest/${WSH_CSSF}"
+	fi
+
+	# Define the regexes
+	def_regex
+
+	cd "$WSH_RAC"
+	find "src" -type f -iname "*.${WSH_EXT:-txt}" | while IFS=$'\n' read -r WSH_GENF; do
+		WSH_GENF_NOSRC="${WSH_GENF#*/}"
+		WSH_GENF_FINAL="dest/${WSH_GENF_NOSRC%%.*}.html"
+		WSH_GENF_TITLE="$(awk '/'"$WSH_PAT"'/{gsub(/'"$WSH_REG"'/,"");print $0;exit}' "$WSH_GENF")"
+
+		run_hook pre_genpage
+		page_header >"$WSH_GENF_FINAL"
+		if ! "${WSH_INTERP:-cat}" "$WSH_GENF" >>"$WSH_GENF_FINAL"; then
+			prynt_err "Generating $WSH_GENF failed"
+		fi
+		page_footer >>"$WSH_GENF_FINAL"
+		run_hook post_genpage
+
+		if (( WSH_COPY == 1 )); then
+			cp "src/${WSH_GENF_NOSRC}" "dest/${WSH_GENF_NOSRC}"
+		fi
+	done
+}
+
+function copy_html {
+	typeset WSH_HTML
+
+	# We copy existing *.html files from src to dest.
+	find "src" -type f -iname "*.html" | while IFS=$'\n' read -r WSH_HTML; do
+		if [[ -f dest/${WSH_HTML#*/} ]]; then
+			print "dest/${WSH_HTML#*/} already exists"
+			continue
+		fi
+		cp -- "$WSH_HTML" "dest/${WSH_HTML#*/}"
+	done
+}
+
+function awk_parser {
+	awk 'BEGIN { FS = " "; c = 0 }
+	function pr_cnt() { printf("%s|", $0); (( c++ )) }
+	{
+		if (c < 3) {
+			if ($0 ~ /^[\t ]*<!-- +D(ATE|ESC):/) {
+				gsub(/^[\t ]*<!-- +D(ATE|ESC): +| +-->[\t ]*$/,""); pr_cnt(); next
+			} else if ($0 ~ /'"$WSH_PAT"'/) {
+				gsub(/'"$WSH_REG"'/,""); pr_cnt(); next
+			}
+		} else { exit }
+	}
+	END { printf("\n") }' "$1"
+}
+
+function gen_atom {
+	typeset WSH_ATOM_RUN WSH_ATOM_FINAL WSH_ATOM_DATE WSH_ATOM_DESC WSH_ATOM_TITLE p
+
+	if [[ -n $WSH_ATOM ]]; then
+		# XML date, emulates $(date --rfc-3339=seconds) from GNU date.
+		# Works with busybox(1) too...
+		WSH_ATOM_RUN=$(LC_ALL=C date "+%Y-%m-%dT%H:%M:%SZ")
+		atom_header >"dest/${WSH_ATOM_DIR}atom.xml"
+		for p in $WSH_ATOM; do
+			if [[ ! -r src/${p} ]]; then
+				prynt_err "src/${p} is either missing or unreadable"
+			fi
+			WSH_ATOM_FINAL="${p%%.*}.html"
+			awk_parser "src/${p}" | {
+				IFS='|' read -r WSH_ATOM_DATE WSH_ATOM_DESC WSH_ATOM_TITLE
+				atom_content >>"dest/${WSH_ATOM_DIR}atom.xml"
+			}
+		done
+		print '</feed>' >>"dest/${WSH_ATOM_DIR}atom.xml"
+	fi
+}
+
+if [[ -z $1 || $1 = "-h" ]]; then
+	print "usage: ${0##*/} [DIR]"
+	exit
+fi
+
+get_config
+get_structure
+gen_page
+copy_html
+gen_atom
+
+WSH_TOT="$(find "${WSH_RAC}/dest" -type f | wc -l)"
+print "Generated $WSH_TOT file(s) in ${WSH_RAC}/dest"
+
+exit
