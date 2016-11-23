@@ -221,6 +221,12 @@ body {
 	margin: 0;
 	font-size: large;
 }
+div#center img {
+	transition: all 0.8s ease;
+}
+div#center img:hover {
+	transform: scale(1.1);
+}
 div#center a {
 	border: none;
 }
