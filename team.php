@@ -118,6 +118,7 @@
 <li>Cuxhaven: <a href="mailto:Nadine_Cuxhaven@jugendrettet.org">Nadine</a></li>
 <li>Dresden: <a href="mailto:Charlotte@jugendrettet.org">Charlotte</a></li>
 <li>Duisburg: <a href="mailto:Jana@jugendrettet.org">Jana</a></li>
+<li>Emden: <a href="mailto:Patrick_Emden@jugendrettet.org">Patrick</a></li>
 <li>Emsland: <a href="mailto:Jannik@jugendrettet.org">Jannik</a></li>
 <li>Emsland: <a href="mailto:MaxB@jugendrettet.org">Max</a></li>
 <li>Engstingen: <a href="mailto:Aron_Engstingen@jugendrettet.org">Aron</a></li>
@@ -131,6 +132,7 @@
 <li>Hamburg: <a href="mailto:Lorena_Hamburg@jugendrettet.org">Lorena</a></li>
 <li>Hamburg: <a href="mailto:Marie_Hamburg@jugendrettet.org">Marie</a></li>
 <li>Hannover: <a href="mailto:Micheel@jugendrettet.org">Micheel</a></li>
+<li>Hannover: <a href="mailto:David_Hannover@jugendrettet.org">David</a></li>
 <li>Heidelberg: <a href="mailto:Franziska_Heidelberg@jugendrettet.org">Franziska</a></li>
 <li>Kassel: <a href="mailto:Leif_Kassel@jugendrettet.org">Leif</a></li>
 <li>Konstanz: <a href="mailto:Luisa_Konstanz@jugendrettet.org">Luisa</a></li>
@@ -138,6 +140,7 @@
 <li>Kopenhagen: <a href="mailto:Kira@jugendrettet.org">Kira</a></li>
 <li>Köln: <a href="mailto:koeln@jugendrettet.org">Gwen</a></li>
 <li>Köln: <a href="mailto:koeln@jugendrettet.org">Hannah</a></li>
+<li>Leipzig: <a href="mailto:Geronimo_Leipzig@jugendrettet.org">Geronimo</a></li>
 <li>Liechtenstein: <a href="mailto:David@jugendrettet.org">David</a></li>
 <li>Liechtenstein: <a href="mailto:Helena@jugendrettet.org">Helena</a></li>
 <li>Limburg: <a href="mailto:Matthias_Limburg@jugendrettet.org">Matthias</a></li>
