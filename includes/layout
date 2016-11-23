@@ -29,8 +29,8 @@ function page_header {
 	else
 		print "\t<title>${WSH_GENF_TITLE}</title>"
 	fi
-	print '	<script async type="text/javascript" src="./js/jquery-3.1.1.min.js"></script>
-	<script async type="text/javascript" src="./js/smoothscroll.js"></script>
+	print '	<script type="text/javascript" src="./js/jquery-3.1.1.min.js"></script>
+	<script type="text/javascript" src="./js/smoothscroll.js"></script>
 </head>
 <body>'
 }
