@@ -2,6 +2,7 @@
 
 if [ ! -f wswsh ]; then
   wget https://github.com/JugendRettet/wswsh/raw/master/wswsh
+  chmod +x wswsh
 else
   echo 'wswsh already there.'
 fi
