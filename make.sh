@@ -2,5 +2,5 @@
 
 make
 echo 'Copying other files'
-cp -r images fonts graphics videos src/js .htaccess dest/
+cp -r extras_binaries/* extras/* extras/.htaccess src/js dest/
 echo 'Done copying.'

@@ -3,11 +3,7 @@ translations/*
 old/*
 dest/*
 **/jquery*.js
-graphics/*
-images/*
-videos/*
-files/*
-fonts/*
+extras_binaries/*
 donations/*
 test/
 .DS_Store
