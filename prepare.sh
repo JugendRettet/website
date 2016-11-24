@@ -13,8 +13,8 @@ else
   echo 'style.css already there.'
 fi
 
-if [ ! -f transalations/*.md ]; then
-  git clone --bare --mirror git@github.com:JugendRettet/translations.git
+if [ ! -f translations/* ]; then
+  git clone git@github.com:JugendRettet/translations.git translations/
 else
-  echo 'transalations/ already there.'
+  echo 'translations/ already there.'
 fi
