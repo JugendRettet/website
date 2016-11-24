@@ -6,9 +6,9 @@ TEXT="${in}"
 
 # File containing translations.
 
-translations=$1
+translations_dir=$1
 
-. "${translations}"
+. "${translations_dir}"/*
 
 declare NEW_TEXT
 
