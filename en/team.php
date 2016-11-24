@@ -83,21 +83,18 @@
                         <br>
                         <ul>
                           <li><a href="mailto:jakob@jugendrettet.org"><b>Jakob</b></a>:  Founder and 1st Chairman, Concept, Law, Finance</li>
-                          <li><a href="mailto:lena@jugendrettet.org"><b>Lena</b></a>:  2nd Chairman, Organisation, Coordination of Ambassadors, Concept</li>
+                          <li><a href="mailto:lena@jugendrettet.org"><b>Lena</b></a>:  2nd Chairman, Organisation, Concept</li>
                           <li><a href="mailto:sahra@jugendrettet.org"><b>Sahra</b></a>:  Concept, Design</li>
                           <li><a href="mailto:sonja@jugendrettet.org"><b>Sonja</b></a>:  Organisation, Law, Finance</li>
                           <li><a href="mailto:pauline@jugendrettet.org"><b>Pauline</b></a>:  Head of Press</li>
-                          <li><a href="mailto:jojo@jugendrettet.org"><b>Jojo</b></a>:  Public Relations, Press, Content</li>
-                          <li><a href="mailto:isa@jugendrettet.org"><b>Isabel</b></a>:  Public Relations, Press</li>
+                          <li><a href="mailto:jojo@jugendrettet.org"><b>Jojo</b></a>:  Public Relations, Press, Content, Coordination of Ambassadors</li>
+                          <li><a href="mailto:isa@jugendrettet.org"><b>Isabel</b></a>:  Public Relations, Press, Coordination of Ambassadors</li>
                           <li><a href="mailto:alex@jugendrettet.org"><b>Alex</b></a>:  Technical Director, Website, Layout</li>
                           <li><a href="mailto:titus@jugendrettet.org"><b>Titus</b></a>:  Coordinator Ship</li>
                           <li><a href="mailto:matthias@jugendrettet.org"><b>Matthias</b></a>:  Research, crew</li>
                           <li><a href="mailto:arne@jugendrettet.org"><b>Arne</b></a>:  nautical coordinator</li>
                           <li><a href="mailto:lars@jugendrettet.org"><b>Lars</b></a>:  IT, website</li>
                           <li><b>Elke</b>:  Finance</li>
-                          <li><b>Lukas</b>:  Finance</li>
-                          <li><b>Jonas</b>:  Design</li>
-                          <li><b>Kjeld</b>:  Design</li>
                           <li><b>Leon</b>:  Webdesign</li>
                           <li><a href="mailto:chris-it@jugendrettet.org"><b>Christoph</b></a>:  Ship IT</li>
                           <li><b>Friedemann</b>:  Website</li>
