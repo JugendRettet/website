@@ -86,6 +86,12 @@ RewriteCond %{HTTPS} !=on
 RewriteCond %{ENV:HTTPS} !=on
 RewriteRule .* https://%{SERVER_NAME}%{REQUEST_URI} [R=301,L]
 
+RewriteCond %{HTTP_HOST} ^de.new.jugendrettet.org
+RewriteRule ^(.*)$ https://new.jugendrettet.org/de/$1 [NC,QSA]
+
+RewriteCond %{HTTP_HOST} ^en.new.jugendrettet.org
+RewriteRule ^(.*)$ https://new.jugendrettet.org/en/$1 [NC,QSA]
+
 RewriteCond %{HTTP_HOST} en.jugendrettet.org$
 RewriteCond %{REQUEST_URI} !^/en
 RewriteCond %{REQUEST_URI} .php$
