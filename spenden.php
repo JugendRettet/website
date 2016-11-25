@@ -64,30 +64,6 @@
             //   rechnen();
             //});
         </script>
-        <!--<style type="text/css">
-            #phase hr.load#ph-eins-progress {
-                transition: 800ms ease;
-                width: <?php
-                    $phase1 = file_get_contents('donations/phase1.txt');
-                    $value1 = number_format(32 / 80000 * (float)$phase1,2,",",".");
-                    echo 100 / 80000 * $phase1;
-                    ?>%;
-            }
-            #phase hr.load#ph-zwei-progress {
-                transition: 800ms ease;
-                width: <?php
-                        $phase2 = file_get_contents('donations/phase2.txt');
-                        echo 100 / 240000 * $phase2;
-                    ?>%;
-            }
-            #phase hr.load#ph-drei-progress {
-                transition: 800ms ease;
-                width: <?php
-                        $phase3 = file_get_contents('donations/phase3.txt');
-                        echo 100 / 290000 * $phase3;
-                    ?>%;
-            }
-        </style>-->
         <style type="text/css">
             #phase hr.load#ph-eins-progress {
                 transition: 800ms ease;
