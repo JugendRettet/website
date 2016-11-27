@@ -5,8 +5,8 @@
 _(logo)
 
     </div><!--center-->
-    <video id="waves-video" class="header-video" loop autoplay preload="auto" poster="./images/error.jpg">
-      <source src="./videos/waves.mp4">
+    <video id="waves-video" class="header-video" loop autoplay preload="auto" poster="../images/error.jpg">
+      <source src="../videos/waves.mp4">
     </video>
   </div><!--header-->
 </a><!--introlink-->
@@ -56,6 +56,8 @@ _(menu_press) &rarr;
   <article class="center">
     <div class="text-lighter">
       <span id="intro" class="fake big-margin">0</span>
+
+_(intro_title)
 
 _(intro)
 
