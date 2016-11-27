@@ -82,31 +82,4 @@ RewriteCond %{HTTPS} !=on
 RewriteCond %{ENV:HTTPS} !=on
 RewriteRule .* https://%{SERVER_NAME}%{REQUEST_URI} [R=301,L]
 
-RewriteCond %{HTTP_HOST} en.jugendrettet.org$
-RewriteCond %{REQUEST_URI} !^/en
-RewriteCond %{REQUEST_URI} .php$
-RewriteRule ^(.*)$ /en/$1
-
-RewriteCond %{HTTP_HOST} en.jugendrettet.org$
-RewriteCond %{REQUEST_URI} ^/$
-RewriteRule ^(.*)$ /en/index.php
-
-RewriteCond %{HTTP_HOST} =de.jugendrettet.org
-RewriteRule (.*) https://jugendrettet.org/$1 [R=301]
-
-RewriteCond %{THE_REQUEST} ^GET\ /de/
-RewriteRule ^de/(.*) /$1 [R=301]
-
-RewriteCond %{REQUEST_URI} /aendern
-RewriteRule .* /retten [R=302,L]
-
-RewriteCond %{REQUEST_FILENAME} !-f
-RewriteRule ^([^\.]+)$ $1.php [NC,L]
-
-#RewriteCond %{HTTP_HOST} !^en.jugendrettet.org$ [NC]
-#RewriteCond %{HTTP:Accept-Language} ^en [NC]
-#RewriteRule .* http://en.jugendrettet.org [R,L]
-
-#RewriteCond %{HTTP_HOST} !^jugendrettet.org$ [NC]
-#RewriteCond %{HTTP:Accept-Language} ^de [NC]
-#RewriteRule .* http://jugendrettet.org [R,L]
+RewriteRule ^$ /de [L]
