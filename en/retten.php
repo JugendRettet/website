@@ -166,7 +166,7 @@
                             <p>We'll continue the casting of our crews on January 15th and hope for many new applications. If you have questions beforehand you can ask <a href="mailto:lena@jugendrettet.org">Lena</a> immediately.</p>
                             <br>
                             <p>We’re looking for people with job experiences that involved high risks and rescue operations. Ask yourself if you can bear these settings. It’s on these grounds that we are really picky and considerate on whom to choose as a crew member.<br><br>
-                            <p> We currently seek:</p>
+                            <p> We seek:</p>
                             <p>- Skippers</p>
                             <p>- Navigators</p>
                             <p>- Machinists</p>

@@ -166,7 +166,7 @@
                             <p>Wir beginnen ab dem 15. Januar wieder mit dem Crewing und freuen uns dann über zahlreiche Bewerbungen. Bei Fragen vorab kannst du dich sofort an <a href="mailto:lena@jugendrettet.org">Lena</a> wenden.</p>
                             <br>
                             <p>Wir suchen Menschen mit Berufserfahrung, die sich über das hohe Risiko der Rettungsaktionen bewusst sind. Bitte frage dich selbst, ob du dir die Situation zutraust. Aufgrund der besonderen Anforderungen sind wir gezwungen die Crew sehr sorgsam auszuwählen.</p><br>
-                            <p>Wir suchen derzeit:</p>
+                            <p>Wir suchen:</p>
                             <p>- Kapitän_in</p>
                             <p>- Steuermann_frau</p>
                             <p>- Maschinist_in</p>
