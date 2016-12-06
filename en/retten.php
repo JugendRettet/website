@@ -163,6 +163,8 @@
                         <h4><img alt="cap" class="icon" src="../graphics/cap.svg">Retter</h4>
                         <p>Would you like to join us as a crew member on our rescue missions on the Mediterranean?</p>
                         <div class="mehr-klappe"><br>
+                            <p>We'll continue the casting of our crews on January 15th and hope for many new applications. If you have questions beforehand you can ask <a href="mailto:lena@jugendrettet.org">Lena</a> immediately.</p>
+                            <br>
                             <p>We’re looking for people with job experiences that involved high risks and rescue operations. Ask yourself if you can bear these settings. It’s on these grounds that we are really picky and considerate on whom to choose as a crew member.<br><br>
                             <p> We currently seek:</p>
                             <p>- Skippers</p>
@@ -170,7 +172,8 @@
                             <p>- Machinists</p>
                             <p>- Deckhands (able to navigate tenders and to operate radios)</p>
                             <br>
-                            <a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSdf_IYzNZQo-NZho0rd9RCP_agJG-heYcVevfQ8O9PWiHMzkw/viewform" class="link">Apply for rescue missions</a><br><br>
+                            <!--<a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSdf_IYzNZQo-NZho0rd9RCP_agJG-heYcVevfQ8O9PWiHMzkw/viewform" class="link">Apply for rescue missions</a><br>-->
+                            <br>
                             <p>Contact us only if you are really interested. We look forward to your application!</p>
                         </div>
                         <a class="mehr-btn">more ...</a>
