@@ -107,7 +107,7 @@
 
                       <a class="faq" id="127"><b>November 18th</b> Humany Tee: Short's story</a>
                       <div class="faq-klappe" id="127-klappe">
-                        <p>Together with Humany Tee and Studio Flox we produced this little video to tell Short’s story and why every shirt matters: <a href="https://vimeo.com/192088415">&#8594; Link</a></p>
+                        <p>Together with Humany Tee and Studio Flox we produced this little video to tell Short’s story and why every shirt matters: <a target="_blank" href="https://vimeo.com/192088415">&#8594; Link</a></p>
                         <p>By the way: 80% of Humany Tee’s revenue goes to Jugend Rettet.</p>
                       </div><br>
 
@@ -141,7 +141,7 @@
                       <div class="faq-klappe" id="121-klappe">
                         <p>"More than 4.200 people have lost their lives in the Mediterranean this year or are missing. Already two months before the end of the year, 2016 is the year with most deaths in the Mediterranean. (...) Each and single one of these people have a story and a face. They escape wars, discrimination, violence and the lack of resources."</p>
                         <p>We demand the EU to overtake responsibility!</p>
-                        <p>Source (german): <a href="https://www.aerzte-ohne-grenzen.de/mittelmeer-2016-toedlichstes-jahr">MSF</a></p>
+                        <p>Source (german): <a target="_blank" href="https://www.aerzte-ohne-grenzen.de/mittelmeer-2016-toedlichstes-jahr">MSF</a></p>
                       </div><br>
 
                       <a class="faq" id="120"><b>November 10th</b> Andronikos' circumnavigation around the island of Lesbos ended</a>
