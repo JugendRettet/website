@@ -102,6 +102,77 @@
                           </div>
                       </div><br>
 
+                      <a class="faq" id="174"><b>21. November</b> Mission Dignity bei RTL Extra</a>
+                      <div class="faq-klappe" id="174-klappe">
+                        <p>Heute Abend um 22:15 Uhr läuft ein kleiner Film über unsere Mission Dignity.</p>
+                      </div><br>
+
+                      <a class="faq" id="173"><b>18. November</b> Jule und Pauline "Auf Klo"</a>
+                      <div class="faq-klappe" id="173-klappe">
+                        <p>Jule und Pauline haben <a href="https://www.facebook.com/aufklo/">Auf Klo</a> erklärt warum private Seenotrettung so wichtig ist: <a href="https://youtu.be/ZKgZw51Or40">&#8594; Link</a></p>
+                      </div><br>
+
+                      <a class="faq" id="172"><b>18. November</b> Humany Tee: Die Story von Short</a>
+                      <div class="faq-klappe" id="172-klappe">
+                        <p>Zusammen mit Humany Tee und Studio Flox wurde ein kleines Video produziert, das die Geschichte von „Short“ erzählt und warum jedes T-Shirt zählt:</p>
+                        <p><a href="https://vimeo.com/192088415">&#8594; Link</a></p>
+                        <p>Übrigens 80% des Erlöses der Humany Tee Shirts geht an uns: everyshirtmatters.com</p>
+                      </div><br>
+
+                      <a class="faq" id="171"><b>17. November</b> 100 Menschen gerettet</a>
+                      <div class="faq-klappe" id="171-klappe">
+                        <p>Heute morgen wurde unsere Crew vom MRCC zu einem Seenotsfall mit 100 Personen an Bord ein Schlauchbootes gerufen. Trotz schlechter Wetterbedingungen mit 1.5 bis 2 Meter hohen Wellen konnten alle 100 Personen sicher an Bord genommen werden.</p>
+                      </div><br>
+
+                      <a class="faq" id="170"><b>15. November</b> Schwieriger Einsatz mit vielen Toten</a>
+                      <div class="faq-klappe" id="170-klappe">
+                        <p>Die Iuventa befindet sich aktuell mit der Maersk Erin in einem schwierigen Einsatz - Ein Schlauchboot ist gekentert. Die 23 Überlebenden wurden an Bord der Maesk Erin genommen. 100 weitere Personen werden noch vermisst. Die Crews suchen weiter nach Überlebenden und bergen die Toten.</p>
+                        <p>Unsere Gedanken und unser Mitgefühl gilt den Opfern und allen Beteiligten dieser Katastrophe.</p>
+                      </div><br>
+
+                      <a class="faq" id="169"><b>14. November</b> Engstingener Botschafter sammeln 3066,95€</a>
+                      <div class="faq-klappe" id="169-klappe">
+                        <p>Unsere beiden Botschafter Aron und Jeremias und ihre kleinen Helfer_innen in Engstingen haben am Wochenende ihre erste große Aktion an verschiedenen Schulen gestartet. Dabei kamen 3066,95€ zusammen!</p>
+                        <p>Wir sind sehr stolz auf die beiden und danken allen für die großartige Spendenbereitschaft. Super Arbeit!</p>
+                        <p>Im Reutlinger General-Anzeiger und im Alb Bote - Südwest Presse könnt ihr auch nochmal alles über die Beweggründe der Jungs und die Aktion nachlesen:</p>
+                        <p><a href="http://bit.ly/JR_ReutlingerGeneral">Reutlinger General-Anzeiger</a></p>
+                        <p><a href="http://bit.ly/JR_AlbBote">Albbote</a></p>
+                      </div><br>
+
+                      <a class="faq" id="168"><b>13. November</b> Carsten Behrends berichtet bei ZDF Volle Kanne über Mission Unity</a>
+                      <div class="faq-klappe" id="168-klappe">
+                        <p>ZDF Reporter Carsten Behrendt war während unserer Mission Unity an Bord der Iuventa. Bei ZDF Volle Kanne berichtete er nun von seinen Eindrücken und Erlebnissen dieser 14 Tage: <a href="https://www.zdf.de/verbraucher/volle-kanne/rettungsmission-im-mittelmeer-100.html">&#8594; Link</a></p>
+                      </div><br>
+
+                      <a class="faq" id="167"><b>12. November</b> 140 Menschen gerettet</a>
+                      <div class="faq-klappe" id="167-klappe">
+                        <p>Am heutigen zweiten Einsatztag der Mission Diversity wurden 140 Menschen gerettet. Darunter auch zwei schwangere Frauen, um welche sich unsere Ärzte von <a href="https://www.facebook.com/Rainbow4Africa/">R@inbow for Africa - R4A</a> kümmerten. Außerdem versorgten sie diverse Verbrennungen, einen gebrochenen Arm, sowie ein Mädchen mit Fieber. Die Menschen wurden an Bord der Aquarius von <a href="https://www.facebook.com/SOSMEDITERRANEE/">SOS MEDITERRANEE</a> gebracht.</p>
+                        <p>Gestern war unsere außerdem an der Rettung von sechs Schlauchbooten beteiligt. Nähere Infos folgen.</p>
+                      </div><br>
+
+                      <a class="faq" id="166"><b>11. November</b> Mission Diversity verlässt Valletta</a>
+                      <div class="faq-klappe" id="166-klappe">
+                        <p>Unsere siebte und damit letzte Crew für dieses Jahr hat gestern Nacht Valletta verlassen. Die Mission trägt den Namen Diversity. Kulturelle Vielfalt darf kein Grund zur Angst sein und Herkunft darf nie ein Grund zu Hass sein. Durch Vielfalt wird uns nichts weggenommen. Wir sehen gerade in der Diversität einer Gesellschaft den Zugewinn. Bereitschaft zu einer vielfältigen Gesellschaft zeichnet sich auch dadurch aus, Menschen egal woher und aus welchem Grund sie kommen mögen, mit offenen Armen zu begrüßen, anstatt Grenzen zu verteidigen. So unterschiedlich wir auch sein mögen, das Menschsein und die Fähigkeit menschlich zu handeln, verbindet uns.</p>
+                      </div><br>
+
+                      <a class="faq" id="165"><b>10. November</b> 2016 tödlichstes Jahr auf dem Mittelmeer</a>
+                      <div class="faq-klappe" id="165-klappe">
+                        <p>"Mehr als 4.200 Menschen sind in diesem Jahr im Mittelmeer gestorben oder werden vermisst. Schon zwei Monate vor Jahresende ist 2016 somit das Jahr mit den meisten Todesfällen im Mittelmeer. (...) Jeder einzelne dieser Menschen hat eine Geschichte und ein Gesicht. Sie fliehen vor Kriegen, Diskriminierung, Gewalt und dem Mangel an Ressourcen."</p>
+                        <p>Wir fordern die EU auf, Verantwortung zu übernehmen!</p>
+                        <p><a href="https://www.aerzte-ohne-grenzen.de/mittelmeer-2016-toedlichstes-jahr">&#8594; Quelle</a></p>
+                      </div><br>
+
+                      <a class="faq" id="164"><b>10. November</b> Andronikos Umsegelung geht zu Ende</a>
+                      <div class="faq-klappe" id="164-klappe">
+                        <p>Gestern endete Andronikos Benefiz-Umsegelung der Insel Lesbos - für’s Erste. Seine Herbstferien sind vorbei und Andronikos muss nun wieder die Schulbank drücken. Er hat sich jedoch fest vorgenommen, den Rest seiner Umsegelung in seinen Weihnachtsferien zu absolvieren. Eine aufregende und erfolgreiche Woche liegt hinter ihm: von Molivos im Norden der Insel aus ist er bis zu der kleinen Ortschaft Nifida am Golf von Kaloni im Süden gesegelt. Eine Nacht verbrachte Andronikos mit geflüchteten Jugendlichen in deren Unterkunft. Seine Engagement und seine uneingeschränkte Solidarität sind bewundernswert. Danke, Andronikos!</p>
+                        <p>Hier ist noch ein Abschlussbericht von <a href="https://www.facebook.com/bordreporter/">Bordreporter</a>: <a href="http://www.bordreporter.com/arl91116/">&#8594; Link</a></p>
+                      </div><br>
+
+                      <a class="faq" id="163"><b>8. November</b> Jakob im Tigerentenclub</a>
+                      <div class="faq-klappe" id="163-klappe">
+                        <p>Jakob war zu Gast beim <a href="https://www.facebook.com/tigerentenclub/">Tigerenten Club</a>. Hier könnt ihr euch die Sendung nochmal anschauen: <a href="http://www.kindernetz.de/tigerentenclub/folgen/jugendrettetfolge/-/id=282608/nid=282608/did=422182/1pe5n9r/index.html">&#8594; Link</a></p>
+                      </div><br>
+
                       <a class="faq" id="162"><b>7. November</b> Captain Uli übergibt das Kommando an Kai</a>
                         <div class="faq-klappe" id="162-klappe">
                           <p>Nach vier Mission übergibt unser Captain Uli die IUVENTA an unseren nächsten Captain Kai.<br>Vielen, vielen Dank für dein großartiges Engagement und dein Durchhaltevermögen, Uli!<br>Alles Gute an Kai! Danke für deine Unterstützung.</p>

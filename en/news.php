@@ -105,6 +105,50 @@
                           </div>
                       </div><br>
 
+                      <a class="faq" id="127"><b>November 18th</b> Humany Tee: Short's story</a>
+                      <div class="faq-klappe" id="127-klappe">
+                        <p>Together with Humany Tee and Studio Flox we produced this little video to tell Short’s story and why every shirt matters: <a href="https://vimeo.com/192088415">&#8594; Link</a></p>
+                        <p>By the way: 80% of Humany Tee’s revenue goes to Jugend Rettet.</p>
+                      </div><br>
+
+                      <a class="faq" id="126"><b>November 17th</b> 100 people rescued</a>
+                      <div class="faq-klappe" id="126-klappe">
+                        <p>This morning the MRCC called our crew to an emergency situation with 100 people on a rubber boad. Despite severe weather conditions with 1.5 - 2 metre high waves, the rescue went well and everyone came on board safely. </p>
+                      </div><br>
+
+                      <a class="faq" id="125"><b>November 15th</b> Tough rescue with many deaths</a>
+                      <div class="faq-klappe" id="125-klappe">
+                        <p>The Iuventa is currently together with the Maersk Erin in a difficult use - A rubber boat capsized. The 23 survivors are on board of the Maersk Erin. 100 people are missing. The crews are searching for survivors in the water and recovering dead bodies.</p>
+                        <p>Our thoughts are with the victims and everyone involved of this catastrophe.</p>
+                      </div><br>
+
+                      <a class="faq" id="124"><b>November 14th</b> Ambassadors from Engstingen collect 3066,93€</a>
+                      <div class="faq-klappe" id="124-klappe">
+                        <p>Our two ambassadors for Engstingen, Aron and Jeremias, started their first big campaign at different schools last weekend. This brought together 3066,95€!  We're very proud of these two and grateful for anyone who donated so generously. Great Work!</p>
+                      </div><br>
+
+                      <a class="faq" id="123"><b>November 12th</b> 140 people rescued</a>
+                      <div class="faq-klappe" id="123-klappe">
+                        <p>140 people were rescued today. Among them two pregnants. Our medical team of R4A took care of them and further supplied several burns, one broken arm and a girl with fever. The Aquarius of SOS MEDITERRANEE took all of them on board. Furthermore our crew was a part of saving six rubber boats yesterday. More info to come.</p>
+                      </div><br>
+
+                      <a class="faq" id="122"><b>November 11th</b> Mission Diversity leaves Valletta</a>
+                      <div class="faq-klappe" id="122-klappe">
+                        <p>Our seventh and therefore last crew for this year left Valletta last night. The mission runs under the name Diversity. Cultural diversity mustn't be a reason for fear and origin must never be a reason for hate. Diversity doesn't take anything from us. To us diversity is the big gain for a society. Willingness to a diverse society is characterised by welcoming of people with open arms instead of defending borders. As different as we all may be, the ability to act human unites us all.</p>
+                      </div><br>
+
+                      <a class="faq" id="121"><b>November 10th</b> 2016 deadliest year for refugees on the Med</a>
+                      <div class="faq-klappe" id="121-klappe">
+                        <p>"More than 4.200 people have lost their lives in the Mediterranean this year or are missing. Already two months before the end of the year, 2016 is the year with most deaths in the Mediterranean. (...) Each and single one of these people have a story and a face. They escape wars, discrimination, violence and the lack of resources."</p>
+                        <p>We demand the EU to overtake responsibility!</p>
+                        <p>Source (german): <a href="https://www.aerzte-ohne-grenzen.de/mittelmeer-2016-toedlichstes-jahr">MSF</a></p>
+                      </div><br>
+
+                      <a class="faq" id="120"><b>November 10th</b> Andronikos' circumnavigation around the island of Lesbos ended</a>
+                        <div class="faq-klappe" id="120-klappe">
+                          <p>Yesterday Andronikos' circumnavigation around the island of Lesbos ended - for the moment. His autumn holidays are over and Andronikos has to return to school. He is, however, planning to complete the rest of his circumnavigation in his Christmas holidays. An exciting and successful week is over: he sailed from Molivos in the north of the island to the small village of Nifida on the Gulf of Kaloni in the south. One night Andronikos spent with young refugees in their quaters. His commitment and solidarity is admirable. Thank you, Andronikos!</p>
+                        </div><br>
+
                       <a class="faq" id="119"><b>November 7th</b> Skipper Uli passes the commando to Kai</a>
                         <div class="faq-klappe" id="119-klappe">
                           <p>After four missions our Skipper Uli passes the IUVENTA over to our new Skipper Kai.
