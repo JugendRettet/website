@@ -130,7 +130,7 @@
 <li>Göteborg: <a href="mailto:Solveij_Goeteborg@jugendrettet.org">Solveij</a></li>
 <li>Hamburg: <a href="mailto:Lorena_Hamburg@jugendrettet.org">Lorena</a></li>
 <li>Hamburg: <a href="mailto:Marie_Hamburg@jugendrettet.org">Marie</a></li>
-<li>Hannover: <a href="mailto:Micheel@jugendrettet.org">Micheel</a></li>
+<li>Hannover: <a href="mailto:Misheel@jugendrettet.org">Micheel</a></li>
 <li>Hannover: <a href="mailto:David_Hannover@jugendrettet.org">David</a></li>
 <li>Heidelberg: <a href="mailto:Franziska_Heidelberg@jugendrettet.org">Franziska</a></li>
 <li>Jever: <a href="mailto:Evke_Jever@jugendrettet.org">Evke</a></li>
