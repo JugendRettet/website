@@ -108,6 +108,7 @@
 <li>Basel: <a href="mailto:Angelica_Basel@jugendrettet.org">Angelica</a></li>
 <li>Berlin: <a href="mailto:Sonja@jugendrettet.org">Sonja</a></li>
 <li>Bielefeld: <a href="mailto:Andreas_Bielefeld@jugendrettet.org">Andreas</a></li>
+<li>Bochum: <a href="mailto:Sebastian_Bochum@jugendrettet.org">Sebastian</a></li>
 <li>Bonn: <a href="mailto:Alex_Bonn@jugendrettet.org">Alex</a></li>
 <li>Bonn: <a href="mailto:AnnaB@jugendrettet.org">Anna</a></li>
 <li>Bremen: <a href="mailto:Niklas_Bremen@jugendrettet.org">Niklas</a></li>
@@ -133,6 +134,7 @@
 <li>Hannover: <a href="mailto:Misheel@jugendrettet.org">Micheel</a></li>
 <li>Hannover: <a href="mailto:David_Hannover@jugendrettet.org">David</a></li>
 <li>Heidelberg: <a href="mailto:Franziska_Heidelberg@jugendrettet.org">Franziska</a></li>
+<li>Heidelberg: <a href="mailto:Nele_Heidelberg@jugendrettet.org">Nele</a></li>
 <li>Jever: <a href="mailto:Evke_Jever@jugendrettet.org">Evke</a></li>
 <li>Kassel: <a href="mailto:Leif_Kassel@jugendrettet.org">Leif</a></li>
 <li>Konstanz: <a href="mailto:Luisa_Konstanz@jugendrettet.org">Luisa</a></li>
@@ -166,6 +168,7 @@
 <li>Salem: <a href="mailto:Helena@jugendrettet.org">Helena</a></li>
 <li>Slupsk: <a href="mailto:Radek_Slupsk@jugendrettet.org">Radek</a></li>
 <li>Stockholm: <a href="mailto:Jonas_Stockholm@jugendrettet.org">Jonas</a></li>
+<li>Überlingen: <a href="mailto:Johnny_Ueberlingen@jugendrettet.org">Johnny</a></li>
 <li>Warszawa: <a href="mailto:Marcin_Warszawa@jugendrettet.org">Marcin</a></li>
 <li>Weimar: <a href="mailto:Manuel_Weimar@jugendrettet.org">Manuel</a></li>
 <li>Wien: <a href="mailto:AnnKatrin_Wien@jugendrettet.org">Ann-Katrin</a></li>
