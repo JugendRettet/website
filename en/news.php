@@ -105,6 +105,36 @@
                           </div>
                       </div><br>
 
+                      <a class="faq" id="133"><b>December 12th</b> New hoodies, zippers, beanies and shirts</a>
+                      <div class="faq-klappe" id="133-klappe">
+                        <p>Our new merch is here! Among new hoodies, shirts and zippers you can now also get beanies: <a href="http://jugendrettet.org/merch" target="_blank">jugendrettet.org/merch</a></p>
+                      </div><br>
+                      
+                      <a class="faq" id="132"><b>December 3rd-4th</b> Crew meeting in Berlin</a>
+                      <div class="faq-klappe" id="132-klappe">
+                        <p>Our crews were able to save 6.526 lives. We all met last weekend again to evaluate the missions and to optimize our processes. Our common goal is less deaths in the Mediterranean.</p>
+                      </div><br>
+                      
+                      <a class="faq" id="131"><b>December 1st</b> We do not want gifts</a>
+                      <div class="faq-klappe" id="131-klappe">
+                        <p>Dear EU, we have a Christmas wish: we want a state sea rescue program. We are pupils, trainees and students. We are simply young people. We want you to rescue people in maritime emergency on the Mediterranean. With numerous supporters we were able to rescue more than 6500 lives from drowning. We need any support, because you, dear EU, you will probably not fulfill our Christmas wish.<br>We do not want gifts. We want fewer deaths.</p>
+                      </div><br>
+                      
+                      <a class="faq" id="130"><b>November 29th</b> The IUVENTA reached her winter storage in Croatia</a>
+                      <div class="faq-klappe" id="130-klappe">
+                        <p>The IUVENTA reached her winter storage in Croatian. She'll get reconstructed again in February as we need a new crane and also new dinghies. Furthermore we want to use our crews' experience to adjust her for the rescues. With our colleagues of Rainbow for Africa we optimize our hospital for a more efficient medical care. Next spring she'll head for the Med again.</p>
+                      </div><br>
+                      
+                      <a class="faq" id="129"><b>November 23rd</b> 6.526 saved lives</a>
+                      <div class="faq-klappe" id="129-klappe">
+                        <p>With Mission Diversity our last mission for this year is over. We were able to accomplish seven missions in 2016. Thank you very, very much to everyone who was a part of our crews. You made our theoretical considerations come true and saved 6.526 lives. Furthermore we would like to say thank you to everyone who helped that the Iuventa is a rescue ship now: our numerous donors, everyone who helped during the resconstruction and also a big thank you to our ambassadors and ambassadresses who do not only make sure Jugend Rettet gets more and more popular, but also collected so many donations. From the first day on, Jugend Rettet was for everyone to participate and we're grateful and proud what we achieved together. THANK YOU!</p>
+                      </div><br>
+                      
+                      <a class="faq" id="128"><b>November 23rd</b> Mission Diversity done</a>
+                      <div class="faq-klappe" id="128-klappe">
+                        <p>Our crew of Mission Diversity is back safe and sound. Guys, thank you so much for your great effort and the rescue of 393 lives! </p>
+                      </div><br>
+                      
                       <a class="faq" id="127"><b>November 18th</b> Humany Tee: Short's story</a>
                       <div class="faq-klappe" id="127-klappe">
                         <p>Together with Humany Tee and Studio Flox we produced this little video to tell Short’s story and why every shirt matters: <a target="_blank" href="https://vimeo.com/192088415">&#8594; Link</a></p>
