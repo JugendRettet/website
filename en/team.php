@@ -159,6 +159,7 @@
 <li>Osnabrück: <a href="mailto:Jascha_Osnabrueck@jugendrettet.org">Jascha</a></li>
 <li>Ostfriesland: <a href="mailto:Julia@jugendrettet.org">Julia</a></li>
 <li>Ostfriesland: <a href="mailto:Mareke@jugendrettet.org">Mareke</a></li>
+<li>Ostfriesland: <a href="mailto:Jana_Ostfriesland@jugendrettet.org">Jana</a></li>
 <li>Paderborn: <a href="mailto:Paderborn@jugendrettet.org">Wiebke</a></li>
 <li>Passau: <a href="mailto:Ben_Passau@jugendrettet.org">Ben</a></li>
 <li>Potsdam: <a href="mailto:Christoph@jugendrettet.org">Christoph</a></li>
