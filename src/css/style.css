@@ -267,7 +267,6 @@ a {
 	color:inherit;
 }
 body a {
-	padding: 1ch;
 	text-decoration: none;
 	border-bottom: solid thin;
 }
@@ -278,7 +277,12 @@ div#paper a {
 	padding: initial;
 }
 p {
-	text-align:center;
+	/*text-align:justify;*/
+}
+ul {
+	margin: auto;
+}
+p, ul {
 	max-width: 80ch;
 }
 p, div.p-highlight, div.p-dark {
@@ -442,6 +446,13 @@ div.hor-el {
   margin-bottom: 1em;
   /*border: thin solid white;*/
 }
+div.hor-overflow {
+	max-height: 500px;
+	overflow-y: auto;
+}
+div.hor-overflow-fallback {
+	display: none;
+}
 div.hor-2 {
   width: 48%;
 }
@@ -457,11 +468,11 @@ div.hor-5 {
 div.hor-last, .box-pic, .box-pic-s{
   border-right: none;
 }
-p, h2, h3 {
+h2, h3 {
 	text-align:center;
 }
 video.header-video {
-	object-fit: cover;
+	object-fit: fill;
 	height: 100vh;
 	width: 100%;
 	z-index: 2;
@@ -469,13 +480,13 @@ video.header-video {
 	top: 0;
 	left: 0;
 }
-span.fake {
-	color: transparent;
+div.fake {
+	height: 1em;
 }
-span.hidden {
+div.hidden {
 	display: none;
 }
-span.big-margin {
+div.big-margin {
 	display: inline-block;
 	margin: 2em;
 }
@@ -491,6 +502,12 @@ span.big-margin {
 @media screen and (max-width: 690px) {
 	div.hor-3 {
 	  width: 100%;
+	}
+	div.hor-overflow {
+	  display: none;
+	}
+	div.opverflow-fallback {
+	  display: block;
 	}
 	body {
 	  font-size: medium;
