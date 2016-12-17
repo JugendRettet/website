@@ -102,6 +102,49 @@
                           </div>
                       </div><br>
 
+                      <a class="faq" id="182"><b>12. Dezember</b> Neue Pullis, Zipper, Beanies und Shirts</a>
+                      <div class="faq-klappe" id="182-klappe">
+                        <p>Unser neuer Merch ist da. Unter <a href="http://jugendrettet.org/merch" target="_blank">jugendrettet.org/merch</a> gibt es jetzt neben neuen Hoodies, Shirts und Zippern auch Beanies.</p>
+                      </div><br>
+                      
+                      <a class="faq" id="181"><b>10. Dezember</b> ZDF Mittagsmagazin</a>
+                      <div class="faq-klappe" id="181-klappe">
+                        <p>ZDF Reporter Carsten Behrendt spricht beim ZDF-Mittagsmagazin nochmal über seine Zeit auf der Iuventa und welche Eindrücke ihn bis heute begleiten. <a href="https://www.zdf.de/nachrichten/zdf-mittagsmagazin/voigt-nachklapp-rettungsmission-100.html" target="_blank">Hier</a> könnt ihr den Beitrag anschauen.</p>
+                      </div><br>
+                      
+                      <a class="faq" id="180"><b>3.-4. Dezember</b> Crew-Treffen in Berlin</a>
+                      <div class="faq-klappe" id="180-klappe">
+                        <p>6.526 Menschen konnte unsere Crew mit der IUVENTA retten. Am Wochenende kamen wir alle noch einmal zusammen, um die Missionen zu bewerten und unsere Abläufe zu optimieren. Unser gemeinsames Ziel ist, dass keine Menschen im Mittelmeer ertrinken.</p>
+                      </div><br>
+                      
+                      <a class="faq" id="179"><b>1. Dezember</b> Wir wollen keine Geschenke</a>
+                      <div class="faq-klappe" id="179-klappe">
+                        <p>Liebe Europäische Union, wir haben einen Weihnachtswunsch: Wir wollen ein staatliches Seenotrettungsprogramm. Wir sind Schüler_innen, Auszubildende und Student_innen. Wir sind einfach junge Menschen. Wir wollen, dass ihr Menschen in Seenot auf dem Mittelmeer vor dem ertrinken rettet. 
+Wir konnten durch unsere zahlreichen Unterstützer_innen mehr als 6500 Menschen vor dem Ertrinken retten. Wir brauchen die Unterstützung, denn du, liebe EU, wirst uns unseren Weihnachtswunsch wahrscheinlich nicht erfüllen.<br>Wir wollen keine Geschenke. Wir wollen weniger Tote.</p>
+                      </div><br>
+                      
+                      <a class="faq" id="178"><b>1. Dezember</b> Großartige Unterstützung durch Jule Müller</a>
+                      <div class="faq-klappe" id="178-klappe">
+                        <p>Während des letzten Jahres haben wir wirklich unfassbar viel Zuspruch und viele Unterstützer_innen gefunden - eine ganz besondere Unterstützerin ist Jule. Sie hat nicht nur fast die komplette Umbauzeit in Emden mitgeholfen, sondern ihn gleichzeitig auch noch bis ins kleinste Detail dokumentiert, war Teil der Mission Humanity und sammelt ständig Spenden, sowie unterstützt uns durch Öffentlichkeitsarbeit. Danke Jule!<br><a href="http://bit.ly/mission_humanity" target="_blank">Hier</a> könnt ihr euch nochmal Jules Bilder der Mission Humanity ansehen. Lest <a href="http://www.berliner-zeitung.de/berlin/seenotrettung-die-berlinerin-jule-mueller-rettet-fluechtlinge-vor-dem-ertrinken-25183550" target="_blank">hier</a> das Interviw mit Jule in der Berliner Zeitung zum Einsatz.</p>
+                      </div><br>
+                      
+                      <a class="faq" id="177"><b>29. November</b> Die IUVENTA hat ihr Winterlager erreicht</a>
+                      <div class="faq-klappe" id="177-klappe">
+                        <p>Die IUVENTA hat ihr Winterlager in Kroatien erreicht. Dort wird sie im Februar nochmal umgebaut, da wir einen neuen Kran brauchen, sowie neue Beiboote. Außerdem möchten wir die Erfahrungen unserer Crews nutzen, um die IUVENTA noch effizienter für die Einsätze auszustatten. Mit unseren Kollegen von <a href="https://www.facebook.com/Rainbow4Africa/" target="_blank">R@inbow for Africa - R4A</a> optimieren wir außerdem unser Hospital für eine noch bessere medizinische Versorgung. Im nächsten Frühjahr werden wir dann mit den Missionen weitermachen.</p>
+                      </div><br>
+                      
+                      <a class="faq" id="176"><b>23. November</b> 6.526 Leben mit sieben Missionen gerettet</a>
+                      <div class="faq-klappe" id="176-klappe">
+                        <p>Mit Mission Diversity geht die letzte Mission für dieses Jahr zuende. Sieben Mission konnten wir 2016 fahren. Vielen, vielen Dank an dieser Stelle an alle sieben Crews. Ihr habt unsere theoretischen Überlegungen erst möglich gemacht und 6.526 Leben gerettet.
+Außerdem möchten wir an dieser Stelle auch allen anderen danken, die es ermöglicht haben, dass die Iuventa heute ein Rettungsschiff ist: unseren zahlreichen Spender_innen, allen Umbauhelfer_innen und auch unseren Botschafter_innen, die nicht nur dafür sorgen, dass Jugend Rettet bekannter wird, sondern auch unfassbar viele Spenden sammelten. Jugend Rettet war von Anfang an eine Mitmachorganisation und wir sind sehr dankbar und stolz auf das, was wir gemeinsam geschafft haben. DANKE!</p>
+                      </div><br>
+                      
+                      <a class="faq" id="175"><b>23. November</b> Mission Diversity abgeschlossen</a>
+                      <div class="faq-klappe" id="175-klappe">
+                        <p>Unsere Crew der Mission Diversity ist mittlerweile wieder sicher auf Malta angekommen. 
+Mädels und Jungs, wir danken euch für euren Einsatz, eurer Engagement und die Rettung von 393 Leben!</p>
+                      </div><br>
+                      
                       <a class="faq" id="174"><b>21. November</b> Mission Dignity bei RTL Extra</a>
                       <div class="faq-klappe" id="174-klappe">
                         <p>Heute Abend um 22:15 Uhr läuft ein kleiner Film über unsere Mission Dignity.</p>
