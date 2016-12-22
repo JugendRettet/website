@@ -334,7 +334,7 @@ nav a {
   text-transform: uppercase;
   background: #286482;
   color: white;
-  font-size: smaller;
+  font-size: medium;
   padding: 1ch;
   border: none;
   transition: background-color 0.2s linear,
@@ -485,14 +485,14 @@ video.header-video {
 	left: 0;
 }
 div.fake {
-	height: 1em;
+	height: 50px;
 }
 div.hidden {
 	display: none;
 }
 div.big-margin {
 	display: inline-block;
-	margin: 2em;
+	margin: 50px;
 }
 .std {
 	font-weight: normal;
