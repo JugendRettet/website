@@ -201,10 +201,10 @@ _(menu_press) &rarr;
 
       <div class="hor">
         <div class="hor-el hor-3 hor-overflow">
-          <div class="fb-page" data-href="https://www.facebook.com/JugendRettet" data-tabs="timeline" data-small-header="true" data-adapt-container-width="true" data-hide-cover="true" data-show-facepile="true"><blockquote cite="https://www.facebook.com/JugendRettet" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/JugendRettet">Jugend Rettet e.V.</a></blockquote></div>
+          <div class="fb-page" data-href="https://www.facebook.com/JugendRettet" data-tabs="timeline" data-small-header="true" data-adapt-container-width="true" data-hide-cover="true" data-show-facepile="true"><blockquote cite="https://www.facebook.com/JugendRettet" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/JugendRettet">Facebook</a></blockquote></div>
         </div><!--hor-el-->
         <div class="hor-el hor-3 hor-overflow">
-          <a class="twitter-timeline" data-lang="_(lang)" data-dnt="true" href="https://twitter.com/jugendrettet">Tweets by jugendrettet</a>
+          <a class="twitter-timeline" data-lang="_(lang)" data-dnt="true" href="https://twitter.com/jugendrettet">Twitter</a>
           <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
         </div><!--hor-el-->
         <div class="hor-el hor-3 hor-overflow">
