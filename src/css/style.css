@@ -341,12 +341,12 @@ nav a {
   color 0.2s linear,
   border 0.2s;
 }
-nav a:hover, nav a:hover.red, nav a:hover.dark {
+nav a:hover, nav a:hover.red, nav a:hover.dark, nav a.active, nav a.red.active {
 	background: white;
 	color: #286482;
 	border: none;
 }
-nav a:hover.red {
+nav a:hover.red, nav a.red.active {
 	color: rgb(249,69,0);
 }
 nav a:hover.dark {
@@ -484,15 +484,14 @@ video.header-video {
 	top: 0;
 	left: 0;
 }
-div.fake {
-	height: 50px;
+section {
+	padding-top: 50px;
+}
+section.big-margin {
+	padding-top: 100px;
 }
 div.hidden {
 	display: none;
-}
-div.big-margin {
-	display: inline-block;
-	margin: 50px;
 }
 .std {
 	font-weight: normal;

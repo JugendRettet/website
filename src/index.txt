@@ -1,3 +1,13 @@
+<script>
+$(function() {
+  $('section').mouseenter(function() {
+    $('nav a[href="#'+$(this).attr('id')+'"]').addClass('active').siblings('nav a').removeClass('active');
+  });
+  $('nav a').click(function() {
+    $(this).addClass('active').siblings('nav a').removeClass('active');
+  });
+});
+</script>
 <div id="fb-root"></div>
 <script>(function(d, s, id) {
   var js, fjs = d.getElementsByTagName(s)[0];
@@ -65,258 +75,261 @@ _(menu_press) &rarr;
   <div class="text-center">
     <article class="center">
       <div class="text-lighter">
-        <div id="intro" class="fake big-margin"></div>
+        <section id="intro" class="big-margin">
           <div class="fakeh1">
 
-  _(intro_title)
+_(intro_title)
 
           </div>
 
-  _(intro)
+_(intro)
 
-      </div><!--text-lighter-->
-      <div id="situation" class="fake"></div>
+        </div><!--text-lighter-->
 
-  _(situation)
+_(situation)
 
-      <div id="ideale" class="fake"></div>
+_(ideals_title)
 
-  _(ideals_title)
+        <div class="hor">
+          <div class="hor-el hor-2 box-highlight">
 
-      <div class="hor">
-        <div class="hor-el hor-2 box-highlight">
-
-  _(ideals_iuv_title)
-
-          <div class="text-long">
-
-  _(ideals_iuv_text)
-
-          </div><!--text-long-->
-          <div class="box-dark a-dark">
-
-  _(ideals_iuv_link)
-
-          </div><!--box-dark-->
-        </div><!--hor-el-->
-        <div class="hor-el hor-2 hor-last">
-
-  _(ideals_proposals_title)
-
-          <div class="text-long">
-
-  _(ideals_proposals_text)
-
-          </div><!--text-long-->
-        </div><!--hor-el-->
-      </div><!--hor-->
-
-  _(ideals_actions)
-
-      <div id="about" class="fake"></div>
-
-  _(about_us_title)
-
-      <div class="hor">
-        <div class="hor-el hor-3 box-pic">
-
-  _(about_us_our_story_title)
-
-        </div><!--hor-el-->
-        <div class="hor-el hor-3 box-pic">
-
-  _(about_us_iuv_title)
-
-        </div><!--hor-el-->
-        <div class="hor-el hor-3 box-pic">
-
-  _(about_us_transparency_title)
-
-        </div><!--hor-el-->
-      </div><!--hor-->
-      <div id="team" class="fake"></div>
-
-  _(team_title)
-
-      <div class="hor">
-        <div class="hor-el hor-5 box-pic-s">
-
-  _(team_donations)
-
-        </div><!--hor-el-->
-        <div class="hor-el hor-5 box-pic-s">
-
-  _(team_berlin)
-
-        </div><!--hor-el-->
-        <div class="hor-el hor-5 box-pic-s">
-
-  _(team_crew)
-
-        </div><!--hor-el-->
-        <div class="hor-el hor-5 box-pic-s">
-
-  _(team_embassies)
-
-        </div><!--hor-el-->
-        <div class="hor-el hor-5  box-pic-s">
-
-  _(team_sponsors)
-
-        </div><!--hor-el-->
-      </div><!--hor-->
-
-      <div id="rescue" class="fake"></div>
-
-  _(rescue_as_title)
-
-      <div class="hor">
-        <div class="hor-el hor-4 box-pic-s">
-
-  _(rescue_as_sponsor)
-
-        </div><!--hor-el-->
-        <div class="hor-el hor-4 box-pic-s">
-
-  _(rescue_as_donator)
-
-        </div><!--hor-el-->
-        <div class="hor-el hor-4 box-pic-s">
-
-  _(rescue_as_voluntary)
-
-        </div><!--hor-el-->
-        <div class="hor-el hor-4 box-pic-s">
-
-  _(rescue_as_ambassador)
-
-        </div><!--hor-el-->
-      </div><!--hor-->
-      <div id="faq" class="fake big-margin"></div>
-      <div class="box-dark a-dark">
-
-  _(faq)
-
-      </div><!--box-dark-->
-      <div id="news" class="fake"></div>
-
-  _(news_title)
-
-      <div class="hor">
-        <div class="hor-el hor-3 hor-overflow">
-          <div class="fb-page" data-href="https://www.facebook.com/JugendRettet" data-tabs="timeline" data-small-header="true" data-adapt-container-width="true" data-hide-cover="true" data-show-facepile="true"><blockquote cite="https://www.facebook.com/JugendRettet" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/JugendRettet">Facebook</a></blockquote></div>
-        </div><!--hor-el-->
-        <div class="hor-el hor-3 hor-overflow">
-          <a class="twitter-timeline" data-lang="_(lang)" data-dnt="true" href="https://twitter.com/jugendrettet">Twitter</a>
-          <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-        </div><!--hor-el-->
-        <div class="hor-el hor-3 hor-overflow">
-
-        </div><!--hor-el-->
-      </div><!--hor-->
-      <div class="hor">
-        <div class="hor-el hor-3">
-          <div class="p-highlight">
-
-  _(news_news_item)
-
-            <div class="p-dark a-dark">
-
-  _(news_archive)
-
-            </div><!--p-dark-->
-          </div><!--p-highlight-->
-          <div class="p-dark a-dark">
-
-  _(news_follow_iuv)
-
-          </div><!--p-dark-->
-        </div><!--hor-el-->
-        <div class="hor-el hor-3">
-          <div class="box-highlight">
-
-  _(news_press_release)
-
-          </div><!--box-highlight-->
-        </div><!--hor-el-->
-        <div class="hor-el hor-3">
-          <div class="box-highlight">
-
-  _(news_events)
-
-          </div><!--box-highlight-->
-        </div><!--hor-el-->
-      </div><!--hor-->
-      <div class="box-dark a-dark">
-
-  _(news_follow_us)
-
-      </div><!--box-dark-->
-      <div class="box-highlight">
-
-  _(news_news_mission)
-
-      </div><!--box-highlight-->
-      <div class="box-dark a-dark">
-
-  _(news_mission_link)
-
-      </div><!--box-dark-->
-      <div id="donate" class="fake"></div>
-
-  _(donate_title)
-
-      <div class="hor">
-        <div id="bp-column" class="hor-el hor-3">
-          <script type="text/javascript">
-          /* Configure at https://www.betterplace.org/de/projects/42019-rette-mit-einsatz-zur-seenotrettung-auf-dem-mittelmeer/manage/iframe_donation_form */
-          var _bp_iframe        = _bp_iframe || {};
-          _bp_iframe.project_id = 48425; /* REQUIRED */
-          _bp_iframe.lang       = 'de'; /* Language of the form */
-          /* Remove "//" for further customization but *only* if you really need to! */
-          // _bp_iframe.width = 600; /* Custom iframe-tag-width, integer */
-          _bp_iframe.color = '286482'; /* Button and banderole color, hex without "#" */
-          _bp_iframe.background_color = 'ffffff'; /* Background-color, hex without "#" */
-          // _bp_iframe.default_amount = 50; /* Donation-amount, integer 1-99 */
-          // _bp_iframe.default_data_transfer_accepted = false; /* true (default), false */
-          // _bp_iframe.recurring_interval = 'single'; /* Interval for recurring donations, string out of ["single", "monthly", "quarter_yearly", "half_yearly", "yearly"] */
-          (function() {
-          var bp = document.createElement('script'); bp.type = 'text/javascript'; bp.async = true;
-          bp.src = 'https://asset1.betterplace.org/assets/load_donation_iframe.js';
-          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(bp, s);
-          })();
-          </script>
-          <div id="betterplace_donation_iframe" style="background: transparent url('https://www.betterplace.org/assets/new_spinner.gif') 275px 20px no-repeat;"><strong><a href="https://www.betterplace.org/projects/48425-rette-mit-spende-fur-rettungseinsatze-auf-dem-mittelmeer/donations/new">
-
-  <!--mkd-->_(donate_betterplace_text)
-
-          </a></strong></div>
-        </div><!--hor-el-->
-        <div class="hor-el hor-3">
-          <div class="box-highlight">
-
-  _(donate_calc_text)
-
-          </div><!--box-highlight-->
-          <div class="box-dark a-dark">
-
-  _(donate_merch_link)
-
-          </div><!--box-dark-->
-        </div><!--hor-el-->
-        <div class="hor-el hor-3">
-          <div class="box-highlight">
-
-  _(donate_donations_account)
+_(ideals_iuv_title)
 
             <div class="text-long">
 
-  _(donate_account_info)
+_(ideals_iuv_text)
 
             </div><!--text-long-->
-          </div><!--box-highlight-->
-        </div><!--hor-el-->
-      </div><!--hor-->
+            <div class="box-dark a-dark">
+
+_(ideals_iuv_link)
+
+            </div><!--box-dark-->
+          </div><!--hor-el-->
+          <div class="hor-el hor-2 hor-last">
+
+_(ideals_proposals_title)
+
+            <div class="text-long">
+
+_(ideals_proposals_text)
+
+            </div><!--text-long-->
+          </div><!--hor-el-->
+        </div><!--hor-->
+
+_(ideals_actions)
+      </section><!--intro-->
+      <section id="about">
+
+_(about_us_title)
+
+        <div class="hor">
+          <div class="hor-el hor-3 box-pic">
+
+_(about_us_our_story_title)
+
+          </div><!--hor-el-->
+          <div class="hor-el hor-3 box-pic">
+
+_(about_us_iuv_title)
+
+          </div><!--hor-el-->
+          <div class="hor-el hor-3 box-pic">
+
+_(about_us_transparency_title)
+
+          </div><!--hor-el-->
+        </div><!--hor-->
+      </section><!--about-->
+      <section id="team">
+
+_(team_title)
+
+        <div class="hor">
+          <div class="hor-el hor-5 box-pic-s">
+
+_(team_donations)
+
+          </div><!--hor-el-->
+          <div class="hor-el hor-5 box-pic-s">
+
+_(team_berlin)
+
+          </div><!--hor-el-->
+          <div class="hor-el hor-5 box-pic-s">
+
+_(team_crew)
+
+          </div><!--hor-el-->
+          <div class="hor-el hor-5 box-pic-s">
+
+_(team_embassies)
+
+          </div><!--hor-el-->
+          <div class="hor-el hor-5  box-pic-s">
+
+_(team_sponsors)
+
+          </div><!--hor-el-->
+        </div><!--hor-->
+
+      </section><!--team-->
+      <section id="rescue">
+
+_(rescue_as_title)
+
+        <div class="hor">
+          <div class="hor-el hor-4 box-pic-s">
+
+_(rescue_as_sponsor)
+
+          </div><!--hor-el-->
+          <div class="hor-el hor-4 box-pic-s">
+
+_(rescue_as_donator)
+
+          </div><!--hor-el-->
+          <div class="hor-el hor-4 box-pic-s">
+
+_(rescue_as_voluntary)
+
+          </div><!--hor-el-->
+          <div class="hor-el hor-4 box-pic-s">
+
+_(rescue_as_ambassador)
+
+          </div><!--hor-el-->
+        </div><!--hor-->
+      </section><!--rescue-->
+      <section id="faq" class="big-margin">
+        <div class="box-dark a-dark">
+
+_(faq)
+
+        </div><!--box-dark-->
+      </section><!--faq-->
+      <section id="news">
+
+_(news_title)
+
+        <div class="hor">
+          <div class="hor-el hor-3 hor-overflow">
+            <div class="fb-page" data-href="https://www.facebook.com/JugendRettet" data-tabs="timeline" data-small-header="true" data-adapt-container-width="true" data-hide-cover="true" data-show-facepile="true"><blockquote cite="https://www.facebook.com/JugendRettet" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/JugendRettet">Facebook</a></blockquote></div>
+          </div><!--hor-el-->
+          <div class="hor-el hor-3 hor-overflow">
+            <a class="twitter-timeline" data-lang="_(lang)" data-dnt="true" href="https://twitter.com/jugendrettet">Twitter</a>
+            <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+          </div><!--hor-el-->
+          <div class="hor-el hor-3 hor-overflow">
+
+          </div><!--hor-el-->
+        </div><!--hor-->
+        <div class="hor">
+          <div class="hor-el hor-3">
+            <div class="p-highlight">
+
+_(news_news_item)
+
+              <div class="p-dark a-dark">
+
+_(news_archive)
+
+              </div><!--p-dark-->
+            </div><!--p-highlight-->
+            <div class="p-dark a-dark">
+
+_(news_follow_iuv)
+
+            </div><!--p-dark-->
+          </div><!--hor-el-->
+          <div class="hor-el hor-3">
+            <div class="box-highlight">
+
+_(news_press_release)
+
+            </div><!--box-highlight-->
+          </div><!--hor-el-->
+          <div class="hor-el hor-3">
+            <div class="box-highlight">
+
+_(news_events)
+
+            </div><!--box-highlight-->
+          </div><!--hor-el-->
+        </div><!--hor-->
+        <div class="box-dark a-dark">
+
+_(news_follow_us)
+
+        </div><!--box-dark-->
+        <div class="box-highlight">
+
+_(news_news_mission)
+
+        </div><!--box-highlight-->
+        <div class="box-dark a-dark">
+
+_(news_mission_link)
+
+        </div><!--box-dark-->
+      </section><!--news-->
+      <section id="donate">
+
+_(donate_title)
+
+        <div class="hor">
+          <div id="bp-column" class="hor-el hor-3">
+            <script type="text/javascript">
+            /* Configure at https://www.betterplace.org/de/projects/42019-rette-mit-einsatz-zur-seenotrettung-auf-dem-mittelmeer/manage/iframe_donation_form */
+            var _bp_iframe        = _bp_iframe || {};
+            _bp_iframe.project_id = 48425; /* REQUIRED */
+            _bp_iframe.lang       = 'de'; /* Language of the form */
+            /* Remove "//" for further customization but *only* if you really need to! */
+            // _bp_iframe.width = 600; /* Custom iframe-tag-width, integer */
+            _bp_iframe.color = '286482'; /* Button and banderole color, hex without "#" */
+            _bp_iframe.background_color = 'ffffff'; /* Background-color, hex without "#" */
+            // _bp_iframe.default_amount = 50; /* Donation-amount, integer 1-99 */
+            // _bp_iframe.default_data_transfer_accepted = false; /* true (default), false */
+            // _bp_iframe.recurring_interval = 'single'; /* Interval for recurring donations, string out of ["single", "monthly", "quarter_yearly", "half_yearly", "yearly"] */
+            (function() {
+            var bp = document.createElement('script'); bp.type = 'text/javascript'; bp.async = true;
+            bp.src = 'https://asset1.betterplace.org/assets/load_donation_iframe.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(bp, s);
+            })();
+            </script>
+            <div id="betterplace_donation_iframe" style="background: transparent url('https://www.betterplace.org/assets/new_spinner.gif') 275px 20px no-repeat;"><strong><a href="https://www.betterplace.org/projects/48425-rette-mit-spende-fur-rettungseinsatze-auf-dem-mittelmeer/donations/new">
+
+<!--mkd-->_(donate_betterplace_text)
+
+            </a></strong></div>
+          </div><!--hor-el-->
+          <div class="hor-el hor-3">
+            <div class="box-highlight">
+
+_(donate_calc_text)
+
+            </div><!--box-highlight-->
+            <div class="box-dark a-dark">
+
+_(donate_merch_link)
+
+            </div><!--box-dark-->
+          </div><!--hor-el-->
+          <div class="hor-el hor-3">
+            <div class="box-highlight">
+
+_(donate_donations_account)
+
+              <div class="text-long">
+
+_(donate_account_info)
+
+              </div><!--text-long-->
+            </div><!--box-highlight-->
+          </div><!--hor-el-->
+        </div><!--hor-->
+      </section><!--donate-->
     </article>
   </div><!-- text-center -->
 </div><!-- paper -->
