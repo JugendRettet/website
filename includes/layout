@@ -26,10 +26,10 @@ function page_header {
 	if (( WSH_CSS == 1 )); then
 		print "\t<link rel=\"stylesheet\" type=\"text/css\" href=\"${WSH_CSSF}\" />"
 	fi
-	if [[ -n $TR_TITLE ]]; then
+	if [[ -n "${WSH_GENF_TITLE}" ]]; then
 		print "\t<title>${TR_TITLE}${WSH_GENF_TITLE:+ | $WSH_GENF_TITLE}</title>"
 	else
-		print "\t<title>${WSH_GENF_TITLE}</title>"
+		print "\t<title>${TR_TITLE}</title>"
 	fi
 	print '	<script type="text/javascript" src="../js/jquery-3.1.1.min.js"></script>
 	<script type="text/javascript" src="../js/smoothscroll.js"></script>

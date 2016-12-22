@@ -288,11 +288,15 @@ p, ul {
 p, div.p-highlight, div.p-dark {
 	margin: 0.5em;
 }
-h1 {
+h1, div.fakeh1 p {
 	font-weight: normal;
 	text-align: center;
 	margin-bottom: 4ch;
 	text-transform: uppercase;
+}
+div.fakeh1 p {
+	font-size: 1.5em;
+	margin-top: 0.83em;
 }
 h2 {
 	/*border-left:solid;*/

@@ -66,8 +66,11 @@ _(menu_press) &rarr;
     <article class="center">
       <div class="text-lighter">
         <div id="intro" class="fake big-margin"></div>
+          <div class="fakeh1">
 
   _(intro_title)
+
+          </div>
 
   _(intro)
 
