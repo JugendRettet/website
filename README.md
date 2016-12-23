@@ -5,6 +5,8 @@ Files to build jugendrettet.org.
 ## tldr
 
 ```
+git clone git@github.com:JugendRettet/website.git
+git checkout 201610_rewrite
 ./prepare.sh
 ./make.sh
 ```
