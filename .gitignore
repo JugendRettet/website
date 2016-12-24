@@ -2,7 +2,6 @@ wswsh
 translations/*
 old/*
 dest/
-**/jquery*.js
 extras_binaries/*
 donations/*
 test/
