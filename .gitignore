@@ -1,10 +1,14 @@
 wswsh
 translations/*
 old/*
-dest/*
+dest/
 **/jquery*.js
 extras_binaries/*
 donations/*
 test/
 .DS_Store
 .!*!*
+graphics/*
+images/*
+videos/*
+files/*
