@@ -14,6 +14,7 @@ while read lang; do
   TR_TITLE="${title}"
   export TR_DESCRIPTION
   export TR_TITLE
+  echo "Handling language ${TR_LANG}"
   make
   mv ./dest "${lang}"
   mv "${lang}" dest.tmp.d/
