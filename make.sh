@@ -22,7 +22,7 @@ done <<<"${TR_LANGS}"
 mv dest.tmp.d dest
 
 echo 'Copying extra files'
-cp -r extras/* extras/.htaccess src/js dest/
+cp -r extras/* extras/.htaccess dest/
 shopt -s nullglob dotglob
 files=(extras_binaries/*)
 if [ ${#files[@]} -gt 0 ]; then
@@ -30,3 +30,4 @@ if [ ${#files[@]} -gt 0 ]; then
   cp -r extras_binaries/* dest/
 fi
 echo 'Done copying.'
+
