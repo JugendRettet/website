@@ -14,8 +14,8 @@ else
   echo 'style.css already there.'
 fi
 
-if [ ! -f translations/* ]; then
-  git clone git@github.com:JugendRettet/translations.git translations/
+if [ ! -d translations ]; then
+  git clone https://github.com/JugendRettet/translations.git translations/
 else
   echo 'translations/ already there.'
 fi
