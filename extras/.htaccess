@@ -4,9 +4,9 @@ RewriteCond %{HTTPS} !=on
 RewriteCond %{ENV:HTTPS} !=on
 RewriteRule .* https://%{SERVER_NAME}%{REQUEST_URI} [R=301,L]
 
-RewriteCond %{HTTP_REFERER} !^$
-RewriteCond %{HTTP_REFERER} !^http(s)?://(www\.)?new.jugendrettet.org [NC]
-RewriteRule \.(jpg|jpeg|png|gif|svg)$ - [NC,F,L]
+#RewriteCond %{HTTP_REFERER} !^$
+#RewriteCond %{HTTP_REFERER} !^http(s)?://(www\.)?new.jugendrettet.org [NC]
+#RewriteRule \.(jpg|jpeg|png|gif|svg)$ - [NC,F,L]
 
 RewriteRule ^$ /de [L]
 
