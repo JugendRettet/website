@@ -33,6 +33,7 @@ function throttle(fn, interval) {
 function highlightNavigation() {
   // get the current vertical position of the scroll bar
   var scrollPosition = $(window).scrollTop();
+  var toleratePosition = scrollPosition + 20;
 
   // iterate the sections
   $sections.each(function() {
@@ -41,7 +42,7 @@ function highlightNavigation() {
     var sectionTop = currentSection.offset().top;
 
     // if the user has scrolled over the top of the section  
-    if (scrollPosition >= sectionTop) {
+    if (toleratePosition >= sectionTop) {
       // get the section id
       var id = currentSection.attr('id');
       // get the corresponding navigation link
