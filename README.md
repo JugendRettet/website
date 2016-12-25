@@ -23,8 +23,12 @@ You can get all necessary files (like wswsh) by running `prepare.sh`.
 
 The translatable phrases are managed in a [separate git](https://github.com/JugendRettet/translations).
 
-Files and directories that should not be touched by the interpreter are located in extras/ or
-extras_binaries/ for files not meant for git.
+Files and directories that should not be touched by the interpreter are located in extras/.
+
+Other files not meant for git or too big to copy them back and forth can be placed directly in the
+webroot. By including them in .gitignore and using it in rsync as `--exclude-from='.gitignore'` they
+won't be deleted.
+If you still want them copied into dest/ by `make.sh` you can put them inside extras_binaries/.
 
 After all is set you can build the website in a ready to deploy state by running `make.sh`.
 It will be located in dest/.

@@ -20,6 +20,12 @@ while read lang; do
 done <<<"${TR_LANGS}"
 mv dest.tmp.d dest
 
-echo 'Copying other files'
-cp -r extras_binaries/* extras/* extras/.htaccess src/js dest/
+echo 'Copying extra files'
+cp -r extras/* extras/.htaccess src/js dest/
+shopt -s nullglob dotglob
+files=(extras_binaries/*)
+if [ ${#files[@]} -gt 0 ]; then
+  echo 'Also copying large extra files'
+  cp -r extras_binaries/* dest/
+fi
 echo 'Done copying.'
