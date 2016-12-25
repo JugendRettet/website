@@ -21,5 +21,5 @@ done <<<"${TR_LANGS}"
 mv dest.tmp.d dest
 
 echo 'Copying other files'
-cp -r extras_binaries/* extras/* extras/.htaccess src/js dest/
+cp -r extras_binaries/* extras/* extras/.htaccess dest/
 echo 'Done copying.'
