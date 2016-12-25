@@ -8,7 +8,7 @@
 }(document, 'script', 'facebook-jssdk'));</script>
 
 <a href="#intro" class="introlink">
-  <div id="header">
+  <section id="header" class="scroll-section">
     <div id="center">
 
 _(logo)
@@ -17,7 +17,7 @@ _(logo)
     <video id="waves-video" class="header-video" loop autoplay preload="auto" poster="../images/error.jpg">
       <source src="../videos/waves.mp4">
     </video>
-  </div><!--header-->
+  </section><!--header-->
 </a><!--introlink-->
 <nav class="center text-center">
   <a href="#intro">

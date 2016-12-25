@@ -1,4 +1,2 @@
 User-agent: *
-Disallow: /test/
-Disallow: /danke
-Disallow: /danke.php
+Disallow: /

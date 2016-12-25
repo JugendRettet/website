@@ -14,12 +14,19 @@ while read lang; do
   TR_TITLE="${title}"
   export TR_DESCRIPTION
   export TR_TITLE
+  echo "Handling language ${TR_LANG}"
   make
   mv ./dest "${lang}"
   mv "${lang}" dest.tmp.d/
 done <<<"${TR_LANGS}"
 mv dest.tmp.d dest
 
-echo 'Copying other files'
-cp -r extras_binaries/* extras/* extras/.htaccess src/js dest/
+echo 'Copying extra files'
+cp -r extras/* extras/.htaccess src/js dest/
+shopt -s nullglob dotglob
+files=(extras_binaries/*)
+if [ ${#files[@]} -gt 0 ]; then
+  echo 'Also copying large extra files'
+  cp -r extras_binaries/* dest/
+fi
 echo 'Done copying.'
