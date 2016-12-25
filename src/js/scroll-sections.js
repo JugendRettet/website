@@ -53,6 +53,10 @@ function highlightNavigation() {
         $navigationLinks.removeClass('active');
         // add .active class to the current link
         $navigationLink.addClass('active');
+        // add .inactive class to all the links (important for mobile)
+        $navigationLinks.addClass('inactive');
+        // remove .inactive class from the current link (important for mobile)
+        $navigationLink.removeClass('inactive');
       }
       // we have found our section, so we return false to exit the each loop
       return false;
