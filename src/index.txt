@@ -1,4 +1,4 @@
-<header class"small">
+<header class="small">
           <a id="logo-wrap" href="#">
                 <img class="logo" src="https://en.jugendrettet.org/graphics/logo.svg" alt="Jugent Rettet">
                 <div id="title">Jugend <b>Rettet</b></div>
