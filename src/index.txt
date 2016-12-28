@@ -113,24 +113,34 @@
                 </div>
             </div>
         </section>
+        <section class="white" id="intro">
+            <div class="container">
+                <div class="text-box">
+                    <h1>
+                    _(intro_title)
+                    </h1>
+                    <hr class="wide">
+                    _(intro)
+                </div>
+            </div>
+        </section>
         <section class="white" id="situation">
             <div class="container">
                 <div class="text-box">
-                    <h1>Aktuelle Situation</h1>
+                    <h1>
+                    _(situation)
+                    </h1>
                     <hr class="wide">
-                    <p>2015 kamen eine Million Menschen über das Mittelmeer in seeuntauglichen Booten nach Europa (Angaben der UNO, Mai 2016). Bei der gefährlichen Überfahrt sind 2015 3771 Menschen gestorben oder verschwunden, laut einer Schätzung des UN-Flüchtlingshilfswerks. 2016 sind bereits 187.920 Flüchtlinge und Migranten auf dem Seeweg in Europa angekommen - davon 155.765 Personen in Griechenland und 31.252 in Italien (Angaben der UNO, Mai 2016)</p>
-                    <div class="wide-img situation-img"></div>
-                    <p>Aktuell gibt es keine vergleichbare von Jugendlichen initiierte Organisation mit dem Ziel der privaten Seenotrettung auf dem Mittelmeer. Konkrete, unabhängige Aktionsfelder für junge Erwachsene fehlen häufig, wodurch der Wille, sich politisch zu engagieren, oft nicht umgesetzt werden kann.</p>
                 </div>
             </div>
         </section>
         <section class="white" id="about">
             <div class="container">
                 <div class="text-box">
-                    <h1>über uns</h1>
+                    <h1>
+                    _(about_us_title)
+                    </h1>
                     <hr class="wide">
-                        <h2>Ideal</h2>
-                        <p>Wir wollen ein Ende der Gleichgültigkeit der Europäischen Gemeinschaft gegenüber dem Sterben auf dem Mittelmeer. Wir setzen uns für eine humanere, gerechtere und engagiertere Asylpolitik ein.</p><br>
                         <h2>Our Story</h2>
                         <p>Wir setzen uns für eine humanere, gerechtere und engagiertere Asylpolitik ein. Menschen auf der Flucht unterscheiden sich von uns nur durch die Notsituation, in die sie unverschuldet geraten sind. Ihr Recht auf Menschenwürde gilt für sie uneingeschränkt, auch während der Flucht. Um das zu erreichen, wollen und müssen wir Verantwortung übernehmen. Junge Erwachsene sollen ihr Potenzial nutzen und sich politisch engagieren. Jeder kann etwas ändern. Als moderne Europäer vertrauen wir dabei in die Kraft eines vereinten europäischen Engagements, um gemeinsam für mehr Menschlichkeit in der Asylpolitik zu sorgen.</p>
                         <div class="wide-img about-img"></div>
