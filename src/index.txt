@@ -99,13 +99,6 @@
                         <div class="inner-wrap"><p>Die Berlinerin Jule Müller rettet Flüchtlinge vor dem Ertrinken</p></div>
                     </div>
                  </div>
-                 <div class="child" id="news-01-11-16-id">
-                    <div class="tint">
-                        <span class="news-date">7w</span>
-                        <div class="news-img"></div>
-                        <div class="inner-wrap"><p>Jugend Rettet hat 2016 als 6000 Menschen gerettet</p></div>
-                    </div>
-                </div>
                  <div class="head child" id="">
                     <div class="tint">Mehr News
                     </div>
@@ -117,10 +110,10 @@
             <div class="container">
                 <div class="text-box">
                     <h1>
-                    _(intro_title)
+                    Jugend Rettet
                     </h1>
                     <hr class="wide">
-                    _(intro)
+                    <p>Das Bessere Europa durch Seenotrettung im Mittelmeer. Mit der Iuventa leiten wir Seenotrettung im Mittelmeer. Das wollen wir eigentlich nicht.
                 </div>
             </div>
         </section>
@@ -128,9 +121,10 @@
             <div class="container">
                 <div class="text-box">
                     <h1>
-                    _(situation)
+                    Aktuelle Situation
                     </h1>
                     <hr class="wide">
+                    <p>2016 sind 5000 Menschen, bei dem Versuch Europa über das Mittelmeer zu erreichen gestorben.
                 </div>
             </div>
         </section>
