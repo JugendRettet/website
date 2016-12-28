@@ -772,7 +772,7 @@ footer .container {
 .horizontal-menu {
     margin: 0 auto;
     display: block;
-    height: 30%;
+    height: 30vh;
     max-height: 240px;
     min-width: 1010px;
 }
