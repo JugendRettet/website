@@ -387,18 +387,6 @@ nav {
 	color: #286482;
 	background: rgba(255, 255, 255, 1);
 }
-nav a:hover, nav a:hover.red, nav a:hover.dark, nav a.active, nav a.red.active {
-	background: #286482;
-	color: white;
-	border-bottom: solid thin #286482;
-}
-nav a:hover.red, nav a.red.active {
-	background: rgb(249,69,0);
-	border-bottom: solid thin rgb(249,69,0);
-}
-nav a:hover.dark {
-	color: #142d3c;
-}
 nav a {
 	margin-top: 1px;
   text-transform: uppercase;
@@ -417,6 +405,18 @@ nav a.red, nav a.red.inactive {
 	color: rgb(249,69,0);
 	background: transparent;
 	font-weight: bold;
+}
+nav a:hover, nav a:hover.red, nav a:hover.dark, nav a.active, nav a.red.active {
+	background: #286482;
+	color: white;
+	border-bottom: solid thin #286482;
+}
+nav a:hover.red, nav a.red.active {
+	background: rgb(249,69,0);
+	border-bottom: solid thin rgb(249,69,0);
+}
+nav a:hover.dark {
+	color: #142d3c;
 }
 nav a p {
 	margin: 0;
