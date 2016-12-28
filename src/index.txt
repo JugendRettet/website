@@ -46,7 +46,7 @@
         </header>
         <section class="home-background">
             <video id="waves-video" class="fullscreen-bg__video" muted="" loop="" autoplay="" preload="auto">
-                <source src="videos/waves.mp4">
+                <source src="../videos/waves.mp4">
                 <img alt="Wave Simulation" src="images/waves.jpg">
             </video>
             <div id="waves-img" class="fullscreen-bg__img"></div>
