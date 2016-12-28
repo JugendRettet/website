@@ -481,8 +481,8 @@ div.fakeh1 p {
 h2 {
 	/*border-left:solid;*/
 	/*padding-left:2ch;*/
-	border-top: solid;
-  padding: 2ch;
+	/*border-top: solid;*/
+  	padding: 2ch;
 	text-transform: uppercase;
 	margin-top: 1.4em;
 	/*background: rgb(141, 160, 169);
