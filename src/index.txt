@@ -58,9 +58,7 @@
             </div>
             <div class="container">
                 <div class="slogan no-hyphens">
-                    <h1>Jeder Mensch verdient die Rettung aus Seenot.</h1>
-                    <hr class="wide">
-                    <img class="belt" src="https://en.jugendrettet.org/graphics/belt.svg" alt="Rettungsring">
+                    _(logo)
                 </div>
             </div>
         </section>
