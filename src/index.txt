@@ -23,7 +23,7 @@
                     </a></li>
                     <li class="go" id="to-situation"><a href="#situation">
                     
-                    Situation
+                    _(menu_intro)
                     
                     </a></li>
                     <li class="go" id="to-about"><a href="#about">
