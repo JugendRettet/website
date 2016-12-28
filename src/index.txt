@@ -149,7 +149,7 @@
         <section class="white" id="team">
             <div class="container">
                 <div class="text-box">
-                    <h1>Das Team</h1>
+                    <h1>_(team_title)</h1>
                     <hr class="wide">
                 </div>
             </div>
@@ -157,28 +157,28 @@
         <section class="white" id="team-main">
             <div class="horizontal-menu">
                 <a href="team.html#spender"><div class="child" id="spender">
-                    <div class="tint">Spender
+                    <div class="tint">_(team_donations)
                     </div>
 
                 </div></a>
                     
                 <a href="team.html#berlin"><div class="child" id="berlin">
-                    <div class="tint">Berlin
+                    <div class="tint">_(team_berlin)
                     </div>
 
                 </div></a>
                 <a href="team.html#crew"><div class="child" id="crew">
-                    <div class="tint">Crew
+                    <div class="tint">_(team_crew)
                     </div>
 
                 </div></a>
                 <a href="team.html#botschafter-section"><div class="child" id="botschafter">
-                    <div class="tint">Botschafter
+                    <div class="tint">_(team_embassies)
                     </div>
 
                 </div></a>
                 <a href="team.html#sponsor"><div class="child" id="sponsor">
-                    <div class="tint">Sponsoren
+                    <div class="tint">_(team_sponsors)
                     </div>
 
                 </div></a>
@@ -188,31 +188,30 @@
         <section class="white" id="rescue">
             <div class="container">
                 <div class="text-box">
-                    <h1>Was du tun kannst</h1>
+                    <h1>_(rescue_as_title)</h1>
                     <hr class="wide">
-                    <p>Bring dich mit eigenen Ideen und Vorschlägen ein.<br>Hier findest du alle Informationen, um dich konkret bei uns zu engagieren.</p>
                 </div>
             </div>
         </section>
         <section class="white" id="do">
             <div class="horizontal-menu">
                 <div class="child" id="sponsor-sein">
-                    <div class="tint">Sponsor Sein
+                    <div class="tint">_(rescue_as_sponsor)
                         <span class="arrow"><span class="left"></span><span class="right"></span></span>
                     </div>
                 </div>
                 <div class="child" id="spenden">
-                    <div class="tint">Spenden
+                    <div class="tint">_(rescue_as_donator) <!-- donor (!) -->
                         <span class="arrow"><span class="left"></span><span class="right"></span></span>
                     </div>
                 </div>
                 <div class="child" id="freiwilliger-sein">
-                    <div class="tint">Freiwilliger Sein
+                    <div class="tint">_(rescue_as_voluntary)
                         <span class="arrow"><span class="left"></span><span class="right"></span></span>
                     </div>
                 </div>
                 <div class="child" id="botschafter">
-                    <div class="tint">Bot&shy;schafter Sein
+                    <div class="tint">_(rescue_as_ambassador)
                         <span class="arrow"><span class="left"></span><span class="right"></span></span>
                     </div>
                 </div>
