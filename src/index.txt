@@ -1,284 +1,295 @@
-<div id="fb-root"></div>
-<script>(function(d, s, id) {
-  var js, fjs = d.getElementsByTagName(s)[0];
-  if (d.getElementById(id)) return;
-  js = d.createElement(s); js.id = id;
-  js.src = "https://connect.facebook.net/_(lang_long)/sdk.js#xfbml=1&version=v2.8&appId=107811646279095";
-  fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));</script>
-
-<a href="#intro" class="introlink">
-  <section id="header" class="scroll-section">
-    <div id="center">
-
-_(logo)
-
-    </div><!--center-->
-    <video id="waves-video" class="header-video" loop autoplay muted preload="auto" poster="../images/error.jpg">
-      <source src="../videos/waves.mp4">
-    </video>
-  </section><!--header-->
-</a><!--introlink-->
-<nav class="center text-center">
-  <a href="#intro">
-
-_(menu_intro)
-  
-  </a>
-  <a href="#about">
-
-_(menu_about_us)
-
-  </a>
-  <a href="#team">
-
-_(menu_team)
-
-  </a>
-  <a href="#rescue">
-
-_(menu_rescue)
-
-  </a>
-  <a href="#faq">
-
-_(menu_faq)
-
-  </a>
-  <a href="#news">
-
-_(menu_news)
-
-  </a>
-  <a class="red" href="#donate">
-
-_(menu_donate)
-  
-  </a>
-  <a href="/press">
-
-_(menu_press) &rarr;
-
-  </a>
-</nav>
-<div id="paper">
-  <div class="text-center">
-    <article class="center">
-      <div class="text-lighter">
-        <section id="intro" class="scroll-section big-margin">
-          <div class="fakeh1">
-
-_(intro_title)
-
-          </div>
-
-_(intro)
-
-        </div><!--text-lighter-->
-
-_(situation)
-
-_(ideals_title)
-
-        <div class="hor">
-          <div class="hor-el hor-2 box-highlight">
-
-_(ideals_iuv_title)
-
-            <div class="text-long">
-
-_(ideals_iuv_text)
-
-            </div><!--text-long-->
-            <div class="box-dark a-dark">
-
-_(ideals_iuv_link)
-
-            </div><!--box-dark-->
-          </div><!--hor-el-->
-          <div class="hor-el hor-2 hor-last">
-
-_(ideals_proposals_title)
-
-            <div class="text-long">
-
-_(ideals_proposals_text)
-
-            </div><!--text-long-->
-          </div><!--hor-el-->
-        </div><!--hor-->
-
-_(ideals_actions)
-      </section><!--intro-->
-      <section id="about" class="scroll-section">
-
-_(about_us_title)
-
-        <div class="hor">
-          <div class="hor-el hor-3 box-pic">
-
-_(about_us_our_story_title)
-
-          </div><!--hor-el-->
-          <div class="hor-el hor-3 box-pic">
-
-_(about_us_iuv_title)
-
-          </div><!--hor-el-->
-          <div class="hor-el hor-3 box-pic">
-
-_(about_us_transparency_title)
-
-          </div><!--hor-el-->
-        </div><!--hor-->
-      </section><!--about-->
-      <section id="team" class="scroll-section">
-
-_(team_title)
-
-        <div class="hor">
-          <div class="hor-el hor-5 box-pic-s">
-
-_(team_donations)
-
-          </div><!--hor-el-->
-          <div class="hor-el hor-5 box-pic-s">
-
-_(team_berlin)
-
-          </div><!--hor-el-->
-          <div class="hor-el hor-5 box-pic-s">
-
-_(team_crew)
-
-          </div><!--hor-el-->
-          <div class="hor-el hor-5 box-pic-s">
-
-_(team_embassies)
-
-          </div><!--hor-el-->
-          <div class="hor-el hor-5  box-pic-s">
-
-_(team_sponsors)
-
-          </div><!--hor-el-->
-        </div><!--hor-->
-
-      </section><!--team-->
-      <section id="rescue" class="scroll-section">
-
-_(rescue_as_title)
-
-        <div class="hor">
-          <div class="hor-el hor-4 box-pic-s">
-
-_(rescue_as_sponsor)
-
-          </div><!--hor-el-->
-          <div class="hor-el hor-4 box-pic-s">
-
-_(rescue_as_donator)
-
-          </div><!--hor-el-->
-          <div class="hor-el hor-4 box-pic-s">
-
-_(rescue_as_voluntary)
-
-          </div><!--hor-el-->
-          <div class="hor-el hor-4 box-pic-s">
-
-_(rescue_as_ambassador)
-
-          </div><!--hor-el-->
-        </div><!--hor-->
-      </section><!--rescue-->
-      <section id="faq" class="big-margin scroll-section">
-        <div class="box-dark a-dark">
-
-_(faq)
-
-        </div><!--box-dark-->
-      </section><!--faq-->
-      <section id="news" class="scroll-section">
-
-_(news_title)
-
-        <div class="hor">
-          <div class="hor-el hor-3 hor-overflow">
-            <div class="fb-page" data-href="https://www.facebook.com/JugendRettet" data-tabs="timeline" data-small-header="true" data-adapt-container-width="true" data-hide-cover="true" data-show-facepile="true"><blockquote cite="https://www.facebook.com/JugendRettet" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/JugendRettet">Facebook</a></blockquote></div>
-          </div><!--hor-el-->
-          <div class="hor-el hor-3 hor-overflow">
-            <a class="twitter-timeline" data-lang="_(lang)" data-dnt="true" href="https://twitter.com/jugendrettet">Twitter</a>
-            <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-          </div><!--hor-el-->
-          <div class="hor-el hor-3 hor-overflow">
-
-          </div><!--hor-el-->
-        </div><!--hor-->
-        <div class="hor">
-          <div class="hor-el hor-3">
-            <div class="p-highlight">
-
-_(news_news_item)
-
-              <div class="p-dark a-dark">
-
-_(news_archive)
-
-              </div><!--p-dark-->
-            </div><!--p-highlight-->
-            <div class="p-dark a-dark">
-
-_(news_follow_iuv)
-
-            </div><!--p-dark-->
-          </div><!--hor-el-->
-          <div class="hor-el hor-3">
-            <div class="box-highlight">
-
-_(news_press_release)
-
-            </div><!--box-highlight-->
-          </div><!--hor-el-->
-          <div class="hor-el hor-3">
-            <div class="box-highlight">
-
-_(news_events)
-
-            </div><!--box-highlight-->
-          </div><!--hor-el-->
-        </div><!--hor-->
-        <div class="box-dark a-dark">
-
-_(news_follow_us)
-
-        </div><!--box-dark-->
-        <div class="box-highlight">
-
-_(news_news_mission)
-
-        </div><!--box-highlight-->
-        <div class="box-dark a-dark">
-
-_(news_mission_link)
-
-        </div><!--box-dark-->
-      </section><!--news-->
-      <section id="donate" class="scroll-section">
-
-_(donate_title)
-
-        <div class="hor">
-          <div id="bp-column" class="hor-el hor-3">
-            <script type="text/javascript">
+<header>
+          <a id="logo-wrap" href="#">
+                <img class="logo" src="https://en.jugendrettet.org/graphics/logo.svg" alt="Jugent Rettet">
+                <div id="title">Jugend <b>Rettet</b></div>
+            </a>
+            <div id="bread">
+                <div class="stroke" id="br-top-stroke"></div>
+                <div class="stroke" id="br-bottom-stroke"></div>
+            </div>
+            <div class="spende-button">
+                <a class="go" id="to-donate" href="spenden.html"><span class="donate-now">
+                
+                _(menu_donate)
+                
+                </a>
+            </div>
+            <nav class="hidden hide">
+                <ul>
+                    <li class="go" id="to-news"><a href="#news">
+                    
+                    _(menu_news)
+                    
+                    </a></li>
+                    <li class="go" id="to-situation"><a href="#situation">
+                    
+                    Situation
+                    
+                    </a></li>
+                    <li class="go" id="to-about"><a href="#about">
+                    
+                    _(menu_about_us)
+                    
+                    </a></li>
+                    <li class="go" id="to-team"><a href="#team">
+                    
+                    _(menu_team)
+                    
+                    </a></li>
+                    <li class="go" id="to-rescue"><a href="#rescue">
+                    
+                    _(menu_rescue)
+                    
+                    </a></li>
+                </ul>
+            </nav>
+        </header>
+        <section class="home-background">
+            <video id="waves-video" class="fullscreen-bg__video" muted="" loop="" autoplay="" preload="auto">
+                <source src="videos/waves.mp4">
+                <img alt="Wave Simulation" src="images/waves.jpg">
+            </video>
+            <div id="waves-img" class="fullscreen-bg__img"></div>
+        </section>
+        <section class="home" id="home">
+            <div class="scroll-down go" id="to-situation">
+                <span class="scroll"><span>scrollen</span></span>
+                <span class="arrow"><span class="left"></span><span class="right"></span></span>
+            </div>
+            <div class="container">
+                <div class="slogan no-hyphens">
+                    <h1>Jeder Mensch verdient die Rettung aus Seenot.</h1>
+                    <hr class="wide">
+                    <img class="belt" src="https://en.jugendrettet.org/graphics/belt.svg" alt="Rettungsring">
+                </div>
+            </div>
+        </section>
+        <section class="white" id="news">
+             <div class="horizontal-menu">
+                <div class="child" id="news-22-12-16-id">
+                    <div class="tint">
+                        <span class="news-date">23h</span>
+                        <div class="news-img"></div>
+                        <div class="inner-wrap"><p>Ich rette Mitt*woch</p></div>
+                    </div>
+                </div>
+                <div class="child" id="news-12-12-16-id">
+                    <div class="tint">
+                        <span class="news-date">10d</span>
+                        <div class="news-img"></div>
+                        <div class="inner-wrap"><p>Neue Pullis, Zipper, Beanies und Shirts</p></div>
+                    </div>
+                </div>
+                <div class="child" id="news-10-12-16-id">
+                    <div class="tint">
+                        <span class="news-date">12d</span>
+                        <div class="news-img"></div>
+                        <div class="inner-wrap"><p>ZDF Mittagsmagazin</p></div>
+                    </div>
+                </div>
+                <div class="child" id="news-04-12-16-id">
+                    <div class="tint">
+                        <span class="news-date">18d</span>
+                        <div class="news-img"></div>
+                        <div class="inner-wrap"><p>Crew-Treffen in Berlin</p></div>
+                    </div>
+                </div>
+                <div class="child" id="news-01-12-16-id">
+                    <div class="tint">
+                        <span class="news-date">3w</span>
+                        <div class="news-img"></div>
+                        <div class="inner-wrap"><p>Die Berlinerin Jule Müller rettet Flüchtlinge vor dem Ertrinken</p></div>
+                    </div>
+                 </div>
+                 <div class="child" id="news-01-11-16-id">
+                    <div class="tint">
+                        <span class="news-date">7w</span>
+                        <div class="news-img"></div>
+                        <div class="inner-wrap"><p>Jugend Rettet hat 2016 als 6000 Menschen gerettet</p></div>
+                    </div>
+                </div>
+                 <div class="head child" id="">
+                    <div class="tint">Mehr News
+                    </div>
+
+                </div>
+            </div>
+        </section>
+        <section class="white" id="situation">
+            <div class="container">
+                <div class="text-box">
+                    <h1>Aktuelle Situation</h1>
+                    <hr class="wide">
+                    <p>2015 kamen eine Million Menschen über das Mittelmeer in seeuntauglichen Booten nach Europa (Angaben der UNO, Mai 2016). Bei der gefährlichen Überfahrt sind 2015 3771 Menschen gestorben oder verschwunden, laut einer Schätzung des UN-Flüchtlingshilfswerks. 2016 sind bereits 187.920 Flüchtlinge und Migranten auf dem Seeweg in Europa angekommen - davon 155.765 Personen in Griechenland und 31.252 in Italien (Angaben der UNO, Mai 2016)</p>
+                    <div class="wide-img situation-img"></div>
+                    <p>Aktuell gibt es keine vergleichbare von Jugendlichen initiierte Organisation mit dem Ziel der privaten Seenotrettung auf dem Mittelmeer. Konkrete, unabhängige Aktionsfelder für junge Erwachsene fehlen häufig, wodurch der Wille, sich politisch zu engagieren, oft nicht umgesetzt werden kann.</p>
+                </div>
+            </div>
+        </section>
+        <section class="white" id="about">
+            <div class="container">
+                <div class="text-box">
+                    <h1>über uns</h1>
+                    <hr class="wide">
+                        <h2>Ideal</h2>
+                        <p>Wir wollen ein Ende der Gleichgültigkeit der Europäischen Gemeinschaft gegenüber dem Sterben auf dem Mittelmeer. Wir setzen uns für eine humanere, gerechtere und engagiertere Asylpolitik ein.</p><br>
+                        <h2>Our Story</h2>
+                        <p>Wir setzen uns für eine humanere, gerechtere und engagiertere Asylpolitik ein. Menschen auf der Flucht unterscheiden sich von uns nur durch die Notsituation, in die sie unverschuldet geraten sind. Ihr Recht auf Menschenwürde gilt für sie uneingeschränkt, auch während der Flucht. Um das zu erreichen, wollen und müssen wir Verantwortung übernehmen. Junge Erwachsene sollen ihr Potenzial nutzen und sich politisch engagieren. Jeder kann etwas ändern. Als moderne Europäer vertrauen wir dabei in die Kraft eines vereinten europäischen Engagements, um gemeinsam für mehr Menschlichkeit in der Asylpolitik zu sorgen.</p>
+                        <div class="wide-img about-img"></div>
+                        <h2>Die Iuventa. Das Wie</h2>
+                        <p>Im Mai 2016 haben wir unser Schiff gekauft, mit vielen Freiwilligen umgebaut und auf den Namen IUVENTA getauft. Aus folgenden Gründen ist sie für Rettungsmissionen auf hoher See geeignet.</p><br>
+                        <h2>Transparenz</h2>
+                        Jugend Rettet nimmt seine Aufgaben als vertrauenswürdige und verantwortungsbewusste gemeinnützige Organisation ernst. Transparenz ist uns wichtig. Deshalb haben wir uns der Initiative Transparente Zivilgesellschaft angeschlossen. Wir haben uns in diesem Rahmen verpflichtet, die nachstehenden Informationen der Öffentlichkeit auf unserer Webseite zur Verfügung zu stellen und regelmäßig zu updaten.</p>
+                </div>
+            </div>
+        </section>
+    
+        <section class="white" id="team">
+            <div class="container">
+                <div class="text-box">
+                    <h1>Das Team</h1>
+                    <hr class="wide">
+                </div>
+            </div>
+        </section>
+        <section class="white" id="team-main">
+            <div class="horizontal-menu">
+                <a href="team.html#spender"><div class="child" id="spender">
+                    <div class="tint">Spender
+                    </div>
+
+                </div></a>
+                    
+                <a href="team.html#berlin"><div class="child" id="berlin">
+                    <div class="tint">Berlin
+                    </div>
+
+                </div></a>
+                <a href="team.html#crew"><div class="child" id="crew">
+                    <div class="tint">Crew
+                    </div>
+
+                </div></a>
+                <a href="team.html#botschafter-section"><div class="child" id="botschafter">
+                    <div class="tint">Botschafter
+                    </div>
+
+                </div></a>
+                <a href="team.html#sponsor"><div class="child" id="sponsor">
+                    <div class="tint">Sponsoren
+                    </div>
+
+                </div></a>
+
+            </div>
+        </section>
+        <section class="white" id="rescue">
+            <div class="container">
+                <div class="text-box">
+                    <h1>Was du tun kannst</h1>
+                    <hr class="wide">
+                    <p>Bring dich mit eigenen Ideen und Vorschlägen ein.<br>Hier findest du alle Informationen, um dich konkret bei uns zu engagieren.</p>
+                </div>
+            </div>
+        </section>
+        <section class="white" id="do">
+            <div class="horizontal-menu">
+                <div class="child" id="sponsor-sein">
+                    <div class="tint">Sponsor Sein
+                        <span class="arrow"><span class="left"></span><span class="right"></span></span>
+                    </div>
+                </div>
+                <div class="child" id="spenden">
+                    <div class="tint">Spenden
+                        <span class="arrow"><span class="left"></span><span class="right"></span></span>
+                    </div>
+                </div>
+                <div class="child" id="freiwilliger-sein">
+                    <div class="tint">Freiwilliger Sein
+                        <span class="arrow"><span class="left"></span><span class="right"></span></span>
+                    </div>
+                </div>
+                <div class="child" id="botschafter">
+                    <div class="tint">Bot&shy;schafter Sein
+                        <span class="arrow"><span class="left"></span><span class="right"></span></span>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <section class="white" id="do-dropdown">
+            <div class="section white" id="do-botschafter">
+                <div class="container">
+                    <div class="text-box">                        
+                        <h3 class="if-no-js">Botschafter Sein</h3>
+                        <p>
+                            Du willst Jugend Rettet in deiner Stadt vertreten?
+                            <br>
+                            <br> Dann werde offizieller Repräsentant unserer Bewegung vor Ort. Organisiere Spendenaktionen, Flyeraktionen, Informationsveranstaltungen und finde Unterstützer für unsere Idee. Gemeinsam mit den Kleinen Rettern deiner Stadt nimmst
+                            du Projekte in Angriff. Du wirst von uns mit wichtigen Materialien ausgestattet und bei Fragen stehen wir dir gerne zur Verfügung. Auf der Karte siehst du, wo es bereits Botschafter gibt.
+                            <br>
+                            <br><span class="link" id="zur-karte">sieh dir die karte an!</span>
+                        </p>
+                    </div>
+                </div>
+            </div>
+            <div class="section white" id="do-sponsor-sein">
+                <div class="container">
+                    <div class="text-box">
+                        <h3 class="if-no-js">Sponsor Sein</h3>
+                        <p>Du willst dich mit einer einmaligen Aktion engagieren?</p>
+                        <br>
+                        <p>Dann werde Kleiner Retter und wende dich an den Botschafter deiner Stadt. Setze deine Idee in die Tat um. Gibt es noch keinen Boschafter, wende dich bitte an uns. Mache unser Projekt bekannt und sammle Geld für unser Schiff oder
+                            unterstütze uns durch Sachspenden. Was wir aktuell suchen, findest du auf unserer <a href="https://www.facebook.com/JugendRettet" tagret="_blank">Facebook-Seite</a> und in den <span class="link go" id="to-news">Neuigkeiten</span>.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="section white" id="do-freiwilliger-sein">
+                <div class="container">
+                    <div class="text-box">
+                        <h3 class="if-no-js">Freiwilliger Sein</h3>
+                        <p>Du willst als Crewmitglied die Rettung auf dem Mittelmeer durchführen?</p>
+                        <br>
+                        <p>Wir suchen Menschen mit Berufserfahrung, die sich über das hohe Risiko der Rettungsaktionen bewusst sind. Bitte frage dich selbst, ob du dir die Situation zutraust. Aufgrund der besonderen Anforderungen sind wir gezwungen die Crew
+                            sehr sorgsam auszuwählen.
+                        </p>
+                        <br>
+                        <p>Wir suchen derzeit:
+                            <br> - Kapitän_in
+                            <br> - Steuermann_frau
+                            <br> - Maschinist_in
+                            <br> - Deckhands (Beiboote steuern und funken können)
+                            <br>
+                        </p>
+                        <p><a href="https://docs.google.com/forms/d/e/1FAIpQLSeHR4I2qxm4VCQ9_WVw84msUKQHmZsxhH1oinWXFQkxf7y5AA/viewform?c=0" target="_blank">Bewerbung für die Crew</a></p>
+                        <br>
+                        <p>Setze dich bei ernsthaftem Interesse mit uns in Verbindung. Wir freuen uns über deine Bewerbung.</p>
+                        </p>
+                    </div>
+                </div>
+            </div>
+            <div class="section white" id="do-spenden">
+                <div class="container">
+                    <div class="text-box">
+                        <h3 class="if-no-js">Spenden</h3>
+                        <p>Die Menschen auf dem Mittelmeer sterben jetzt. Deshalb brauchen wir Geld, um mit unserem Schiff IUVENTA weiterhin Menschen aus Seenot zu retten.</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+<section class="white" id="donate">
+            <div class="container">
+                <div class="text-box">
+                    <h1>Spenden</h1>
+                    <hr class="wide">
+                <script type="text/javascript">
             /* Configure at https://www.betterplace.org/de/projects/42019-rette-mit-einsatz-zur-seenotrettung-auf-dem-mittelmeer/manage/iframe_donation_form */
             var _bp_iframe        = _bp_iframe || {};
             _bp_iframe.project_id = 48425; /* REQUIRED */
             _bp_iframe.lang       = 'de'; /* Language of the form */
             /* Remove "//" for further customization but *only* if you really need to! */
-            // _bp_iframe.width = 600; /* Custom iframe-tag-width, integer */
+            _bp_iframe.width = 960; /* Custom iframe-tag-width, integer */
             _bp_iframe.color = '286482'; /* Button and banderole color, hex without "#" */
-            _bp_iframe.background_color = 'ffffff'; /* Background-color, hex without "#" */
+            _bp_iframe.background_color = 'f0f0f0'; /* Background-color, hex without "#" */
             // _bp_iframe.default_amount = 50; /* Donation-amount, integer 1-99 */
             // _bp_iframe.default_data_transfer_accepted = false; /* true (default), false */
             // _bp_iframe.recurring_interval = 'single'; /* Interval for recurring donations, string out of ["single", "monthly", "quarter_yearly", "half_yearly", "yearly"] */
@@ -287,41 +298,39 @@ _(donate_title)
             bp.src = 'https://asset1.betterplace.org/assets/load_donation_iframe.js';
             var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(bp, s);
             })();
-            </script>
-            <div id="betterplace_donation_iframe" style="background: transparent url('https://www.betterplace.org/assets/new_spinner.gif') 275px 20px no-repeat;"><strong><a href="https://www.betterplace.org/projects/48425-rette-mit-spende-fur-rettungseinsatze-auf-dem-mittelmeer/donations/new">
-
-<!--mkd-->_(donate_betterplace_text)
-
-            </a></strong></div>
-          </div><!--hor-el-->
-          <div class="hor-el hor-3">
-            <div class="box-highlight">
-
-_(donate_calc_text)
-
-            </div><!--box-highlight-->
-            <div class="box-dark a-dark">
-
-_(donate_merch_link)
-
-            </div><!--box-dark-->
-          </div><!--hor-el-->
-          <div class="hor-el hor-3">
-            <div class="box-highlight">
-
-_(donate_donations_account)
-
-              <div class="text-long">
-
-_(donate_account_info)
-
-              </div><!--text-long-->
-            </div><!--box-highlight-->
-          </div><!--hor-el-->
-        </div><!--hor-->
-      </section><!--donate-->
-    </article>
-  </div><!-- text-center -->
-</div><!-- paper -->
-
-<script type="text/javascript" src="../js/scroll-sections.js"></script>
+</script>
+                <div id="betterplace_donation_iframe"><iframe height="1200" width="100%" frameborder="0" src="https://www.betterplace.org/de/projects/48425/iframe_donations/new?background_color=f0f0f0&amp;color=286482&amp;donation_amount=50&amp;utm_campaign=external_donation_forms&amp;utm_source=domain: new.jugendrettet.org&amp;utm_medium=project_48425&amp;utm_content=https%3A%2F%2Fnew.jugendrettet.org%2Fde%2F&amp;" id="iFrameResizer0" scrolling="no"></iframe></div>
+                    <h3>Spendenkonto</h3>
+                    <p>Empfänger: Jugend Rettet e.V.
+                        <br> Kontonummer: 0190465743
+                        <br> IBAN: DE28 1005 0000 0190 4657 43
+                        <br> BIC: BELADEBEXXX
+                        <br> Kreditinstitut: Berliner Sparkasse</p>
+                    <br>
+                    <h3>Merchandise</h3>
+                    <p>Seenotrettung mit einem T-Shirt? Ihr habt gefragt - wir haben gemacht. Rette mit und trage schöne T-Shirts, Zipper und Pullis. Der Erlös fließt direkt in unsere Missionen! Die Artikel sind übrigens nicht nur Fairtrade, sondern auch aus Biobaumwolle und sehr gemütlich.</p><br>
+                    <p class="small">Aufschlüsselung:<br>
+Wir haben alle notwendigen Vorraussetzungen erreicht, um unsere Rettungsmissionen durchzuführen: wir haben genug Geld gesammelt, um die IUVENTA zu kaufen, sie zu renovieren und nach Malta zu überführen, von wo aus sie die Missionen startet. Außerdem ist auch der erste Betriebsmonat finanziert. Das haben wir den vielen Spender_innen, der tatkräftigen Unterstützung vieler Menschen und nicht zuletzt unseren Botschafter_innen in mittlerweile 37 verschiedenen europäischen Städten zu verdanken. Vielen Dank für eure Hilfe!<br>
+Nun sind wir endlich zum Kern von Jugend Rettet gekommen: der Rettung von Menschen aus Seenot. Damit sichergestellt ist, dass die IUVENTA ihre Rettungen lange durchführen kann, brauchen wir euch mehr denn je: Das bedeutet, dass wir weiterhin nach professionellen <a href="team#crew">Crewmitgliedern</a> suchen. Bitte nur bewerben, wenn ihr wirklich für die Aufgaben geeignet seid.<br>
+Gleichzeitig brauchen wir Geld, um die laufenden Kosten der Rettungsmission zu decken: Neben dem Treibstoff für das Schiff, fallen hierbei Kosten für die Rettungsmittel, die Verpflegung der Crew und der Geretteten, Kleidung und Decken, die Schiffsversicherung u.a. an.<br>
+Um auch diese Etappe meistern zu können, bitten wir um deine Unterstützung: Spende jetzt für den Rettungseinsatz und hilf uns, ab Ende Juli Menschen aus Lebensgefahr retten zu können! Gemeinsam können wir ein Zeichen gegen die Gleichgültigkeit und für mehr Menschlichkeit setzen. Rette mit!<br>
+Weitere Infos zu unserem Schiff findest du <a href="#">hier</a>.</p>
+                </div>
+                
+            </div>
+        </section>
+        <footer class="white" id="footer-section">
+            <div class="container">
+                <div class="text-box">
+                    <ul id="footer">
+                        <li><a href="" alt="">FAQ</a></li>
+                        <li><a href="" alt="">Folge Uns</a></li>
+                        <li><a href="" alt="">Presse</a></li>
+                        <li><a href="" alt="">Impressum</a></li>
+                        <li><a href="" alt="">Transparenz</a></li>
+                        <li><a href="" alt="">English</a></li>
+                    </ul>
+                </div>
+                <p class="small center-text" style="margin-top: 20px">&copy; 2017 Jugend Rettet e.V.</p>
+            </div>
+        </footer>
