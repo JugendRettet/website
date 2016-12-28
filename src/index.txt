@@ -14,7 +14,7 @@
 _(logo)
 
     </div><!--center-->
-    <video id="waves-video" class="header-video" loop autoplay preload="auto" poster="../images/error.jpg">
+    <video id="waves-video" class="header-video" loop autoplay muted preload="auto" poster="../images/error.jpg">
       <source src="../videos/waves.mp4">
     </video>
   </section><!--header-->
