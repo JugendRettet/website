@@ -157,7 +157,7 @@
                         <h2>Die Iuventa. Das Wie</h2>
                         <p>Im Mai 2016 haben wir unser Schiff gekauft, mit vielen Freiwilligen umgebaut und auf den Namen IUVENTA getauft. Aus folgenden Gründen ist sie für Rettungsmissionen auf hoher See geeignet.</p><br>
                         <h2>Transparenz</h2>
-                        Jugend Rettet nimmt seine Aufgaben als vertrauenswürdige und verantwortungsbewusste gemeinnützige Organisation ernst. Transparenz ist uns wichtig. Deshalb haben wir uns der Initiative Transparente Zivilgesellschaft angeschlossen. Wir haben uns in diesem Rahmen verpflichtet, die nachstehenden Informationen der Öffentlichkeit auf unserer Webseite zur Verfügung zu stellen und regelmäßig zu updaten.</p>
+                        <p>Jugend Rettet nimmt seine Aufgaben als vertrauenswürdige und verantwortungsbewusste gemeinnützige Organisation ernst. Transparenz ist uns wichtig. Deshalb haben wir uns der Initiative Transparente Zivilgesellschaft angeschlossen. Wir haben uns in diesem Rahmen verpflichtet, die nachstehenden Informationen der Öffentlichkeit auf unserer Webseite zur Verfügung zu stellen und regelmäßig zu updaten.</p>
                 </div>
             </div>
         </section>
