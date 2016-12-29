@@ -124,7 +124,23 @@
                     Aktuelle Situation
                     </h1>
                     <hr class="wide">
-                    <p>2016 sind 5000 Menschen, bei dem Versuch Europa über das Mittelmeer zu erreichen gestorben.
+                    <p>2016 sind 5000 Menschen, bei dem Versuch Europa über das Mittelmeer zu erreichen gestorben.</p>
+                </div>
+            </div>
+        </section>
+        <section class="white" id="ideals">
+            <div class="container">
+                <div class="text-box">
+                    <h1>
+                    _(ideals_title)
+                    </h1>
+                    <hr class="wide">
+                    _(ideals_iuv_title)
+                    _(ideals_iuv_text)
+                    _(ideals_iuv_link)
+                    _(ideals_proposals_title)
+                    _(ideals_proposals_text)
+                    _(ideals_actions)
                 </div>
             </div>
         </section>
