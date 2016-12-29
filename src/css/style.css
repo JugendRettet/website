@@ -479,14 +479,13 @@ div.fakeh1 p {
 	margin-top: 0.83em;
 }
 h2 {
-	/*border-left:solid;*/
-	/*padding-left:2ch;*/
-	border-top: solid;
-  padding: 2ch;
+	padding: 2ch;
 	text-transform: uppercase;
 	margin-top: 1.4em;
-	/*background: rgb(141, 160, 169);
-  color: white;*/
+}
+div.box-dark h2 {
+	color: inherit;
+	padding-top: 0;
 }
 h1, h2 {
 	color: #286482;
