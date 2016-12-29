@@ -5,7 +5,7 @@ function page_header {
 <html lang="'"${TR_LANG}"'">
 <head>
 	<meta charset="utf-8" />
-	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" />
+	<meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta name="description" content="'"${TR_DESCRIPTION}"'" />
     <meta name="author" content="'"${TR_TITLE}"'" />
     <meta property="og:title" content="'"${WSH_GENF_TITLE}"'" />
