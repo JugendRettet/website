@@ -9,6 +9,11 @@
 
 <a href="#intro" class="introlink">
   <section id="header" class="scroll-section">
+    <div class="hidden">
+
+_(header_title)
+
+    </div>
     <div id="center">
 
 _(logo)
