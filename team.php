@@ -126,6 +126,7 @@
 <li>Erkrath: <a href="mailto:AnnaB@jugendrettet.org">Anna</a></li>
 <li>Erlangen: <a href="mailto:Felix_Erlangen@jugendrettet.org">Felix</a></li>
 <li>Frankfurt: <a href="mailto:Markus_Frankfurt@jugendrettet.org">Markus</a></li>
+<li>Friedrichshafen: <a href="mailto:Zoe_Friedrichshafen@jugendrettet.org">Zoe</a></li>
 <li>Fürth: <a href="mailto:Maria_Fuerth@jugendrettet.org">Maria</a></li>
 <li>Göteborg: <a href="mailto:Jana_Goeteborg@jugendrettet.org">Jana</a></li>
 <li>Göteborg: <a href="mailto:Solveij_Goeteborg@jugendrettet.org">Solveij</a></li>
@@ -133,6 +134,7 @@
 <li>Hamburg: <a href="mailto:Marie_Hamburg@jugendrettet.org">Marie</a></li>
 <li>Hannover: <a href="mailto:Misheel@jugendrettet.org">Micheel</a></li>
 <li>Hannover: <a href="mailto:David_Hannover@jugendrettet.org">David</a></li>
+<li>Hannover: <a href="mailto:Aram_Hannover@jugendrettet.org">Aram</a></li>
 <li>Heidelberg: <a href="mailto:Franziska_Heidelberg@jugendrettet.org">Franziska</a></li>
 <li>Heidelberg: <a href="mailto:Nele_Heidelberg@jugendrettet.org">Nele</a></li>
 <li>Jever: <a href="mailto:Evke_Jever@jugendrettet.org">Evke</a></li>
@@ -150,12 +152,12 @@
 <li>London: <a href="mailto:LenaG@jugendrettet.org">Lena</a></li>
 <li>Lüneburg: <a href="mailto:Alex@jugendrettet.org">Alex</a></li>
 <li>Mainz: <a href="mailto:Christian_Mainz@jugendrettet.org">Christian</a></li>
-<li>München: <a href="mailto:Lioba@jugendrettet.org">Lioba</a></li>
 <li>München: <a href="mailto:Lisa@jugendrettet.org">Lisa</a></li>
 <li>Münster: <a href="mailto:Paul_Muenster@jugendrettet.org">Paul</a></li>
 <li>Nürnberg: <a href="mailto:Jojo@jugendrettet.org">Jojo</a></li>
 <li>Oldenburg: <a href="mailto:Sabeth_Oldenburg@jugendrettet.org">Sabeth</a></li>
 <li>Oldenburg: <a href="mailto:Maxi_Oldenburg@jugendrettet.org">Maxi</a></li>
+<li>Oldenburg: <a href="mailto:Deniz_Oldenburg@jugendrettet.org">Deniz</a></li>
 <li>Osnabrück: <a href="mailto:Jascha_Osnabrueck@jugendrettet.org">Jascha</a></li>
 <li>Ostfriesland: <a href="mailto:Julia@jugendrettet.org">Julia</a></li>
 <li>Ostfriesland: <a href="mailto:Mareke@jugendrettet.org">Mareke</a></li>
