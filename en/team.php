@@ -89,6 +89,7 @@
                           <li><a href="mailto:pauline@jugendrettet.org"><b>Pauline</b></a>:  Head of Press</li>
                           <li><a href="mailto:jojo@jugendrettet.org"><b>Jojo</b></a>:  Public Relations, Press, Content, Coordination of Ambassadors</li>
                           <li><a href="mailto:isa@jugendrettet.org"><b>Isabel</b></a>:  Public Relations, Press, Coordination of Ambassadors</li>
+                          <li><a href="mailto:kira@jugendrettet.org"><b>Kira</b></a>:  Coordination of European Ambassadors</li>
                           <li><a href="mailto:alex@jugendrettet.org"><b>Alex</b></a>:  Technical Director, Website, Layout</li>
                           <li><a href="mailto:titus@jugendrettet.org"><b>Titus</b></a>:  Coordinator Ship</li>
                           <li><a href="mailto:matthias@jugendrettet.org"><b>Matthias</b></a>:  Research, crew</li>

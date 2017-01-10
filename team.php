@@ -88,6 +88,7 @@
                             <li><a href="mailto:pauline@jugendrettet.org"><b>Pauline</b></a>:  Leiterin Pressekontakt</li>
                             <li><a href="mailto:jojo@jugendrettet.org"><b>Jojo</b></a>:  Öffentlichkeit, Presse, Inhalte, Koordination Botschafter</li>
                             <li><a href="mailto:isa@jugendrettet.org"><b>Isabel</b></a>:  Öffentlichkeit, Presse, Koordination Botschafter</li>
+                            <li><a href="mailto:kira@jugendrettet.org"><b>Kira</b></a>:  Koordination europäischer Botschafter</li>
                             <li><a href="mailto:alex@jugendrettet.org"><b>Alex</b></a>:  Technischer Leiter, Website, Gestaltung</li>
                             <li><a href="mailto:titus@jugendrettet.org"><b>Titus</b></a>:  Koordinator Schiff</li>
                             <li><a href="mailto:matthias@jugendrettet.org"><b>Matthias</b></a>:  Recherche, Crew</li>
