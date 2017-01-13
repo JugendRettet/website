@@ -150,9 +150,11 @@
 <li>Liechtenstein: <a href="mailto:Helena@jugendrettet.org">Helena</a></li>
 <li>Limburg: <a href="mailto:Matthias_Limburg@jugendrettet.org">Matthias</a></li>
 <li>Lindau: <a href="mailto:Laura_Lindau@jugendrettet.org">Laura</a></li>
+<li>Lisbon: <a href="mailto:Helene_Lisbon@jugendrettet.org">Helene</a></li>
 <li>London: <a href="mailto:LenaG@jugendrettet.org">Lena</a></li>
 <li>Lüneburg: <a href="mailto:Alex@jugendrettet.org">Alex</a></li>
 <li>Mainz: <a href="mailto:Christian_Mainz@jugendrettet.org">Christian</a></li>
+<li>Marburg: <a href="mailto:Max_Marburg@jugendrettet.org">Max</a></li
 <li>Munich: <a href="mailto:Lisa@jugendrettet.org">Lisa</a></li>
 <li>Münster: <a href="mailto:Paul_Muenster@jugendrettet.org">Paul</a></li>
 <li>Nuremberg: <a href="mailto:Jojo@jugendrettet.org">Jojo</a></li>
@@ -168,6 +170,7 @@
 <li>Potsdam: <a href="mailto:Christoph@jugendrettet.org">Christoph</a></li>
 <li>Potsdam: <a href="mailto:Alex@jugendrettet.org">Alex</a></li>
 <li>Roma: <a href="mailto:Carla_Roma@jugendrettet.org">Carla</a></li>
+<li>Rostock: <a href="mailto:Paul_Rostock@jugendrettet.org">Paul</a></li>
 <li>Salem: <a href="mailto:David@jugendrettet.org">David</a></li>
 <li>Salem: <a href="mailto:Helena@jugendrettet.org">Helena</a></li>
 <li>Slupsk: <a href="mailto:Radek_Slupsk@jugendrettet.org">Radek</a></li>
