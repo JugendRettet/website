@@ -163,18 +163,9 @@
                         <h4><img alt="cap" class="icon" src="./graphics/cap.svg">Retter</h4>
                         <p>Du willst als Crewmitglied die Rettung auf dem Mittelmeer durchführen?</p>
                         <div class="mehr-klappe"><br>
-                            <p>Wir beginnen ab dem 15. Januar wieder mit dem Crewing und freuen uns dann über zahlreiche Bewerbungen. Bei Fragen vorab kannst du dich sofort an <a href="mailto:lena@jugendrettet.org">Lena</a> wenden.</p>
-                            <br>
-                            <p>Wir suchen Menschen mit Berufserfahrung, die sich über das hohe Risiko der Rettungsaktionen bewusst sind. Bitte frage dich selbst, ob du dir die Situation zutraust. Aufgrund der besonderen Anforderungen sind wir gezwungen die Crew sehr sorgsam auszuwählen.</p><br>
-                            <p>Wir suchen:</p>
-                            <p>- Kapitän_in</p>
-                            <p>- Steuermann_frau</p>
-                            <p>- Maschinist_in</p>
-                            <p>- Deckhands (Beiboote steuern und funken können)</p>
-                            <br>
-                            <!--<a target="_blank" href="https://docs.google.com/forms/d/1Wh6SA_DMnwk26b7JjnJ7ACe0NuB04nJAhmn5sP9gd04/viewform?c=0" class="link">Bewerbung für die Crew</a><br>-->
-                            <br>
                             <p>Setze dich bei ernsthaftem Interesse mit uns in Verbindung. Wir freuen uns über deine Bewerbung.</p>
+                            <br>
+                            <a href="/crewing">hier</a>
                         </div>
                         <a class="mehr-btn">Mehr ...</a>
                     </div>
