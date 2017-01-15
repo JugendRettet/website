@@ -79,17 +79,10 @@ div.popup-flat ul li {
             </header>
             <div class="popup-flat">
 
-<p>Du willst als Crewmitglied die Rettung auf dem Mittelmeer durchführen?</p>
-<br>
-<p>Ab März wird die Iuventa wieder vor der libyschen Küste im Einsatz sein. Um die geplanten Missionen auch wirklich erfolgreich durchführen zu können, brauchen wir Deine Hilfe!</p>
-<br>
-<p>Wir suchen Menschen mit Berufserfahrung, die sich über das hohe Risiko der Rettungsaktionen bewusst sind. Bitte frage dich selbst, ob du dir die Situation zutraust. Aufgrund der besonderen Anforderungen sind wir gezwungen die Crew sehr sorgsam auszuwählen.</p>
-<br>
 <p>Form for application: <a href="https://jugendrettet.org/crew">jugendrettet.org/crew</a></p>
 <br>
 <p>For questions write us at <a href="mailto:crew@jugendrettet.org">crew@jugendrettet.org</a>.</p>
 <br>
-<p>Da aufgrund der internationalen Zusammensetzung der Crew und des Charakters des Einsatzes Englisch unsere Bordsprache ist, findest Du die Informationen zu den verschiedenen Positionen direkt auf Englisch.</p>
 <h2 id="general-requirements-on-crew-members">GENERAL REQUIREMENTS ON CREW MEMBERS</h2>
 <ul>
 	<li>Regardless of their position within the team, crew members will interact appropriately and compromise where necessary in order to maintain positive and safe team dynamics.</li>
