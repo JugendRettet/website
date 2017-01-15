@@ -81,7 +81,7 @@ h2 {
 <br>
 <p>Wir suchen Menschen mit Berufserfahrung, die sich über das hohe Risiko der Rettungsaktionen bewusst sind. Bitte frage dich selbst, ob du dir die Situation zutraust. Aufgrund der besonderen Anforderungen sind wir gezwungen die Crew sehr sorgsam auszuwählen.</p>
 <br>
-<p>Unser Bewerbungsformular findest Du unter folgendem Link: <a href="https://jugendrettet.org/crewing">jugendrettet.org/crewing</a></p>
+<p>Unser Bewerbungsformular findest Du unter folgendem Link: <a href="https://jugendrettet.org/crew">jugendrettet.org/crew</a></p>
 <br>
 <p>Bei Fragen steht Dir unser Crewing-Department gerne unter <a href="mailto:crew@jugendrettet.org">crew@jugendrettet.org</a> zur Verfügung.</p>
 <br>
