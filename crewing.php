@@ -481,7 +481,7 @@ div.popup-flat ul li {
                             <li><a href="impressum">Impressum</a></li>
                             <li><a href="transparenz">Transparenz</a></li>
                             <li class="br"></li>
-                            <li><a href="https://en.jugendrettet.org/team">en</a></li>
+                            <li><a href="https://en.jugendrettet.org/crewing">en</a></li>
                         </ul>
                     </nav>
                 </footer>
