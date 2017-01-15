@@ -40,6 +40,9 @@ h2 {
     font-size: 23pt;
     margin: 10px 0;
 }
+div.popup-flat ul li {
+	list-style: initial;
+}
 </style>
     </head>
 
