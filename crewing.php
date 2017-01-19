@@ -94,17 +94,17 @@ div.popup-flat ul li {
 	<li>Regardless of their position within the team, crew members will interact appropriately and compromise where necessary in order to maintain positive and safe team dynamics.</li>
 	<li>All crew members are encouraged and required to question and challenge their own performance in order to continuously improve their performance both individually and as a team during operations.</li>
 	<li>Acute stressors can impact on individuals as well as the team, potentially impeding on performance levels. In order to not compromise operational safety, individual crew members are required to reflect on personal stress levels, identify ways of dealing with stress and seek support if necessary.</li>
-	<li>Since the crews are usually composed of people from various countries, a good English proficency is required in order to communicate effectively within the crew. Also the communication with the other organisations is done in English.</li>
+	<li>Since the crews are usually composed of people from various countries, a good English proficiency is required in order to communicate effectively within the crew. Also the communication with the other organisations is done in English.</li>
 	<li>For all crew members it is essential to work well in a team environment.</li>
 </ul>
 <h2 id="positions-aboard-the-iuventa">POSITIONS ABOARD THE IUVENTA</h2>
 <p>The crew aboard the Iuventa consists of between 14 and 16 people that fill a range of nautical and SAR specific positions as well as media.</p>
-<h2 id="nautical-positions">NAUTICAL POSITIONS</h2>
+<h2 id="nautical-positions">Nautical positions / regular ship's operation</h2>
 <p>- master | chief mate | 2nd mate | chief engineer | 2nd engineer | electrician | bosun -</p>
 <h3 id="master">MASTER</h3>
 <ul>
 	<li>has the overview, responsibility and control of the vessel and crew safety; directs both in accordance to maintain same</li>
-	<li>is responsible for all nautical and technical decisions concerning the operation as well as related crew intructions</li>
+	<li>is responsible for all nautical and technical decisions concerning the operation as well as related crew instructions</li>
 	<li>double checks Head of Mission's decisions against crew and boat safety, intervenes where necessary</li>
 	<li>takes general care of the boat maintenance. Informs mechanical engineer and chief mate of technical faults that occurred  and ensures they get attended to.</li>
 	<li>responsible for the ship's administration (bunkering, crew-lists, customs clearance, coordination of repairs, detailed operational documentation, daily reports and statistics).</li>
@@ -112,12 +112,11 @@ div.popup-flat ul li {
 	<li>communicates with external parties, such as other ships in vicinity and IMRCC Rome (Italian Maritime Rescue Coordination Centre).</li>
 	<li>Coordinates and communicates with the Iuventa RIBS on scene.</li>
 	<li>one of typically three navigators</li>
-	<li>Participates in watchkeeping</li>
+	<li>Participates in watch keeping</li>
 </ul>
 <h4 id="profile">Profile</h4>
 <ul>
-	<li>Has a Nautical Patent and GMO or valid equivalent</li>
-	<li>fluent English language skills</li>
+	<li>Has a Nautical Licence or valid equivalent</li>
 	<li>has strong leadership skills and the ability to cooperate well within a team</li>
 	<li>confident in decision-making</li>
 	<li>has ideally previously joined a rescue mission on the Iuventa as Chief Mate</li>
@@ -145,7 +144,7 @@ div.popup-flat ul li {
 	<li>one of three navigators and watch keeper of one of the 3 shifts</li>
 	<li>Completes general deckhand duties as required during SAR operations, i.e. launching RIBS, look-out, embarking people on the ship, giving out food and water to guests, assisting the medical team, clean up</li>
 	<li>Responsible for general operation of the ship including:</li>
-	<li>handling the mouring-lines during berthing and unberthing</li>
+	<li>handling the mooring lines during berthing and unberthing</li>
 	<li>performing lookout at sea</li>
 	<li>completing and assisting with maintenance jobs.</li>
 </ul>
@@ -163,7 +162,7 @@ div.popup-flat ul li {
 	<li>while off shore informs on-shore field coordination of technical repairs which have to be completed during crew change.</li>
 	<li>Completes general deckhand duties as required during SAR operations, i.e. launching RIBS, look-out, embarking people on the ship, giving out food and water to guests, assisting the medical team, clean up</li>
 	<li>Responsible for general operation of the ship including:</li>
-	<li>handling the mouring-lines</li>
+	<li>handling the mouring lines</li>
 	<li>performing lookout at sea</li>
 	<li>Night watch in collaboration with one of 3 navigators</li>
 </ul>
@@ -179,7 +178,7 @@ div.popup-flat ul li {
 	<li>Assists the chief engineer to operate the crane and anchor winches</li>
 	<li>Completes general deckhand duties as required during SAR operations, i.e. launching RIBS, look-out, embarking people on the ship, giving out food and water to guests, assisting the medical team, clean up</li>
 	<li>Responsible for general operation of the ship including:</li>
-	<li>handling the mouring-lines during berthing and unberthing</li>
+	<li>handling the mooring lines during berthing and unberthing</li>
 	<li>performing lookout at sea</li>
 	<li>completing and assisting with maintenance jobs</li>
 	<li>Night watch in collaboration with one of 3 navigators</li>
@@ -189,7 +188,7 @@ div.popup-flat ul li {
 	<li>Engineering experience essential; ideally has a professional engineering qualification</li>
 	<li>Ideally has engineering experience on board of ships</li>
 	<li>Good working knowledge and experience of standard safety equipment for ships</li>
-	<li>fluent English language skills</li>
+	
 	<li>works well within a team environment</li>
 </ul>
 <h3 id="electrician">ELECTRICIAN</h3>
@@ -199,7 +198,7 @@ div.popup-flat ul li {
 	<li>supports the chief and 2nd engineer as required</li>
 	<li>Completes general deckhand duties as required during SAR operations, i.e. launching RIBS, look-out, embarking people on the ship, giving out food and water to guests, assisting the medical team, clean up</li>
 	<li>Responsible for general operation of the ship including:</li>
-	<li>handling the mouring-lines during berthing and unberthing</li>
+	<li>handling the mooring lines during berthing and unberthing</li>
 	<li>performing lookout at sea</li>
 	<li>completing and assisting with maintenance jobs.</li>
 	<li>Night watch in collaboration with one of 3 navigators</li>
@@ -212,7 +211,7 @@ div.popup-flat ul li {
 	<li>Works in close collaboration with Chief Mate</li>
 	<li>Completes general deckhand duties as required during SAR operations, i.e. launching RIBS, look-out, embarking people on the ship, giving out food and water to guests, assisting the medical team, clean up</li>
 	<li>Responsible for general operation of the ship including:</li>
-	<li>handling the mouring-lines during berthing and unberthing</li>
+	<li>handling the mooring lines during berthing and unberthing</li>
 	<li>performing lookout at sea</li>
 	<li>Night watch in collaboration with one of 3 navigators</li>
 </ul>
@@ -220,7 +219,7 @@ div.popup-flat ul li {
 <ul>
 	<li>Experience at sea with basic seamanship knowledge</li>
 	<li>good handy*wo*man-skills</li>
-	<li>fluent English language skills</li>
+	
 	<li>works well within a team environment</li>
 </ul>
 <h2 id="sar-positions">SAR POSITIONS</h2>
@@ -255,14 +254,14 @@ div.popup-flat ul li {
 	<li>confident in decision-making</li>
 	<li>has ideally previously joined a rescue mission on the Iuventa</li>
 </ul>
-<h3 id="deckmanager">DECKMANAGER</h3>
+<h3 id="deck manager">DECK MANAGER</h3>
 <ul>
 	<li>has the overview and control of the deck related work during SAR operations (safty of all people on deck, ensures that all the equipment is always ready to use)</li>
 	<li>directing work process as per specification of the HoM/ Master</li>
 	<li>responsible for implementing safe crowd-management</li>
 	<li>responsible for the flow of information between deck crew and all other departments</li>
 	<li>Responsible for general operation of the ship including:</li>
-	<li>handling the mouring-lines during berthing and unberthing</li>
+	<li>handling the mooring lines during berthing and unberthing</li>
 	<li>performing lookout at sea</li>
 	<li>completing and assisting with maintenance jobs.</li>
 	<li>Night watch in collaboration with one of 3 navigators</li>
@@ -284,7 +283,7 @@ div.popup-flat ul li {
 	<li>informs mechanical engineer of technical faults that occurred and ensures they get attended to</li>
 	<li>arranges fuel to be filled up when required</li>
 	<li>Also responsible for general operation of the ship including:</li>
-	<li>handling the mouring-lines during berthing and unberthing</li>
+	<li>handling the mooring lines during berthing and unberthing</li>
 	<li>performing lookout at sea</li>
 	<li>completing and assisting with maintenance jobs.</li>
 </ul>
@@ -310,7 +309,7 @@ div.popup-flat ul li {
 	<li>conducts first aid treatment where medically indicated</li>
 	<li>aboard Iuventa the Team Leader ensures equipment and PPE is maintained well and at its place.</li>
 	<li>Also responsible for general operation of the ship including:</li>
-	<li>handling the mouring-lines during berthing and unberthing</li>
+	<li>handling the mooring lines during berthing and unberthing</li>
 	<li>performing lookout at sea</li>
 	<li>completing and assisting with maintenance jobs.</li>
 </ul>
@@ -334,13 +333,13 @@ div.popup-flat ul li {
 	<li>Assists team leader to perform medical treatment as required</li>
 	<li>Supports and secures other crew members as required</li>
 	<li>Also responsible for general operation of the ship including:</li>
-	<li>handling the mouring-lines during berthing and unberthing</li>
+	<li>handling the mooring lines during berthing and unberthing</li>
 	<li>performing lookout at sea</li>
 	<li>completing and assisting with maintenance jobs.</li>
 </ul>
 <h4 id="profile">PROFILE</h4>
 <ul>
-	<li>fluent English language skills</li>
+	
 	<li>ideally speaks French and/or Arabic</li>
 	<li>remains calm in stressful situations</li>
 	<li>assertive personality</li>
@@ -358,7 +357,7 @@ div.popup-flat ul li {
 	<li>arranges fuel to be filled up when required</li>
 	<li>Also completes general deckhand duties as required during SAR operations, i.e. launching RIBS, look-out, embarking people on the ship, giving out food and water to guests, assisting the medical team, clean up</li>
 	<li>Responsible for general operation of the ship including:</li>
-	<li>handling the mouring-lines during berthing and unberthing</li>
+	<li>handling the mooring lines during berthing and unberthing</li>
 	<li>performing lookout at sea</li>
 	<li>completing and assisting with maintenance jobs.</li>
 </ul>
@@ -369,7 +368,7 @@ div.popup-flat ul li {
 	<li>excellent slow handling skills essential</li>
 	<li>Ideally has previous SAR experience</li>
 	<li>remains calm in stressful situations</li>
-	<li>fluent English language skills</li>
+	
 	<li>team player</li>
 </ul>
 <h3 id="lilli-–-team-leader">LILLI – TEAM LEADER</h3>
@@ -382,7 +381,7 @@ div.popup-flat ul li {
 	<li>aboard Iuventa the Team Leader ensures equipment and PPE is maintained well and at its place.</li>
 	<li>Also completes general deckhand duties as required during SAR operations, i.e. launching RIBS, look-out, embarking people on the ship, giving out food and water to guests, assisting the medical team, clean up</li>
 	<li>Responsible for general operation of the ship including:</li>
-	<li>handling the mouring-lines during berthing and unberthing</li>
+	<li>handling the mooring lines during berthing and unberthing</li>
 	<li>performing lookout at sea</li>
 	<li>completing and assisting with maintenance jobs.</li>
 </ul>
@@ -390,7 +389,7 @@ div.popup-flat ul li {
 <ul>
 	<li>Ideally experienced in SAR operations</li>
 	<li>is able to safely operate Lilli if required</li>
-	<li>fluent English language skills</li>
+	
 	<li>ideally speaks French and/or Arabic</li>
 	<li>remains calm in stressful situations</li>
 	<li>good team player</li>
@@ -411,25 +410,25 @@ div.popup-flat ul li {
 	<li>Documents usage of medical resources and communicates with on-shore field-coordination to arrange restocking of hospital equipment and medication</li>
 	<li>Also required to complete general deckhand duties as required during SAR operations, i.e. launching RIBS, look-out, embarking people on the ship, giving out food and water to guests, clean up</li>
 	<li>Responsible for general operation of the ship including:</li>
-	<li>handling the mouring-lines during berthing and unberthing</li>
+	<li>handling the mooring lines during berthing and unberthing</li>
 	<li>performing lookout at sea</li>
 	<li>completing and assisting with maintenance jobs.</li>
 </ul>
 <h4 id="profile">PROFILE</h4>
 <ul>
-	<li>Relevant and current medical practising certificate</li>
+	<li>Relevant and current medical practicing certificate</li>
 	<li>Experience in handling complex emergency situations (i.e. mass-casualty incidents) essential</li>
 	<li>Ideally has experience in working in A&amp;E</li>
 	<li>familiar with treating children and pregnant women</li>
 	<li>team management experience</li>
-	<li>fluent English language skills</li>
+	
 	<li>The cooperation-partner Rainbow4Africa is in charge of all medical aspects including the crewing. We will forward your application.</li>
 </ul>
 <h3 id="medic">MEDIC</h3>
 <ul>
 	<li>responsible for assisting the doctor in the medical assessment and treatment of refugees as well as Iuventa crew</li>
 	<li>responsible for administration of medication in collaboration with the doctor</li>
-	<li>works in close collaboration with the doctor, deckmanager and HOM</li>
+	<li>works in close collaboration with the doctor, deck manager and HOM</li>
 	<li>instructs assisting deck crew as required</li>
 	<li>performs Triage during embarkation of refugees</li>
 	<li>Responsible to instruct crew on and facilitate patient transfer (i.e. RIB to Iuventa)</li>
@@ -440,18 +439,18 @@ div.popup-flat ul li {
 	<li>Documents usage of medical resources and communicates with on-shore field-coordination to arrange restocking of hospital equipment and medication</li>
 	<li>Also required to complete general deckhand duties as required during SAR operations, i.e. launching RIBS, look-out, embarking people on the ship, giving out food and water to guests, clean up</li>
 	<li>Responsible for general operation of the ship including:</li>
-	<li>handling the mouring-lines during berthing and unberthing</li>
+	<li>handling the mooring lines during berthing and unberthing</li>
 	<li>performing lookout at sea</li>
 	<li>completing and assisting with maintenance jobs.</li>
 </ul>
 <h4 id="profile">PROFILE</h4>
 <ul>
-	<li>Relevant and current medical practising certificate</li>
+	<li>Relevant and current medical practicing certificate</li>
 	<li>Paramedic or nurse with ICU and/or A&amp;E experience</li>
 	<li>Ideally has experience in handling complex emergency situations (i.e. mass-casualty incidents)</li>
 	<li>ideally familiar with treating children and pregnant women</li>
 	<li>good team player as well as basic leadership skills</li>
-	<li>fluent English language skills</li>
+	
 	<li>The cooperation-partner Rainbow4Africa is in charge of all medical aspects including the crewing. We will forward your application.</li>
 </ul>
 <h3 id="press">PRESS</h3>
@@ -462,7 +461,7 @@ div.popup-flat ul li {
 </ul>
 <h4 id="profile">PROFILE</h4>
 <ul>
-	<li>Fluent English language skills</li>
+	
 	<li>functions well in a team environment</li>
 	<li>respects crew privacy</li>
 </ul>
