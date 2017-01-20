@@ -122,7 +122,6 @@
 <li>Dresden: <a href="mailto:Charlotte@jugendrettet.org">Charlotte</a></li>
 <li>Duisburg: <a href="mailto:Jana@jugendrettet.org">Jana</a></li>
 <li>Emden: <a href="mailto:Patrick_Emden@jugendrettet.org">Patrick</a></li>
-<li>Emsland: <a href="mailto:Jannik@jugendrettet.org">Jannik</a></li>
 <li>Emsland: <a href="mailto:MaxB@jugendrettet.org">Max</a></li>
 <li>Engstingen: <a href="mailto:Aron_Engstingen@jugendrettet.org">Aron</a></li>
 <li>Engstingen: <a href="mailto:Jeremias_Engstingen@jugendrettet.org">Jeremias</a></li>
@@ -143,6 +142,7 @@
 <li>Heidelberg: <a href="mailto:Nele_Heidelberg@jugendrettet.org">Nele</a></li>
 <li>Jever: <a href="mailto:Evke_Jever@jugendrettet.org">Evke</a></li>
 <li>Kassel: <a href="mailto:Leif_Kassel@jugendrettet.org">Leif</a></li>
+<li>Kassel: <a href="mailto:Anna_Kassel@jugendrettet.org">Anna</a></li>
 <li>Konstanz: <a href="mailto:Luisa_Konstanz@jugendrettet.org">Luisa</a></li>
 <li>Konstanz: <a href="mailto:Semmi_Konstanz@jugendrettet.org">Semmi</a></li>
 <li>Leipzig: <a href="mailto:Geronimo_Leipzig@jugendrettet.org">Geronimo</a></li>
@@ -165,6 +165,7 @@
 <li>Ostfriesland: <a href="mailto:Julia@jugendrettet.org">Julia</a></li>
 <li>Ostfriesland: <a href="mailto:Mareke@jugendrettet.org">Mareke</a></li>
 <li>Ostfriesland: <a href="mailto:Jana_Ostfriesland@jugendrettet.org">Jana</a></li>
+<li>Paris: <a href="mailto:Anna_Paris@jugendrettet.org">Anna</a></li>
 <li>Paderborn: <a href="mailto:Paderborn@jugendrettet.org">Wiebke</a></li>
 <li>Passau: <a href="mailto:Ben_Passau@jugendrettet.org">Ben</a></li>
 <li>Potsdam: <a href="mailto:Christoph@jugendrettet.org">Christoph</a></li>
