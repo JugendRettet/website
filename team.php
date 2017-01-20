@@ -103,7 +103,7 @@
                     </div>
                     <div class="column">
                         <h4>Botschaften</h4>
-                        <iframe style="margin:20px 0 0;width:100%;height:420px" frameborder="0" src="https://a.tiles.mapbox.com/v4/leonvogler.nd99673k/attribution,zoompan,zoomwheel,share.html?access_token=pk.eyJ1IjoibGVvbnZvZ2xlciIsImEiOiI0MTI2MDcxMzk2MWI2NDczYzRjNzY5OWI4ZmRmODUyYiJ9.Bys3jr3YtztwTuGQ30NLug"></iframe>
+                        <iframe style="margin:20px 0 0" src="https://www.google.com/maps/d/u/0/embed?mid=1MPGOL2_dmS64Tq5BfVtV7KuU5UY" width="100%" height="420px"></iframe>
                         <ul>
 <li>Barcelona: <a href="mailto:Leo@jugendrettet.org">Leo</a></li>
 <li>Basel: <a href="mailto:Angelica_Basel@jugendrettet.org">Angelica</a></li>
