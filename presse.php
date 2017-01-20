@@ -70,16 +70,14 @@
                     <div class="column">
                     <h3>Presse</h3>
 
-                        <p>Pauline</p>
-                        <p>Leiterin Pressekontakt Jugend Rettet</p>
-                        <p>Postfach 36 03 55 D- 10973 Berlin</p>
-                        <p>Mail: <a href="mailto:Pauline@jugendrettet.org">Pauline@jugendrettet.org</a></p>
-                        <p>Fon: <a href="tel:+491778333911">+49 177 8333911</a></p>
-                        <br>
-                        <p>&#8594; <a href="./files/Pressemappe_JR.pdf">Pressemappe (aktualisiert 02.12.16)</a></p>
-                        <br>
-                        <!--<p>&#8594; <a href="./files/presse.vcf">Kontakt speichern</a> oder scannen:</p>
-                        <a href="./files/presse_qr.png" target="_blank"><img alt="qr" class="news" src='./files/presse_qr.png'></a>-->
+<p>Isabel Grahn &amp; Pauline Schmidt</p>
+<p>Leitung Pressestelle Jugend Rettet e.V.</p>
+<br>
+<p>Postfach 36 03 55</p>
+<p>D- 10973 Berlin</p>
+
+<p>Mail: <a href="mailto:press@jugendrettet.org">press@jugendrettet.org</a></p>
+
                     </div>
                 </div>
             </div>
