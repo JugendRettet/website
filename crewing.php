@@ -110,8 +110,11 @@ h3 {
 </ul>
 <h2 id="positions-aboard-the-iuventa">POSITIONS ABOARD THE IUVENTA</h2>
 <p>The crew aboard the Iuventa consists of between 14 and 16 people that fill a range of nautical and SAR specific positions as well as <a href="#press">media</a>.</p>
-<h2 id="nautical-positions">Nautical positions / regular ship's operation</h2>
+<h3 id="nautical-positions2">Nautical positions / regular ship's operation</h2>
 <p>- <a href="#master">master</a> | <a href="#chief-mate">chief mate</a> | <a href="#2nd-mate">2nd mate</a> | <a href="#chief-engineer">chief engineer</a> | <a href="#2nd-engineer">2nd engineer</a> | <a href="#electrician">electrician</a> | <a href="#bosun">bosun</a> -</p>
+<h3 id="sar-positions2">SAR POSITIONS</h2>
+<p>- <a href="#head-of-mission">HOM</a> | <a href="#deck-manager">Deck manager</a> | <a href="#rib-–-driver">RIB Driver</a> | <a href="#rib---team-leader">RIB Leader</a> | <a href="#rib-–-mediator-/-contact-person">RIB Mediator</a> | <a href="#lilli-–-driver">Lilli driver</a> | <a href="#lilli-–-team-leader">Lilli Leader</a> | <a href="#doctor">Doctor</a> | <a href="#medic">Medic</a> -</p>
+<h2 id="nautical-positions">Nautical positions / regular ship's operation</h2>
 <h3 id="master">MASTER</h3>
 <ul>
 	<li>has the overview, responsibility and control of the vessel and crew safety; directs both in accordance to maintain same</li>
@@ -244,7 +247,6 @@ h3 {
 	<li>works well within a team environment</li>
 </ul>
 <h2 id="sar-positions">SAR POSITIONS</h2>
-<p>- <a href="#head-of-mission">HOM</a> | <a href="#deck-manager">Deck manager</a> | <a href="#rib-–-driver">RIB Driver</a> | <a href="#rib---team-leader">RIB Leader</a> | <a href="#rib-–-mediator-/-contact-person">RIB Mediator</a> | <a href="#lilli-–-driver">Lilli driver</a> | <a href="#lilli-–-team-leader">Lilli Leader</a> | <a href="#doctor">Doctor</a> | <a href="#medic">Medic</a> -</p>
 <h3 id="head-of-mission">HEAD OF MISSION</h3>
 <ul>
 	<li>involved in the preparation and follow-up of the mission</li>
