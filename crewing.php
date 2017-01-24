@@ -54,6 +54,7 @@ h3 {
 	font-size: 18pt;
 }
 </style>
+<script type="text/javascript" src="./js/smoothscroll.js"></script>
     </head>
 
     <body>
