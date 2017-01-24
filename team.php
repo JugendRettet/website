@@ -120,6 +120,7 @@
 <li>Duisburg: <a href="mailto:Jana@jugendrettet.org">Jana</a></li>
 <li>Emden: <a href="mailto:Patrick_Emden@jugendrettet.org">Patrick</a></li>
 <li>Emsland: <a href="mailto:MaxB@jugendrettet.org">Max</a></li>
+<li>Emsland: <a href="mailto:Jannik_Emsland@jugendrettet.org">Jannik</a></li>
 <li>Engstingen: <a href="mailto:Aron_Engstingen@jugendrettet.org">Aron</a></li>
 <li>Engstingen: <a href="mailto:Jeremias_Engstingen@jugendrettet.org">Jeremias</a></li>
 <li>Erfurt: <a href="mailto:Manuel_Weimar@jugendrettet.org">Manuel</a></li>
@@ -179,7 +180,6 @@
 <li>Überlingen: <a href="mailto:Johnny_Ueberlingen@jugendrettet.org">Johnny</a></li>
 <li>Warszawa: <a href="mailto:Marcin_Warszawa@jugendrettet.org">Marcin</a></li>
 <li>Weimar: <a href="mailto:Manuel_Weimar@jugendrettet.org">Manuel</a></li>
-<li>Wien: <a href="mailto:AnnKatrin_Wien@jugendrettet.org">Ann-Katrin</a></li>
 <li>Wuppertal: <a href="mailto:Natalie_Wuppertal@jugendrettet.org">Natalie</a></li>
 <li>Zürich: <a href="mailto:Adrian_Zuerich@jugendrettet.org">Adrian</a></li>
                         </ul>
