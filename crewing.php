@@ -43,6 +43,16 @@ h2 {
 div.popup-flat ul li {
 	list-style: initial;
 }
+div.popup-flat a {
+	font-weight: bold;
+	border-bottom: solid thin;
+}
+h2, h3 {
+    margin-top: 1em;
+}
+h3 {
+	font-size: 18pt;
+}
 </style>
     </head>
 
@@ -98,9 +108,9 @@ div.popup-flat ul li {
 	<li>For all crew members it is essential to work well in a team environment.</li>
 </ul>
 <h2 id="positions-aboard-the-iuventa">POSITIONS ABOARD THE IUVENTA</h2>
-<p>The crew aboard the Iuventa consists of between 14 and 16 people that fill a range of nautical and SAR specific positions as well as media.</p>
+<p>The crew aboard the Iuventa consists of between 14 and 16 people that fill a range of nautical and SAR specific positions as well as <a href="#press">media</a>.</p>
 <h2 id="nautical-positions">Nautical positions / regular ship's operation</h2>
-<p>- master | chief mate | 2nd mate | chief engineer | 2nd engineer | electrician | bosun -</p>
+<p>- <a href="#master">master</a> | <a href="#chief-mate">chief mate</a> | <a href="#2nd-mate">2nd mate</a> | <a href="#chief-engineer">chief engineer</a> | <a href="#2nd-engineer">2nd engineer</a> | <a href="#electrician">electrician</a> | <a href="#bosun">bosun</a> -</p>
 <h3 id="master">MASTER</h3>
 <ul>
 	<li>has the overview, responsibility and control of the vessel and crew safety; directs both in accordance to maintain same</li>
@@ -215,6 +225,16 @@ div.popup-flat ul li {
 	<li>performing lookout at sea</li>
 	<li>Night watch in collaboration with one of 3 navigators</li>
 </ul>
+<h3 id="bosun">BOSUN</h3>
+<ul>
+	<li>Responsible to take care of maintenance jobs (i.e. deck painting, woodworks etc.); instructs deck crew as required</li>
+	<li>Works in close collaboration with Chief Mate</li>
+	<li>Completes general deckhand duties as required during SAR operations, i.e. launching RIBS, look-out, embarking people on the ship, giving out food and water to guests, assisting the medical team, clean up</li>
+	<li>Responsible for general operation of the ship including:</li>
+	<li>handling the mooring lines during berthing and unberthing</li>
+	<li>performing lookout at sea</li>
+	<li>Night watch in collaboration with one of 3 navigators</li>
+</ul>
 <h4 id="profile">PROFILE</h4>
 <ul>
 	<li>Experience at sea with basic seamanship knowledge</li>
@@ -223,7 +243,7 @@ div.popup-flat ul li {
 	<li>works well within a team environment</li>
 </ul>
 <h2 id="sar-positions">SAR POSITIONS</h2>
-<p>- HOM | Deckmanager | RIB Driver | RIB Leader | RIB Mediator | Lilli driver | Lilli Leader | Doctor | Medic -</p>
+<p>- <a href="#head-of-mission">HOM</a> | <a href="#deck-manager">Deck manager</a> | <a href="#rib-–-driver">RIB Driver</a> | <a href="#rib---team-leader">RIB Leader</a> | <a href="#rib-–-mediator-/-contact-person">RIB Mediator</a> | <a href="#lilli-–-driver">Lilli driver</a> | <a href="#lilli-–-team-leader">Lilli Leader</a> | <a href="#doctor">Doctor</a> | <a href="#medic">Medic</a> -</p>
 <h3 id="head-of-mission">HEAD OF MISSION</h3>
 <ul>
 	<li>involved in the preparation and follow-up of the mission</li>
@@ -254,7 +274,7 @@ div.popup-flat ul li {
 	<li>confident in decision-making</li>
 	<li>has ideally previously joined a rescue mission on the Iuventa</li>
 </ul>
-<h3 id="deck manager">DECK MANAGER</h3>
+<h3 id="deck-manager">DECK MANAGER</h3>
 <ul>
 	<li>has the overview and control of the deck related work during SAR operations (safty of all people on deck, ensures that all the equipment is always ready to use)</li>
 	<li>directing work process as per specification of the HoM/ Master</li>
