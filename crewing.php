@@ -113,7 +113,7 @@ h3 {
 <h3 id="nautical-positions2">Nautical positions / regular ship's operation</h2>
 <p>- <a href="#master">master</a> | <a href="#chief-mate">chief mate</a> | <a href="#2nd-mate">2nd mate</a> | <a href="#chief-engineer">chief engineer</a> | <a href="#2nd-engineer">2nd engineer</a> | <a href="#electrician">electrician</a> | <a href="#bosun">bosun</a> -</p>
 <h3 id="sar-positions2">SAR POSITIONS</h2>
-<p>- <a href="#head-of-mission">HOM</a> | <a href="#deck-manager">Deck manager</a> | <a href="#rib-–-driver">RIB Driver</a> | <a href="#rib---team-leader">RIB Leader</a> | <a href="#rib-–-mediator-/-contact-person">RIB Mediator</a> | <a href="#lilli-–-driver">Lilli driver</a> | <a href="#lilli-–-team-leader">Lilli Leader</a> | <a href="#doctor">Doctor</a> | <a href="#medic">Medic</a> -</p>
+<p>- <a href="#head-of-mission">HOM</a> | <a href="#deck-manager">Deck manager</a> | <a href="#rib-–-driver">RIB Driver</a> | <a href="#rib---team-leader">RIB Leader</a> | <a href="#rib-mediator">RIB Mediator</a> | <a href="#lilli-–-driver">Lilli driver</a> | <a href="#lilli-–-team-leader">Lilli Leader</a> | <a href="#doctor">Doctor</a> | <a href="#medic">Medic</a> -</p>
 <h2 id="nautical-positions">Nautical positions / regular ship's operation</h2>
 <h3 id="master">MASTER</h3>
 <ul>
@@ -345,7 +345,7 @@ h3 {
 	<li>able to coordinate a team effectively especially in stressful situations</li>
 	<li>first aid medical training essential, ideally with medical qualification</li>
 </ul>
-<h3 id="rib-–-mediator-/-contact-person">RIB – MEDIATOR / contact person</h3>
+<h3 id="rib-mediator">RIB – MEDIATOR / contact person</h3>
 <ul>
 	<li>Establishes initial contact with refugees, collects relevant information and maintains conversation with the people in distress</li>
 	<li>Passes on relevant information to team leader</li>
