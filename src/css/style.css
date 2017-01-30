@@ -225,6 +225,10 @@ div.hor-el {
   min-width: 100px;
   margin-bottom: 1em;
   /*border: thin solid white;*/
+	background-color: rgba(40, 100, 130, 0.12);
+height: 100%;
+border-radius: 5px;
+margin: 0 5px 0 0;
 }
 div.hor-overflow {
 	max-height: 500px;
@@ -276,6 +280,8 @@ div.hidden {
 	max-width: 95%;
 	margin-left: auto;
 	margin-right: auto;
+	height: 30vh;
+	max-height: 240px;
 }
 /* end classes */
 /* structure */
