@@ -679,12 +679,16 @@ video::-webkit-media-controls-start-playback-button {
 /* IMAGES */
 .child#botschafter {
     background-position: 50% 0%;
+    background-image: url(https://scontent.xx.fbcdn.net/v/t31.0-8/15895517_595659607309943_9031045534467759141_o.jpg?_nc_eui2=v1%3AAeFP_cpsxBTYPVHXLQz2YElLF-psIXCbr_b7_ib26MNOyMotDRDU_6mKqDXCr13eroKWG60I_qCTjJ6FszIhd-vJGeWQqPkrHJ8hiN68N67VEg&oh=266d06f66a51289d472acafa2b39f989&oe=5922E24B);
+}
+.child#botschafter-sein {
+    background-position: 50% 0%;
     background-image: url(http://www.leonvogler.de/jugendrettet/images/tau.jpg);
 }
 
 .child#sponsor-sein {
     background-position: 50% 50%;
-    background-image: url(http://www.jugendrettet.org/images/06-2016/andeck.jpg);
+    background-image: url(https://u.jimcdn.com/e/o/s9f771b40404278df/userlayout/img/bg.jpg?t=1440152220);
 }
 
 .child#freiwilliger-sein {
