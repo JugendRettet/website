@@ -217,6 +217,76 @@ div.box-pic-s {
   background-position: center;
   background-image: url(/images/page/IUVENTA1.jpg);
 }
+
+
+
+.horizontal-menu {
+    margin: 0 auto;
+    display: block;
+    height: 30%;
+    max-height: 240px;
+    min-width: 1010px;
+}
+
+.horizontal-menu:hover .child,
+.child.down,
+.horizontal-menu .child:hover,
+.child, .child.selected, 
+.horizontal-menu {
+    transition: 200ms ease;
+}
+
+.child {
+    text-transform: uppercase;
+    text-align: center;
+    color: #fff;
+    font-weight: 700;
+    float: left;
+    text-align: center;
+    display: inline-table;
+    min-width: 180px;
+    height: 100%;
+    background-position: 50% 0;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0 0 10px 10px;
+    border-radius: 5px
+}
+
+#news .child {
+    text-transform: none;
+    text-align: left;
+    margin: 10px 0 10px 10px;
+    width: calc(100% / 6 - 20px);
+}
+
+
+#team .child {
+    width: calc((100% - (5 + 1) * 10px) / 5);
+}
+
+#rescue .child {
+     width: calc((100% - (4 + 1) * 10px) / 4);
+}
+
+#news .horizontal-menu {
+    min-width: calc(190px * 6 + 10px);
+}
+
+#team .horizontal-menu {
+    min-width: calc(190px * 5 + 10px);
+}
+
+#rescue .horizontal-menu {
+    min-width: calc(190px * 4 + 10px);
+}
+
+.child:hover {
+    cursor: pointer;
+}
+
+
+
 div.hor-el {
   display: block;
 	float: left;
