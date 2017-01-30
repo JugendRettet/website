@@ -125,11 +125,9 @@ _(about_us_transparency_title)
 <section id="team" class="scroll-section" >
             <div class="container">
                 <div class="text-box">
-                    <h1>
                     
 _(team_title)
                     
-                    </h1>
                     <p>Bring dich mit eigenen Ideen und Vorschlägen ein.
                         <br>Hier findest du alle Informationen, um dich konkret bei uns zu engagieren.</p>
                 </div>
@@ -182,11 +180,9 @@ _(team_sponsors)
       <section id="rescue" class="scroll-section" >
             <div class="container">
                 <div class="text-box">
-                    <h1>
                     
 _(rescue_as_title)                    
                     
-                    </h1>
                     <p>Bring dich mit eigenen Ideen und Vorschlägen ein.
                         <br>Hier findest du alle Informationen, um dich konkret bei uns zu engagieren.</p>
                 </div>
