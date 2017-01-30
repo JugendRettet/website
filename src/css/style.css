@@ -275,14 +275,14 @@ div.box-pic-s {
 }
 
 
-.5 .child {
+.items-5 .child {
     width: calc((100% - (5 + 1) * 10px) / 5);
 }
 
-.4 .child {
+.items-4 .child {
      width: calc((100% - (4 + 1) * 10px) / 4);
 }
-.3 .child {
+.items-3 .child {
      width: calc((100% - (3 + 1) * 10px) / 3);
 }
 
@@ -290,14 +290,14 @@ div.box-pic-s {
     min-width: calc(190px * 6 + 10px);
 }
 
-.horizontal-menu.5  {
+.horizontal-menu.items-5  {
     min-width: calc(190px * 5 + 10px);
 }
 
-.horizontal-menu.4 {
+.horizontal-menu.items-4 {
     min-width: calc(190px * 4 + 10px);
 }
-.horizontal-menu.3 {
+.horizontal-menu.items-3 {
     min-width: calc(190px * 3 + 10px);
 }
 
