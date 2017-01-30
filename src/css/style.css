@@ -330,6 +330,7 @@ div.box-pic-s {
 	height: 30%;
 	max-height: 480px;
 	overflow: scroll;
+	float: left;
 }
 .newsbox.fb {
 	margin-right: 10px;
