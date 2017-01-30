@@ -135,7 +135,7 @@ _(team_title)
                 </div>
             </div>
             <div class="menu-container">
-                <div class="horizontal-menu 5">
+                <div class="horizontal-menu items-5">
                     <div class="child" id="sponsor-sein">
                         <div class="tint">
                         
@@ -192,7 +192,7 @@ _(rescue_as_title)
                 </div>
             </div>
             <div class="menu-container">
-                <div class="horizontal-menu 4">
+                <div class="horizontal-menu items-4">
                     <div class="child" id="sponsor-sein">
                         <div class="tint">
                         
