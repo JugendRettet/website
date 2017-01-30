@@ -75,34 +75,16 @@ _(situation)
 
 _(ideals_title)
 
-        <div class="hor">
-          <div class="hor-el hor-2 box-highlight">
-
 _(ideals_iuv_title)
 
-            <div class="text-long">
 
 _(ideals_iuv_text)
 
-            </div><!--text-long-->
-            <div class="box-dark a-dark">
-
 _(ideals_iuv_link)
-
-            </div><!--box-dark-->
-          </div><!--hor-el-->
-          <div class="hor-el hor-2 hor-last">
 
 _(ideals_proposals_title)
 
-            <div class="text-long">
-
 _(ideals_proposals_text)
-
-            </div><!--text-long-->
-          </div><!--hor-el-->
-        </div><!--hor-->
-
 _(ideals_actions)
       </div>
       </div>
