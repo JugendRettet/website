@@ -27,7 +27,7 @@ _(logo)
 <nav class="center text-center">
   <a href="#intro">
 
-_(menu_intro)
+<div class="logo"></div>
   
   </a>
   <a href="#about">
