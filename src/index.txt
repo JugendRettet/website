@@ -220,7 +220,6 @@ _(faq)
       <section id="news" class="scroll-section">
       
       <div class="container">
-      <div class="text-box">
 _(news_title)
     <div class="news-box fb">
     <div class="fb-page" 
@@ -233,7 +232,7 @@ _(news_title)
      <a class="twitter-timeline" data-lang="_(lang)" data-dnt="true" href="https://twitter.com/jugendrettet">Twitter</a>
             <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
     </div>
-            
+      <div class="text-box">
 
             <div class="p-highlight">
 
