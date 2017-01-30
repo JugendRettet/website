@@ -45,11 +45,6 @@ _(menu_team)
 _(menu_rescue)
 
   </a>
-  <a href="#faq">
-
-_(menu_faq)
-
-  </a>
   <a href="#news">
 
 _(menu_news)
