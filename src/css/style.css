@@ -239,16 +239,16 @@ div.hor-overflow-fallback {
 	display: none;
 }
 div.hor-2 {
- width: calc(100% / 2 - 20px);
+	width: calc((100% - (2 + 1) * 10px) / 2);
 }
 div.hor-3 {
-  width: calc(100% / 3 - 20px);
+	width: calc((100% - (3 + 1) * 10px) / 3);
 }
 div.hor-4 {
-  width: calc(100% / 4 - 20px);
+	width: calc((100% - (4 + 1) * 10px) / 4);
 }
 div.hor-5 {
-  width: calc(100% / 5 - 20px);
+	width: calc((100% - (5 + 1) * 10px) / 5);
 }
 div.hor-last, .box-pic, .box-pic-s{
   border-right: none;
