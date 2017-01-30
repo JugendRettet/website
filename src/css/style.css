@@ -326,7 +326,8 @@ nav {
 	width: 100%;
 }
 nav a {
-  display: inline-block;
+  display: block;
+	float: left;
 }
 nav a p {
 	margin: 0;
@@ -402,7 +403,6 @@ nav {
 	background: #f0f0f0;
 }
 nav a {
-  	text-transform: uppercase;
   	font-size: medium;
   	padding: 2.1ch 3ch;
   	transition: background-color 0.2s linear,
