@@ -224,6 +224,16 @@ div.box-pic-s {
     margin: 0 calc(50% - 480px);
     padding: 100px 0;
 }
+
+.menu-container {
+    display: block;
+    overflow-x: scroll;
+    overflow-y: hidden;
+}
+.text-box {
+    max-width: 720px;
+    margin: 0 auto;
+}
 .horizontal-menu {
     margin: 0 auto;
     display: block;
@@ -265,11 +275,11 @@ div.box-pic-s {
 }
 
 
-#team .child {
+.5 .child {
     width: calc((100% - (5 + 1) * 10px) / 5);
 }
 
-#rescue .child {
+.4 .child {
      width: calc((100% - (4 + 1) * 10px) / 4);
 }
 
@@ -277,11 +287,11 @@ div.box-pic-s {
     min-width: calc(190px * 6 + 10px);
 }
 
-#team .horizontal-menu {
+.5 .horizontal-menu {
     min-width: calc(190px * 5 + 10px);
 }
 
-#rescue .horizontal-menu {
+.4 .horizontal-menu {
     min-width: calc(190px * 4 + 10px);
 }
 
@@ -307,13 +317,6 @@ div.box-pic-s {
     background: rgb(0, 110, 160);
     background: rgba(48, 120, 156, 0.80);
 }
-
-.menu-container {
-    display: block;
-    overflow-x: scroll;
-    overflow-y: hidden;
-}
-
 
 
 div.hor-el {
