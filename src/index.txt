@@ -299,7 +299,7 @@ _(donate_title)
             _bp_iframe.project_id = 48425; /* REQUIRED */
             _bp_iframe.lang       = 'de'; /* Language of the form */
             /* Remove "//" for further customization but *only* if you really need to! */
-            // _bp_iframe.width = 2000; /* Custom iframe-tag-width, integer */
+            // _bp_iframe.width = 960; /* Custom iframe-tag-width, integer */
             _bp_iframe.color = '286482'; /* Button and banderole color, hex without "#" */
             _bp_iframe.background_color = 'f0f0f0'; /* Background-color, hex without "#" */
             // _bp_iframe.default_amount = 50; /* Donation-amount, integer 1-99 */
