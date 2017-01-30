@@ -76,8 +76,10 @@
 <br>
 <p>Postfach 36 03 55</p>
 <p>D- 10973 Berlin</p>
-
+<br>
 <p>Mail: <a href="mailto:press@jugendrettet.org">press@jugendrettet.org</a></p>
+<br>
+<p>&#8594; <a href="../files/press_portfolio_JR.pdf">press portfolio (updated August 7th '16)</a></p>
 
                     </div>
                 </div>
