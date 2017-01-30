@@ -56,7 +56,7 @@ _(menu_donate)
   
   </a>
 </nav>
-    <article class="center">
+    <article>
       <section id="intro" class="scroll-section big-margin">
           <div class="text-lighter">
             <div class="fakeh1">
