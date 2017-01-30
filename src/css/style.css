@@ -674,3 +674,45 @@ footer ul {
 video::-webkit-media-controls-start-playback-button {
   display: none !important;
 }
+
+
+/* IMAGES */
+.child#botschafter {
+    background-position: 50% 0%;
+    background-image: url(images/tau.jpg);
+}
+
+.child#sponsor-sein {
+    background-position: 50% 50%;
+    background-image: url(http://www.jugendrettet.org/images/06-2016/andeck.jpg);
+}
+
+.child#freiwilliger-sein {
+    background-position: 50% 0%;
+    background-image: url(http://www.jugendrettet.org/images/06-2016/schiff_werft.jpg);
+}
+
+.child#spenden {
+    background-position: 50% 0%;
+    background-image: url(images/donation-boy.jpg);
+}
+
+.child#spender {
+    background-position: 50% 80%;
+    background-image: url(images/spender.jpg);
+}
+
+.child#berlin {
+    background-position: 50% 50%;
+    background-image: url(https://jugendrettet.org/images/JR_kernteam_ah-02005_s.jpg);
+}
+
+.child#crew {
+    background-position: 50% 0%;
+    background-image: url(images/crew.jpg);
+}
+
+.child#sponsor {
+    background-position: 50% 0%;
+    background-image: url(images/donation-boy.jpg);
+}
