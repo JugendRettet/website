@@ -58,6 +58,8 @@ _(menu_donate)
 </nav>
     <article>
       <section id="intro" class="scroll-section big-margin">
+      <div class="container">
+      <div class="text-box">
           <div class="text-lighter">
             <div class="fakeh1">
 
@@ -102,28 +104,22 @@ _(ideals_proposals_text)
         </div><!--hor-->
 
 _(ideals_actions)
+      </div>
+      </div>
       </section><!--intro-->
       <section id="about" class="scroll-section">
+      <div class="container">
+      <div class="text-box">
 
 _(about_us_title)
 
-        <div class="hor">
-          <div class="hor-el hor-3 box-pic">
-
 _(about_us_our_story_title)
-
-          </div><!--hor-el-->
-          <div class="hor-el hor-3 box-pic">
 
 _(about_us_iuv_title)
 
-          </div><!--hor-el-->
-          <div class="hor-el hor-3 box-pic">
-
 _(about_us_transparency_title)
-
-          </div><!--hor-el-->
-        </div><!--hor-->
+      </div>
+      </div>
       </section><!--about-->
       
 <section id="team" class="scroll-section" >
@@ -233,14 +229,17 @@ _(rescue_as_ambassador)
             </div>
         </section><!--rescue-->
       <section id="faq" class="big-margin scroll-section">
+      <div class="container">
+      <div class="text-box">
         <div class="box-dark a-dark">
 
 _(faq)
 
         </div><!--box-dark-->
+        </div>
+        </div>
       </section><!--faq-->
       <section id="news" class="scroll-section">
-
 _(news_title)
 
         <div class="hor">
