@@ -278,7 +278,7 @@ div.hidden {
 	font-weight: normal;
 }
 .box-highlight, .box-dark, .p-highlight, .p-dark, .hor {
-	max-width: 95%;
+	max-width: 100%;
 	margin-left: auto;
 	margin-right: auto;
 	height: 30vh;
