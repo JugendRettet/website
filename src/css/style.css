@@ -234,6 +234,9 @@ div.box-pic-s {
     max-width: 720px;
     margin: 0 auto;
 }
+#news .text-box {
+	clear: both;
+}
 .horizontal-menu {
     margin: 0 auto;
     display: block;
