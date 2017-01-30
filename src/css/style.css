@@ -308,8 +308,10 @@ div#center h1, div#center p {
   margin-bottom: 0;
 }
 div#center object, div#center img {
-	width: 100%;
-	max-height: 50vh;
+	max-width: 10vh;
+	max-height: 10vh;
+	min-width: 100px;
+	min-height: 100px;
 }
 nav {
 	overflow: hidden;
