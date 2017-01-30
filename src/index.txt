@@ -236,6 +236,9 @@ _(faq)
         </div>
       </section><!--faq-->
       <section id="news" class="scroll-section">
+      
+      <div class="container">
+      <div class="text-box">
 _(news_title)
 
             <div class="fb-page" data-href="https://www.facebook.com/JugendRettet" data-tabs="timeline" data-small-header="true" data-adapt-container-width="true" data-hide-cover="true" data-show-facepile="true"><blockquote cite="https://www.facebook.com/JugendRettet" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/JugendRettet">Facebook</a></blockquote></div>
@@ -282,9 +285,13 @@ _(news_news_mission)
 _(news_mission_link)
 
         </div><!--box-dark-->
+        </div>
+        </div>
       </section><!--news-->
       <section id="donate" class="scroll-section">
 
+      <div class="container">
+      <div class="text-box">
 _(donate_title)
 
         <div class="hor">
@@ -332,6 +339,8 @@ _(donate_account_info)
 
               </div><!--text-long-->
             </div><!--box-highlight-->
+            </div>
+            </div>
       </section><!--donate-->
     </article>
 
