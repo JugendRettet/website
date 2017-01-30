@@ -217,7 +217,7 @@ _(rescue_as_voluntary)
                         <span class="arrow"><span class="left"></span><span class="right"></span></span>
                         </div>
                     </div>
-                    <div class="child" id="botschafter">
+                    <div class="child" id="botschafter-sein">
                         <div class="tint">
                         
 _(rescue_as_ambassador)
