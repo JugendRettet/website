@@ -282,6 +282,9 @@ div.box-pic-s {
 .4 .child {
      width: calc((100% - (4 + 1) * 10px) / 4);
 }
+.3 .child {
+     width: calc((100% - (3 + 1) * 10px) / 3);
+}
 
 #news .horizontal-menu {
     min-width: calc(190px * 6 + 10px);
@@ -293,6 +296,9 @@ div.box-pic-s {
 
 .4 .horizontal-menu {
     min-width: calc(190px * 4 + 10px);
+}
+.3 .horizontal-menu {
+    min-width: calc(190px * 3 + 10px);
 }
 
 .child:hover {
