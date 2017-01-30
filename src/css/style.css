@@ -325,14 +325,15 @@ div.box-pic-s {
 }
 
 .news-box {
-	width: calc(50% - 6px);
-	display: inline-block;
+	width: calc(50% - 5px);
+	display: block;
+	float: left;
 	height: 30%;
 	max-height: 480px;
 	overflow: scroll;
 }
 .news-box.fb {
-	margin-right: 7px;
+	margin-right: 10px;
 }
 div.hor-el {
   display: block;
