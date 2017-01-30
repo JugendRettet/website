@@ -293,9 +293,6 @@ _(news_mission_link)
       <div class="container">
       <div class="text-box">
 _(donate_title)
-
-        <div class="hor">
-          <div id="bp-column" class="hor-el hor-3">
             <script type="text/javascript">
             /* Configure at https://www.betterplace.org/de/projects/42019-rette-mit-einsatz-zur-seenotrettung-auf-dem-mittelmeer/manage/iframe_donation_form */
             var _bp_iframe        = _bp_iframe || {};
