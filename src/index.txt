@@ -56,8 +56,6 @@ _(menu_donate)
   
   </a>
 </nav>
-<div id="paper">
-  <div class="text-center">
     <article class="center">
       <section id="intro" class="scroll-section big-margin">
           <div class="text-lighter">
@@ -316,7 +314,5 @@ _(donate_account_info)
         </div><!--hor-->
       </section><!--donate-->
     </article>
-  </div><!-- text-center -->
-</div><!-- paper -->
 
 <script type="text/javascript" src="../js/scroll-sections.js"></script>
