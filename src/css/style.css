@@ -686,7 +686,7 @@ video::-webkit-media-controls-start-playback-button {
     background-image: url(http://www.leonvogler.de/jugendrettet/images/tau.jpg);
 }
 
-.child#sponsor-sein {
+.child#sponsor {
     background-position: 50% 50%;
     background-image: url(https://u.jimcdn.com/e/o/s9f771b40404278df/userlayout/img/bg.jpg?t=1440152220);
 }
@@ -716,7 +716,7 @@ video::-webkit-media-controls-start-playback-button {
     background-image: url(http://www.leonvogler.de/jugendrettet/images/crew.jpg);
 }
 
-.child#sponsor {
+.child#sponsor-sein {
     background-position: 50% 0%;
     background-image: url(http://www.leonvogler.de/jugendrettet/images/donation-boy.jpg);
 }
