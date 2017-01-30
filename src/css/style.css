@@ -325,15 +325,14 @@ div.box-pic-s {
 }
 
 .news-box {
-	width: calc(50% - 10px);
-	display: block;
+	width: calc(50% - 6px);
+	display: inline-block;
 	height: 30%;
 	max-height: 480px;
 	overflow: scroll;
-	float: left;
 }
 .news-box.fb {
-	margin-right: 10px;
+	margin-right: 7px;
 }
 div.hor-el {
   display: block;
@@ -394,13 +393,6 @@ div.hidden {
 }
 .std {
 	font-weight: normal;
-}
-.box-highlight, .box-dark, .p-highlight, .p-dark, .hor {
-	max-width: 100%;
-	margin-left: auto;
-	margin-right: auto;
-	height: 30vh;
-	max-height: 240px;
 }
 /* end classes */
 /* structure */
@@ -585,12 +577,6 @@ p {
 }
 ul {
 	margin: auto;
-}
-p, ul {
-	max-width: 80ch;
-}
-p, div.p-highlight, div.p-dark {
-	margin: 0.5em;
 }
 h1, div.fakeh1 p {
 	font-weight: normal;
