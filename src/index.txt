@@ -136,7 +136,7 @@ _(team_title)
             </div>
             <div class="menu-container">
                 <div class="horizontal-menu items-5">
-                    <div class="child" id="speender">
+                    <div class="child" id="spender">
                         <div class="tint">
                         
 _(team_donations)
