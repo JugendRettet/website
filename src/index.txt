@@ -238,20 +238,10 @@ _(faq)
       <section id="news" class="scroll-section">
 _(news_title)
 
-        <div class="hor">
-          <div class="hor-el hor-3 hor-overflow">
             <div class="fb-page" data-href="https://www.facebook.com/JugendRettet" data-tabs="timeline" data-small-header="true" data-adapt-container-width="true" data-hide-cover="true" data-show-facepile="true"><blockquote cite="https://www.facebook.com/JugendRettet" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/JugendRettet">Facebook</a></blockquote></div>
-          </div><!--hor-el-->
-          <div class="hor-el hor-3 hor-overflow">
             <a class="twitter-timeline" data-lang="_(lang)" data-dnt="true" href="https://twitter.com/jugendrettet">Twitter</a>
             <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-          </div><!--hor-el-->
-          <div class="hor-el hor-3 hor-overflow">
 
-          </div><!--hor-el-->
-        </div><!--hor-->
-        <div class="hor">
-          <div class="hor-el hor-3">
             <div class="p-highlight">
 
 _(news_news_item)
@@ -267,22 +257,16 @@ _(news_archive)
 _(news_follow_iuv)
 
             </div><!--p-dark-->
-          </div><!--hor-el-->
-          <div class="hor-el hor-3">
             <div class="box-highlight">
 
 _(news_press_release)
 
             </div><!--box-highlight-->
-          </div><!--hor-el-->
-          <div class="hor-el hor-3">
             <div class="box-highlight">
 
 _(news_events)
 
             </div><!--box-highlight-->
-          </div><!--hor-el-->
-        </div><!--hor-->
         <div class="box-dark a-dark">
 
 _(news_follow_us)
@@ -328,8 +312,6 @@ _(donate_title)
 <!--mkd-->_(donate_betterplace_text)
 
             </a></strong></div>
-          </div><!--hor-el-->
-          <div class="hor-el hor-3">
             <div class="box-highlight">
 
 _(donate_calc_text)
@@ -340,8 +322,6 @@ _(donate_calc_text)
 _(donate_merch_link)
 
             </div><!--box-dark-->
-          </div><!--hor-el-->
-          <div class="hor-el hor-3">
             <div class="box-highlight">
 
 _(donate_donations_account)
@@ -352,8 +332,6 @@ _(donate_account_info)
 
               </div><!--text-long-->
             </div><!--box-highlight-->
-          </div><!--hor-el-->
-        </div><!--hor-->
       </section><!--donate-->
     </article>
 
