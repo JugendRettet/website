@@ -222,12 +222,17 @@ _(faq)
       <div class="container">
       <div class="text-box">
 _(news_title)
-<div id=”twitter_update_list”>
-</div>
-
-            <div class="fb-page" data-href="https://www.facebook.com/JugendRettet" data-tabs="timeline" data-small-header="true" data-adapt-container-width="true" data-hide-cover="true" data-show-facepile="true"><blockquote cite="https://www.facebook.com/JugendRettet" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/JugendRettet">Facebook</a></blockquote></div>
-            <a class="twitter-timeline" data-lang="_(lang)" data-dnt="true" href="https://twitter.com/jugendrettet">Twitter</a>
+    <div class="news-box fb">
+    <div class="fb-page" 
+        data-href="https://www.facebook.com/JugendRettet"
+        data-hide-cover="true"
+        data-tabs="timeline, events"></div>
+    </div>
+    <div class="news-box twitter">
+     <a class="twitter-timeline" data-lang="_(lang)" data-dnt="true" href="https://twitter.com/jugendrettet">Twitter</a>
             <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+    </div>
+            
 
             <div class="p-highlight">
 
