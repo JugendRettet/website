@@ -60,11 +60,6 @@ _(menu_news)
 _(menu_donate)
   
   </a>
-  <a href="/press">
-
-_(menu_press) &rarr;
-
-  </a>
 </nav>
 <div id="paper">
   <div class="text-center">
