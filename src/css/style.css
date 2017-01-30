@@ -218,17 +218,18 @@ div.box-pic-s {
   background-image: url(/images/page/IUVENTA1.jpg);
 }
 div.hor-el {
-  display: inline-block;
+  display: block;
+	float: left;
   vertical-align: top;
   overflow-x: auto;
   overflow-y: hidden;
-  min-width: 100px;
+  min-width: 180px;
   margin-bottom: 1em;
   /*border: thin solid white;*/
 	background-color: rgba(40, 100, 130, 0.12);
 height: 100%;
 border-radius: 5px;
-margin: 0 5px 0 0;
+margin: 0 10px 0 0;
 }
 div.hor-overflow {
 	max-height: 500px;
@@ -238,16 +239,16 @@ div.hor-overflow-fallback {
 	display: none;
 }
 div.hor-2 {
-  width: 48%;
+ width: calc(100% / 2 - 20px);
 }
 div.hor-3 {
-  width: 32%;
+  width: calc(100% / 3 - 20px);
 }
 div.hor-4 {
-  width: 23%;
+  width: calc(100% / 4 - 20px);
 }
 div.hor-5 {
-  width: 18%;
+  width: calc(100% / 5 - 20px);
 }
 div.hor-last, .box-pic, .box-pic-s{
   border-right: none;
