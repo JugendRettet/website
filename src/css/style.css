@@ -350,11 +350,7 @@ div#lastlinks {
 	max-width: 84ch;
 }
 article {
-	padding-top: 3ch;
-	margin-left: 3ch;
-	margin-right: 3ch;
-	padding-bottom: 3ch;
-	max-width: 95%;
+	background-image: url('http://www.christophreichel.de/bgl2.png');
 }
 header {
 	padding-bottom: 8ch;
