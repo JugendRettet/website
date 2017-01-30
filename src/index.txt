@@ -16,7 +16,7 @@ _(header_title)
     </div>
     <div id="center">
 
-_(logo)
+  <img src="https://alex.jugendrettet.org/graphics/logo_weiss_schiff_transparent.svg" alt="JR Logo" title="">
 
     </div><!--center-->
     <video id="waves-video" class="header-video" muted loop autoplay preload="auto" poster="../images/error.jpg">
