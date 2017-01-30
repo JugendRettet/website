@@ -633,7 +633,21 @@ footer ul {
 	margin-right: auto;
 }
 /* end styling */
-@media screen and (max-width: 690px) {
+@media screen and (max-width: 1000px) {
+    .container {
+        max-width: calc(100% - 40px);
+        margin: 0 20px;
+    }
+}
+@media screen and (max-width: 760px) {
+	.container {
+        	padding: 40px 0;
+        	margin: 0 20px;
+        	max-width: calc(100% - 40px);
+    	}
+	.text-box {
+        	margin: 0;
+    	}
 	div.hor-3 {
 	  /* width: 100%; */
 	}
