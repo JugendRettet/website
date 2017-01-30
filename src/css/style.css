@@ -365,9 +365,6 @@ div.hor-el p {
 div#bp-column {
 	min-width: 210px;
 }
-.iframe-donations-controller .iframe-donations-fieldset {
-	border-width: 0;
-}
 /* end structure */
 /* styling */
 body {
