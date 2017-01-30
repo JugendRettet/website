@@ -501,6 +501,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 div#paper {
 	background: #f0f0f0;
+	background: url('http://www.christophreichel.de/bgl2.png');
 }
 footer {
 	border-top: thin solid gray;
