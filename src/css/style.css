@@ -632,6 +632,9 @@ footer ul {
 	margin-left: auto;
 	margin-right: auto;
 }
+iframe#iFrameResizer0 {
+	width: 100% !important;
+}
 /* end styling */
 @media screen and (max-width: 1000px) {
     .container {
