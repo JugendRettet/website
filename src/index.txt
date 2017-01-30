@@ -185,6 +185,40 @@ _(rescue_as_ambassador)
           </div><!--hor-el-->
         </div><!--hor-->
       </section><!--rescue-->
+      <section id="rescue" class="scroll-section" >
+            <div class="container">
+                <div class="text-box">
+                    <h1>Was du tun kannst</h1>
+                    <hr class="wide">
+                    <p>Bring dich mit eigenen Ideen und Vorschlägen ein.
+                        <br>Hier findest du alle Informationen, um dich konkret bei uns zu engagieren.</p>
+                </div>
+            </div>
+            <div class="menu-container">
+                <div class="horizontal-menu">
+                    <div class="child" id="sponsor-sein">
+                        <div class="tint">Sponsor Sein
+                            <span class="arrow"><span class="left"></span><span class="right"></span></span>
+                        </div>
+                    </div>
+                    <div class="child" id="spenden">
+                        <div class="tint">Spenden
+                            <span class="arrow"><span class="left"></span><span class="right"></span></span>
+                        </div>
+                    </div>
+                    <div class="child" id="freiwilliger-sein">
+                        <div class="tint">Freiwilliger Sein
+                            <span class="arrow"><span class="left"></span><span class="right"></span></span>
+                        </div>
+                    </div>
+                    <div class="child" id="botschafter">
+                        <div class="tint">Bot&shy;schafter Sein
+                            <span class="arrow"><span class="left"></span><span class="right"></span></span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
       <section id="faq" class="big-margin scroll-section">
         <div class="box-dark a-dark">
 
