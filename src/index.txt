@@ -226,7 +226,8 @@ _(news_title)
         data-href="https://www.facebook.com/JugendRettet"
         data-hide-cover="true"
         data-tabs="timeline, events"
-        data-width="500"></div>
+        data-width="500"
+        data-height="480"></div>
     </div>
     <div class="news-box twitter">
      <a class="twitter-timeline" data-lang="_(lang)" data-dnt="true" href="https://twitter.com/jugendrettet">Twitter</a>
