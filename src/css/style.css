@@ -324,6 +324,16 @@ nav a {
 nav a p {
 	margin: 0;
 }
+.logo {
+	margin: 10px 40px;
+	display: inline-block;
+	width: 80px;
+	height: 80px;
+	background-size: contain;
+	background-image: url(https://en.jugendrettet.org/graphics/logo.svg);
+	background-repeat: no-repeat;
+	transition: 200ms ease;
+}
 div#margin-box {
 	margin-left: 2ch;
 }
