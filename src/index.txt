@@ -125,100 +125,115 @@ _(about_us_transparency_title)
           </div><!--hor-el-->
         </div><!--hor-->
       </section><!--about-->
-      <section id="team" class="scroll-section">
-
-_(team_title)
-
-        <div class="hor">
-          <div class="hor-el hor-5 box-pic-s">
-
-_(team_donations)
-
-          </div><!--hor-el-->
-          <div class="hor-el hor-5 box-pic-s">
-
-_(team_berlin)
-
-          </div><!--hor-el-->
-          <div class="hor-el hor-5 box-pic-s">
-
-_(team_crew)
-
-          </div><!--hor-el-->
-          <div class="hor-el hor-5 box-pic-s">
-
-_(team_embassies)
-
-          </div><!--hor-el-->
-          <div class="hor-el hor-5  box-pic-s">
-
-_(team_sponsors)
-
-          </div><!--hor-el-->
-        </div><!--hor-->
-
-      </section><!--team-->
-      <section id="rescue" class="scroll-section">
-
-_(rescue_as_title)
-
-        <div class="hor">
-          <div class="hor-el hor-4 box-pic-s">
-
-_(rescue_as_sponsor)
-
-          </div><!--hor-el-->
-          <div class="hor-el hor-4 box-pic-s">
-
-_(rescue_as_donator)
-
-          </div><!--hor-el-->
-          <div class="hor-el hor-4 box-pic-s">
-
-_(rescue_as_voluntary)
-
-          </div><!--hor-el-->
-          <div class="hor-el hor-4 box-pic-s">
-
-_(rescue_as_ambassador)
-
-          </div><!--hor-el-->
-        </div><!--hor-->
-      </section><!--rescue-->
-      <section id="rescue" class="scroll-section" >
+      
+<section id="rescue" class="scroll-section" >
             <div class="container">
                 <div class="text-box">
-                    <h1>Was du tun kannst</h1>
+                    <h1>
+                    
+_(team_title)
+                    
+                    </h1>
                     <hr class="wide">
                     <p>Bring dich mit eigenen Ideen und Vorschlägen ein.
                         <br>Hier findest du alle Informationen, um dich konkret bei uns zu engagieren.</p>
                 </div>
             </div>
             <div class="menu-container">
-                <div class="horizontal-menu">
+                <div class="horizontal-menu 5">
                     <div class="child" id="sponsor-sein">
-                        <div class="tint">Sponsor Sein
+                        <div class="tint">
+                        
+_(team_donations)
+                        
+                            <span class="arrow"><span class="left"></span><span class="right"></span></span>
+                        </div>
+                    </div>
+                    <div class="child" id="sponsor-sein">
+                        <div class="tint">
+                        
+_(team_berlin)
+                        
                             <span class="arrow"><span class="left"></span><span class="right"></span></span>
                         </div>
                     </div>
                     <div class="child" id="spenden">
-                        <div class="tint">Spenden
+                        <div class="tint">
+
+_(team_crew)
+
                             <span class="arrow"><span class="left"></span><span class="right"></span></span>
                         </div>
                     </div>
                     <div class="child" id="freiwilliger-sein">
-                        <div class="tint">Freiwilliger Sein
-                            <span class="arrow"><span class="left"></span><span class="right"></span></span>
+                        <div class="tint">
+
+_(team_embassies)
+
+                        <span class="arrow"><span class="left"></span><span class="right"></span></span>
                         </div>
                     </div>
                     <div class="child" id="botschafter">
-                        <div class="tint">Bot&shy;schafter Sein
+                        <div class="tint">
+                        
+_(team_sponsors)
+
                             <span class="arrow"><span class="left"></span><span class="right"></span></span>
                         </div>
                     </div>
                 </div>
             </div>
-        </section>
+        </section><!--team-->
+      <section id="rescue" class="scroll-section" >
+            <div class="container">
+                <div class="text-box">
+                    <h1>
+                    
+_(rescue_as_title)                    
+                    
+                    </h1>
+                    <hr class="wide">
+                    <p>Bring dich mit eigenen Ideen und Vorschlägen ein.
+                        <br>Hier findest du alle Informationen, um dich konkret bei uns zu engagieren.</p>
+                </div>
+            </div>
+            <div class="menu-container">
+                <div class="horizontal-menu 4">
+                    <div class="child" id="sponsor-sein">
+                        <div class="tint">
+                        
+_(rescue_as_sponsor)                        
+                        
+                            <span class="arrow"><span class="left"></span><span class="right"></span></span>
+                        </div>
+                    </div>
+                    <div class="child" id="spenden">
+                        <div class="tint">
+
+_(rescue_as_donator)
+
+                            <span class="arrow"><span class="left"></span><span class="right"></span></span>
+                        </div>
+                    </div>
+                    <div class="child" id="freiwilliger-sein">
+                        <div class="tint">
+
+_(rescue_as_voluntary)
+
+                        <span class="arrow"><span class="left"></span><span class="right"></span></span>
+                        </div>
+                    </div>
+                    <div class="child" id="botschafter">
+                        <div class="tint">
+                        
+_(rescue_as_ambassador)
+
+                            <span class="arrow"><span class="left"></span><span class="right"></span></span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section><!--rescue-->
       <section id="faq" class="big-margin scroll-section">
         <div class="box-dark a-dark">
 
