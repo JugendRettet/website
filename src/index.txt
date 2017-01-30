@@ -242,10 +242,7 @@ _(faq)
 _(news_title)
 <div id=”twitter_update_list”>
 </div>
-<script type=”text/javascript” src=”http://twitter.com/javascripts/blogger.js”>
-</script>
-<script type=”text/javascript” src=”http://api.twitter.com/1/statuses/jugendrettet.json?screen_name=jugendrettet&include_rts=true&count=4&callback=twitterCallback2″>
-</script>
+
             <div class="fb-page" data-href="https://www.facebook.com/JugendRettet" data-tabs="timeline" data-small-header="true" data-adapt-container-width="true" data-hide-cover="true" data-show-facepile="true"><blockquote cite="https://www.facebook.com/JugendRettet" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/JugendRettet">Facebook</a></blockquote></div>
             <a class="twitter-timeline" data-lang="_(lang)" data-dnt="true" href="https://twitter.com/jugendrettet">Twitter</a>
             <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
