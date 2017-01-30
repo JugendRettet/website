@@ -219,7 +219,11 @@ div.box-pic-s {
 }
 
 
-
+.container {
+    max-width: 100%;
+    margin: 0 calc(50% - 480px);
+    padding: 100px 0;
+}
 .horizontal-menu {
     margin: 0 auto;
     display: block;
@@ -283,6 +287,31 @@ div.box-pic-s {
 
 .child:hover {
     cursor: pointer;
+}
+.tint {
+    line-height: 1;
+    transition: 200ms ease;
+    height: calc(100% - 130px);
+    z-index: 3;
+    padding: 10px;
+    background: transparent;
+    background: rgba(25, 40, 60, 0.20);
+    display: table-cell;
+    vertical-align: middle;
+    border-radius: 5px
+}
+
+.tint:hover,
+.child.selected .tint,
+#news a:hover .tint {
+    background: rgb(0, 110, 160);
+    background: rgba(48, 120, 156, 0.80);
+}
+
+.menu-container {
+    display: block;
+    overflow-x: scroll;
+    overflow-y: hidden;
 }
 
 
