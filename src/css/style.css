@@ -642,9 +642,11 @@ iframe#iFrameResizer0 {
     display: none;
     position: absolute;
     top: 35px;
+	right: 15px;
     width: 20px;
     height: 20px;
     padding: 0 25px;
+	z-index: 100;
 }
 
 .bread:hover {
@@ -709,6 +711,10 @@ header.small .bread {
         -webkit-transition-delay: 100ms, 100ms;
         transition-delay: 100ms, 100ms
     }
+	nav a:nth-child(6) {
+        -webkit-transition-delay: 50ms, 50ms;
+        transition-delay: 50ms, 50ms
+    }
     #menu-state:checked ~ nav a:nth-child(1) {
         -webkit-transition-delay: 100ms, 100ms;
         transition-delay: 100ms, 100ms
@@ -728,6 +734,10 @@ header.small .bread {
     #menu-state:checked ~ nav a:nth-child(5) {
         -webkit-transition-delay: 300ms, 300ms;
         transition-delay: 300ms, 300ms
+    }
+#menu-state:checked ~ nav a:nth-child(6) {
+        -webkit-transition-delay: 350ms, 350ms;
+        transition-delay: 350ms, 350ms
     }
     
 /* end Header */
@@ -757,11 +767,7 @@ header.small .bread {
         max-width: 150px;
     }
     
-	nav a:nth-child(1) {
-        	visibility: show;
-		display: block;
-		margin: 0 auto;
-    	}
+	
 	nav a {
         transition: 200ms ease;
         -webkit-transform: scale(.9);
@@ -775,6 +781,12 @@ header.small .bread {
         transform: scale(1);
         opacity: 1;
     }
+	nav a:nth-child(1) {
+        	visibility: visible;
+		display: block;
+		margin: 0 auto;
+        opacity: 1;
+    	}
 	div.hor-3 {
 	  /* width: 100%; */
 	}
