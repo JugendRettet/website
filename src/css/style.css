@@ -692,64 +692,60 @@ header.small .bread {
     #menu-state:checked ~ nav {
         visibility: visible;
     }
-    nav li {
+    nav a{
         transition: 200ms ease;
         -webkit-transform: scale(.9);
         transform: scale(.9);
         opacity: 0;
         width: 100px;
     }
-    #menu-state:checked ~ nav li {
+    #menu-state:checked ~ nav a {
         transition: 200ms ease;
         -webkit-transform: scale(1);
         transform: scale(1);
         opacity: 1;
     }
-    nav li:nth-child(1) {
+    nav a:nth-child(1) {
         -webkit-transition-delay: 300ms, 300ms;
         transition-delay: 300ms, 300ms
     }
-    nav li:nth-child(2) {
+    nav a:nth-child(2) {
         -webkit-transition-delay: 250ms, 250ms;
         transition-delay: 250ms, 250ms
     }
-    nav li:nth-child(3) {
+    nav a:nth-child(3) {
         -webkit-transition-delay: 200ms, 200ms;
         transition-delay: 200ms, 200ms
     }
-    nav li:nth-child(4) {
+    nav a:nth-child(4) {
         -webkit-transition-delay: 150ms, 150ms;
         transition-delay: 150ms, 150ms
     }
-    nav li:nth-child(5) {
+    nav a:nth-child(5) {
         -webkit-transition-delay: 100ms, 100ms;
         transition-delay: 100ms, 100ms
     }
-    #menu-state:checked ~ nav li:nth-child(1) {
+    #menu-state:checked ~ nav a:nth-child(1) {
         -webkit-transition-delay: 100ms, 100ms;
         transition-delay: 100ms, 100ms
     }
-    #menu-state:checked ~ nav li:nth-child(2) {
+    #menu-state:checked ~ nav a:nth-child(2) {
         -webkit-transition-delay: 150ms, 150ms;
         transition-delay: 150ms, 150ms
     }
-    #menu-state:checked ~ nav li:nth-child(3) {
+    #menu-state:checked ~ nav a:nth-child(3) {
         -webkit-transition-delay: 200ms, 200ms;
         transition-delay: 200ms, 200ms
     }
-    #menu-state:checked ~ nav li:nth-child(4) {
+    #menu-state:checked ~ nav a:nth-child(4) {
         -webkit-transition-delay: 250ms, 250ms;
         transition-delay: 250ms, 250ms
     }
-    #menu-state:checked ~ nav li:nth-child(5) {
+    #menu-state:checked ~ nav a:nth-child(5) {
         -webkit-transition-delay: 300ms, 300ms;
         transition-delay: 300ms, 300ms
     }
-    nav ul {
-        margin: 0 20px;
-        padding-bottom: 50px;
-        max-width: 150px;
-    }
+    
 /* end Header */
 
 /* end styling */
@@ -771,10 +767,15 @@ header.small .bread {
 	.bread {
 		display: block;
 	}
-	nav li {
+	nav {
+        margin: 0 20px;
+        padding-bottom: 50px;
+        max-width: 150px;
+    }
+	nav a {
         	visibility: hidden;
     	}
-	nav li:nth-child(1) {
+	nav a:nth-child(1) {
         	visibility: show;
 		display: block;
 		margin: 0 auto;
