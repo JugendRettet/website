@@ -434,6 +434,7 @@ nav {
 	position: fixed;
 	width: 100%;
 	height: 60px;
+	padding-left: 20px;
 	transition: 200ms ease;
 	transition-delay: 200ms;
 }
@@ -762,6 +763,9 @@ header.small .bread {
     	}
 	.bread {
 		display: block;
+	}
+	nav {
+		padding-left: 0;
 	}
 	nav a {
         transition: 200ms ease;
