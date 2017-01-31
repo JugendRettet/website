@@ -689,22 +689,6 @@ header.small .bread {
 /* end Bread */
 /* header */
 
-    #menu-state:checked ~ nav {
-        visibility: visible;
-    }
-    nav a{
-        transition: 200ms ease;
-        -webkit-transform: scale(.9);
-        transform: scale(.9);
-        opacity: 0;
-        width: 100px;
-    }
-    #menu-state:checked ~ nav a {
-        transition: 200ms ease;
-        -webkit-transform: scale(1);
-        transform: scale(1);
-        opacity: 1;
-    }
     nav a:nth-child(1) {
         -webkit-transition-delay: 300ms, 300ms;
         transition-delay: 300ms, 300ms
@@ -772,15 +756,25 @@ header.small .bread {
         padding-bottom: 50px;
         max-width: 150px;
     }
-	nav a {
-        	visibility: hidden;
-    	}
+    
 	nav a:nth-child(1) {
         	visibility: show;
 		display: block;
 		margin: 0 auto;
-		
     	}
+	nav a {
+        transition: 200ms ease;
+        -webkit-transform: scale(.9);
+        transform: scale(.9);
+        opacity: 0;
+        width: 100px;
+    }
+    #menu-state:checked ~ nav a {
+        transition: 200ms ease;
+        -webkit-transform: scale(1);
+        transform: scale(1);
+        opacity: 1;
+    }
 	div.hor-3 {
 	  /* width: 100%; */
 	}
