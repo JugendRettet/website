@@ -29,7 +29,7 @@ _(header_title)
                 <div class="top stroke"></div>
                 <div class="bottom stroke"></div>
             </label>
-<nav class="center text-center">
+<nav>
   <a href="#intro">
 
 <div class="logo"></div>
