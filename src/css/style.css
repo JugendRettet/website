@@ -895,12 +895,12 @@ nav a:hover.dark,
 nav a.active,
 nav a.red.active {
     color: #286482;
-    background: white;
+    background: #f0f0f0;
 }
 
 nav a:hover.red,
 nav a.red.active {
-        background: white;
+        background: #f0f0f0;
 
     color: rgb(249, 69, 0);
 }
