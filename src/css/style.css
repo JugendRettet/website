@@ -889,6 +889,21 @@ nav a:nth-child(6) {
         opacity: 1;
         width: 15px;
     }
+    nav a:hover,
+nav a:hover.red,
+nav a:hover.dark,
+nav a.active,
+nav a.red.active {
+    color: #286482;
+    background: white;
+}
+
+nav a:hover.red,
+nav a.red.active {
+        background: white;
+
+    color: rgb(249, 69, 0);
+}
     div.hor-3 {
         /* width: 100%; */
     }
