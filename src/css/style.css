@@ -386,12 +386,6 @@ video.header-video {
 	top: 0;
 	left: 0;
 }
-section {
-	padding-top: 50px;
-}
-section.big-margin {
-	padding-top: 100px;
-}
 div.hidden {
 	display: none;
 }
