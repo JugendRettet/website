@@ -301,7 +301,10 @@ _(donate_title)
             var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(bp, s);
             })();
             </script>
-            <div id="betterplace_donation_iframe" style="background: transparent url('https://www.betterplace.org/assets/new_spinner.gif') 275px 20px no-repeat;"><strong><a href="https://www.betterplace.org/projects/48425-rette-mit-spende-fur-rettungseinsatze-auf-dem-mittelmeer/donations/new">
+            <div id="betterplace_donation_iframe">
+                        <iframe height="1200" width="100%" frameborder="0" src="https://www.betterplace.org/de/projects/48425/iframe_donations/new?background_color=f0f0f0&amp;color=286482&amp;donation_amount=50&amp;utm_campaign=external_donation_forms&amp;utm_source=domain: new.jugendrettet.org&amp;utm_medium=project_48425&amp;utm_content=https%3A%2F%2Fnew.jugendrettet.org%2Fde%2F&amp;"
+                        id="iFrameResizer0" scrolling="no"></iframe>
+                    </div>
 
 <!--mkd-->_(donate_betterplace_text)
 
