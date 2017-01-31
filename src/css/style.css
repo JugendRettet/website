@@ -433,6 +433,7 @@ nav {
 	z-index: 1;
 	position: fixed;
 	width: 100%;
+	height: 60px;
 }
 nav a {
   display: block;
@@ -641,7 +642,7 @@ iframe#iFrameResizer0 {
 .bread {
     display: none;
     position: absolute;
-    top: 35px;
+    top: 20px;
     width: 20px;
     height: 20px;
     padding: 0 25px;
@@ -773,6 +774,10 @@ header.small .bread {
         -webkit-transform: scale(1);
         transform: scale(1);
         opacity: 1;
+    }
+	#menu-state:checked ~ nav {
+        transition: 200ms ease;
+        height: auto;
     }
 	nav a:nth-child(1) {
         	visibility: visible;
