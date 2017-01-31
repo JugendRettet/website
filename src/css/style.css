@@ -771,8 +771,14 @@ header.small .bread {
 	.bread {
 		display: block;
 	}
-	nav {
+	nav li {
         	visibility: hidden;
+    	}
+	nav li:nth-child(1) {
+        	visibility: show;
+		display: block;
+		margin: 0 auto;
+		
     	}
 	div.hor-3 {
 	  /* width: 100%; */
