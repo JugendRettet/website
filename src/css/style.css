@@ -771,9 +771,9 @@ header.small .bread {
 	.bread {
 		display: block;
 	}
-	header nav {
-        visibility: hidden;
-    }
+	nav {
+        	visibility: hidden;
+    	}
 	div.hor-3 {
 	  /* width: 100%; */
 	}
