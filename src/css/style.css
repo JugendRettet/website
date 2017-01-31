@@ -675,12 +675,12 @@ header.small .bread {
     display: none;
 }
 
-#menu-state:checked ~ header .bread .top {
+#menu-state:checked ~ .bread .top {
     -webkit-transform: translate(0, 10px) rotate(-45deg);
     transform: translate(0, 10px) rotate(-45deg);
 }
 
-#menu-state:checked ~ header .bread .bottom {
+#menu-state:checked ~ .bread .bottom {
     -webkit-transform: translate(0, 10px) rotate(-135deg);
     transform: translate(0, 10px) rotate(-135deg);
 }
