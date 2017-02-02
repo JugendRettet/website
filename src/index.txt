@@ -321,7 +321,8 @@ _(donate_merch_link)
 
 _(donate_donations_account)
 
-
+            <div>
+            
 _(donate_account_info)
 
             </div>
