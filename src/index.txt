@@ -240,46 +240,29 @@ _(news_title)
     </div>
       <div class="text-box">
 
-            <div class="p-highlight">
-
 _(news_news_item)
 
-              <div class="p-dark a-dark">
 
 _(news_archive)
 
-              </div><!--p-dark-->
-            </div><!--p-highlight-->
-            <div class="p-dark a-dark">
 
 _(news_follow_iuv)
 
-            </div><!--p-dark-->
-            <div class="box-highlight">
 
 _(news_press_release)
 
-            </div><!--box-highlight-->
-            <div class="box-highlight">
 
 _(news_events)
 
-            </div><!--box-highlight-->
-        <div class="box-dark a-dark">
 
 _(news_follow_us)
 
-        </div><!--box-dark-->
-        <div class="box-highlight">
 
 _(news_news_mission)
 
-        </div><!--box-highlight-->
-        <div class="box-dark a-dark">
 
 _(news_mission_link)
 
-        </div><!--box-dark-->
         </div>
         </div>
       </section><!--news-->
