@@ -313,27 +313,17 @@ _(donate_title)
 
 <!--mkd-->_(donate_betterplace_text)
 
-            </a></strong></div>
-            <div class="box-highlight">
-
 _(donate_calc_text)
 
-            </div><!--box-highlight-->
-            <div class="box-dark a-dark">
 
 _(donate_merch_link)
 
-            </div><!--box-dark-->
-            <div class="box-highlight">
 
 _(donate_donations_account)
 
-              <div class="text-long">
 
 _(donate_account_info)
 
-              </div><!--text-long-->
-            </div><!--box-highlight-->
             </div>
             </div>
       </section><!--donate-->
