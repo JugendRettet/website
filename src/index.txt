@@ -193,9 +193,11 @@ _(rescue_as_sponsor)
         </div><!--hor-->
       </section><!--rescue-->
       <section id="faq" class="big-margin scroll-section">
+        <div class="box-dark a-dark">
 
 _(faq)
 
+        </div><!--box-dark-->
       </section><!--faq-->
       <section id="news" class="scroll-section">
 
