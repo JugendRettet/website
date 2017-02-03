@@ -139,11 +139,6 @@ _(team_title)
         <div class="hor">
           <div class="hor-el hor-5 box-pic-s">
 
-_(team_donations)
-
-          </div><!--hor-el-->
-          <div class="hor-el hor-5 box-pic-s">
-
 _(team_berlin)
 
           </div><!--hor-el-->
@@ -155,6 +150,11 @@ _(team_crew)
           <div class="hor-el hor-5 box-pic-s">
 
 _(team_embassies)
+
+          </div><!--hor-el-->
+          <div class="hor-el hor-5 box-pic-s">
+
+_(team_donations)
 
           </div><!--hor-el-->
           <div class="hor-el hor-5  box-pic-s">
@@ -172,7 +172,12 @@ _(rescue_as_title)
         <div class="hor">
           <div class="hor-el hor-4 box-pic-s">
 
-_(rescue_as_sponsor)
+_(rescue_as_voluntary)
+
+          </div><!--hor-el-->
+          <div class="hor-el hor-4 box-pic-s">
+
+_(rescue_as_ambassador)
 
           </div><!--hor-el-->
           <div class="hor-el hor-4 box-pic-s">
@@ -182,12 +187,7 @@ _(rescue_as_donator)
           </div><!--hor-el-->
           <div class="hor-el hor-4 box-pic-s">
 
-_(rescue_as_voluntary)
-
-          </div><!--hor-el-->
-          <div class="hor-el hor-4 box-pic-s">
-
-_(rescue_as_ambassador)
+_(rescue_as_sponsor)
 
           </div><!--hor-el-->
         </div><!--hor-->
@@ -258,11 +258,6 @@ _(news_follow_us)
 _(news_news_mission)
 
         </div><!--box-highlight-->
-        <div class="box-dark a-dark">
-
-_(news_mission_link)
-
-        </div><!--box-dark-->
       </section><!--news-->
       <section id="donate" class="scroll-section">
 
