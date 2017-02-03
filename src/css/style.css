@@ -363,7 +363,6 @@ body {
 	/*background: #286482;*/
 	font-family: Open Sans;
   color: #142d3c;
-  background: white;
 	margin: 0;
 	font-size: large;
 }
@@ -494,9 +493,6 @@ h3 {
 h1, h2, h3, h4, h5, h6 {
 	font-family: Open Sans;
 }
-div#paper {
-	background: white;
-}
 footer {
 	border-top: thin solid gray;
 	word-break:break-all;
@@ -514,6 +510,9 @@ footer ul {
 .center, p {
 	margin-left: auto;
 	margin-right: auto;
+}
+body, div#paper {
+	background: #f8f8f7;
 }
 /* end styling */
 @media screen and (max-width: 690px) {
