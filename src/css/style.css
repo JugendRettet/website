@@ -477,12 +477,15 @@ div.fakeh1 p {
 h2 {
 	/*border-left:solid;*/
 	/*padding-left:2ch;*/
-	border-top: solid;
-  padding: 2ch;
+	border-top: solid 10px;
+	padding: 4ch;
 	text-transform: uppercase;
 	margin-top: 1.4em;
 	/*background: rgb(141, 160, 169);
   color: white;*/
+	max-width: 80%;
+	margin-left: auto;
+	margin-right: auto;
 }
 h1, h2 {
 	color: #286482;
