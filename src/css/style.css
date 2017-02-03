@@ -190,9 +190,6 @@ div.a-dark {
   color 0.6s ease,
   border-color 0.6s ease;
 }
-div.a-dark:hover {
-	color: #142d3c;
-}
 div.box-dark, div.box-highlight {
 	padding: 0.4ch;
 }
@@ -513,12 +510,16 @@ footer ul {
 	margin-left: auto;
 	margin-right: auto;
 }
-body, div#paper, div.a-dark:hover, nav {
+body, div#paper, nav {
 	background: #f8f8f7;
 }
 div.p-highlight {
 	padding: 0.5em;
 	margin-top: 0;
+}
+div.a-dark:hover {
+	color: #142d3c;
+	background: inherit;
 }
 /* end styling */
 @media screen and (max-width: 690px) {
