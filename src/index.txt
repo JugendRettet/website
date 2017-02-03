@@ -225,11 +225,6 @@ _(news_archive)
 
               </div><!--p-dark-->
             </div><!--p-highlight-->
-            <div class="p-dark a-dark">
-
-_(news_follow_iuv)
-
-            </div><!--p-dark-->
           </div><!--hor-el-->
           <div class="hor-el hor-3">
             <div class="box-highlight">
@@ -246,11 +241,22 @@ _(news_events)
             </div><!--box-highlight-->
           </div><!--hor-el-->
         </div><!--hor-->
-        <div class="box-dark a-dark">
+        <div class="hor">
+          <div class="hor-el hor-2">
+            <div class="box-dark a-dark">
 
 _(news_follow_us)
 
-        </div><!--box-dark-->
+            </div><!--box-dark-->
+          </div><!--hor-el-->
+          <div class="hor-el hor-2">
+            <div class="box-dark a-dark">
+
+_(news_follow_iuv)
+
+            </div><!--box-dark-->
+          </div><!--hor-el-->
+        </div><!--hor-->
         <div class="box-highlight">
 
 _(news_news_mission)
