@@ -279,10 +279,6 @@ div.hidden {
 	margin-left: auto;
 	margin-right: auto;
 }
-div.p-highlight {
-	padding: 0.5em;
-	margin-top: 0;
-}
 /* end classes */
 /* structure */
 body {
@@ -519,6 +515,10 @@ footer ul {
 }
 body, div#paper, div.a-dark:hover, nav {
 	background: #f8f8f7;
+}
+div.p-highlight {
+	padding: 0.5em;
+	margin-top: 0;
 }
 /* end styling */
 @media screen and (max-width: 690px) {
