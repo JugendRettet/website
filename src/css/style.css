@@ -392,7 +392,6 @@ nav a {
   text-transform: uppercase;
   font-size: medium;
   padding: 1ch;
-  border-bottom: solid thin;
   transition: background-color 0.2s linear,
   color 0.2s linear,
   border 0.2s;
