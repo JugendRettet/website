@@ -521,6 +521,9 @@ div.a-dark:hover {
 	color: #142d3c;
 	background: inherit;
 }
+div.box-highlight {
+	padding-bottom: 1em;
+}
 /* end styling */
 @media screen and (max-width: 690px) {
 	div.hor-3 {
