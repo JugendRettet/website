@@ -37,7 +37,7 @@
             #phase hr.load#ph-eins-progress {
                 transition: 800ms ease;
                 width: <?php
-                    $percent = file_get_contents('donations/phase1.txt');
+                    $phase1 = file_get_contents('donations/phase1.txt');
                     $needed = file_get_contents('donations/needed.txt');
                     $value1 = number_format((float)$phase1,0,",",".");
                     $sd = ( 1000 - ( 1000 * ( $phase1 / $needed ) ) );
