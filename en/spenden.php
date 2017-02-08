@@ -135,8 +135,8 @@
                         <script type="text/javascript">
                           /* Configure at https://www.betterplace.org/de/projects/42019-rette-mit-einsatz-zur-seenotrettung-auf-dem-mittelmeer/manage/iframe_donation_form */
                           var _bp_iframe        = _bp_iframe || {};
-                          _bp_iframe.project_id = 48425; /* REQUIRED */
-                          /*_bp_iframe.project_id = 52216;*/
+                          _bp_iframe.project_id = 52216; /* REQUIRED */
+                          /*_bp_iframe.project_id = 48425;*/
                           _bp_iframe.lang       = 'en'; /* Language of the form */
                           /* Remove "//" for further customization but *only* if you really need to! */
                           // _bp_iframe.width = 600; /* Custom iframe-tag-width, integer */
@@ -201,12 +201,13 @@
                                 </div>
                                 <div class="content" id="ph-eins-content">
                                     <p><a target="_blank" href="betterplace">→ Breakdown</a></p>
-                                    <p>We have accomplished all necessary requirements for our rescue missions: we raised enough donations to buy the IUVENTA, renovate her, transfer her to Malta from where she will start her first mission end of July 2016. The first month at sea already got financed. We could not have achieved this without the great support of our donors, helpers and our ambassadors in more than 37 European cities. Thank you!</p>
-                                    <br>
-                                    <p>As we’re now finally came to the core of Jugend Rettet, rescue people in maritime emergency, we need your support more than ever to make sure the IUVENTA safes lives: That means we need professional crew members (<a href="crew_english">jugendrettet.org/crew_english</a>). Please only apply, if you’re truly suitable. At the same time we have to cover the ongoing costs like petrol, saving appliances, food for the crew and the rescued, clothes and blankets, as well as the ship insurance.</p>
-                                    <br>
-                                    <p>We ask for your support: donate now for our missions and help us to save lives. Together we can take a stand against ignorance of the EU governments and for more humanity. Join the rescue!
-</p>
+<p>Last Year, 4579 People died because of their fleeing by crossing the Mediterranean sea. Rather than organizing a sea rescue programme, the EU has prepared a 10-point-plan to end this "irregular flood of migration“. The goal being, to close the last immigration route over the central Mediterranean.</p>
+<br>
+<p>2016 we bought our ship, renovated it and saved 6,526 people in maritime distress. We'll continue our efforts starting March 2017.</p>
+<br>
+<p>Until then we need your help: We are already busy preparing our IUVENTA for the months and missions to come. We are not being deterred by European foreclosure policy and will continue to uphold the European values of a young EU - our EU.</p>
+<br>
+<p>Each donation brings us closer to fulfill the duty the EU is sadly neglecting. We will rebuild our IUVENTA to send it back to its mission as soon as possible: saving lives.</p>
                                     <br>
                                     <p>You can find further information on our ship <a href="schiff#wie">here</a>.</p>
                                 </div>
@@ -214,12 +215,13 @@
                         </div>
                         <div class="content ie">
                           <p><a target="_blank" href="betterplace">→ Breakdown</a></p>
-                          <p>We have accomplished all necessary requirements for our rescue missions: we raised enough donations to buy the IUVENTA, renovate her, transfer her to Malta from where she will start her first mission end of July 2016. The first month at sea already got financed. We could not have achieved this without the great support of our donors, helpers and our ambassadors in more than 37 European cities. Thank you!</p>
-                          <br>
-                          <p>As we’re now finally came to the core of Jugend Rettet, rescue people in maritime emergency, we need your support more than ever to make sure the IUVENTA safes lives: That means we need professional crew members (<a href="crew_english">jugendrettet.org/crew_english</a>). Please only apply, if you’re truly suitable. At the same time we have to cover the ongoing costs like petrol, saving appliances, food for the crew and the rescued, clothes and blankets, as well as the ship insurance.</p>
-                          <br>
-                          <p>We ask for your support: donate now for our missions and help us to save lives. Together we can take a stand against ignorance of the EU governments and for more humanity. Join the rescue!
-</p>
+<p>Last Year, 4579 People died because of their fleeing by crossing the Mediterranean sea. Rather than organizing a sea rescue programme, the EU has prepared a 10-point-plan to end this "irregular flood of migration“. The goal being, to close the last immigration route over the central Mediterranean.</p>
+<br>
+<p>2016 we bought our ship, renovated it and saved 6,526 people in maritime distress. We'll continue our efforts starting March 2017.</p>
+<br>
+<p>Until then we need your help: We are already busy preparing our IUVENTA for the months and missions to come. We are not being deterred by European foreclosure policy and will continue to uphold the European values of a young EU - our EU.</p>
+<br>
+<p>Each donation brings us closer to fulfill the duty the EU is sadly neglecting. We will rebuild our IUVENTA to send it back to its mission as soon as possible: saving lives.</p>
                           <br>
                           <p>You can find further information on our ship <a href="schiff#wie">here</a>.</p>
                         </div>

@@ -141,8 +141,8 @@
                         <script type="text/javascript">
                           /* Configure at https://www.betterplace.org/de/projects/42019-rette-mit-einsatz-zur-seenotrettung-auf-dem-mittelmeer/manage/iframe_donation_form */
                           var _bp_iframe        = _bp_iframe || {};
-                          _bp_iframe.project_id = 48425; /* REQUIRED */
-                          /*_bp_iframe.project_id = 52216;*/
+                          _bp_iframe.project_id = 52216; /* REQUIRED */
+                          /*_bp_iframe.project_id = 48425;*/
                           _bp_iframe.lang       = 'de'; /* Language of the form */
                           /* Remove "//" for further customization but *only* if you really need to! */
                           // _bp_iframe.width = 600; /* Custom iframe-tag-width, integer */
@@ -207,19 +207,19 @@
                                 </div>
                                 <div class="content" id="ph-eins-content">
                                     <p><a target="_blank" href="betterplace">→ Aufschlüsselung</a></p>
-                                    <p>
-                                    Wir haben alle notwendigen Vorraussetzungen erreicht, um unsere Rettungsmissionen durchzuführen: wir haben genug Geld gesammelt, um die IUVENTA zu kaufen, sie zu renovieren und nach Malta zu überführen, von wo aus sie die Missionen startet. Außerdem ist auch der erste Betriebsmonat finanziert. Das haben wir den vielen Spender_innen, der tatkräftigen Unterstützung vieler Menschen und nicht zuletzt unseren Botschafter_innen in mittlerweile 37 verschiedenen europäischen Städten zu verdanken. Vielen Dank für eure Hilfe!
-                                    </p>
-                                    <p>
-                                      Nun sind wir endlich zum Kern von Jugend Rettet gekommen: der Rettung von Menschen aus Seenot. Damit sichergestellt ist, dass die IUVENTA ihre Rettungen lange durchführen kann, brauchen wir euch mehr denn je: Das bedeutet, dass wir weiterhin nach professionellen Crewmitgliedern (<a href="crew">jugendrettet.org/crew</a>) suchen. Bitte nur bewerben, wenn ihr wirklich für die Aufgaben geeignet seid.</p>
-                                    <br>
-                                    <p>
-                                    Gleichzeitig brauchen wir Geld, um die laufenden Kosten der Rettungsmission zu decken: Neben dem Treibstoff für das Schiff, fallen hierbei Kosten für die Rettungsmittel, die Verpflegung der Crew und der Geretteten, Kleidung und Decken, die Schiffsversicherung u.a. an.
-                                    </p>
-                                    <br>
-                                    <p>
-                                      Um auch diese Etappe meistern zu können, bitten wir um deine Unterstützung: Spende jetzt für den Rettungseinsatz und hilf uns, ab Ende Juli Menschen aus Lebensgefahr retten zu können! Gemeinsam können wir ein Zeichen gegen die Gleichgültigkeit und für mehr Menschlichkeit setzen. Rette mit!
-                                    </p>
+<p>Noch nie ertranken so viele Menschen bei ihrer Flucht über die zentrale Mittelmeerroute, wie im vergangenen Jahr.</p>
+<p>5.083 Mal kam jede Hilfe zu spät. Wie hoch die Dunkelziffer liegt können wir kaum erahnen.</p>
+<p>Weiterhin übernimmt Europa keine Verantwortung. Weiterhin gibt es kein staatliches Seenotrettungsprogramm. Stattdessen wird die unsichtbare Mauer Europas höher gezogen, wie der 10-Punkte Plan der EU zeigt.</p>
+<br>
+<p>Wir haben 2016 ein Schiff gekauft, es umgebaut und bisher 6.526 Menschen aus Seenot gerettet. Ab März 2017 setzen wir unsere Einsätze fort.</p>
+<br>
+<p>Doch bevor es los geht, brauchen wir eure Hilfe: Denn die IUVENTA verlässt ihren Winterschlaf und es wird geschraubt, gebohrt und geschweisst, was das Zeug hält, um noch im Frühjahr unsere erste Rettungsmissionen zu starten. Auch wenn die EU mit ihrer Abschottungspolitik einen Schritt weiter geht und nun mit Libyen kooperieren will, werden wir Menschen nicht ertrinken lassen. Als junge Europäer_innen sehen wir uns in der Pflicht, Verantwortung zu übernehmen und zu handeln. Unsere IUVENTA steht also nun im Hafen von Venedig und wird wieder bereit gemacht.</p>
+<br>
+<p>Wir sagen:</p>
+<p>Frontex rüstet auf? - Das können wir auch.</p>
+<br>
+<p>Wir werden nicht schweigend zusehen, wie die EU mit ihrem 10-Punkte-Plan klang heimlich die Mauer um Europa höher baut. Wir werden die IUVENTA in den nächsten Wochen wieder fit machen.</p>
+<p>Jeder Euro hilft uns dabei, das Ziel zu verwirklichen und noch im Frühjahr rauszufahren.</p>
                                     <br>
                                     <p>Weitere Infos zu unserem Schiff findest du <a href="schiff#wie">hier</a>.</p>
                                 </div>
@@ -227,19 +227,19 @@
                         </div>
                         <div class="content ie">
                           <p><a target="_blank" href="betterplace">→ Aufschlüsselung</a></p>
-                          <p>
-                          Wir haben alle notwendigen Vorraussetzungen erreicht, um unsere Rettungsmissionen durchzuführen: wir haben genug Geld gesammelt, um die IUVENTA zu kaufen, sie zu renovieren und nach Malta zu überführen, von wo aus sie die Missionen startet. Außerdem ist auch der erste Betriebsmonat finanziert. Das haben wir den vielen Spender_innen, der tatkräftigen Unterstützung vieler Menschen und nicht zuletzt unseren Botschafter_innen in mittlerweile 37 verschiedenen europäischen Städten zu verdanken. Vielen Dank für eure Hilfe!
-                          </p>
-                          <p>
-                            Nun sind wir endlich zum Kern von Jugend Rettet gekommen: der Rettung von Menschen aus Seenot. Damit sichergestellt ist, dass die IUVENTA ihre Rettungen lange durchführen kann, brauchen wir euch mehr denn je: Das bedeutet, dass wir weiterhin nach professionellen Crewmitgliedern (<a href="crew">jugendrettet.org/crew</a>) suchen. Bitte nur bewerben, wenn ihr wirklich für die Aufgaben geeignet seid.</p>
-                          <br>
-                          <p>
-                          Gleichzeitig brauchen wir Geld, um die laufenden Kosten der Rettungsmission zu decken: Neben dem Treibstoff für das Schiff, fallen hierbei Kosten für die Rettungsmittel, die Verpflegung der Crew und der Geretteten, Kleidung und Decken, die Schiffsversicherung u.a. an.
-                          </p>
-                          <br>
-                          <p>
-                            Um auch diese Etappe meistern zu können, bitten wir um deine Unterstützung: Spende jetzt für den Rettungseinsatz und hilf uns, ab Ende Juli Menschen aus Lebensgefahr retten zu können! Gemeinsam können wir ein Zeichen gegen die Gleichgültigkeit und für mehr Menschlichkeit setzen. Rette mit!
-                          </p>
+<p>Noch nie ertranken so viele Menschen bei ihrer Flucht über die zentrale Mittelmeerroute, wie im vergangenen Jahr.</p>
+<p>5.083 Mal kam jede Hilfe zu spät. Wie hoch die Dunkelziffer liegt können wir kaum erahnen.</p>
+<p>Weiterhin übernimmt Europa keine Verantwortung. Weiterhin gibt es kein staatliches Seenotrettungsprogramm. Stattdessen wird die unsichtbare Mauer Europas höher gezogen, wie der 10-Punkte Plan der EU zeigt.</p>
+<br>
+<p>Wir haben 2016 ein Schiff gekauft, es umgebaut und bisher 6.526 Menschen aus Seenot gerettet. Ab März 2017 setzen wir unsere Einsätze fort.</p>
+<br>
+<p>Doch bevor es los geht, brauchen wir eure Hilfe: Denn die IUVENTA verlässt ihren Winterschlaf und es wird geschraubt, gebohrt und geschweisst, was das Zeug hält, um noch im Frühjahr unsere erste Rettungsmissionen zu starten. Auch wenn die EU mit ihrer Abschottungspolitik einen Schritt weiter geht und nun mit Libyen kooperieren will, werden wir Menschen nicht ertrinken lassen. Als junge Europäer_innen sehen wir uns in der Pflicht, Verantwortung zu übernehmen und zu handeln. Unsere IUVENTA steht also nun im Hafen von Venedig und wird wieder bereit gemacht.</p>
+<br>
+<p>Wir sagen:</p>
+<p>Frontex rüstet auf? - Das können wir auch.</p>
+<br>
+<p>Wir werden nicht schweigend zusehen, wie die EU mit ihrem 10-Punkte-Plan klang heimlich die Mauer um Europa höher baut. Wir werden die IUVENTA in den nächsten Wochen wieder fit machen.</p>
+<p>Jeder Euro hilft uns dabei, das Ziel zu verwirklichen und noch im Frühjahr rauszufahren.</p>
                           <br>
                           <p>Weitere Infos zu unserem Schiff findest du <a href="schiff#wie">hier</a>.</p>
                         </div>
