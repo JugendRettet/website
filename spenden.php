@@ -206,7 +206,7 @@
                                     <hr id="ph-eins-progress">
                                 </div>
                                 <div class="content" id="ph-eins-content">
-                                    <p><a target="_blank" href="betterplace">→ Aufschlüsselung</a></p>
+                                    <p><a target="_blank" href="umbau">→ Aufschlüsselung</a></p>
 <p>Noch nie ertranken so viele Menschen bei ihrer Flucht über die zentrale Mittelmeerroute, wie im vergangenen Jahr.</p>
 <p>5.083 Mal kam jede Hilfe zu spät. Wie hoch die Dunkelziffer liegt können wir kaum erahnen.</p>
 <p>Weiterhin übernimmt Europa keine Verantwortung. Weiterhin gibt es kein staatliches Seenotrettungsprogramm. Stattdessen wird die unsichtbare Mauer Europas höher gezogen, wie der 10-Punkte Plan der EU zeigt.</p>
@@ -226,7 +226,7 @@
                             </div>
                         </div>
                         <div class="content ie">
-                          <p><a target="_blank" href="betterplace">→ Aufschlüsselung</a></p>
+                          <p><a target="_blank" href="umbau">→ Aufschlüsselung</a></p>
 <p>Noch nie ertranken so viele Menschen bei ihrer Flucht über die zentrale Mittelmeerroute, wie im vergangenen Jahr.</p>
 <p>5.083 Mal kam jede Hilfe zu spät. Wie hoch die Dunkelziffer liegt können wir kaum erahnen.</p>
 <p>Weiterhin übernimmt Europa keine Verantwortung. Weiterhin gibt es kein staatliches Seenotrettungsprogramm. Stattdessen wird die unsichtbare Mauer Europas höher gezogen, wie der 10-Punkte Plan der EU zeigt.</p>

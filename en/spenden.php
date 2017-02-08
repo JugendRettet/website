@@ -200,7 +200,7 @@
                                     <hr id="ph-eins-progress">
                                 </div>
                                 <div class="content" id="ph-eins-content">
-                                    <p><a target="_blank" href="betterplace">→ Breakdown</a></p>
+                                    <p><a target="_blank" href="umbau">→ Breakdown</a></p>
 <p>Last Year, 4579 People died because of their fleeing by crossing the Mediterranean sea. Rather than organizing a sea rescue programme, the EU has prepared a 10-point-plan to end this "irregular flood of migration“. The goal being, to close the last immigration route over the central Mediterranean.</p>
 <br>
 <p>2016 we bought our ship, renovated it and saved 6,526 people in maritime distress. We'll continue our efforts starting March 2017.</p>
@@ -214,7 +214,7 @@
                             </div>
                         </div>
                         <div class="content ie">
-                          <p><a target="_blank" href="betterplace">→ Breakdown</a></p>
+                          <p><a target="_blank" href="umbau">→ Breakdown</a></p>
 <p>Last Year, 4579 People died because of their fleeing by crossing the Mediterranean sea. Rather than organizing a sea rescue programme, the EU has prepared a 10-point-plan to end this "irregular flood of migration“. The goal being, to close the last immigration route over the central Mediterranean.</p>
 <br>
 <p>2016 we bought our ship, renovated it and saved 6,526 people in maritime distress. We'll continue our efforts starting March 2017.</p>
