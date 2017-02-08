@@ -33,26 +33,15 @@
                 $('#phase hr#ph-eins-progress').addClass('load')
             });
         </script>
-        <!--<style type="text/css">
-            #phase hr.load#ph-eins-progress {
-                transition: 800ms ease;
-                width: <?php
-                    $phase1 = file_get_contents('donations/phase1.txt');
-                    $value1 = number_format((float)$phase1,0,",",".");
-                    echo 100 / 80000 * $phase1;
-                    ?>%;
-            }
-        </style>-->
         <style type="text/css">
             #phase hr.load#ph-eins-progress {
                 transition: 800ms ease;
                 width: <?php
-                    $phase1 = file_get_contents('donations/phase1.txt');
+                    $percent = file_get_contents('donations/phase1.txt');
                     $needed = file_get_contents('donations/needed.txt');
                     $value1 = number_format((float)$phase1,0,",",".");
                     $sd = ( 1000 - ( 1000 * ( $phase1 / $needed ) ) );
-                    $percent = ( 100 / $needed * $phase1 );
-                    $perform = number_format((float)$percent,0,",",".");
+                    $percent = file_get_contents('donations/perc.txt');
                     echo $percent;
                     ?>%;
             }
@@ -84,7 +73,7 @@
                                     <circle r="159.15" cy="7" cx="7"/> <!-- r=(1000 / 2pi); cy, cx offset to match svg-->
                                 </svg>
                             </div>
-                            <span id="phase-text" class="center">Aktuell:<br><?php echo $perform;?>%<br>finanziert</span>
+                            <span id="phase-text" class="center">Aktuell:<br><?php echo $percent;?>%<br>finanziert</span>
                             <div id="belt" style="position:absolute">
                               <img class="belt" src="./graphics/belt.svg" alt="Rettungsring">
                             </div>

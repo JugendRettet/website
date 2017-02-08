@@ -70,7 +70,8 @@
                     $value1 = number_format((float)$phase1,0,".",",");
                     $needed_format = number_format((float)$needed,0,".",",");
                     $sd = ( 1000 - ( 1000 * ( $phase1 / $needed ) ) );
-                    echo 100 / $needed * $phase1;
+                    $percent = file_get_contents('../donations/perc.txt');
+                    echo $percent;
                     ?>%;
             }
         </style>
@@ -135,6 +136,7 @@
                           /* Configure at https://www.betterplace.org/de/projects/42019-rette-mit-einsatz-zur-seenotrettung-auf-dem-mittelmeer/manage/iframe_donation_form */
                           var _bp_iframe        = _bp_iframe || {};
                           _bp_iframe.project_id = 48425; /* REQUIRED */
+                          /*_bp_iframe.project_id = 52216;*/
                           _bp_iframe.lang       = 'en'; /* Language of the form */
                           /* Remove "//" for further customization but *only* if you really need to! */
                           // _bp_iframe.width = 600; /* Custom iframe-tag-width, integer */
@@ -193,7 +195,7 @@
                         <div style="display:initial;" id="phase">
                             <div class="ph-container" id="ph-eins">
                                 <div class="header" style="text-align:center;">
-                                    <span class="percentage">Now: <?php echo $value1;?> / <?php echo $needed_format;?> €</span>
+                                    <span class="percentage">Now: <?php echo $percent;?>% funded</span>
                                     <!--<span class="percentage">Month 2</span>-->
                                     <hr id="ph-eins-progress">
                                 </div>
