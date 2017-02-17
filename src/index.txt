@@ -323,4 +323,4 @@ _(donate_account_info)
   </div><!-- text-center -->
 </div><!-- paper -->
 
-<script type="text/javascript" src="../f/js/scroll-sections.js"></script>
+<script type="text/javascript" src="../js/scroll-sections.js"></script>
