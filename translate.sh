@@ -8,7 +8,7 @@ TEXT="${in}"
 
 translations_dir=$1
 
-files="$( find "${translations_dir}"/ -type f )"
+files="$( find "${translations_dir}"/ -type f -name "*.md" -not -path "*/.git/*" )"
 while read file; do
   . "${file}"
 done <<<"${files}"
