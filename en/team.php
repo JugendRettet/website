@@ -157,7 +157,7 @@
 <li>Munich: <a href="mailto:Lisa@jugendrettet.org">Lisa</a></li>
 <li>Münster: <a href="mailto:Paul_Muenster@jugendrettet.org">Paul</a></li>
 <li>Nürnberg: <a href="mailto:Annemarie_Nuernberg@jugendrettet.org">Annemarie</a></li>
-<li>Nürnberg: <a href="mailto:Marc_Nuernberg@jugendrettet.org">Marc</a></li>
+<li>Nürnberg: <a href="mailto:Mark_Nuernberg@jugendrettet.org">Mark</a></li>
 <li>Oldenburg: <a href="mailto:Sabeth_Oldenburg@jugendrettet.org">Sabeth</a></li>
 <li>Oldenburg: <a href="mailto:Maxi_Oldenburg@jugendrettet.org">Maxi</a></li>
 <li>Oldenburg: <a href="mailto:Deniz_Oldenburg@jugendrettet.org">Deniz</a></li>
