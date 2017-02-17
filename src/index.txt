@@ -14,8 +14,8 @@
 _(logo)
 
     </div><!--center-->
-    <video id="waves-video" class="header-video" loop autoplay preload="auto" poster="../images/error.jpg">
-      <source src="../videos/waves.mp4">
+    <video id="waves-video" class="header-video" loop autoplay preload="auto" poster="../f/images/error.jpg">
+      <source src="../f/videos/waves.mp4">
     </video>
   </section><!--header-->
 </a><!--introlink-->
@@ -323,4 +323,4 @@ _(donate_account_info)
   </div><!-- text-center -->
 </div><!-- paper -->
 
-<script type="text/javascript" src="../js/scroll-sections.js"></script>
+<script type="text/javascript" src="../f/js/scroll-sections.js"></script>
