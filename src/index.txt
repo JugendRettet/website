@@ -55,7 +55,7 @@ _(menu_news)
 _(menu_donate)
   
   </a>
-  <a href="/press">
+  <a href="press.html">
 
 _(menu_press) &rarr;
 
