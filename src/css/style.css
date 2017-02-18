@@ -475,6 +475,8 @@ h2 {
 	/*padding-left:2ch;*/
 	border-top: solid 10px;
 	padding: 4ch;
+	padding-left: 0;
+	padding-right: 0;
 	text-transform: uppercase;
 	margin-top: 1.4em;
 	/*background: rgb(141, 160, 169);
