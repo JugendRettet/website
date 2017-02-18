@@ -9,8 +9,16 @@ TEXT="${in}"
 translations_dir=$1
 
 files="$( find "${translations_dir}"/ -type f -name "*.md" -not -path "*/.git/*" )"
+
+# sanitize a little first
+
 while read file; do
-  . "${file}"
+  ./sanitize.awk "${file}" > "${file}".tmp
+done <<<"${files}"
+
+while read file; do
+  . "${file}".tmp
+  rm "${file}".tmp
 done <<<"${files}"
 
 declare NEW_TEXT
@@ -22,7 +30,7 @@ while read snippet; do
   # Get the name of the translated phrase in the translations file.
   translation_name="$( awk '{gsub(/^_\(|\)$/,"");print}' <<<"${snippet}" )"
   # Put translation into variable.
-  translation_content="$( sed 's/\&/\\\\&/g' <<<"${!translation_name}" )"
+  translation_content="$( sed -e '1d; $d' -e 's/\&/\\\\&/g' <<<"${!translation_name}" )"
   # Replace current phrase with translation.
   NEW_TEXT="$(
     gawk -v n="_\\\("${translation_name}"\\\)" -v c="${translation_content}" \
