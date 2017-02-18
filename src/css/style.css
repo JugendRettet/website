@@ -217,8 +217,11 @@ div.box-pic h2, div.box-pic h3, div.box-pic-s h2, div.box-pic-s h3 {
   top: 0;
   width: 100%;
 }
-div.box-pic img, div.box-pic-s img {
+div.box-pic img {
   height: 40vh;
+}
+div.box-pic-s img {
+  height: 30vh;
 }
 div.hor-el {
   display: inline-block;
@@ -564,6 +567,9 @@ div.box-pic p, div.box-pic-s p {
 	}
 	div.hor-2 {
 	  font-size: smaller;
+	}
+	div.box-pic-s img {
+	  height: 25vh;
 	}
 }
 @media screen and (max-width: 400px) {
