@@ -17,9 +17,9 @@ function page_header {
     <meta property="og:image:height" content="500" />
     <meta property="og:type" content="website" />
     <meta property="og:site_name" content="'"${WSH_GENF_TITLE}"'" />
-    <link rel="shortcut icon" type="image/x-icon" href="../graphics/jr.ico" />
-    <link rel="mask-icon" href="../graphics/jr-mask.svg">
-    <link rel="apple-touch-icon" href="../graphics/apple-touch-icon.png"/>'
+    <link rel="shortcut icon" type="image/x-icon" href="../f/graphics/jr.ico" />
+    <link rel="mask-icon" href="../f/graphics/jr-mask.svg">
+    <link rel="apple-touch-icon" href="../f/graphics/apple-touch-icon.png"/>'
     while read lang; do
     	print '	<link rel="alternate" hreflang="'"${lang}"'" href="'"${WSH_URL}"'/'"${lang}"'/" />'
 	done <<<"${TR_LANGS}"
@@ -31,8 +31,8 @@ function page_header {
 	else
 		print "\t<title>${TR_TITLE}</title>"
 	fi
-	print '	<script type="text/javascript" src="/js/jquery-3.1.1.min.js"></script>
-	<script type="text/javascript" src="/js/smoothscroll.js"></script>
+	print '	<script type="text/javascript" src="../js/jquery-3.1.1.min.js"></script>
+	<script type="text/javascript" src="../js/smoothscroll.js"></script>
 </head>
 <body>'
 }

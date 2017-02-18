@@ -19,8 +19,8 @@ _(header_title)
 _(logo)
 
     </div><!--center-->
-    <video id="waves-video" class="header-video" muted loop autoplay preload="auto" poster="../images/error.jpg">
-      <source src="../videos/waves.mp4">
+    <video id="waves-video" class="header-video" loop autoplay preload="auto" poster="../f/images/error.jpg">
+      <source src="../f/videos/waves.mp4">
     </video>
   </section><!--header-->
 </a><!--introlink-->
@@ -60,7 +60,7 @@ _(menu_news)
 _(menu_donate)
   
   </a>
-  <a href="/press">
+  <a href="press.html">
 
 _(menu_press) &rarr;
 
@@ -121,19 +121,25 @@ _(about_us_title)
 
         <div class="hor">
           <div class="hor-el hor-3 box-pic">
+            <a href="about">
 
 _(about_us_our_story_title)
 
+            </a>
           </div><!--hor-el-->
           <div class="hor-el hor-3 box-pic">
+            <a href="about">
 
 _(about_us_iuv_title)
 
+            </a>
           </div><!--hor-el-->
           <div class="hor-el hor-3 box-pic">
+            <a href="about">
 
 _(about_us_transparency_title)
 
+            </a>
           </div><!--hor-el-->
         </div><!--hor-->
       </section><!--about-->
@@ -143,29 +149,39 @@ _(team_title)
 
         <div class="hor">
           <div class="hor-el hor-5 box-pic-s">
-
-_(team_donations)
-
-          </div><!--hor-el-->
-          <div class="hor-el hor-5 box-pic-s">
+            <a href="team">
 
 _(team_berlin)
 
+            </a>
           </div><!--hor-el-->
           <div class="hor-el hor-5 box-pic-s">
+            <a href="team">
 
 _(team_crew)
 
+            </a>
           </div><!--hor-el-->
           <div class="hor-el hor-5 box-pic-s">
+            <a href="team">
 
 _(team_embassies)
 
+            </a>
+          </div><!--hor-el-->
+          <div class="hor-el hor-5 box-pic-s">
+            <a href="team">
+
+_(team_donations)
+
+            </a>
           </div><!--hor-el-->
           <div class="hor-el hor-5  box-pic-s">
+            <a href="team">
 
 _(team_sponsors)
 
+            </a>
           </div><!--hor-el-->
         </div><!--hor-->
 
@@ -176,33 +192,39 @@ _(rescue_as_title)
 
         <div class="hor">
           <div class="hor-el hor-4 box-pic-s">
-
-_(rescue_as_sponsor)
-
-          </div><!--hor-el-->
-          <div class="hor-el hor-4 box-pic-s">
-
-_(rescue_as_donator)
-
-          </div><!--hor-el-->
-          <div class="hor-el hor-4 box-pic-s">
+            <a href="rescue_as">
 
 _(rescue_as_voluntary)
 
+            </a>
           </div><!--hor-el-->
           <div class="hor-el hor-4 box-pic-s">
+            <a href="rescue_as">
 
 _(rescue_as_ambassador)
 
+            </a>
+          </div><!--hor-el-->
+          <div class="hor-el hor-4 box-pic-s">
+            <a href="rescue_as">
+
+_(rescue_as_donator)
+
+            </a>
+          </div><!--hor-el-->
+          <div class="hor-el hor-4 box-pic-s">
+            <a href="rescue_as">
+
+_(rescue_as_sponsor)
+
+            </a>
           </div><!--hor-el-->
         </div><!--hor-->
       </section><!--rescue-->
       <section id="faq" class="big-margin scroll-section">
-        <div class="box-dark a-dark">
 
 _(faq)
 
-        </div><!--box-dark-->
       </section><!--faq-->
       <section id="news" class="scroll-section">
 
@@ -217,7 +239,7 @@ _(news_title)
             <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
           </div><!--hor-el-->
           <div class="hor-el hor-3 hor-overflow">
-
+            <blockquote class="instagram-media" data-instgrm-version="7" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);"><div style="padding:8px;"> <div style=" background:#F8F8F8; line-height:0; margin-top:40px; padding:33.24074074074074% 0; text-align:center; width:100%;"> <div style=" background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAMAAAApWqozAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAMUExURczMzPf399fX1+bm5mzY9AMAAADiSURBVDjLvZXbEsMgCES5/P8/t9FuRVCRmU73JWlzosgSIIZURCjo/ad+EQJJB4Hv8BFt+IDpQoCx1wjOSBFhh2XssxEIYn3ulI/6MNReE07UIWJEv8UEOWDS88LY97kqyTliJKKtuYBbruAyVh5wOHiXmpi5we58Ek028czwyuQdLKPG1Bkb4NnM+VeAnfHqn1k4+GPT6uGQcvu2h2OVuIf/gWUFyy8OWEpdyZSa3aVCqpVoVvzZZ2VTnn2wU8qzVjDDetO90GSy9mVLqtgYSy231MxrY6I2gGqjrTY0L8fxCxfCBbhWrsYYAAAAAElFTkSuQmCC); display:block; height:44px; margin:0 auto -44px; position:relative; top:-22px; width:44px;"></div></div><p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;"><a href="https://www.instagram.com/p/BMYoJY9hCI6/" style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none;" target="_blank">A photo posted by Jugend Rettet e.V. (@jugendrettet)</a> on <time style=" font-family:Arial,sans-serif; font-size:14px; line-height:17px;" datetime="2016-11-04T10:25:33+00:00">Nov 4, 2016 at 3:25am PDT</time></p></div></blockquote> <script async defer src="//platform.instagram.com/en_US/embeds.js"></script>
           </div><!--hor-el-->
         </div><!--hor-->
         <div class="hor">
@@ -232,11 +254,6 @@ _(news_archive)
 
               </div><!--p-dark-->
             </div><!--p-highlight-->
-            <div class="p-dark a-dark">
-
-_(news_follow_iuv)
-
-            </div><!--p-dark-->
           </div><!--hor-el-->
           <div class="hor-el hor-3">
             <div class="box-highlight">
@@ -253,21 +270,27 @@ _(news_events)
             </div><!--box-highlight-->
           </div><!--hor-el-->
         </div><!--hor-->
-        <div class="box-dark a-dark">
+        <div class="hor">
+          <div class="hor-el hor-2">
+            <div class="box-dark a-dark">
 
 _(news_follow_us)
 
-        </div><!--box-dark-->
+            </div><!--box-dark-->
+          </div><!--hor-el-->
+          <div class="hor-el hor-2">
+            <div class="box-dark a-dark">
+
+_(news_follow_iuv)
+
+            </div><!--box-dark-->
+          </div><!--hor-el-->
+        </div><!--hor-->
         <div class="box-highlight">
 
 _(news_news_mission)
 
         </div><!--box-highlight-->
-        <div class="box-dark a-dark">
-
-_(news_mission_link)
-
-        </div><!--box-dark-->
       </section><!--news-->
       <section id="donate" class="scroll-section">
 
@@ -283,7 +306,7 @@ _(donate_title)
             /* Remove "//" for further customization but *only* if you really need to! */
             // _bp_iframe.width = 600; /* Custom iframe-tag-width, integer */
             _bp_iframe.color = '286482'; /* Button and banderole color, hex without "#" */
-            _bp_iframe.background_color = 'ffffff'; /* Background-color, hex without "#" */
+            _bp_iframe.background_color = 'f8f8f7'; /* Background-color, hex without "#" */
             // _bp_iframe.default_amount = 50; /* Donation-amount, integer 1-99 */
             // _bp_iframe.default_data_transfer_accepted = false; /* true (default), false */
             // _bp_iframe.recurring_interval = 'single'; /* Interval for recurring donations, string out of ["single", "monthly", "quarter_yearly", "half_yearly", "yearly"] */
