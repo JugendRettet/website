@@ -543,6 +543,10 @@ div.box-pic p, div.box-pic-s p {
 	div.hor-3 {
 	  width: 100%;
 	}
+	div.box-pic img {
+	  height: auto;
+	  width: 100%;
+	}
 	div.hor-overflow {
 	  display: none;
 	}
