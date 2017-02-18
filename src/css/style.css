@@ -206,15 +206,21 @@ div.box-dark, div.box-highlight, div.hor {
 }
 div.box-pic {
   height: 40vh;
-  background-size: cover;
-  background-position: center;
-  background-image: url(../../f/images/page/IUVENTA1.jpg);
 }
 div.box-pic-s {
   height: 100px;
-	background-size: cover;
-  background-position: center;
-  background-image: url(../../f/images/page/IUVENTA1.jpg);
+}
+div.box-pic, div.box-pic-s {
+  position: relative;
+}
+div.box-pic h2, div.box-pic h3, div.box-pic-s h2, div.box-pic-s h3 {
+  background: rgba(255, 255, 255, 0.5);
+  position: absolute;
+  top: 0;
+  width: 100%;
+}
+div.box-pic img, div.box-pic-s img {
+  width: 100%;
 }
 div.hor-el {
   display: inline-block;
@@ -493,6 +499,7 @@ h3 {
 }
 h1, h2, h3, h4, h5, h6 {
 	font-family: Open Sans;
+	z-index: 1;
 }
 footer {
 	border-top: thin solid gray;
@@ -525,6 +532,10 @@ div.a-dark:hover {
 }
 div.box-highlight {
 	padding-bottom: 1em;
+}
+div.box-pic p, div.box-pic-s p {
+  margin: 0;
+  padding: 0;
 }
 /* end styling */
 @media screen and (max-width: 690px) {

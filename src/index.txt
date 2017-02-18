@@ -116,19 +116,25 @@ _(about_us_title)
 
         <div class="hor">
           <div class="hor-el hor-3 box-pic">
+            <a href="about">
 
 _(about_us_our_story_title)
 
+            </a>
           </div><!--hor-el-->
           <div class="hor-el hor-3 box-pic">
+            <a href="about">
 
 _(about_us_iuv_title)
 
+            </a>
           </div><!--hor-el-->
           <div class="hor-el hor-3 box-pic">
+            <a href="about">
 
 _(about_us_transparency_title)
 
+            </a>
           </div><!--hor-el-->
         </div><!--hor-->
       </section><!--about-->
@@ -138,29 +144,39 @@ _(team_title)
 
         <div class="hor">
           <div class="hor-el hor-5 box-pic-s">
+            <a href="team">
 
 _(team_berlin)
 
+            </a>
           </div><!--hor-el-->
           <div class="hor-el hor-5 box-pic-s">
+            <a href="team">
 
 _(team_crew)
 
+            </a>
           </div><!--hor-el-->
           <div class="hor-el hor-5 box-pic-s">
+            <a href="team">
 
 _(team_embassies)
 
+            </a>
           </div><!--hor-el-->
           <div class="hor-el hor-5 box-pic-s">
+            <a href="team">
 
 _(team_donations)
 
+            </a>
           </div><!--hor-el-->
           <div class="hor-el hor-5  box-pic-s">
+            <a href="team">
 
 _(team_sponsors)
 
+            </a>
           </div><!--hor-el-->
         </div><!--hor-->
 
@@ -171,24 +187,32 @@ _(rescue_as_title)
 
         <div class="hor">
           <div class="hor-el hor-4 box-pic-s">
+            <a href="rescue_as">
 
 _(rescue_as_voluntary)
 
+            </a>
           </div><!--hor-el-->
           <div class="hor-el hor-4 box-pic-s">
+            <a href="rescue_as">
 
 _(rescue_as_ambassador)
 
+            </a>
           </div><!--hor-el-->
           <div class="hor-el hor-4 box-pic-s">
+            <a href="rescue_as">
 
 _(rescue_as_donator)
 
+            </a>
           </div><!--hor-el-->
           <div class="hor-el hor-4 box-pic-s">
+            <a href="rescue_as">
 
 _(rescue_as_sponsor)
 
+            </a>
           </div><!--hor-el-->
         </div><!--hor-->
       </section><!--rescue-->
