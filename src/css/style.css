@@ -537,6 +537,7 @@ div.box-highlight {
 div.box-pic p, div.box-pic-s p {
   margin: 0;
   padding: 0;
+  overflow: hidden;
 }
 /* end styling */
 @media screen and (max-width: 690px) {
