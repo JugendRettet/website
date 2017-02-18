@@ -7,9 +7,9 @@ _(menu_intro)
 </nav>
 
 <div id="paper">
-
 <article>
 
 _(press)
+
 </article>
 </div><!--paper>
