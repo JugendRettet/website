@@ -69,13 +69,11 @@ _(menu_press) &rarr;
 <div id="paper">
   <div class="text-center">
     <article class="center">
-      <div class="text-lighter">
-        <section id="intro" class="scroll-section big-margin">
-          <div class="fakeh1">
+      <section id="intro" class="scroll-section big-margin">
 
 _(intro_title)
 
-          </div>
+        <div class="text-lighter">
 
 _(intro)
 
