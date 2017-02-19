@@ -71,11 +71,8 @@ _(menu_press) &rarr;
     <article class="center">
       <section id="intro" class="scroll-section big-margin">
           <div class="text-lighter">
-            <div class="fakeh1">
 
 _(intro_title)
-
-            </div>
 
 _(intro)
 
