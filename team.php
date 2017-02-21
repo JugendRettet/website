@@ -151,7 +151,6 @@
 <li>Lindau: <a href="mailto:Laura_Lindau@jugendrettet.org">Laura</a></li>
 <li>Lisbon: <a href="mailto:Helene_Lisbon@jugendrettet.org">Helene</a></li>
 <li>London: <a href="mailto:LenaG@jugendrettet.org">Lena</a></li>
-<li>Lüneburg: <a href="mailto:Alex@jugendrettet.org">Alex</a></li>
 <li>Mainz: <a href="mailto:Christian_Mainz@jugendrettet.org">Christian</a></li>
 <li>Marburg: <a href="mailto:Max_Marburg@jugendrettet.org">Max</a></li
 <li>München: <a href="mailto:Lisa@jugendrettet.org">Lisa</a></li>
