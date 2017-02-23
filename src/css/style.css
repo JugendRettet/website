@@ -466,7 +466,7 @@ ul {
 p, ul, h4, h5, h6 {
 	max-width: 80ch;
 }
-p, div.p-highlight, div.p-dark {
+div.p-highlight, div.p-dark {
 	margin: 0.5em;
 }
 h1, div.fakeh1 p {
