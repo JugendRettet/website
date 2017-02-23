@@ -280,6 +280,8 @@ div.hidden {
 }
 .box-highlight, .box-dark, .p-highlight, .p-dark, .hor {
 	max-width: 95%;
+}
+.center, p, h2, h4, h5, h6, .box-highlight, .box-dark, .p-highlight, .p-dark, .hor {
 	margin-left: auto;
 	margin-right: auto;
 }
@@ -359,6 +361,9 @@ div.hor-el p {
 }
 div#bp-column {
 	min-width: 210px;
+}
+span.text-center {
+	display: block;
 }
 /* end structure */
 /* styling */
@@ -461,10 +466,10 @@ p {
 ul {
 	margin: auto;
 }
-p, ul {
+p, ul, h4, h5, h6 {
 	max-width: 80ch;
 }
-p, div.p-highlight, div.p-dark {
+div.p-highlight, div.p-dark {
 	margin: 0.5em;
 }
 h1, div.fakeh1 p {
@@ -489,14 +494,16 @@ h2 {
 	/*background: rgb(141, 160, 169);
   color: white;*/
 	max-width: 33%;
-	margin-left: auto;
-	margin-right: auto;
 }
 h1, h2 {
 	color: #286482;
 }
 h3 {
   text-transform: uppercase;
+  margin-top: 3em;
+}
+div.box-highlight h3, div.box-dark h3, div.box-pic h3, div.box-pic-s h3 {
+  margin-top: 1em;
 }
 h1, h2, h3, h4, h5, h6 {
 	font-family: Open Sans;
@@ -515,10 +522,6 @@ li {
 footer ul {
 	list-style-type: none;
 	padding-left: 0;
-}
-.center, p {
-	margin-left: auto;
-	margin-right: auto;
 }
 body, div#paper, nav {
 	background: #f8f8f7;

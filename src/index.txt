@@ -70,13 +70,14 @@ _(menu_press) &rarr;
   <div class="text-center">
     <article class="center">
       <section id="intro" class="scroll-section big-margin">
-          <div class="text-lighter">
 
 _(intro_title)
 
+        <div class="text-lighter">
+
 _(intro)
 
-          </div><!--text-lighter-->
+        </div><!--text-lighter-->
 
 _(situation)
 
