@@ -362,6 +362,9 @@ div.hor-el p {
 div#bp-column {
 	min-width: 210px;
 }
+span.text-center {
+	display: block;
+}
 /* end structure */
 /* styling */
 body {
