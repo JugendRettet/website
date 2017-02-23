@@ -485,11 +485,11 @@ div.fakeh1 p {
 h2 {
 	/*border-left:solid;*/
 	/*padding-left:2ch;*/
-	padding: 4ch;
 	padding-left: 0;
 	padding-right: 0;
 	text-transform: uppercase;
-	margin-top: 1.4em;
+	margin-top: 4em;
+	margin-bottom: 3em;
 	/*background: rgb(141, 160, 169);
   color: white;*/
 }
