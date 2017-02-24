@@ -541,7 +541,44 @@ div.box-pic p, div.box-pic-s p {
   padding: 0;
   overflow: hidden;
 }
+iframe {
+	border: none;
+}
+section#team_embassies iframe#team_emb_map {
+	float: left;
+	width: 48%;
+	height: 90vh;
+}
+section#team_embassies ul {
+	float: right;
+	width: 48%;
+	text-align: justify;
+	padding: 0;
+}
+section#team_embassies li {
+	display: inline;
+}
+.clearfix::after {
+    content: "";
+    clear: both;
+    display: table;
+}
+section#team_embassies ul {
+	padding: 0;
+}
+section#team_sponsors li {
+	display: inline;
+}
+section#team_sponsors li img {
+	max-width: 50%;
+	max-height: 25vh;
+}
 /* end styling */
+@media screen and (max-width: 1000px) {
+	section#team_embassies ul {
+		text-align: initial;
+	}
+}
 @media screen and (max-width: 690px) {
 	div.hor-3 {
 	  width: 100%;
@@ -567,6 +604,15 @@ div.box-pic p, div.box-pic-s p {
 	body, div.hor-2 {
 	  font-size: medium;
 	}
+	section#team_embassies iframe#team_emb_map {
+		float: none;
+		width: 100%;
+	}
+	section#team_embassies ul {
+		float: none;
+		width: 100%;
+		text-align: justify;
+	}
 }
 @media screen and (max-width: 500px) {
 	div.hor-4 {
@@ -577,6 +623,9 @@ div.box-pic p, div.box-pic-s p {
 	}
 	div.box-pic-s img {
 	  height: 25vh;
+	}
+	section#team_embassies ul {
+		text-align: initial;
 	}
 }
 @media screen and (max-width: 400px) {
