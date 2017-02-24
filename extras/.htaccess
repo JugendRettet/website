@@ -88,12 +88,3 @@ Redirect /events.php https://www.facebook.com/JugendRettet/events
 ErrorDocument 403 https://jugendrettet.org/forbidden
 ErrorDocument 404 https://jugendrettet.org/notfound
 
-# hide extension
-#if foo requested, return foo.html contents
-RewriteCond %{DOCUMENT_ROOT}%{REQUEST_URI} !-d
-RewriteCond %{DOCUMENT_ROOT}%{REQUEST_URI}\.html -f
-RewriteRule ^(.*)$ $1.html [L]
-
-#redirect foo.html to foo
-RewriteCond %{DOCUMENT_ROOT}%{REQUEST_URI} !-d
-RewriteRule ^(.+)\.html$ $1 [R,L]
