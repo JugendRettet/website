@@ -566,12 +566,17 @@ section#team_embassies li {
 section#team_embassies ul {
 	padding: 0;
 }
+section#team_sponsors ul {
+	padding: 0;
+	text-align: center;
+}
 section#team_sponsors li {
 	display: inline;
 }
 section#team_sponsors li img {
-	max-width: 50%;
-	max-height: 25vh;
+	max-width: 300px;
+	max-height: 100px;
+	margin: 5px;
 }
 /* end styling */
 @media screen and (max-width: 1000px) {
