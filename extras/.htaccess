@@ -17,9 +17,9 @@ RewriteCond %{REQUEST_FILENAME}\.html -f
 RewriteRule ^(.*)$ /$1.html
 # When it's found, hide the extension
 RewriteCond %{REQUEST_FILENAME} !-d
-RewriteCond %{REQUEST_FILENAME}\.html -f
 RewriteCond %{REQUEST_URI} ^(.+)\.html$
-RewriteRule (.*)\.html$ /$1 [R=301,L]
+RewriteCond %{THE_REQUEST} ^[A-Z]+\ (/[^\ ]*)\.html[?\ ]
+RewriteRule (.*)\.html$ /$1 [R=302,L]
 
 # Deflate Compression by FileType
 <IfModule mod_deflate.c>
