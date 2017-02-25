@@ -13,9 +13,10 @@ RewriteRule ^$ /de [L]
 # hide extension
 # Let client find file
 RewriteCond %{REQUEST_FILENAME} !-d
-RewriteCond %{REQUEST_FILENAME} !-f
-RewriteRule ^(.*)$ /$1.html [NC,L]
+RewriteCond %{REQUEST_FILENAME}\.html -f
+RewriteRule ^(.*)$ /$1.html
 # When it's found, hide the extension
+RewriteCond %{REQUEST_FILENAME} !-d
 RewriteCond %{REQUEST_FILENAME}\.html -f
 RewriteCond %{REQUEST_URI} ^(.+)\.html$
 RewriteRule (.*)\.html$ /$1 [R=301,L]
