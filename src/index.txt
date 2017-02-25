@@ -60,7 +60,7 @@ _(menu_news)
 _(menu_donate)
   
   </a>
-  <a href="press.html">
+  <a href="press">
 
 _(menu_press) &rarr;
 
