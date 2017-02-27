@@ -11,6 +11,13 @@ _(menu_intro)
 
 _(about_title)
 
+<section id="our_story">
+
+_(about_our_story)
+
+</section>
+<section id="iuventa">
+
 _(about_iuventa_title)
 
 <div id="vesselfinder">
@@ -28,7 +35,11 @@ var default_maptype=2;
 
 _(about_iuventa)
 
+</section>
+<section id="transparency">
+
 _(about_transparency)
 
+</section>
 </article>
 </div><!--paper>
