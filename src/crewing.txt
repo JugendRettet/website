@@ -12,4 +12,4 @@ _(menu_intro)
 _(crewing)
 
 </article>
-</div><!--paper>
+</div><!--paper-->

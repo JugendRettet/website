@@ -57,5 +57,5 @@ _(about_transparency)
 
 </section>
 </article>
-</div><!--paper>
+</div><!--paper-->
 <script type="text/javascript" src="../js/scroll-sections.js"></script>
