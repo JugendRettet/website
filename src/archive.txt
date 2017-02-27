@@ -9,7 +9,7 @@ _(menu_intro)
 <div id="paper">
 <article>
 
-_(archiv)
+_(archive)
 
 </article>
 </div><!--paper-->
