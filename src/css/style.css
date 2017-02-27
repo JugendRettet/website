@@ -578,6 +578,15 @@ section#team_sponsors li img {
 	max-height: 100px;
 	margin: 5px;
 }
+div#vesselfinder {
+	height: 446px;
+	position: relative;
+	overflow: hidden;
+}
+div#vesselfinder iframe{
+	top: -54px;
+	position: absolute;
+}
 /* end styling */
 @media screen and (max-width: 1000px) {
 	section#team_embassies ul {
