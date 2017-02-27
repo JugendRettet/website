@@ -1,5 +1,5 @@
 <nav>
-  <a href="./">
+  <a href="./#faq">
 
 _(menu_intro)
 
