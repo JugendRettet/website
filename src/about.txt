@@ -4,6 +4,21 @@
 _(menu_intro)
 
   </a>
+  <a href="#our_story">
+
+_(about_our_story_menu)
+
+  </a>
+  <a href="#iuventa">
+
+_(about_iuventa_menu)
+
+  </a>
+  <a href="#transparency">
+
+_(about_transparency_menu)
+
+  </a>
 </nav>
 
 <div id="paper">
@@ -43,3 +58,4 @@ _(about_transparency)
 </section>
 </article>
 </div><!--paper>
+<script type="text/javascript" src="../js/scroll-sections.js"></script>
