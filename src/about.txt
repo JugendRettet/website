@@ -26,12 +26,12 @@ _(about_transparency_menu)
 
 _(about_title)
 
-<section id="our_story">
+<section id="our_story" class="scroll-section">
 
 _(about_our_story)
 
 </section>
-<section id="iuventa">
+<section id="iuventa" class="scroll-section">
 
 _(about_iuventa_title)
 
@@ -51,7 +51,7 @@ var default_maptype=2;
 _(about_iuventa)
 
 </section>
-<section id="transparency">
+<section id="transparency" class="scroll-section">
 
 _(about_transparency)
 
