@@ -31,3 +31,10 @@ if [ ${#files[@]} -gt 0 ]; then
 fi
 echo 'Done copying.'
 
+# Vars passed along by git-publish
+if [ ! -z "${WWW_DIR}" ] && [ ! -z "${URL}" ]; then
+  rsync -qaP --del --exclude-from='.gitignore' dest/ "${WWW_DIR}"/"${URL}"/
+  printf "%s\n" 'Synced.'
+else
+  printf "%s\n" 'Vars for sync not given.'
+fi

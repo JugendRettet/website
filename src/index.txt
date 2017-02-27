@@ -60,7 +60,7 @@ _(menu_news)
 _(menu_donate)
   
   </a>
-  <a href="press.html">
+  <a href="press">
 
 _(menu_press) &rarr;
 
@@ -119,21 +119,21 @@ _(about_us_title)
 
         <div class="hor">
           <div class="hor-el hor-3 box-pic">
-            <a href="about">
+            <a href="about#our_story">
 
 _(about_us_our_story_title)
 
             </a>
           </div><!--hor-el-->
           <div class="hor-el hor-3 box-pic">
-            <a href="about">
+            <a href="about#iuventa">
 
 _(about_us_iuv_title)
 
             </a>
           </div><!--hor-el-->
           <div class="hor-el hor-3 box-pic">
-            <a href="about">
+            <a href="about#transparency">
 
 _(about_us_transparency_title)
 

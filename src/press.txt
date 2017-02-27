@@ -12,4 +12,4 @@ _(menu_intro)
 _(press)
 
 </article>
-</div><!--paper>
+</div><!--paper-->

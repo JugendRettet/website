@@ -12,4 +12,4 @@ _(menu_intro)
 _(faq)
 
 </article>
-</div><!--paper>
+</div><!--paper-->

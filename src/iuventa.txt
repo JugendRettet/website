@@ -12,4 +12,4 @@ _(menu_intro)
 _(iuventa)
 
 </article>
-</div><!--paper>
+</div><!--paper-->

@@ -12,4 +12,4 @@ _(menu_intro)
 _(archiv)
 
 </article>
-</div><!--paper>
+</div><!--paper-->
