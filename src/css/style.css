@@ -306,6 +306,7 @@ a#introlink {
 div#center {
   position: relative;
 	width: 50%;
+	bottom: 30px; /* arrow is 30px, so we adjust */
 	/*height: 50vh;*/
 }
 div#center p {
