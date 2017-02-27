@@ -22,9 +22,6 @@ _(logo)
     <video id="waves-video" class="header-video" loop autoplay preload="auto" poster="../f/images/error.jpg">
       <source src="../f/videos/waves.mp4">
     </video>
-    <div class="scroll-down">
-      <span class="arrow"><span class="left"></span><span class="right"></span></span>
-    </div><!--scroll-down-->
   </section><!--header-->
 </a><!--introlink-->
 <nav class="center text-center">
