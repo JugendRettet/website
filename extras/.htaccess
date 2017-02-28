@@ -8,8 +8,13 @@ RewriteCond %{HTTP_REFERER} !^$
 RewriteCond %{HTTP_REFERER} !^http(s)?://(www\.)?new.jugendrettet.org [NC]
 RewriteRule \.(jpg|jpeg|png|gif|svg)$ - [NC,F,L]
 
-# empty url -> redirect to en/
-RewriteCond %{REQUEST_URI} !^/(en|de)(/|$) [NC]
+# url has no subdir -> redirect to Accept-Language
+# or /en/ if we have no dir for Accept-Language
+RewriteCond %{REQUEST_URI} ^/(en|de)(/|$) [NC]
+RewriteRule .? - [S=3]
+RewriteCond %{HTTP:Accept-Language} !^(en|de)$ [NC]
+RewriteRule .? - [S=1]
+RewriteRule ^(.*)$ /%{HTTP:Accept-Language}/$1 [R=302,L]
 RewriteRule ^(.*)$ /en/$1 [R=302,L]
 
 # hide extension
