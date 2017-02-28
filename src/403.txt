@@ -9,7 +9,7 @@ _(menu_intro)
 <div id="paper">
 <article>
 
-_(403)
+_(forbidden)
 
 </article>
 </div><!--paper-->
