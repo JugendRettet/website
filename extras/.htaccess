@@ -20,7 +20,7 @@ RewriteRule ^/?events.php$ https://www.facebook.com/JugendRettet/events [R=302,N
 
 # url has no subdir -> redirect to Accept-Language
 # or /en/ if we have no dir for Accept-Language
-RewriteCond %{REQUEST_URI} ^/(en|de)(/|$) [NC]
+RewriteCond %{REQUEST_URI} ^/(js|f|en|de)(/|$) [NC]
 RewriteRule .? - [S=3]
 RewriteCond %{HTTP:Accept-Language} !^(en|de)$ [NC]
 RewriteRule .? - [S=1]
