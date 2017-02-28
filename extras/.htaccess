@@ -8,7 +8,39 @@ RewriteCond %{HTTP_REFERER} !^$
 RewriteCond %{HTTP_REFERER} !^http(s)?://(www\.)?new.jugendrettet.org [NC]
 RewriteRule \.(jpg|jpeg|png|gif|svg)$ - [NC,F,L]
 
-RewriteRule ^$ /de [L]
+RewriteRule ^/?donate$ /#donate [R=302,NC,NE,L]
+RewriteRule ^/?spende$ /#donate [R=302,NC,NE,L]
+RewriteRule ^/?iuventa$ /about#iuventa [R=302,NC,NE,L]
+RewriteRule ^/?betterplace$ https://www.betterplace.org/projects/48425-rette-mit-spende-fur-mission-unity [R=302,NC,L]
+RewriteRule ^/?umbau$ https://betterplace.org/p52216 [R=302,NC,L]
+RewriteRule ^/?merch$ https://diraction.org/cat/index/sCategory/257 [R=302,NC,L]
+RewriteRule ^/?sachspenden$ https://drive.google.com/open?id=1iKpAX8xsuh_Njjm6v0xumFi0RaiaAoNnNA8M1DuNBzU [R=302,NC,L]
+RewriteRule ^/?events$ https://www.facebook.com/JugendRettet/events [R=302,NC,L]
+RewriteRule ^/?events.php$ https://www.facebook.com/JugendRettet/events [R=302,NC,L]
+
+# url has no subdir -> redirect to Accept-Language
+# or /en/ if we have no dir for Accept-Language
+RewriteCond %{REQUEST_URI} ^/(en|de)(/|$) [NC]
+RewriteRule .? - [S=3]
+RewriteCond %{HTTP:Accept-Language} !^(en|de)$ [NC]
+RewriteRule .? - [S=1]
+RewriteRule ^(.*)$ /%{HTTP:Accept-Language}/$1 [R=302,L]
+RewriteRule ^(.*)$ /en/$1 [R=302,L]
+
+# hide extension
+# Let client find file
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME}\.html -f
+RewriteRule ^(.*)$ /$1.html
+# When it's found, hide the extension
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_URI} ^(.+)\.html$
+RewriteCond %{THE_REQUEST} ^[A-Z]+\ (/[^\ ]*)\.html[?\ ]
+RewriteRule (.*)\.html$ /$1 [R=302,L]
+
+# Error Documents
+ErrorDocument 403 /403
+ErrorDocument 404 /404
 
 # hide extension
 # Let client find file
@@ -64,36 +96,3 @@ RewriteRule (.*)\.html$ /$1 [R=301,L]
   Header set Cache-Control "max-age=604800, private"
  </filesmatch>
 </ifmodule>
-
-Redirect /donate /spenden
-
-Redirect /betterplace https://www.betterplace.org/projects/48425-rette-mit-spende-fur-mission-unity
-Redirect /Betterplace https://www.betterplace.org/projects/48425-rette-mit-spende-fur-mission-unity
-
-Redirect /merch https://diraction.org/cat/index/sCategory/257
-Redirect /Merch https://diraction.org/cat/index/sCategory/257
-
-Redirect /LG https://jugendrettet.org/news
-Redirect /Lg https://jugendrettet.org/news
-Redirect /lg https://jugendrettet.org/news
-Redirect /lG https://jugendrettet.org/news
-
-Redirect /HH https://jugendrettet.org/news
-Redirect /Hh https://jugendrettet.org/news
-Redirect /hh https://jugendrettet.org/news
-Redirect /hH https://jugendrettet.org/news
-
-Redirect /crew https://docs.google.com/forms/d/1Wh6SA_DMnwk26b7JjnJ7ACe0NuB04nJAhmn5sP9gd04/viewform?c=0
-Redirect /Crew https://docs.google.com/forms/d/1Wh6SA_DMnwk26b7JjnJ7ACe0NuB04nJAhmn5sP9gd04/viewform?c=0
-Redirect /crew_english https://docs.google.com/forms/d/e/1FAIpQLSdf_IYzNZQo-NZho0rd9RCP_agJG-heYcVevfQ8O9PWiHMzkw/viewform
-Redirect /umbau https://docs.google.com/forms/d/1-BDVr3R__kjSiC5PyWAui0_BTWwIS8AoLC6Xy1KVgk4/viewform?c=0
-Redirect /Umbau https://docs.google.com/forms/d/1-BDVr3R__kjSiC5PyWAui0_BTWwIS8AoLC6Xy1KVgk4/viewform?c=0
-Redirect /sachspenden https://drive.google.com/open?id=1iKpAX8xsuh_Njjm6v0xumFi0RaiaAoNnNA8M1DuNBzU
-Redirect /Sachspenden https://drive.google.com/open?id=1iKpAX8xsuh_Njjm6v0xumFi0RaiaAoNnNA8M1DuNBzU
-
-Redirect /events https://www.facebook.com/JugendRettet/events
-Redirect /events.php https://www.facebook.com/JugendRettet/events
-
-# Error Documents
-ErrorDocument 403 https://jugendrettet.org/forbidden
-ErrorDocument 404 https://jugendrettet.org/notfound

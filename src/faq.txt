@@ -1,5 +1,5 @@
 <nav>
-  <a href="./">
+  <a href="./#faq">
 
 _(menu_intro)
 
@@ -12,4 +12,4 @@ _(menu_intro)
 _(faq)
 
 </article>
-</div><!--paper>
+</div><!--paper-->

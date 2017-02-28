@@ -261,7 +261,7 @@ video.header-video {
 	object-fit: cover;
 	height: 100vh;
 	width: 100%;
-	z-index: -1;
+	z-index: -2;
 	position: fixed;
 	top: 0;
 	left: 0;
@@ -305,6 +305,7 @@ a#introlink {
 div#center {
   position: relative;
 	width: 50%;
+	bottom: 30px; /* arrow is 30px, so we adjust */
 	/*height: 50vh;*/
 }
 div#center p {
@@ -321,7 +322,7 @@ div#center object, div#center img {
 nav {
 	overflow: hidden;
 	top: 0;
-	z-index: 2;
+	z-index: 3;
 	position: fixed;
 	width: 100%;
 }
@@ -338,6 +339,7 @@ div#lastlinks {
 	max-width: 84ch;
 }
 article {
+	z-index: 1;
 	padding-top: 3ch;
 	margin-left: 3ch;
 	margin-right: 3ch;
@@ -363,6 +365,9 @@ div#bp-column {
 }
 span.text-center {
 	display: block;
+}
+article img {
+  max-width: 100%;
 }
 /* end structure */
 /* styling */
@@ -499,12 +504,12 @@ h3 {
   text-transform: uppercase;
   margin-top: 3em;
 }
-div.box-highlight h3, div.box-dark h3, div.box-pic h3, div.box-pic-s h3 {
+div.box-highlight h3, div.box-dark h3, div.box-pic h3, div.box-pic-s h3, div.hor-el h3 {
   margin-top: 1em;
 }
 h1, h2, h3, h4, h5, h6 {
 	font-family: Open Sans;
-	z-index: 1;
+	z-index: 2;
 }
 footer {
 	border-top: thin solid gray;
@@ -532,14 +537,156 @@ div.a-dark:hover {
 	background: inherit;
 }
 div.box-highlight {
-	padding-bottom: 1em;
 }
 div.box-pic p, div.box-pic-s p {
   margin: 0;
   padding: 0;
   overflow: hidden;
 }
+iframe {
+	border: none;
+}
+section#team_embassies iframe#team_emb_map {
+	float: left;
+	width: 48%;
+	height: 90vh;
+}
+section#team_embassies ul {
+	float: right;
+	width: 48%;
+	text-align: justify;
+	padding: 0;
+}
+section#team_embassies li {
+	display: inline;
+}
+.clearfix::after {
+    content: "";
+    clear: both;
+    display: table;
+}
+section#team_embassies ul {
+	padding: 0;
+}
+section#team_sponsors ul {
+	padding: 0;
+	text-align: center;
+}
+section#team_sponsors li {
+	display: inline;
+}
+section#team_sponsors li img {
+	max-width: 300px;
+	max-height: 100px;
+	margin: 5px;
+}
+div#vesselfinder {
+	height: 446px;
+	position: relative;
+	overflow: hidden;
+}
+div#vesselfinder iframe{
+	top: -54px;
+	position: absolute;
+}
+.scroll-down {
+    z-index: -1;
+    opacity: 1;
+    position: fixed;
+    width: 100%;
+    right: 0;
+    bottom: 0;
+    left: 0;
+}
+.scroll-down:hover {
+    cursor: pointer;
+}
+.scroll-down {
+-webkit-animation: blink 6s infinite; /* Safari, Chrome and Opera > 12.1 */
+   -moz-animation: blink 6s infinite; /* Firefox < 16 */
+    -ms-animation: blink 6s infinite; /* Internet Explorer */
+     -o-animation: blink 6s infinite; /* Opera < 12.1 */
+        animation: blink 6s infinite;
+}
+@keyframes blink {
+	from,to {
+		opacity: 0;
+	}
+	50% {
+		opacity: 1;
+	}
+}
+/* Firefox < 16 */
+@-moz-keyframes blink {
+	from,to {
+		opacity: 0;
+	}
+	50% {
+		opacity: 1;
+	}
+}
+/* Safari, Chrome and Opera > 12.1 */
+@-webkit-keyframes blink {
+	from,to {
+		opacity: 0;
+	}
+	50% {
+		opacity: 1;
+	}
+}
+/* Internet Explorer */
+@-ms-keyframes blink {
+	from,to {
+		opacity: 0;
+	}
+	50% {
+		opacity: 1;
+	}
+}
+/* Opera < 12.1 */
+@-o-keyframes blink {
+	from,to {
+		opacity: 0;
+	}
+	50% {
+		opacity: 1;
+	}
+}
+.arrow {
+    color: #fff;
+    display: block;
+    width: 40px;
+    margin: 0 auto;
+    height: 30px;
+}
+.arrow .left,
+.arrow .right {
+    background: #fff;
+    display: block;
+    position: absolute;
+    width: 40px;
+    height: 2px;
+}
+.arrow .left {
+    -webkit-transform: rotate(20deg) translate(-50%);
+    -moz-transform: rotate(20deg) translate(-50%);
+    -ms-transform: rotate(20deg) translate(-50%);
+    -o-transform: rotate(20deg) translate(-50%);
+    transform: rotate(20deg) translate(-50%);
+}
+.arrow .right {
+    -webkit-transform: rotate(-20deg) translate(50%);
+    -moz-transform: rotate(-20deg) translate(50%);
+    -ms-transform: rotate(-20deg) translate(50%);
+    -o-transform: rotate(-20deg) translate(50%);
+    transform: rotate(-20deg) translate(50%);
+}
 /* end styling */
+@media screen and (max-width: 1000px) {
+	section#team_embassies ul {
+		text-align: initial;
+	}
+}
 @media screen and (max-width: 690px) {
 	div.hor-3 {
 	  width: 100%;
@@ -565,6 +712,15 @@ div.box-pic p, div.box-pic-s p {
 	body, div.hor-2 {
 	  font-size: medium;
 	}
+	section#team_embassies iframe#team_emb_map {
+		float: none;
+		width: 100%;
+	}
+	section#team_embassies ul {
+		float: none;
+		width: 100%;
+		text-align: justify;
+	}
 }
 @media screen and (max-width: 500px) {
 	div.hor-4 {
@@ -575,6 +731,9 @@ div.box-pic p, div.box-pic-s p {
 	}
 	div.box-pic-s img {
 	  height: 25vh;
+	}
+	section#team_embassies ul {
+		text-align: initial;
 	}
 }
 @media screen and (max-width: 400px) {

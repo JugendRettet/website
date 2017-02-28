@@ -1,15 +1,15 @@
 <nav>
-  <a href="./#rescue">
+  <a href="./">
 
 _(menu_intro)
-
+  
   </a>
 </nav>
 
 <div id="paper">
 <article>
 
-_(rescue_as)
+_(notfound)
 
 </article>
 </div><!--paper-->

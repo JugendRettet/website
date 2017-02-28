@@ -1,7 +1,32 @@
 <nav>
-  <a href="./">
+  <a href="./#team">
 
 _(menu_intro)
+
+  </a>
+  <a href="#team_berlin">
+
+_(sub_team_berlin_menu)
+
+  </a>
+  <a href="#team_crew">
+
+_(sub_team_crew_menu)
+
+  </a>
+  <a href="#team_embassies">
+
+_(sub_team_embassies_menu)
+
+  </a>
+  <a href="#team_donations">
+
+_(sub_team_donations_menu)
+
+  </a>
+  <a href="#team_sponsors">
+
+_(sub_team_sponsors_menu)
 
   </a>
 </nav>
@@ -9,7 +34,44 @@ _(menu_intro)
 <div id="paper">
 <article>
 
-_(team)
+_(sub_team_title)
+
+<section id="team_berlin" class="scroll-section">
+
+_(sub_team_berlin_title)
+
+_(sub_team_berlin)
+
+</section><!--intro-->
+<section id="team_crew" class="scroll-section">
+
+_(sub_team_crew_title)
+
+_(sub_team_crew)
+
+</section><!--intro-->
+<section id="team_embassies" class="scroll-section clearfix">
+
+_(sub_team_embassies_title)
+
+_(sub_team_embassies)
+
+</section><!--intro-->
+<section id="team_donations" class="scroll-section">
+
+_(sub_team_donations_title)
+
+_(sub_team_donations)
+
+</section><!--intro-->
+<section id="team_sponsors" class="scroll-section">
+
+_(sub_team_sponsors_title)
+
+_(sub_team_sponsors)
+
+</section><!--intro-->
 
 </article>
-</div><!--paper>
+</div><!--paper-->
+<script type="text/javascript" src="../js/scroll-sections.js"></script>

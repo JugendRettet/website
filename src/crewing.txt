@@ -1,5 +1,5 @@
 <nav>
-  <a href="./">
+  <a href="./#rescue">
 
 _(menu_intro)
 
@@ -12,4 +12,4 @@ _(menu_intro)
 _(crewing)
 
 </article>
-</div><!--paper>
+</div><!--paper-->

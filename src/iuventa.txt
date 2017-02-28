@@ -1,5 +1,5 @@
 <nav>
-  <a href="./">
+  <a href="./#about">
 
 _(menu_intro)
 
@@ -12,4 +12,4 @@ _(menu_intro)
 _(iuventa)
 
 </article>
-</div><!--paper>
+</div><!--paper-->
