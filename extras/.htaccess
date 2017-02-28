@@ -21,6 +21,20 @@ RewriteCond %{REQUEST_URI} ^(.+)\.html$
 RewriteCond %{THE_REQUEST} ^[A-Z]+\ (/[^\ ]*)\.html[?\ ]
 RewriteRule (.*)\.html$ /$1 [R=302,L]
 
+RewriteRule ^/?donate$ /#donate [R=302,NC,L]
+RewriteRule ^/?spende$ /#donate [R=302,NC,L]
+RewriteRule ^/?iuventa$ /about#iuventa [R=302,NC,L]
+RewriteRule ^/?betterplace$ https://www.betterplace.org/projects/48425-rette-mit-spende-fur-mission-unity [R=302,NC,L]
+RewriteRule ^/?umbau$ https://betterplace.org/p52216 [R=302,NC,L]
+RewriteRule ^/?merch$ https://diraction.org/cat/index/sCategory/257 [R=302,NC,L]
+RewriteRule ^/?sachspenden$ https://drive.google.com/open?id=1iKpAX8xsuh_Njjm6v0xumFi0RaiaAoNnNA8M1DuNBzU [R=302,NC,L]
+RewriteRule ^/?events$ https://www.facebook.com/JugendRettet/events [R=302,NC,L]
+RewriteRule ^/?events.php$ https://www.facebook.com/JugendRettet/events [R=302,NC,L]
+
+# Error Documents
+ErrorDocument 403 https://jugendrettet.org/forbidden
+ErrorDocument 404 https://jugendrettet.org/notfound
+
 # Deflate Compression by FileType
 <IfModule mod_deflate.c>
  Addtype font/opentype .otf
@@ -65,19 +79,3 @@ RewriteRule (.*)\.html$ /$1 [R=302,L]
   Header set Cache-Control "max-age=604800, private"
  </filesmatch>
 </ifmodule>
-
-RewriteRule ^/?donate$ /#spenden [R=302,NC,L]
-RewriteRule ^/?spende$ /#spenden [R=302,NC,L]
-
-RewriteRule ^/?betterplace$ https://www.betterplace.org/projects/48425-rette-mit-spende-fur-mission-unity [R=302,NC,L]
-RewriteRule ^/?umbau$ https://betterplace.org/p52216 [R=302,NC,L]
-RewriteRule ^/?merch$ https://diraction.org/cat/index/sCategory/257 [R=302,NC,L]
-RewriteRule ^/?iuventa$ /about#iuventa [R=302,NC,L]
-RewriteRule ^/?sachspenden$ https://drive.google.com/open?id=1iKpAX8xsuh_Njjm6v0xumFi0RaiaAoNnNA8M1DuNBzU [R=302,NC,L]
-
-RewriteRule ^/?events$ https://www.facebook.com/JugendRettet/events [R=302,NC,L]
-RewriteRule ^/?events.php$ https://www.facebook.com/JugendRettet/events [R=302,NC,L]
-
-# Error Documents
-ErrorDocument 403 https://jugendrettet.org/forbidden
-ErrorDocument 404 https://jugendrettet.org/notfound
