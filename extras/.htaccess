@@ -39,8 +39,8 @@ RewriteCond %{THE_REQUEST} ^[A-Z]+\ (/[^\ ]*)\.html[?\ ]
 RewriteRule (.*)\.html$ /$1 [R=302,L]
 
 # Error Documents
-ErrorDocument 403 https://jugendrettet.org/forbidden
-ErrorDocument 404 https://jugendrettet.org/notfound
+ErrorDocument 403 /403
+ErrorDocument 404 /404
 
 # Deflate Compression by FileType
 <IfModule mod_deflate.c>
