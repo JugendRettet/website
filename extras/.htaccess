@@ -66,8 +66,8 @@ RewriteRule (.*)\.html$ /$1 [R=302,L]
  </filesmatch>
 </ifmodule>
 
-RewriteRule ^/?donate$ /#spenden [R=302,NC,L]
-RewriteRule ^/?spende$ /#spenden [R=302,NC,L]
+RewriteRule ^/?donate$ /#donate [R=302,NC,L]
+RewriteRule ^/?spende$ /#donate [R=302,NC,L]
 
 RewriteRule ^/?betterplace$ https://www.betterplace.org/projects/48425-rette-mit-spende-fur-mission-unity [R=302,NC,L]
 RewriteRule ^/?umbau$ https://betterplace.org/p52216 [R=302,NC,L]
