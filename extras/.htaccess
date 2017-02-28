@@ -8,7 +8,9 @@ RewriteCond %{HTTP_REFERER} !^$
 RewriteCond %{HTTP_REFERER} !^http(s)?://(www\.)?new.jugendrettet.org [NC]
 RewriteRule \.(jpg|jpeg|png|gif|svg)$ - [NC,F,L]
 
-RewriteRule ^$ /de [L]
+# empty url -> redirect to en/
+RewriteCond %{REQUEST_URI} !^/(en|de)(/|$) [NC]
+RewriteRule ^(.*)$ /en/$1 [R=302,L]
 
 # hide extension
 # Let client find file
