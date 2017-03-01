@@ -223,6 +223,8 @@ _(rescue_as_sponsor)
       </section><!--rescue-->
       <section id="faq" class="text-center big-margin scroll-section">
 
+_(faq_title)
+
 _(faq)
 
       </section><!--faq-->
