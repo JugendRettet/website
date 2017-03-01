@@ -225,11 +225,11 @@ _(rescue_as_sponsor)
 
 _(faq_title)
 
-        <div class="box-highlight">
+        <div class="p-dark a-dark">
 
 _(faq)
 
-        </div><!--box-highlight-->
+        </div><!--p-dark-->
       </section><!--faq-->
       <section id="news" class="scroll-section">
 

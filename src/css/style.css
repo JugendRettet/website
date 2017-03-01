@@ -173,7 +173,7 @@
 }
 div.p-highlight p, div.p-dark p {
 	padding: 1em;
-	margin: 0;
+	/*margin: 0;*/
 }
 .highlight, nav a.highlight, div.box-highlight, div.p-highlight {
   /*background: rgb(219, 233, 238);*/
@@ -182,7 +182,7 @@ div.p-highlight p, div.p-dark p {
 .red {
 	background: rgb(249,69,0);
 }
-.dark, nav a.dark, div.box-dark, div.p-dark {
+nav a.dark, div.box-dark, div.p-dark p {
 	color: white;
 	background-color: #142d3c;
 }
@@ -196,6 +196,9 @@ div.box-dark, div.box-highlight {
 }
 div.box-dark, div.box-highlight, div.hor {
 	margin-bottom: 18px;
+}
+div.box-highlight div.box-dark {
+	margin-bottom: 0;
 }
 .a-dark a, .a-highlight a {
 	color: inherit;
@@ -474,7 +477,7 @@ p, ul, h4, h5, h6 {
 	max-width: 80ch;
 }
 div.p-highlight, div.p-dark {
-	margin: 0.5em;
+	/*margin: 0.5em;*/
 }
 h1, div.fakeh1 p {
 	font-weight: normal;
