@@ -263,7 +263,7 @@ video.header-video {
 	width: 100%;
 	z-index: -2;
 	position: fixed;
-	top: 0;
+	top: 41px; /* size of the nav bar */
 	left: 0;
 }
 section {
