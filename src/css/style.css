@@ -181,14 +181,14 @@ div.p-highlight p, div.p-dark p {
 .red {
 	background: rgb(249,69,0);
 }
-nav a.dark, div.box-dark, div.p-dark p {
+nav a.dark, div.box-dark, div.p-dark {
 	color: white;
 	background-color: #142d3c;
 }
 div.a-dark {
 	transition: background-color 0.3s ease,
-  color 0.6s ease,
-  border-color 0.6s ease;
+	color 0.6s ease,
+	border-color 0.6s ease;
 }
 div.box-dark, div.box-highlight {
 	padding: 0.4ch;
@@ -473,7 +473,7 @@ p {
 ul {
 	margin: auto;
 }
-p, ul, h4, h5, h6 {
+p, div.p-dark, ul, h4, h5, h6 {
 	max-width: 80ch;
 }
 div.p-highlight, div.p-dark {
