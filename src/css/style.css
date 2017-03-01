@@ -583,6 +583,16 @@ div#vesselfinder iframe{
 	top: -54px;
 	position: absolute;
 }
+h2 + p {
+	max-width: 100%;
+	width: 100%;
+	overflow: hidden;
+	max-height: 80vh;
+}
+h2 + p img {
+	width: 100%;
+	position: relative;
+}
 footer a {
 	display: inline-block;
 }
