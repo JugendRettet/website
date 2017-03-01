@@ -225,8 +225,11 @@ _(rescue_as_sponsor)
 
 _(faq_title)
 
+        <div class="p-dark a-dark">
+
 _(faq)
 
+        </div><!--p-dark-->
       </section><!--faq-->
       <section id="news" class="scroll-section">
 
