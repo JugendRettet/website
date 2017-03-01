@@ -42,16 +42,6 @@ RewriteRule (.*)\.html$ /$1 [R=302,L]
 ErrorDocument 403 /403
 ErrorDocument 404 /404
 
-# hide extension
-# Let client find file
-RewriteCond %{REQUEST_FILENAME} !-d
-RewriteCond %{REQUEST_FILENAME} !-f
-RewriteRule ^(.*)$ /$1.html [NC,L]
-# When it's found, hide the extension
-RewriteCond %{REQUEST_FILENAME}\.html -f
-RewriteCond %{REQUEST_URI} ^(.+)\.html$
-RewriteRule (.*)\.html$ /$1 [R=301,L]
-
 # Deflate Compression by FileType
 <IfModule mod_deflate.c>
  Addtype font/opentype .otf
