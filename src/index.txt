@@ -63,9 +63,9 @@ _(menu_news)
 _(menu_donate)
   
   </a>
-  <a href="press">
+  <a href="#more">
 
-_(menu_press) &rarr;
+&hellip;
 
   </a>
 </nav>
@@ -348,6 +348,31 @@ _(donate_account_info)
             </div><!--box-highlight-->
           </div><!--hor-el-->
         </div><!--hor-->
+      </section><!--donate-->
+      <section id="more" class="scroll-section">
+        <footer>
+          <a href="press">
+
+_(menu_press)
+
+          </a>
+          <a href="legal">
+
+_(menu_legal)
+
+          </a>
+            <span>|</span>
+          <a href="../en/">
+
+en
+
+          </a>
+          <a href="../de/">
+
+de
+
+          </a>
+        </footer>
       </section><!--donate-->
     </article>
   </div><!-- text-center -->
