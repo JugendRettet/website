@@ -85,8 +85,8 @@ _(situation)
 
 _(ideals_title)
 
-        <div class="hor">
-          <div class="hor-el hor-2 box-highlight">
+        <div class="hor box-highlight">
+          <div class="hor-el hor-2">
 
 _(ideals_iuv_title)
 
@@ -225,8 +225,11 @@ _(rescue_as_sponsor)
 
 _(faq_title)
 
+        <div class="box-highlight">
+
 _(faq)
 
+        </div><!--box-highlight-->
       </section><!--faq-->
       <section id="news" class="scroll-section">
 
