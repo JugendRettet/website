@@ -347,9 +347,6 @@ article {
 	padding-bottom: 3ch;
 	max-width: 95%;
 }
-article img {
-	max-width: 100%;
-}
 header {
 	padding-bottom: 8ch;
 }
@@ -369,9 +366,6 @@ div#bp-column {
 }
 span.text-center {
 	display: block;
-}
-div.box-pic, div.box-pic-s img {
-  max-width: none;
 }
 /* end structure */
 /* styling */
