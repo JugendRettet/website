@@ -138,7 +138,7 @@
        url('../../f/fonts/Open-Sans-800italic/Open-Sans-800italic.svg#OpenSans') format('svg');
 }
 /* classes */
-.text-center, .hor {
+.text-center, .hor, div.box-highlight {
 	text-align: center;
 }
 .text-long p {
@@ -263,7 +263,7 @@ video.header-video {
 	width: 100%;
 	z-index: -2;
 	position: fixed;
-	top: 0;
+	top: 41px; /* size of the nav bar */
 	left: 0;
 }
 section {
@@ -346,6 +346,9 @@ article {
 	padding-bottom: 3ch;
 	max-width: 95%;
 }
+article img {
+	max-width: 100%;
+}
 header {
 	padding-bottom: 8ch;
 }
@@ -366,8 +369,8 @@ div#bp-column {
 span.text-center {
 	display: block;
 }
-article img {
-  max-width: 100%;
+div.box-pic img, div.box-pic-s img {
+  max-width: none;
 }
 /* end structure */
 /* styling */
@@ -386,10 +389,6 @@ div#center img:hover {
 }
 div#center a {
 	border: none;
-}
-header, footer {
-	font-size:0.8em;
-	font-family: monospace;
 }
 div#center h1, div#center p {
   color: white;
@@ -511,19 +510,11 @@ h1, h2, h3, h4, h5, h6 {
 	font-family: Open Sans;
 	z-index: 2;
 }
-footer {
-	border-top: thin solid gray;
-	word-break:break-all;
-}
 ul {
 	/*list-style-type: hebrew;*/
 }
 li {
 	margin-bottom: 0.5ch;
-}
-footer ul {
-	list-style-type: none;
-	padding-left: 0;
 }
 body, div#paper, nav {
 	background: #f8f8f7;
@@ -588,6 +579,28 @@ div#vesselfinder {
 div#vesselfinder iframe{
 	top: -54px;
 	position: absolute;
+}
+figure {
+	margin: 0;
+}
+h2 + figure {
+	max-width: 100%;
+	width: 100%;
+	overflow: hidden;
+	max-height: 80vh;
+	margin-top: 1em;
+	margin-bottom: 1em;
+}
+h2 + figure img {
+	width: 100%;
+	position: relative;
+}
+footer a {
+	display: inline-block;
+}
+footer p {
+	margin: initial;
+	padding: 5px;
 }
 .scroll-down {
     z-index: -1;

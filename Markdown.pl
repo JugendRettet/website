@@ -320,8 +320,8 @@ sub _HashHTMLBlocks {
 	# "paragraphs" that are wrapped in non-block-level tags, such as anchors,
 	# phrase emphasis, and spans. The list of tags we're looking for is
 	# hard-coded:
-	my $block_tags_a = qr/p|div|h[1-6]|blockquote|pre|table|dl|ol|ul|script|noscript|form|fieldset|iframe|math|ins|del/;
-	my $block_tags_b = qr/p|div|h[1-6]|blockquote|pre|table|dl|ol|ul|script|noscript|form|fieldset|iframe|math/;
+	my $block_tags_a = qr/p|div|h[1-6]|figure|blockquote|pre|table|dl|ol|ul|script|noscript|form|fieldset|iframe|math|ins|del/;
+	my $block_tags_b = qr/p|div|h[1-6]|figure|blockquote|pre|table|dl|ol|ul|script|noscript|form|fieldset|iframe|math/;
 
 	# First, look for nested blocks, e.g.:
 	# 	<div>
@@ -440,6 +440,8 @@ sub _RunBlockGamut {
 
 	$text = _DoBlockQuotes($text);
 
+	$text = _DoImages($text);
+
 	# We already ran _HashHTMLBlocks() before, in Markdown(), but that
 	# was to escape raw HTML in the original Markdown source. This time,
 	# we're escaping the markup we've just created, so that we don't wrap
@@ -465,7 +467,6 @@ sub _RunSpanGamut {
 
 	# Process anchor and image tags. Images must come first,
 	# because ![foo][f] looks like an anchor.
-	$text = _DoImages($text);
 	$text = _DoAnchors($text);
 
 	# Make links out of things like `<http://example.com/>`
@@ -648,14 +649,14 @@ sub _DoImages {
 			my $url = $g_urls{$link_id};
 			$url =~ s! \* !$g_escape_table{'*'}!gx;		# We've got to encode these to avoid
 			## $url =~ s!  _ !$g_escape_table{'_'}!gx;		# conflicting with italics/bold.
-			$result = "<img src=\"$url\" alt=\"$alt_text\"";
+			$result = "<figure>\n<img src=\"$url\" alt=\"$alt_text\"";
 			if (defined $g_titles{$link_id}) {
 				my $title = $g_titles{$link_id};
 				$title =~ s! \* !$g_escape_table{'*'}!gx;
 				## $title =~ s!  _ !$g_escape_table{'_'}!gx;
 				$result .=  " title=\"$title\"";
 			}
-			$result .= $g_empty_element_suffix;
+			$result .= $g_empty_element_suffix . "\n</figure>";
 		}
 		else {
 			# If there's no such link ID, leave intact:
@@ -700,13 +701,13 @@ sub _DoImages {
 		$title    =~ s/"/&quot;/g;
 		$url =~ s! \* !$g_escape_table{'*'}!gx;		# We've got to encode these to avoid
 		## $url =~ s!  _ !$g_escape_table{'_'}!gx;		# conflicting with italics/bold.
-		$result = "<img src=\"$url\" alt=\"$alt_text\"";
+		$result = "<figure>\n<img src=\"$url\" alt=\"$alt_text\"";
 		if (defined $title) {
 			$title =~ s! \* !$g_escape_table{'*'}!gx;
 			## $title =~ s!  _ !$g_escape_table{'_'}!gx;
 			$result .=  " title=\"$title\"";
 		}
-		$result .= $g_empty_element_suffix;
+		$result .= $g_empty_element_suffix . "\n</figure>";
 
 		$result;
 	}xsge;

@@ -63,14 +63,13 @@ _(menu_news)
 _(menu_donate)
   
   </a>
-  <a href="press">
+  <a href="#more">
 
-_(menu_press) &rarr;
+&hellip;
 
   </a>
 </nav>
 <div id="paper">
-  <div class="text-center">
     <article class="center">
       <section id="intro" class="scroll-section big-margin">
 
@@ -222,7 +221,7 @@ _(rescue_as_sponsor)
           </div><!--hor-el-->
         </div><!--hor-->
       </section><!--rescue-->
-      <section id="faq" class="big-margin scroll-section">
+      <section id="faq" class="text-center big-margin scroll-section">
 
 _(faq)
 
@@ -349,8 +348,32 @@ _(donate_account_info)
           </div><!--hor-el-->
         </div><!--hor-->
       </section><!--donate-->
+      <section id="more" class="scroll-section">
+        <footer class="text-center">
+          <a href="press">
+
+_(menu_press)
+
+          </a>
+          <a href="legal">
+
+_(menu_legal)
+
+          </a>
+            <span>|</span>
+          <a href="../en/">
+
+en
+
+          </a>
+          <a href="../de/">
+
+de
+
+          </a>
+        </footer>
+      </section><!--donate-->
     </article>
-  </div><!-- text-center -->
 </div><!-- paper -->
 
 <script type="text/javascript" src="../js/scroll-sections.js"></script>
