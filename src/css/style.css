@@ -138,7 +138,7 @@
        url('../../f/fonts/Open-Sans-800italic/Open-Sans-800italic.svg#OpenSans') format('svg');
 }
 /* classes */
-.text-center, .hor {
+.text-center, .hor, div.box-highlight {
 	text-align: center;
 }
 .text-long p {
