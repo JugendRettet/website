@@ -221,11 +221,13 @@ div.box-pic h2, div.box-pic h3, div.box-pic-s h2, div.box-pic-s h3 {
   top: 0;
   width: 100%;
 }
-div.box-pic img {
-  height: 40vh;
+div.box-pic, div.box-pic figure {
+  height: 400px;
+  max-width: 600px;
 }
-div.box-pic-s img {
-  height: 30vh;
+div.box-pic-s, div.box-pic-s figure {
+  height: 300px;
+  max-width: 400px;
 }
 div.hor-el {
   display: inline-block;
@@ -374,7 +376,15 @@ span.text-center {
 	display: block;
 }
 div.box-pic img, div.box-pic-s img {
-  max-width: none;
+	max-width: none;
+	/* dirty hack to center overflowing img inside parent */
+    position: absolute;
+    top: -99999px;
+    bottom: -99999px;
+    left: -99999px;
+    right: -99999px;
+    margin: auto;
+    height: 100%;
 }
 /* end structure */
 /* styling */
@@ -537,6 +547,7 @@ div.box-pic figure, div.box-pic-s figure {
   margin: 0;
   padding: 0;
   overflow: hidden;
+  position: relative;
 }
 iframe {
 	border: none;
@@ -705,11 +716,7 @@ footer p {
 	}
 }
 @media screen and (max-width: 690px) {
-	div.hor-3 {
-	  width: 100%;
-	}
-	div.box-pic img {
-	  height: auto;
+	div.resp div.hor-3 {
 	  width: 100%;
 	}
 	div.hor-overflow {
@@ -723,12 +730,12 @@ footer p {
 	}
 }
 @media screen and (max-width: 600px) {
-	div.hor-5 {
+	/*div.hor-5 {
 	  font-size: x-small;
 	}
 	body, div.hor-2 {
 	  font-size: medium;
-	}
+	}*/
 	section#team_embassies iframe#team_emb_map {
 		float: none;
 		width: 100%;
@@ -740,7 +747,7 @@ footer p {
 	}
 }
 @media screen and (max-width: 500px) {
-	div.hor-4 {
+	/*div.hor-4 {
 	  font-size: x-small;
 	}
 	div.hor-2 {
@@ -748,7 +755,7 @@ footer p {
 	}
 	div.box-pic-s img {
 	  height: 25vh;
-	}
+	}*/
 	section#team_embassies ul {
 		text-align: initial;
 	}
@@ -757,9 +764,9 @@ footer p {
 	nav a {
 	  font-size: small;
 	}
-	div.hor-2 {
+	/*div.hor-2 {
 	  font-size: small;
-	}
+	}*/
 }
 video::-webkit-media-controls-start-playback-button {
   display: none !important;
