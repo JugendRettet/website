@@ -220,10 +220,10 @@ div.box-pic h2, div.box-pic h3, div.box-pic-s h2, div.box-pic-s h3 {
   top: 0;
   width: 100%;
 }
-div.box-pic img {
+div.box-pic figure, div.box-pic img {
   height: 40vh;
 }
-div.box-pic-s img {
+div.box-pic-s figure, div.box-pic-s img {
   height: 30vh;
 }
 div.hor-el {
@@ -374,7 +374,16 @@ span.text-center {
 	display: block;
 }
 div.box-pic img, div.box-pic-s img {
-  max-width: none;
+	max-width: none;
+	/* dirty hack to center overflowing img inside parent */
+    position: absolute;
+    top: -99999px;
+    bottom: -99999px;
+    left: -99999px;
+    right: -99999px;
+    margin: auto;
+    min-height: 100%;
+    min-width: 100%;
 }
 /* end structure */
 /* styling */
@@ -539,6 +548,7 @@ div.box-pic figure, div.box-pic-s figure {
   margin: 0;
   padding: 0;
   overflow: hidden;
+  position: relative;
 }
 iframe {
 	border: none;
