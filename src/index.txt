@@ -75,7 +75,7 @@ _(menu_donate)
 
 _(intro_title)
 
-        <div class="text-lighter">
+        <div class="text-lighter text-center">
 
 _(intro)
 
