@@ -308,9 +308,9 @@ div.hidden {
 .std {
 	font-weight: normal;
 }
-.box-highlight, .box-dark, .p-highlight, .hor {
+/*.box-highlight, .box-dark, .p-highlight, .hor {
 	max-width: 95%;
-}
+}*/
 .center, p, h2, h4, h5, h6, .box-highlight, .box-dark, .p-highlight, .hor {
 	margin-left: auto;
 	margin-right: auto;
