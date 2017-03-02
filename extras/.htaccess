@@ -62,27 +62,27 @@ ErrorDocument 404 /404
  AddOutputFilterByType DEFLATE application/x-shockwave-flash
 </IfModule>
 # turns cache on for 1 week
-<IfModule mod_expires.c>
-  ExpiresActive On
-  ExpiresDefault "access plus 1 days"
-  ExpiresByType text/html "access 1 days"
-  ExpiresByType image/gif "access plus 1 week 1 days"
-  ExpiresByType image/jpeg "access plus 1 week 1 days"
-  ExpiresByType image/png "access plus 1 week 1 days"
-  ExpiresByType image/svg "access plus 1 week 1 days"
-  ExpiresByType text/css "access 1 days"
-  ExpiresByType text/javascript "access 1 days"
-  ExpiresByType application/x-javascript "access 1 days"
-  ExpiresByType text/xml "access plus 1 seconds"
-</IfModule>
-<ifmodule mod_headers.c>
- <filesmatch "\\.(ico|jpe?g|png|gif|swf)$">
-  Header set Cache-Control "max-age=2592000, public"
- </filesmatch>
- <filesmatch "\\.(css)$">
-  Header set Cache-Control "max-age=604800, public"
- </filesmatch>
- <filesmatch "\\.(js)$">
-  Header set Cache-Control "max-age=604800, private"
- </filesmatch>
-</ifmodule>
+#<IfModule mod_expires.c>
+#  ExpiresActive On
+#  ExpiresDefault "access plus 1 days"
+#  ExpiresByType text/html "access 1 days"
+#  ExpiresByType image/gif "access plus 1 week 1 days"
+#  ExpiresByType image/jpeg "access plus 1 week 1 days"
+#  ExpiresByType image/png "access plus 1 week 1 days"
+#  ExpiresByType image/svg "access plus 1 week 1 days"
+#  ExpiresByType text/css "access 1 days"
+#  ExpiresByType text/javascript "access 1 days"
+#  ExpiresByType application/x-javascript "access 1 days"
+#  ExpiresByType text/xml "access plus 1 seconds"
+#</IfModule>
+#<ifmodule mod_headers.c>
+# <filesmatch "\\.(ico|jpe?g|png|gif|swf)$">
+#  Header set Cache-Control "max-age=2592000, public"
+# </filesmatch>
+# <filesmatch "\\.(css)$">
+#  Header set Cache-Control "max-age=604800, public"
+# </filesmatch>
+# <filesmatch "\\.(js)$">
+#  Header set Cache-Control "max-age=604800, private"
+# </filesmatch>
+#</ifmodule>
