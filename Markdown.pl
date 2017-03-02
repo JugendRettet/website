@@ -440,7 +440,7 @@ sub _RunBlockGamut {
 
 	$text = _DoBlockQuotes($text);
 
-	$text = _DoImages($text);
+	$text = _DoFigures($text);
 
 	# We already ran _HashHTMLBlocks() before, in Markdown(), but that
 	# was to escape raw HTML in the original Markdown source. This time,
@@ -467,6 +467,7 @@ sub _RunSpanGamut {
 
 	# Process anchor and image tags. Images must come first,
 	# because ![foo][f] looks like an anchor.
+	$text = _DoImages($text);
 	$text = _DoAnchors($text);
 
 	# Make links out of things like `<http://example.com/>`
@@ -610,8 +611,7 @@ sub _DoAnchors {
 	return $text;
 }
 
-
-sub _DoImages {
+sub _DoFigures {
 #
 # Turn Markdown image shortcuts into <img> tags.
 #
@@ -622,7 +622,7 @@ sub _DoImages {
 	#
 	$text =~ s{
 		(				# wrap whole match in $1
-		  !\[
+		  !!\[
 		    (.*?)		# alt text = $2
 		  \]
 
@@ -672,7 +672,7 @@ sub _DoImages {
 
 	$text =~ s{
 		(				# wrap whole match in $1
-		  !\[
+		  !!\[
 		    (.*?)		# alt text = $2
 		  \]
 		  \(			# literal paren
@@ -715,6 +715,109 @@ sub _DoImages {
 	return $text;
 }
 
+sub _DoImages {
+#
+# Turn Markdown image shortcuts into <img> tags.
+#
+	my $text = shift;
+
+	#
+	# First, handle reference-style labeled images: ![alt text][id]
+	#
+	$text =~ s{
+		(				# wrap whole match in $1
+		  !\[
+		    (.*?)		# alt text = $2
+		  \]
+
+		  [ ]?				# one optional space
+		  (?:\n[ ]*)?		# one optional newline followed by spaces
+
+		  \[
+		    (.*?)		# id = $3
+		  \]
+
+		)
+	}{
+		my $result;
+		my $whole_match = $1;
+		my $alt_text    = $2;
+		my $link_id     = lc $3;
+
+		if ($link_id eq "") {
+			$link_id = lc $alt_text;     # for shortcut links like ![this][].
+		}
+
+		$alt_text =~ s/"/&quot;/g;
+		if (defined $g_urls{$link_id}) {
+			my $url = $g_urls{$link_id};
+			$url =~ s! \* !$g_escape_table{'*'}!gx;		# We've got to encode these to avoid
+			## $url =~ s!  _ !$g_escape_table{'_'}!gx;		# conflicting with italics/bold.
+			$result = "<img src=\"$url\" alt=\"$alt_text\"";
+			if (defined $g_titles{$link_id}) {
+				my $title = $g_titles{$link_id};
+				$title =~ s! \* !$g_escape_table{'*'}!gx;
+				## $title =~ s!  _ !$g_escape_table{'_'}!gx;
+				$result .=  " title=\"$title\"";
+			}
+			$result .= $g_empty_element_suffix;
+		}
+		else {
+			# If there's no such link ID, leave intact:
+			$result = $whole_match;
+		}
+
+		$result;
+	}xsge;
+
+	#
+	# Next, handle inline images:  ![alt text](url "optional title")
+	# Don't forget: encode * and _
+
+	$text =~ s{
+		(				# wrap whole match in $1
+		  !\[
+		    (.*?)		# alt text = $2
+		  \]
+		  \(			# literal paren
+		  	[ \t]*
+			<?(\S+?)>?	# src url = $3
+		  	[ \t]*
+			(			# $4
+			  (['"])	# quote char = $5
+			  (.*?)		# title = $6
+			  \5		# matching quote
+			  [ \t]*
+			)?			# title is optional
+		  \)
+		)
+	}{
+		my $result;
+		my $whole_match = $1;
+		my $alt_text    = $2;
+		my $url	  		= $3;
+		my $title		= '';
+		if (defined($6)) {
+			$title		= $6;
+		}
+
+		$alt_text =~ s/"/&quot;/g;
+		$title    =~ s/"/&quot;/g;
+		$url =~ s! \* !$g_escape_table{'*'}!gx;		# We've got to encode these to avoid
+		## $url =~ s!  _ !$g_escape_table{'_'}!gx;		# conflicting with italics/bold.
+		$result = "<img src=\"$url\" alt=\"$alt_text\"";
+		if (defined $title) {
+			$title =~ s! \* !$g_escape_table{'*'}!gx;
+			## $title =~ s!  _ !$g_escape_table{'_'}!gx;
+			$result .=  " title=\"$title\"";
+		}
+		$result .= $g_empty_element_suffix;
+
+		$result;
+	}xsge;
+
+	return $text;
+}
 
 sub _DoHeaders {
 	my $text = shift;
