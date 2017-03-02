@@ -264,8 +264,9 @@ div.hor-2 {
 div.hor-3 {
   max-width: 32%;
 }
-div.hor-3.box-pic {
+div.hor-3.box-pic, div.hor.fix div.hor-3 {
   width: 32%;
+  overflow-x: hidden;
 }
 div.hor-4 {
   width: 23%;
