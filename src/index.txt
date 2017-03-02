@@ -249,7 +249,7 @@ _(news_title)
         </div><!--hor-->
         <div class="hor resp">
           <div class="hor-el hor-3">
-            <div class="p-highlight">
+            <div class="box-highlight">
 
 _(news_news_item)
 
