@@ -642,6 +642,10 @@ footer p {
 	margin: initial;
 	padding: 5px;
 }
+div.hor div.box-highlight div.hor-el p {
+    margin-left: 1ch;
+    margin-right: 1ch;
+}
 .scroll-down {
     z-index: -1;
     opacity: 1;
