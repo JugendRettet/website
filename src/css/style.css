@@ -745,7 +745,7 @@ div.hor div.box-highlight div.hor-el p {
 	}
 }
 @media screen and (max-width: 690px) {
-	div.resp div.hor-3 {
+	div.resp div.hor-3, div.resp.fix div.hor-3 {
 	  width: 100%;
 	  max-width: 100%;
 	}
