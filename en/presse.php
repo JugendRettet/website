@@ -79,7 +79,7 @@
 <br>
 <p>Mail: <a href="mailto:press@jugendrettet.org">press@jugendrettet.org</a></p>
 <br>
-<p>&#8594; <a href="../files/press_portfolio_JR.pdf">press portfolio (updated August 7th '16)</a></p>
+<!--<p>&#8594; <a href="../files/press_portfolio_JR.pdf">press portfolio (updated August 7th '16)</a></p>-->
 
                     </div>
                 </div>
