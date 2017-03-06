@@ -152,8 +152,10 @@
 <li>Lisbon: <a href="mailto:Helene_Lisbon@jugendrettet.org">Helene</a></li>
 <li>London: <a href="mailto:LenaG@jugendrettet.org">Lena</a></li>
 <li>Mainz: <a href="mailto:Christian_Mainz@jugendrettet.org">Christian</a></li>
-<li>Marburg: <a href="mailto:Max_Marburg@jugendrettet.org">Max</a></li
+<li>Marburg: <a href="mailto:Max_Marburg@jugendrettet.org">Max</a></li>
 <li>Munich: <a href="mailto:Lisa@jugendrettet.org">Lisa</a></li>
+<li>Munich: <a href="mailto:Lilli_Muenchen@jugendrettet.org">Lilli</a></li>
+<li>Mönchengladbach: <a href="mailto:Pascal_Moenchengladbach@jugendrettet.org">Pascal</a></li>
 <li>Münster: <a href="mailto:Paul_Muenster@jugendrettet.org">Paul</a></li>
 <li>Nürnberg: <a href="mailto:Annemarie_Nuernberg@jugendrettet.org">Annemarie</a></li>
 <li>Nürnberg: <a href="mailto:Mark_Nuernberg@jugendrettet.org">Mark</a></li>
@@ -166,6 +168,7 @@
 <li>Ostfriesland: <a href="mailto:Jana_Ostfriesland@jugendrettet.org">Jana</a></li>
 <li>Paderborn: <a href="mailto:Paderborn@jugendrettet.org">Wiebke</a></li>
 <li>Passau: <a href="mailto:Ben_Passau@jugendrettet.org">Ben</a></li>
+<li>Porta Westfalica: <a href="mailto:Marie_PortaWestfalica@jugendrettet.org">Marie</a></li>
 <li>Potsdam: <a href="mailto:Christoph@jugendrettet.org">Christoph</a></li>
 <li>Potsdam: <a href="mailto:Alex@jugendrettet.org">Alex</a></li>
 <li>Roma: <a href="mailto:Carla_Roma@jugendrettet.org">Carla</a></li>
@@ -177,6 +180,7 @@
 <li>Überlingen: <a href="mailto:Johnny_Ueberlingen@jugendrettet.org">Johnny</a></li>
 <li>Warszawa: <a href="mailto:Marcin_Warszawa@jugendrettet.org">Marcin</a></li>
 <li>Weimar: <a href="mailto:Manuel_Weimar@jugendrettet.org">Manuel</a></li>
+<li>Würzburg: <a href="mailto:Jakob_Wuerzburg@jugendrettet.org">Jakob</a></li>
 <li>Zürich: <a href="mailto:Adrian_Zuerich@jugendrettet.org">Adrian</a></li>
                         </ul>
                         <br>
