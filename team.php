@@ -155,7 +155,7 @@
 <li>Marburg: <a href="mailto:Max_Marburg@jugendrettet.org">Max</a></li>
 <li>Mönchengladbach: <a href="mailto:Pascal_Moenchengladbach@jugendrettet.org">Pascal</a></li>
 <li>München: <a href="mailto:Lisa@jugendrettet.org">Lisa</a></li>
-<li>München: <a href="mailto:Lilli_Muenchen@jugendrettet.org">Lilli</a></li>
+<li>München: <a href="mailto:Lili_Muenchen@jugendrettet.org">Lili</a></li>
 <li>Münster: <a href="mailto:Paul_Muenster@jugendrettet.org">Paul</a></li>
 <li>Nürnberg: <a href="mailto:Annemarie_Nuernberg@jugendrettet.org">Annemarie</a></li>
 <li>Nürnberg: <a href="mailto:Mark_Nuernberg@jugendrettet.org">Mark</a></li>
