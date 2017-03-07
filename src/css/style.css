@@ -176,8 +176,8 @@ div.p-highlight p {
 	/*margin: 0;*/
 }
 .highlight, nav a.highlight, div.box-highlight, div.p-highlight {
-  /*background: rgb(219, 233, 238);*/
-  border: solid;
+  background: rgb(219, 233, 238);
+  /*border: solid;*/
 }
 .red {
 	background: rgb(249,69,0);
