@@ -171,41 +171,63 @@
 .text-small, .hor-4, .hor-5 {
   font-size: small;
 }
-div.p-highlight p, div.p-dark p {
+div.p-highlight p {
 	padding: 1em;
 	/*margin: 0;*/
 }
 .highlight, nav a.highlight, div.box-highlight, div.p-highlight {
-  background: rgb(219, 233, 238);
+  /*background: rgb(219, 233, 238);*/
+  border: solid;
 }
 .red {
 	background: rgb(249,69,0);
 }
-nav a.dark, div.box-dark, div.p-dark {
+nav a.dark, div.box-dark, .a-dark a {
 	color: white;
 	background-color: #142d3c;
 }
-div.a-dark {
+
+div.a-dark a {
+	padding: 0.8ch;
+}
+div.a-dark a, div.box-dark a {
+	border: none;
+}
+div.a-dark a, div.box-dark {
 	transition: background-color 0.3s ease,
 	color 0.6s ease,
 	border-color 0.6s ease;
 }
-div.box-dark, div.box-highlight {
-	padding: 0.4ch;
+div.box-dark a, div.box-dark p {
+	transition: none;
+	padding: initial;
+	margin: initial;
 }
-div.box-dark, div.box-highlight, div.hor {
-	margin-bottom: 18px;
+div.box-dark a {
+	color: inherit;
+	background-color: inherit;
+}
+div.box-dark, div.box-highlight {
+	padding: 1ch;
+}
+div.box-highlight div.box-dark{
+	padding: initial;
+}
+div.box-dark, div.box-highlight, div.hor, footer {
+	margin-top: 1em;
 }
 div.box-highlight div.box-dark {
 	margin-bottom: 0;
 }
-.a-dark a, .a-highlight a {
+/*.a-dark a, .a-highlight a {
 	color: inherit;
 	background: inherit;
 	border-bottom: none;
-}
-.a-dark:hover a {
+}*/
+.a-dark:hover a, .box-dark:hover a {
 	border-bottom: solid thin;
+	color: inherit;
+	background: inherit;
 }
 div.box-pic {
 }
@@ -220,14 +242,6 @@ div.box-pic h2, div.box-pic h3, div.box-pic-s h2, div.box-pic-s h3 {
   top: 0;
   width: 100%;
 }
-div.box-pic, div.box-pic figure {
-  height: 400px;
-  max-width: 600px;
-}
-div.box-pic-s, div.box-pic-s figure {
-  height: 300px;
-  max-width: 400px;
-}
 div.hor-el {
   display: inline-block;
   vertical-align: top;
@@ -237,7 +251,7 @@ div.hor-el {
   margin-bottom: 1em;
   /*border: thin solid white;*/
 }
-div.hor-overflow {
+div.hor-overflow iframe {
 	max-height: 500px;
 	overflow-y: auto;
 }
@@ -248,13 +262,25 @@ div.hor-2 {
   width: 48%;
 }
 div.hor-3 {
+  max-width: 32%;
+}
+div.hor-3.box-pic, div.hor.fix div.hor-3 {
   width: 32%;
+  overflow-x: hidden;
 }
 div.hor-4 {
   width: 23%;
 }
 div.hor-5 {
   width: 18%;
+}
+div.box-pic, div.box-pic figure {
+  height: 400px;
+  max-width: 600px;
+}
+div.box-pic-s, div.box-pic-s figure {
+  height: 300px;
+  max-width: 400px;
 }
 div.hor-last, .box-pic, .box-pic-s{
   border-right: none;
@@ -272,10 +298,9 @@ video.header-video {
 	left: 0;
 }
 section {
-	padding-top: 50px;
 }
 section.big-margin {
-	padding-top: 100px;
+	padding-top: 50px;
 }
 div.hidden {
 	display: none;
@@ -283,10 +308,10 @@ div.hidden {
 .std {
 	font-weight: normal;
 }
-.box-highlight, .box-dark, .p-highlight, .p-dark, .hor {
+/*.box-highlight, .box-dark, .p-highlight, .hor {
 	max-width: 95%;
-}
-.center, p, h2, h4, h5, h6, .box-highlight, .box-dark, .p-highlight, .p-dark, .hor {
+}*/
+.center, p, h2, h4, h5, h6, .box-highlight, .box-dark, .p-highlight, .hor {
 	margin-left: auto;
 	margin-right: auto;
 }
@@ -475,7 +500,6 @@ a#introlink {
 	border: none;
 }
 div#paper a {
-	padding: initial;
 }
 p {
 	/*text-align:justify;*/
@@ -483,10 +507,10 @@ p {
 ul {
 	margin: auto;
 }
-p, div.p-dark, ul, h4, h5, h6 {
+p, ul, h4, h5, h6 {
 	max-width: 80ch;
 }
-div.p-highlight, div.p-dark {
+div.p-highlight {
 	/*margin: 0.5em;*/
 }
 h1, div.fakeh1 p {
@@ -502,15 +526,13 @@ div.fakeh1 p {
 h2 {
 	/*border-left:solid;*/
 	/*padding-left:2ch;*/
-	border-top: solid 10px;
-	padding: 4ch;
 	padding-left: 0;
 	padding-right: 0;
 	text-transform: uppercase;
-	margin-top: 1.4em;
+	padding-top: 3em;
+	margin-bottom: 3em;
 	/*background: rgb(141, 160, 169);
   color: white;*/
-	max-width: 33%;
 }
 h1, h2 {
 	color: #286482;
@@ -519,7 +541,7 @@ h3 {
   text-transform: uppercase;
   margin-top: 3em;
 }
-div.box-highlight h3, div.box-dark h3, div.box-pic h3, div.box-pic-s h3, div.hor-el h3 {
+div.box-highlight h3:first-child, div.box-dark h3:first-child, div.box-pic h3:first-child, div.box-pic-s h3:first-child, div.hor-el h3:first-child {
   margin-top: 1em;
 }
 h1, h2, h3, h4, h5, h6 {
@@ -539,11 +561,12 @@ div.p-highlight {
 	padding: 0.5em;
 	margin-top: 0;
 }
-div.a-dark:hover {
+div.a-dark:hover, div.box-dark:hover {
 	color: #142d3c;
 	background: inherit;
 }
 div.box-highlight {
+	display: inline-block;
 }
 div.box-pic figure, div.box-pic-s figure {
   margin: 0;
@@ -618,6 +641,10 @@ footer a {
 footer p {
 	margin: initial;
 	padding: 5px;
+}
+div.hor div.box-highlight div.hor-el p {
+    margin-left: 1ch;
+    margin-right: 1ch;
 }
 .scroll-down {
     z-index: -1;
@@ -718,8 +745,12 @@ footer p {
 	}
 }
 @media screen and (max-width: 690px) {
-	div.resp div.hor-3 {
+	div.resp div.hor-3, div.resp.fix div.hor-3 {
 	  width: 100%;
+	  max-width: 100%;
+	}
+	div.resp div.hor-el {
+	  margin-bottom: 0;
 	}
 	div.resp div.hor-el {
 	  margin-bottom: 0;
