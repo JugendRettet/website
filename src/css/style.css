@@ -738,6 +738,16 @@ div.hor div.box-highlight div.hor-el p {
     -o-transform: rotate(-20deg) translate(50%);
     transform: rotate(-20deg) translate(50%);
 }
+h2:before {
+	background: none repeat scroll 0 0 #286482;
+	top: -50px;
+	content: "";
+	display: block;
+	height: 10px;
+	position: relative;
+	width: 33%;
+	margin: auto;
+}
 /* end styling */
 @media screen and (max-width: 1000px) {
 	section#team_embassies ul {
