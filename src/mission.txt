@@ -1,4 +1,4 @@
-<nav class="center text-center sub">
+<nav>
   <a href="./#news">
 
 _(menu_intro)

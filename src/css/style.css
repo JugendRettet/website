@@ -748,19 +748,6 @@ h2:before {
 	width: 33%;
 	margin: auto;
 }
-nav.sub {
-	background: #286482;
-	color: white;
-}
-nav.sub a, nav.sub a.inactive {
-	background: inherit;
-	color: white;
-}
-nav a:hover, nav a:hover.red, nav a:hover.dark, nav a.active, nav a.red.active {
-	background: #f8f8f7;
-	color: #286482;
-	border-bottom: none;
-}
 /* end styling */
 @media screen and (max-width: 1000px) {
 	section#team_embassies ul {
