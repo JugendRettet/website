@@ -1,4 +1,4 @@
-<nav>
+<nav class="center text-center sub">
   <a href="./#team">
 
 _(menu_intro)
