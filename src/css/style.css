@@ -375,7 +375,7 @@ article {
 	margin-left: 3ch;
 	margin-right: 3ch;
 	padding-bottom: 3ch;
-	max-width: 95%;
+	margin-top: 100px;
 }
 article img {
 	max-width: 100%;
