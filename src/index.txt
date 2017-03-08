@@ -70,7 +70,7 @@ _(menu_donate)
   </a>
 </nav>
 <div id="paper">
-    <article class="center">
+    <article>
       <section id="intro" class="scroll-section big-margin">
 
 _(intro_title)
