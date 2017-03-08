@@ -19,7 +19,7 @@ _(header_title)
 _(logo)
 
     </div><!--center-->
-    <video id="waves-video" class="header-video" loop autoplay preload="auto" poster="../f/images/error.jpg">
+    <video id="waves-video" class="header-video" loop autoplay muted preload="auto" poster="../f/images/error.jpg">
       <source src="../f/videos/waves.mp4">
     </video>
     <div class="scroll-down">
