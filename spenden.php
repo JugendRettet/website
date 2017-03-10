@@ -77,13 +77,29 @@
                     echo $percent;
                     ?>%;
             }
+            div.bp-fix {
+                position: relative;
+            }
+            span.bp-fix{ 
+                position:absolute; 
+                width:100%;
+                height:100%;
+                top:0;
+                left: 0;
+
+                z-index: 1;
+
+                /* fixes overlap error in IE7/8, 
+                make sure you have an empty gif 
+                background-image: url('empty.gif');*/
+            } 
         </style>
     </head>
 
     <body>
         <div id="pop-back"></div>
         <div id="header-back"></div>
-	    <div id="wrap">
+        <div id="wrap">
             <header>
                 <a id="logo-wrap" href="/">
                     <img id="logo" src="./graphics/logo.svg" alt="Jugent Rettet">
@@ -137,6 +153,8 @@
                             Biobaumwolle und sehr gemütlich.</a>
                         </p>
                         <br>
+                        <div class="bp-fix">
+                        <a href="/betterplace"><span class="bp-fix"></span></a>
                         <h4>direkt spenden</h4>
                         <script type="text/javascript">
                           /* Configure at https://www.betterplace.org/de/projects/42019-rette-mit-einsatz-zur-seenotrettung-auf-dem-mittelmeer/manage/iframe_donation_form */
@@ -158,6 +176,7 @@
                           })();
                         </script>
                         <div id="betterplace_donation_iframe" style="background: transparent url('https://www.betterplace.org/assets/new_spinner.gif') 275px 20px no-repeat;"><strong><a href="https://www.betterplace.org/de/projects/48425-rette-mit-spende-fur-rettungseinsatze-auf-dem-mittelmeer/donations/new">Jetzt Spenden für „Rette mit! Spende für Rettungseinsätze auf dem Mittelmeer“ bei unserem Partner betterplace.org</a></strong></div>
+                        </div>
                         <!--<h4>Rechner</h4>
                         <div id="rechner">
                             <input type="Text" id="spendeinput" oninput="rechnen()"> €
