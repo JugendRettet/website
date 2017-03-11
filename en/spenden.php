@@ -148,7 +148,7 @@
                         </p>
                         <br>
                         <div class="bp-fix">
-                        <a href="/betterplace"><span class="bp-fix"></span></a>
+                        <a href="https://www.betterplace.org/projects/48425-rette-mit-spende-fur-rettungseinsatze-auf-dem-mittelmeer/donations"><span class="bp-fix"></span></a>
                         <h4>donate directly</h4>
                         <script type="text/javascript">
                           /* Configure at https://www.betterplace.org/de/projects/42019-rette-mit-einsatz-zur-seenotrettung-auf-dem-mittelmeer/manage/iframe_donation_form */
