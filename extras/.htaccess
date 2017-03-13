@@ -22,9 +22,10 @@ RewriteRule ^/?events.php$ https://www.facebook.com/JugendRettet/events [R=302,N
 # or /en/ if we have no dir for Accept-Language
 RewriteCond %{REQUEST_URI} ^/(js|f|en|de)(/|$) [NC]
 RewriteRule .? - [S=3]
-RewriteCond %{HTTP:Accept-Language} !^(en|de)$ [NC]
+RewriteCond %{HTTP:Accept-Language} !^(en(-.*)?|de(-.*)?)$ [NC]
 RewriteRule .? - [S=1]
-RewriteRule ^(.*)$ /%{HTTP:Accept-Language}/$1 [R=302,L]
+RewriteCond %{HTTP:Accept-Language} ^de(-.*)?$ [NC]
+RewriteRule ^(.*)$ /de/$1 [R=302,L]
 RewriteRule ^(.*)$ /en/$1 [R=302,L]
 
 # hide extension
