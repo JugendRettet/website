@@ -761,6 +761,17 @@ nav.sub a:hover, nav.sub a:hover.red, nav.sub a:hover.dark, nav.sub a.active, na
 	color: #286482;
 	border-bottom: none;
 }
+hr {
+    border-bottom-style: none;
+    max-width: 33%;
+    margin-top: 10ch;
+}
+div.footnotes p {
+	font-size: 0.67em;
+}
+div.footnotes h6 {
+    margin-bottom: -2ch;
+}
 /* end styling */
 @media screen and (max-width: 1000px) {
 	section#team_embassies ul {

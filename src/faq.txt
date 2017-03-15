@@ -11,5 +11,10 @@ _(menu_intro)
 
 _(sub_faq)
 
+  <div class="footnotes">
+
+_(sub_faq_footnotes)
+
+  </div><!--footnotes-->
 </article>
 </div><!--paper-->
