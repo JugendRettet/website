@@ -9,7 +9,7 @@ mkdir dest.tmp.d
 while read lingua; do
   TR_LANG="${lingua}"
   export TR_LANG
-  . ./translations/"${TR_LANG}"/home.md
+  . ./translations/"${TR_LANG}"/meta.md
   TR_DESCRIPTION="${description}"
   TR_TITLE="${title}"
   export TR_DESCRIPTION
