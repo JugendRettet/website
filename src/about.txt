@@ -1,7 +1,7 @@
 <nav class="center text-center sub">
   <a href="./#about">
 
-_(menu_intro)
+_(index_menu_intro)
 
   </a>
   <a href="#our_story">

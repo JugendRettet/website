@@ -1,7 +1,7 @@
 <nav>
   <a href="./#faq">
 
-_(menu_intro)
+_(index_menu_intro)
 
   </a>
 </nav>

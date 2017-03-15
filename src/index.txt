@@ -10,9 +10,7 @@
 <a href="#intro" class="introlink">
   <section id="header" class="scroll-section">
     <div class="hidden">
-
-_(header_title)
-
+      <h2>header</h2>
     </div>
     <div id="center">
 
@@ -30,37 +28,37 @@ _(logo)
 <nav class="center text-center">
   <a href="#intro">
 
-_(menu_intro)
+_(index_menu_intro)
   
   </a>
   <a href="#about">
 
-_(menu_about_us)
+_(index_menu_about_us)
 
   </a>
   <a href="#team">
 
-_(menu_team)
+_(index_menu_team)
 
   </a>
   <a href="#rescue">
 
-_(menu_rescue)
+_(index_menu_rescue)
 
   </a>
   <a href="#faq">
 
-_(menu_faq)
+_(index_menu_faq)
 
   </a>
   <a href="#news">
 
-_(menu_news)
+_(index_menu_news)
 
   </a>
   <a class="red" href="#donate">
 
-_(menu_donate)
+_(index_menu_donate)
   
   </a>
   <a href="#more">
@@ -119,27 +117,27 @@ _(ideals_actions)
       </section><!--intro-->
       <section id="about" class="scroll-section">
 
-_(about_us_title)
+_(index_about_us_title)
 
         <div class="hor">
           <div class="hor-el hor-3 box-pic">
             <a href="about#our_story">
 
-_(about_us_our_story_title)
+_(index_about_us_our_story_title)
 
             </a>
           </div><!--hor-el-->
           <div class="hor-el hor-3 box-pic">
             <a href="about#iuventa">
 
-_(about_us_iuv_title)
+_(index_about_us_iuv_title)
 
             </a>
           </div><!--hor-el-->
           <div class="hor-el hor-3 box-pic">
             <a href="about#transparency">
 
-_(about_us_transparency_title)
+_(index_about_us_transparency_title)
 
             </a>
           </div><!--hor-el-->
@@ -147,41 +145,41 @@ _(about_us_transparency_title)
       </section><!--about-->
       <section id="team" class="scroll-section">
 
-_(team_title)
+_(index_team_title)
 
         <div class="hor">
           <div class="hor-el hor-5 box-pic-s">
             <a href="team">
 
-_(team_berlin)
+_(index_team_berlin)
 
             </a>
           </div><!--hor-el-->
           <div class="hor-el hor-5 box-pic-s">
             <a href="team">
 
-_(team_crew)
+_(index_team_crew)
 
             </a>
           </div><!--hor-el-->
           <div class="hor-el hor-5 box-pic-s">
             <a href="team">
 
-_(team_embassies)
+_(index_team_embassies)
 
             </a>
           </div><!--hor-el-->
           <div class="hor-el hor-5 box-pic-s">
             <a href="team">
 
-_(team_donations)
+_(index_team_donations)
 
             </a>
           </div><!--hor-el-->
           <div class="hor-el hor-5  box-pic-s">
             <a href="team">
 
-_(team_sponsors)
+_(index_team_sponsors)
 
             </a>
           </div><!--hor-el-->
@@ -190,34 +188,34 @@ _(team_sponsors)
       </section><!--team-->
       <section id="rescue" class="scroll-section">
 
-_(rescue_as_title)
+_(index_rescue_as_title)
 
         <div class="hor">
           <div class="hor-el hor-4 box-pic-s">
             <a href="rescue_as">
 
-_(rescue_as_voluntary)
+_(index_rescue_as_voluntary)
 
             </a>
           </div><!--hor-el-->
           <div class="hor-el hor-4 box-pic-s">
             <a href="rescue_as">
 
-_(rescue_as_ambassador)
+_(index_rescue_as_ambassador)
 
             </a>
           </div><!--hor-el-->
           <div class="hor-el hor-4 box-pic-s">
             <a href="rescue_as">
 
-_(rescue_as_donator)
+_(index_rescue_as_donator)
 
             </a>
           </div><!--hor-el-->
           <div class="hor-el hor-4 box-pic-s">
             <a href="rescue_as">
 
-_(rescue_as_sponsor)
+_(index_rescue_as_sponsor)
 
             </a>
           </div><!--hor-el-->
@@ -225,11 +223,11 @@ _(rescue_as_sponsor)
       </section><!--rescue-->
       <section id="faq" class="text-center big-margin scroll-section">
 
-_(faq_title)
+_(index_faq_title)
 
         <div class="a-dark">
 
-_(faq)
+_(index_faq)
 
         </div><!--a-dark-->
       </section><!--faq-->
@@ -350,12 +348,12 @@ _(donate_account_info)
         <footer class="text-center">
           <a href="press">
 
-_(menu_press)
+_(index_menu_press)
 
           </a>
           <a href="legal">
 
-_(menu_legal)
+_(index_menu_legal)
 
           </a>
             <span>|</span>
