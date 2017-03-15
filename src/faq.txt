@@ -9,7 +9,7 @@ _(menu_intro)
 <div id="paper">
 <article>
 
-_(faq)
+_(sub_faq)
 
 </article>
 </div><!--paper-->
