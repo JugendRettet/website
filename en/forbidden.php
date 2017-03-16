@@ -16,16 +16,16 @@
         <meta property="og:type" content="website" />
         <meta property="og:site_name" content="Jugend Rettet" />
 
-        <link rel="shortcut icon" type="image/x-icon" href="./graphics/jr.ico" />
-        <link rel="mask-icon" href="./graphics/jr-mask.svg" color="rgb(40,100,130)">
-        <link rel="apple-touch-icon" href="./graphics/apple-touch-icon.png"/>       
-        <link rel="stylesheet" href="./css/waves.1.css" type="text/css" />
-        <link rel="stylesheet" href="./css/general.css" type="text/css" />
-        <link rel="stylesheet" href="./css/main.css?9" type="text/css" />
-        <link rel="stylesheet" href="./css/desktop.css?5" media="screen and (min-width: 851px)" type="text/css" />
-        <link rel="stylesheet" href="./css/mobile.css?6" media="screen and (max-width: 850px)" type="text/css" />
+        <link rel="shortcut icon" type="image/x-icon" href="../graphics/jr.ico" />
+        <link rel="mask-icon" href="../graphics/jr-mask.svg" color="rgb(40,100,130)">
+        <link rel="apple-touch-icon" href="../graphics/apple-touch-icon.png"/>       
+        <link rel="stylesheet" href="../css/waves.1.css" type="text/css" />
+        <link rel="stylesheet" href="../css/general.css" type="text/css" />
+        <link rel="stylesheet" href="../css/main.css?9" type="text/css" />
+        <link rel="stylesheet" href="../css/desktop.css?5" media="screen and (min-width: 851px)" type="text/css" />
+        <link rel="stylesheet" href="../css/mobile.css?6" media="screen and (max-width: 850px)" type="text/css" />
           
-        <script src="./js/jquery-1.10.2.min.js"></script>
+        <script src="../js/jquery-1.10.2.min.js"></script>
         <script type="text/javascript">
             $(window).load(function() {
             });
@@ -38,14 +38,14 @@
 
         <div class="fullscreen-bg">
             <video id="waves-video" class="fullscreen-bg__video" loop="true" autoplay="true" preload="auto">
-                <source src="./videos/waves.mp4">
-                <img src="./images/error.jpg"/>
+                <source src="../videos/waves.mp4">
+                <img src="../images/error.jpg"/>
             </video>
         </div>
 
         <header>
             <a id="logo-wrap" href="/">
-                <img id="logo" src="./graphics/logo.svg" alt="Jugent Rettet">
+                <img id="logo" src="../graphics/logo.svg" alt="Jugent Rettet">
                 <div id="title">Jugend <b>Rettet</b></div>
             </a>
         </header>   
@@ -56,8 +56,8 @@
             </div>   
 
         <!-- Scripts -->
-        <script src="./js/shared.js"></script>
-        <script src="./js/main.js?0"></script>
+        <script src="../js/shared.js"></script>
+        <script src="../js/main.js?0"></script>
     </div>
     </body>
 </html>
