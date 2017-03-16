@@ -38,7 +38,11 @@ RewriteCond %{HTTP:Accept-Language} !^(en(-.*)?|de(-.*)?)$ [NC]
 RewriteRule .? - [S=1]
 RewriteCond %{HTTP:Accept-Language} ^de(-.*)?$ [NC]
 RewriteRule ^(.*)$ /de/$1 [R=302,L]
-RewriteRule ^(.*)$ /en/$1 [R=302,L]
+#RewriteRule ^(.*)$ /en/$1 [R=302,L]
+RewriteRule ^(.*)$ https://en.jugendrettet.org/$1 [R=302,L]
+
+RewriteCond %{REQUEST_URI} ^/en/?$ [NC]
+RewriteRule ^(.*)$ https://en.jugendrettet.org/ [R=302,L]
 
 # hide extension
 # Let client find file
