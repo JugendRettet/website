@@ -11,6 +11,18 @@ RewriteRule \.(jpg|jpeg|png|gif|svg)$ - [NC,F,L]
 RewriteRule ^/?donate$ /#donate [R=302,NC,NE,L]
 RewriteRule ^/?spende$ /#donate [R=302,NC,NE,L]
 RewriteRule ^/?iuventa$ /about#iuventa [R=302,NC,NE,L]
+
+RewriteRule ^/?donate$ /#donate [R=302,NC,NE,L]
+RewriteRule ^/?news$ /#news [R=302,NC,NE,L]
+RewriteRule ^/?schiff$ /#about [R=302,NC,NE,L]
+RewriteRule ^/?retten$ /#rescue [R=302,NC,NE,L]
+RewriteRule ^/?spenden$ /#donate [R=302,NC,NE,L]
+RewriteRule ^/?europe$ /#rescue [R=302,NC,NE,L]
+
+RewriteRule ^/?presse$ /press [R=302,NC,L]
+RewriteRule ^/?impressum$ /legal [R=302,NC,L]
+RewriteRule ^/?transparenz$ /about#transparency [R=302,NC,L]
+
 RewriteRule ^/?betterplace$ https://www.betterplace.org/projects/48425-rette-mit-spende-fur-mission-unity [R=302,NC,L]
 RewriteRule ^/?umbau$ https://betterplace.org/p52216 [R=302,NC,L]
 RewriteRule ^/?merch$ https://diraction.org/cat/index/sCategory/257 [R=302,NC,L]
