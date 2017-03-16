@@ -88,8 +88,8 @@ RewriteRule (.*)\.php$ /$1 [R=302,L]
 #RewriteCond %{HTTP_HOST} =de.jugendrettet.org
 #RewriteRule (.*) https://jugendrettet.org/$1 [R=301]
 
-RewriteCond %{THE_REQUEST} ^GET\ /en/
-RewriteRule ^en/(.*) /$1 [R=301]
+#RewriteCond %{THE_REQUEST} ^GET\ /en/
+#RewriteRule ^en/(.*) /$1 [R=301]
 
 #RewriteCond %{REQUEST_FILENAME} !-f
 #RewriteRule ^([^\.]+)$ $1.php [NC,L]
