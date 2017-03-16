@@ -1,47 +1,31 @@
-# Deflate Compression by FileType
-<IfModule mod_deflate.c>
- Addtype font/opentype .otf
- Addtype font/truetype .ttf
- AddOutputFilterByType DEFLATE text/plain
- AddOutputFilterByType DEFLATE text/html
- AddOutputFilterByType DEFLATE text/xml
- AddOutputFilterByType DEFLATE text/css
- AddOutputFilterByType DEFLATE text/javascript
- AddOutputFilterByType DEFLATE image/svg+xml
- AddOutputFilterByType DEFLATE text/html text/plain text/xml text/css font/opentype font/truetype
- AddOutputFilterByType DEFLATE application/xml
- AddOutputFilterByType DEFLATE application/xhtml+xml
- AddOutputFilterByType DEFLATE application/rss+xml
- AddOutputFilterByType DEFLATE application/atom_xml
- AddOutputFilterByType DEFLATE application/javascript
- AddOutputFilterByType DEFLATE application/x-javascript
- AddOutputFilterByType DEFLATE application/x-shockwave-flash
-</IfModule>
-# turns cache on for 1 week
-<IfModule mod_expires.c>
-  ExpiresActive On
-  ExpiresDefault "access plus 1 days"
-  ExpiresByType text/html "access 1 days"
-  ExpiresByType image/gif "access plus 1 week 1 days"
-  ExpiresByType image/jpeg "access plus 1 week 1 days"
-  ExpiresByType image/png "access plus 1 week 1 days"
-  ExpiresByType image/svg "access plus 1 week 1 days"
-  ExpiresByType text/css "access 1 days"
-  ExpiresByType text/javascript "access 1 days"
-  ExpiresByType application/x-javascript "access 1 days"
-  ExpiresByType text/xml "access plus 1 seconds"
-</IfModule>
-<ifmodule mod_headers.c>
- <filesmatch "\\.(ico|jpe?g|png|gif|swf)$">
-  Header set Cache-Control "max-age=2592000, public"
- </filesmatch>
- <filesmatch "\\.(css)$">
-  Header set Cache-Control "max-age=604800, public"
- </filesmatch>
- <filesmatch "\\.(js)$">
-  Header set Cache-Control "max-age=604800, private"
- </filesmatch>
-</ifmodule>
+RewriteEngine On
+
+RewriteCond %{HTTPS} !=on
+RewriteCond %{ENV:HTTPS} !=on
+RewriteRule .* https://%{SERVER_NAME}%{REQUEST_URI} [R=301,L]
+
+#RewriteCond %{HTTP_HOST} !=en.jugendrettet.org
+#RewriteRule (.*) https://en.jugendrettet.org/$1 [R=301,L]
+
+# new page
+
+#RewriteRule ^/?#news$ /news [R=302,NC,L]
+#RewriteRule ^/?#about$ /schiff [R=302,NC,L]
+#RewriteRule ^/?#team$ /team [R=302,NC,L]
+#RewriteRule ^/?#rescue$ /retten [R=302,NC,L]
+#RewriteRule ^/?#donate$ /spenden [R=302,NC,L]
+#RewriteRule ^/?#faq$ /faq [R=302,NC,L]
+#RewriteRule ^/?about#transparency$ /transparenz [R=302,NC,L]
+
+RewriteRule ^/?press$ /presse [R=302,NC,L]
+RewriteRule ^/?about$ /schiff [R=302,NC,L]
+RewriteRule ^/?rescue_as$ /retten [R=302,NC,L]
+RewriteRule ^/?archive$ /news [R=302,NC,L]
+RewriteRule ^/?mission$ /spenden [R=302,NC,L]
+RewriteRule ^/?legal$ /impressum [R=302,NC,L]
+RewriteRule ^/?de/?$ https://jugendrettet.org/$1 [R=302,NC,L]
+
+# other redirects
 
 Redirect /donate /spenden
 Redirect /spende /spenden
@@ -79,40 +63,53 @@ Redirect /events https://www.facebook.com/JugendRettet/events
 Redirect /events.php https://www.facebook.com/JugendRettet/events
 
 # Error Documents
-ErrorDocument 403 https://jugendrettet.org/forbidden
-ErrorDocument 404 https://jugendrettet.org/notfound
-#turns off necessity of html extention
-RewriteEngine On
-
-RewriteCond %{HTTPS} !=on
-RewriteCond %{ENV:HTTPS} !=on
-RewriteRule .* https://%{SERVER_NAME}%{REQUEST_URI} [R=301,L]
-
-RewriteCond %{HTTP_HOST} en.jugendrettet.org$
-RewriteCond %{REQUEST_URI} !^/en
-RewriteCond %{REQUEST_URI} .php$
-RewriteRule ^(.*)$ /en/$1
-
-RewriteCond %{HTTP_HOST} en.jugendrettet.org$
-RewriteCond %{REQUEST_URI} ^/$
-RewriteRule ^(.*)$ /en/index.php
-
-RewriteCond %{HTTP_HOST} =de.jugendrettet.org
-RewriteRule (.*) https://jugendrettet.org/$1 [R=301]
-
-RewriteCond %{THE_REQUEST} ^GET\ /de/
-RewriteRule ^de/(.*) /$1 [R=301]
+ErrorDocument 403 /forbidden
+ErrorDocument 404 /notfound
 
 RewriteCond %{REQUEST_URI} /aendern
 RewriteRule .* /retten [R=302,L]
 
-RewriteCond %{REQUEST_FILENAME} !-f
-RewriteRule ^([^\.]+)$ $1.php [NC,L]
+RewriteCond %{REQUEST_URI} !^/(js|graphics|css|donations|files|fonts|files|graphics|ie-css|images|videos|en|de)(/|$) [NC]
+RewriteRule ^(.*)$ /en/$1 [L]
 
-#RewriteCond %{HTTP_HOST} !^en.jugendrettet.org$ [NC]
-#RewriteCond %{HTTP:Accept-Language} ^en [NC]
-#RewriteRule .* http://en.jugendrettet.org [R,L]
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME}\.php -f
+RewriteRule ^(.*)$ /$1.php
+# When it's found, hide the extension
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_URI} ^(.+)\.php$
+RewriteCond %{THE_REQUEST} ^[A-Z]+\ (/[^\ ]*)\.php[?\ ]
+RewriteRule (.*)\.php$ /$1 [R=302,L]
 
-#RewriteCond %{HTTP_HOST} !^jugendrettet.org$ [NC]
-#RewriteCond %{HTTP:Accept-Language} ^de [NC]
-#RewriteRule .* http://jugendrettet.org [R,L]
+#RewriteCond %{HTTP_HOST} enn.jugendrettet.org$
+#RewriteCond %{REQUEST_URI} ^/$
+#RewriteRule ^(.*)$ /index.php
+
+#RewriteCond %{HTTP_HOST} =de.jugendrettet.org
+#RewriteRule (.*) https://jugendrettet.org/$1 [R=301]
+
+#RewriteCond %{THE_REQUEST} ^GET\ /en/
+#RewriteRule ^en/(.*) /$1 [R=301]
+
+#RewriteCond %{REQUEST_FILENAME} !-f
+#RewriteRule ^([^\.]+)$ $1.php [NC,L]
+
+# Deflate Compression by FileType
+<IfModule mod_deflate.c>
+ Addtype font/opentype .otf
+ Addtype font/truetype .ttf
+ AddOutputFilterByType DEFLATE text/plain
+ AddOutputFilterByType DEFLATE text/html
+ AddOutputFilterByType DEFLATE text/xml
+ AddOutputFilterByType DEFLATE text/css
+ AddOutputFilterByType DEFLATE text/javascript
+ AddOutputFilterByType DEFLATE image/svg+xml
+ AddOutputFilterByType DEFLATE text/html text/plain text/xml text/css font/opentype font/truetype
+ AddOutputFilterByType DEFLATE application/xml
+ AddOutputFilterByType DEFLATE application/xhtml+xml
+ AddOutputFilterByType DEFLATE application/rss+xml
+ AddOutputFilterByType DEFLATE application/atom_xml
+ AddOutputFilterByType DEFLATE application/javascript
+ AddOutputFilterByType DEFLATE application/x-javascript
+ AddOutputFilterByType DEFLATE application/x-shockwave-flash
+</IfModule>
