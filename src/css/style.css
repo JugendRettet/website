@@ -459,6 +459,8 @@ nav a, nav a.inactive {
 nav a.red, nav a.red.inactive {
 	color: rgb(249,69,0);
 	background: transparent;
+}
+nav a.red, nav a.red.inactive, .bold {
 	font-weight: bold;
 }
 nav a:hover.dark {

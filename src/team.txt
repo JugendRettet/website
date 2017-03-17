@@ -4,6 +4,11 @@
 _(index_menu_intro)
 
   </a>
+  <a href="#top" class="bold">
+
+_(index_menu_team)
+
+  </a>
   <a href="#team_berlin">
 
 _(sub_team_berlin_menu)
@@ -33,9 +38,11 @@ _(sub_team_sponsors_menu)
 
 <div id="paper">
 <article>
+<section id="top" class="scroll-section big-margin">
 
 _(sub_team_title)
 
+</section><!--top-->
 <section id="team_berlin" class="scroll-section">
 
 _(sub_team_berlin_title)

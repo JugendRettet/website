@@ -4,6 +4,11 @@
 _(index_menu_intro)
 
   </a>
+  <a href="#top" class="bold">
+
+_(archive_menu)
+
+  </a>
   <a href="#2016">
 
 _(archive_2016_menu)
@@ -17,9 +22,11 @@ _(archive_2015_menu)
 </nav>
 <div id="paper">
 <article>
+<section id="top" class="scroll-section big-margin">
 
 _(archive_title)
 
+</section><!--top-->
 <section id="2016" class="scroll-section">
 
 _(archive_2016)

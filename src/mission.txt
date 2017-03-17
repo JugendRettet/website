@@ -4,6 +4,11 @@
 _(index_menu_intro)
 
   </a>
+  <a href="#top" class="bold">
+
+_(mission_menu)
+
+  </a>
   <a href="#current">
 
 _(mission_current_menu)
@@ -18,9 +23,11 @@ _(mission_procedure_menu)
 
 <div id="paper">
 <article>
+<section id="top" class="scroll-section big-margin">
 
 _(mission_title)
 
+</section><!--top-->
 <section id="current" class="scroll-section">
 
 _(mission_current)

@@ -4,6 +4,11 @@
 _(index_menu_intro)
 
   </a>
+  <a href="#top" class="bold">
+
+_(index_menu_rescue)
+
+  </a>
   <a href="#sponsor">
 
 _(rescue_as_sponsor_menu)
@@ -28,9 +33,11 @@ _(rescue_as_ambassador_menu)
 
 <div id="paper">
 <article>
+<section id="top" class="scroll-section big-margin">
 
 _(rescue_as_title)
 
+</section><!--top-->
 <section id="sponsor" class="scroll-section">
 
 _(rescue_as_sponsor)

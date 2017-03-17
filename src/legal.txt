@@ -4,12 +4,19 @@
 _(index_menu_intro)
 
   </a>
+  <a href="#top" class="bold">
+
+_(index_menu_legal)
+
+  </a>
 </nav>
 
 <div id="paper">
 <article>
+<section id="top" class="scroll-section big-margin">
 
 _(legal)
 
+</section><!--top-->
 </article>
 </div><!--paper-->

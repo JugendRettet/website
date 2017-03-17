@@ -4,6 +4,11 @@
 _(index_menu_intro)
 
   </a>
+  <a href="#top" class="bold">
+
+_(index_menu_about_us)
+
+  </a>
   <a href="#our_story">
 
 _(about_our_story_menu)
@@ -23,9 +28,11 @@ _(about_transparency_menu)
 
 <div id="paper">
 <article>
+<section id="top" class="scroll-section big-margin">
 
 _(about_title)
 
+</section><!--top-->
 <section id="our_story" class="scroll-section">
 
 _(about_our_story)

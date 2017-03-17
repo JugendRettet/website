@@ -4,12 +4,19 @@
 _(index_menu_intro)
   
   </a>
+  <a href="#top" class="bold">
+
+_(index_menu_press)
+
+  </a>
 </nav>
 
 <div id="paper">
 <article>
+<section id="top" class="scroll-section big-margin">
 
 _(press)
 
+</section><!--top-->
 </article>
 </div><!--paper-->
