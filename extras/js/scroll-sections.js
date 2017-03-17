@@ -33,7 +33,7 @@ function throttle(fn, interval) {
 function highlightNavigation() {
   // get the current vertical position of the scroll bar
   var scrollPosition = $(window).scrollTop();
-  var toleratePosition = scrollPosition + 20;
+  var toleratePosition = scrollPosition + 50;
 
   // iterate the sections
   $sections.each(function() {

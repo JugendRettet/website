@@ -444,6 +444,14 @@ nav a {
   color 0.2s linear,
   border 0.2s;
 }
+nav a:hover, nav a:hover.red, nav a:hover.dark, nav a.active, nav a.red.active {
+	background: #286482;
+	color: white;
+	border-bottom: none;
+}
+nav a:hover.red, nav a.red.active {
+	background: rgb(249,69,0);
+}
 nav a, nav a.inactive {
   background: inherit;
   color: #286482;
@@ -452,14 +460,6 @@ nav a.red, nav a.red.inactive {
 	color: rgb(249,69,0);
 	background: transparent;
 	font-weight: bold;
-}
-nav a:hover, nav a:hover.red, nav a:hover.dark, nav a.active, nav a.red.active {
-	background: #286482;
-	color: white;
-	border-bottom: none;
-}
-nav a:hover.red, nav a.red.active {
-	background: rgb(249,69,0);
 }
 nav a:hover.dark {
 	color: #142d3c;
@@ -753,14 +753,14 @@ nav.sub {
 	background: #286482;
 	color: white;
 }
-nav.sub a, nav.sub a.inactive {
-	background: inherit;
-	color: white;
-}
 nav.sub a:hover, nav.sub a:hover.red, nav.sub a:hover.dark, nav.sub a.active, nav.sub a.red.active {
 	background: #f8f8f7;
 	color: #286482;
 	border-bottom: none;
+}
+nav.sub a, nav.sub a.inactive {
+	background: inherit;
+	color: white;
 }
 hr {
     border-bottom-style: none;
