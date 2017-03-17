@@ -10,7 +10,6 @@ function page_header {
     <meta name="author" content="'"${TR_TITLE}"'" />
     <meta property="og:title" content="'"${WSH_GENF_TITLE}"'" />
     <meta property="og:description" content="'"${TR_DESCRIPTION}"'" />
-    <meta property="og:url" content="'"${WSH_URL}"'/'"${TR_LANG}"'/" />
     <meta property="og:image" content="'"${WSH_URL}"'/images/jr-banner.jpg" />
     <meta property="og:image:secure_url" content="'"${WSH_URL}"'/images/jr-banner.jpg" />
     <meta property="og:image:width" content="960" />
@@ -20,6 +19,11 @@ function page_header {
     <link rel="shortcut icon" type="image/x-icon" href="../f/graphics/jr.ico" />
     <link rel="mask-icon" href="../f/graphics/jr-mask.svg">
     <link rel="apple-touch-icon" href="../f/graphics/apple-touch-icon.png"/>'
+	if [ "${WSH_PAGE}" != 'index' ]; then
+		print '	<meta property="og:url" content="'"${WSH_URL}"'/'"${WSH_PAGE}"'" />'
+	else
+		print '	<meta property="og:url" content="'"${WSH_URL}"'" />'
+	fi
     while read lang; do
     	print '	<link rel="alternate" hreflang="'"${lang}"'" href="'"${WSH_URL}"'/'"${lang}"'/" />'
 	done <<<"${TR_LANGS}"
