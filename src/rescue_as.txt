@@ -1,7 +1,27 @@
 <nav class="center text-center sub">
-  <a href="./#rescue">
+  <a href="./#team">
 
 _(index_menu_intro)
+
+  </a>
+  <a href="#sponsor">
+
+_(rescue_as_sponsor_menu)
+
+  </a>
+  <a href="#donor">
+
+_(rescue_as_donor_menu)
+
+  </a>
+  <a href="#helper">
+
+_(rescue_as_helper_menu)
+
+  </a>
+  <a href="#ambassador">
+
+_(rescue_as_ambassador_menu)
 
   </a>
 </nav>
@@ -9,7 +29,28 @@ _(index_menu_intro)
 <div id="paper">
 <article>
 
-_(rescue_as)
+_(rescue_as_title)
 
+<section id="sponsor" class="scroll-section">
+
+_(rescue_as_sponsor)
+
+</section><!--intro-->
+<section id="donor" class="scroll-section">
+
+_(rescue_as_donor)
+
+</section><!--intro-->
+<section id="helper" class="scroll-section clearfix">
+
+_(rescue_as_helper)
+
+</section><!--intro-->
+<section id="ambassador" class="scroll-section">
+
+_(rescue_as_ambassador)
+
+</section><!--intro-->
 </article>
 </div><!--paper-->
+<script type="text/javascript" src="../js/scroll-sections.js"></script>

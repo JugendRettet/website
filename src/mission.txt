@@ -4,12 +4,34 @@
 _(index_menu_intro)
 
   </a>
+  <a href="#current">
+
+_(mission_current_menu)
+
+  </a>
+  <a href="#procedure">
+
+_(mission_procedure_menu)
+
+  </a>
 </nav>
 
 <div id="paper">
 <article>
 
-_(mission)
+_(mission_title)
+
+<section id="current" class="scroll-section">
+
+_(mission_current)
+
+</section>
+<section id="procedure" class="scroll-section scroll-last">
+
+_(mission_procedure)
+
+</section>
 
 </article>
 </div><!--paper-->
+<script type="text/javascript" src="../js/scroll-sections.js"></script>

@@ -4,12 +4,33 @@
 _(index_menu_intro)
 
   </a>
-</nav>
+  <a href="#2016">
 
+_(archive_2016_menu)
+
+  </a>
+  <a href="#2015">
+
+_(archive_2015_menu)
+
+  </a>
+</nav>
 <div id="paper">
 <article>
 
-_(archive)
+_(archive_title)
+
+<section id="2016" class="scroll-section">
+
+_(archive_2016)
+
+</section>
+<section id="2015" class="scroll-section">
+
+_(archive_2015)
+
+</section>
 
 </article>
 </div><!--paper-->
+<script type="text/javascript" src="../js/scroll-sections.js"></script>
