@@ -10,6 +10,7 @@ while read lingua; do
   TR_LANG="${lingua}"
   export TR_LANG
   . ./translations/"${TR_LANG}"/meta.md
+  . ./translations/"${TR_LANG}"/general.md
   TR_DESCRIPTION="${description}"
   TR_TITLE="${title}"
   export TR_DESCRIPTION
