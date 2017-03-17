@@ -1,0 +1,3 @@
+#!/bin/sh
+
+WSH_GENF_FINAL="${WSH_GENF_FINAL}" ./scripts/toc.sh
