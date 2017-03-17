@@ -9,6 +9,7 @@ RewriteRule .* https://%{SERVER_NAME}%{REQUEST_URI} [R=301,L]
 
 # new page
 
+#impossible, but worth noting
 #RewriteRule ^/?#news$ /news [R=302,NC,L]
 #RewriteRule ^/?#about$ /schiff [R=302,NC,L]
 #RewriteRule ^/?#team$ /team [R=302,NC,L]
@@ -69,8 +70,14 @@ ErrorDocument 404 /notfound
 RewriteCond %{REQUEST_URI} /aendern
 RewriteRule .* /retten [R=302,L]
 
+
+# hide en subdir
+RewriteCond %{THE_REQUEST} ^GET\ /en/
+RewriteRule ^en/(.*) /$1 [L,R=302]
+
+# Webpages are in en subdir
 RewriteCond %{REQUEST_URI} !^/(js|graphics|css|donations|files|fonts|files|graphics|ie-css|images|videos|en|de)(/|$) [NC]
-RewriteRule ^(.*)$ /en/$1 [L]
+RewriteRule !^en/ /en%{REQUEST_URI} [L,NC]
 
 RewriteCond %{REQUEST_FILENAME} !-d
 RewriteCond %{REQUEST_FILENAME}\.php -f
@@ -81,18 +88,8 @@ RewriteCond %{REQUEST_URI} ^(.+)\.php$
 RewriteCond %{THE_REQUEST} ^[A-Z]+\ (/[^\ ]*)\.php[?\ ]
 RewriteRule (.*)\.php$ /$1 [R=302,L]
 
-#RewriteCond %{HTTP_HOST} enn.jugendrettet.org$
-#RewriteCond %{REQUEST_URI} ^/$
-#RewriteRule ^(.*)$ /index.php
-
 #RewriteCond %{HTTP_HOST} =de.jugendrettet.org
 #RewriteRule (.*) https://jugendrettet.org/$1 [R=301]
-
-#RewriteCond %{THE_REQUEST} ^GET\ /en/
-#RewriteRule ^en/(.*) /$1 [R=301]
-
-#RewriteCond %{REQUEST_FILENAME} !-f
-#RewriteRule ^([^\.]+)$ $1.php [NC,L]
 
 # Deflate Compression by FileType
 <IfModule mod_deflate.c>
