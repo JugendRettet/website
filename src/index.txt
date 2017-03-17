@@ -149,35 +149,35 @@ _(index_team_title)
 
         <div class="hor">
           <div class="hor-el hor-5 box-pic-s">
-            <a href="team">
+            <a href="team#team_berlin">
 
 _(index_team_berlin)
 
             </a>
           </div><!--hor-el-->
           <div class="hor-el hor-5 box-pic-s">
-            <a href="team">
+            <a href="team#team_crew">
 
 _(index_team_crew)
 
             </a>
           </div><!--hor-el-->
           <div class="hor-el hor-5 box-pic-s">
-            <a href="team">
+            <a href="team#team_embassies">
 
 _(index_team_embassies)
 
             </a>
           </div><!--hor-el-->
           <div class="hor-el hor-5 box-pic-s">
-            <a href="team">
+            <a href="team#team_donations">
 
 _(index_team_donations)
 
             </a>
           </div><!--hor-el-->
           <div class="hor-el hor-5  box-pic-s">
-            <a href="team">
+            <a href="team#team_sponsors">
 
 _(index_team_sponsors)
 
@@ -192,28 +192,28 @@ _(index_rescue_as_title)
 
         <div class="hor">
           <div class="hor-el hor-4 box-pic-s">
-            <a href="rescue_as">
+            <a href="rescue_as#helper">
 
 _(index_rescue_as_voluntary)
 
             </a>
           </div><!--hor-el-->
           <div class="hor-el hor-4 box-pic-s">
-            <a href="rescue_as">
+            <a href="rescue_as#ambassador">
 
 _(index_rescue_as_ambassador)
 
             </a>
           </div><!--hor-el-->
           <div class="hor-el hor-4 box-pic-s">
-            <a href="rescue_as">
+            <a href="rescue_as#donor">
 
 _(index_rescue_as_donator)
 
             </a>
           </div><!--hor-el-->
           <div class="hor-el hor-4 box-pic-s">
-            <a href="rescue_as">
+            <a href="rescue_as#sponsor">
 
 _(index_rescue_as_sponsor)
 
