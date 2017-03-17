@@ -213,7 +213,7 @@ div.box-dark, div.box-highlight {
 div.box-highlight div.box-dark{
 	padding: initial;
 }
-div.box-dark, div.box-highlight, div.hor, footer {
+div.box-dark, div.box-highlight, div.hor {
 	margin-top: 1em;
 }
 div.box-highlight div.box-dark {
@@ -772,6 +772,10 @@ div.footnotes p {
 }
 div.footnotes h6 {
     margin-bottom: -2ch;
+}
+section#more {
+	padding: 2ch;
+	margin-top: 2ch;
 }
 /* end styling */
 @media screen and (max-width: 1000px) {

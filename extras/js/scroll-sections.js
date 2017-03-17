@@ -44,7 +44,14 @@ function highlightNavigation() {
     // if the user has scrolled over the top of the section  
     if (toleratePosition >= sectionTop) {
       // get the section id
-      var id = currentSection.attr('id');
+      // if we reached the bottom, highlight the footer section named "more".
+      if($(window).scrollTop() + $(window).height() == $(document).height()) {
+        var id = "more"
+        $("section#more").addClass('highlight');
+      } else {
+        var id = currentSection.attr('id');
+        $("section#more").removeClass('highlight');
+      }
       // get the corresponding navigation link
       var $navigationLink = sectionIdTonavigationLink[id];
       // if the link is not active
