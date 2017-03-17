@@ -653,7 +653,7 @@ div.hor div.box-highlight div.hor-el p {
     position: absolute; /* prevents it from being visible thru rubber band scrolling. I'm looking at you, safari. */
     width: 100%;
     right: 0;
-    bottom: 0;
+    bottom: 20px;
     left: 0;
 }
 .scroll-down:hover {
