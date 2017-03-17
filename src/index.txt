@@ -344,7 +344,7 @@ _(donate_account_info)
           </div><!--hor-el-->
         </div><!--hor-->
       </section><!--donate-->
-      <section id="more" class="scroll-section">
+      <section id="more" class="scroll-section scroll-last scroll-highlight">
         <footer class="text-center">
           <a href="press">
 
