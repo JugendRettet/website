@@ -27,7 +27,11 @@ function page_header {
 		print "\t<link rel=\"stylesheet\" type=\"text/css\" href=\"${WSH_CSSF}\" />"
 	fi
 	if [[ -n "${WSH_GENF_TITLE}" ]]; then
-		print "\t<title>${TR_TITLE}${WSH_GENF_TITLE:+ | $WSH_GENF_TITLE}</title>"
+		if [ "${TR_TITLE}" != "${WSH_GENF_TITLE}" ]; then
+			print "\t<title>${TR_TITLE}${WSH_GENF_TITLE:+ | $WSH_GENF_TITLE}</title>"
+		else
+			print "\t<title>${TR_TITLE}</title>"
+		fi
 	else
 		print "\t<title>${TR_TITLE}</title>"
 	fi

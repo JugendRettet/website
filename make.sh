@@ -11,8 +11,8 @@ while read lingua; do
   export TR_LANG
   . ./translations/"${TR_LANG}"/meta.md
   . ./translations/"${TR_LANG}"/general.md
-  TR_DESCRIPTION="${description}"
-  TR_TITLE="${title}"
+  TR_DESCRIPTION=" $(sed -e '1d; $d'<<<"${description}" )"
+  TR_TITLE="$(sed -e '1d; $d'<<<"${title}" )"
   export TR_DESCRIPTION
   export TR_TITLE
   echo "Handling language ${TR_LANG}"
