@@ -18,6 +18,7 @@ function page_header {
     <meta property="og:site_name" content="'"${WSH_GENF_TITLE}"'" />
     <link rel="shortcut icon" type="image/x-icon" href="../f/graphics/jr.ico" />
     <link rel="mask-icon" href="../f/graphics/jr-mask.svg">
+    <link href="https://cdn-images.mailchimp.com/embedcode/horizontal-slim-10_7.css" rel="stylesheet" type="text/css">
     <link rel="apple-touch-icon" href="../f/graphics/apple-touch-icon.png"/>'
 	if [ "${WSH_PAGE}" != 'index' ]; then
 		print '	<meta property="og:url" content="'"${WSH_URL}"'/'"${WSH_PAGE}"'" />'

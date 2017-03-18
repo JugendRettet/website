@@ -779,6 +779,13 @@ section#more {
 	padding: 2ch;
 	margin-top: 2ch;
 }
+.hover-content {
+    display:none;
+}
+.hover-parent:hover .hover-content {
+    display:block;
+}
+#mc_embed_signup{clear:left; width:100%;}
 /* end styling */
 @media screen and (max-width: 1000px) {
 	section#team_embassies ul {
