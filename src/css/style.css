@@ -786,13 +786,6 @@ section#more {
     display:block;
 }
 #mc_embed_signup{clear:left; width:100%;}
-/* hide fb header */
-div.events div._1dro._2ph-.clearfix {
-	display: none;
-}
-div.events div._1drm._1ds4._1b90 {
-	display: none;
-}
 /* end styling */
 @media screen and (max-width: 1000px) {
 	section#team_embassies ul {
