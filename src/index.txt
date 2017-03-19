@@ -276,6 +276,8 @@ _(news_follow_us)
           <div class="box-highlight">
             <div class="hor-el hor-3">
 
+_(news_news_item_title)
+
 _(news_news_item)
 
 _(news_archive)

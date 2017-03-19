@@ -9,6 +9,11 @@ _(index_menu_intro)
 _(archive_menu)
 
   </a>
+  <a href="#2017">
+
+_(archive_2017_menu)
+
+  </a>
   <a href="#2016">
 
 _(archive_2016_menu)
@@ -27,6 +32,13 @@ _(archive_2015_menu)
 _(archive_title)
 
 </section><!--top-->
+<section id="2017" class="scroll-section">
+
+_(news_news_item)
+
+_(archive_2017)
+
+</section>
 <section id="2016" class="scroll-section">
 
 _(archive_2016)
