@@ -366,17 +366,22 @@ _(donate_account_info)
       </section><!--donate-->
       <section id="more" class="scroll-section scroll-last scroll-highlight">
         <footer class="text-center">
-          <a href="press">
+          <a href="./press">
 
 _(index_menu_press)
 
           </a>
-          <a href="legal">
+          <a href="./legal">
 
 _(index_menu_legal)
 
           </a>
-            <span>|</span>
+          <a href="./contact">
+
+_(index_menu_contact)
+
+          </a>
+          <span>|</span>
           <a href="../en/">
 
 en
