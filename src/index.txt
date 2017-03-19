@@ -94,11 +94,11 @@ _(ideals_iuv_title)
 _(ideals_iuv_text)
 
               </div><!--text-long-->
-              <div class="box-dark">
+              <div class="a-dark">
 
 _(ideals_iuv_link)
 
-              </div><!--box-dark-->
+              </div><!--a-dark-->
             </div><!--hor-el-->
             <div class="hor-el hor-2 hor-last">
 
@@ -272,7 +272,7 @@ _(news_follow_us)
             </div>
           </div><!--hor-el-->
         </div><!--hor-->
-        <div class="hor resp text-long">
+        <div class="hor resp">
           <div class="box-highlight">
             <div class="hor-el hor-3">
 
@@ -282,6 +282,8 @@ _(news_news_item)
 
 _(news_archive)
 
+_(news_events)
+
             </div><!--hor-el-->
             <div class="hor-el hor-3">
 
@@ -290,15 +292,6 @@ _(news_press_release)
             </div><!--hor-el-->
             <div class="hor-el hor-3">
 
-_(news_events)
-
-            </div><!--hor-el-->
-          </div><!--box-highlight-->
-        </div><!--hor-->
-        <div class="hor resp">
-          <div class="hor-el">
-            <div class="box-highlight">
-
 _(news_news_mission)
 
               <div class="a-dark">
@@ -306,8 +299,9 @@ _(news_news_mission)
 _(news_follow_iuv)
 
               </div><!--a-dark-->
-            </div><!--box-highlight-->
-          </div><!--hor-el-->
+
+            </div><!--hor-el-->
+          </div><!--box-highlight-->
         </div><!--hor-->
       </section><!--news-->
       <section id="donate" class="scroll-section">
@@ -352,17 +346,15 @@ _(donate_merch_link)
 
             </div><!--box-dark-->
           </div><!--hor-el-->
-          <div class="hor-el hor-3">
-            <div class="box-highlight">
+          <div class="hor-el hor-3 highlight">
 
 _(donate_donations_account)
 
-              <div class="text-long">
+            <div class="text-long">
 
 _(donate_account_info)
 
-              </div><!--text-long-->
-            </div><!--box-highlight-->
+            </div><!--text-long-->
           </div><!--hor-el-->
         </div><!--hor-->
       </section><!--donate-->

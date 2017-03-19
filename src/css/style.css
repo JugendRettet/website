@@ -213,7 +213,7 @@ div.box-dark, div.box-highlight {
 div.box-highlight div.box-dark{
 	padding: initial;
 }
-div.box-dark, div.box-highlight, div.hor {
+div.hor {
 	margin-top: 1em;
 }
 div.box-highlight div.box-dark {
@@ -262,7 +262,7 @@ div.hor-2 {
   width: 48%;
 }
 div.hor-3 {
-  max-width: 32%;
+  width: 32%;
 }
 div.hor-3.box-pic, div.hor.fix div.hor-3 {
   width: 32%;
