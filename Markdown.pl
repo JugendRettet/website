@@ -835,21 +835,21 @@ sub _DoHeaders {
 	$text =~ s{ ^(.+)[ \t]*\n=+[ \t]*\n+ }{
 		my $name = _RunSpanGamut($1);
 		my $heading = $name;
-		$name =~ s/[^(a-z)|(A-Z)|(0-9)]+/_/g;
+		$name =~ s/[^(a-z)|(A-Z)|(0-9)|-]+/_/g;
 		"<h1 name=\"" . $name . "\">"  .  $heading  .  "</h1>\n\n";
 	}egmx;
 
 	$text =~ s{ ^(.+)[ \t]*\n-+[ \t]*\n+ }{
 		my $name = _RunSpanGamut($1);
 		my $heading = $name;
-		$name =~ s/[^(a-z)|(A-Z)|(0-9)]+/_/g;
+		$name =~ s/[^(a-z)|(A-Z)|(0-9)|-]+/_/g;
 		"<h2 name=\"" . $name . "\">"  .  $heading  .  "</h2>\n\n";
 	}egmx;
 
 	$text =~ s{ ^(.+)[ \t]*\n\.+[ \t]*\n+ }{
 		my $name = _RunSpanGamut($1);
 		my $heading = $name;
-		$name =~ s/[^(a-z)|(A-Z)|(0-9)]+/_/g;
+		$name =~ s/[^(a-z)|(A-Z)|(0-9)|-]+/_/g;
 		"<h3 name=\"" . $name . "\">"  .  $heading  .  "</h3>\n\n";
 	}egmx;
 
@@ -872,7 +872,7 @@ sub _DoHeaders {
 			my $h_level = length($1);
 			my $name = _RunSpanGamut($2);
 			my $heading = $name;
-			$name =~ s/[^(a-z)|(A-Z)|(0-9)]+/_/g;
+			$name =~ s/[^(a-z)|(A-Z)|(0-9)|-]+/_/g;
 			"<h$h_level name=\"" . $name . "\">"  .  $heading  .  "</h$h_level>\n\n";
 		}egmx;
 
