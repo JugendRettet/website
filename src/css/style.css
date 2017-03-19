@@ -774,6 +774,7 @@ div.footnotes p {
 }
 div.footnotes h6 {
     margin-bottom: -2ch;
+    margin-top: 1ch;
 }
 section#more {
 	padding: 2ch;
