@@ -81,4 +81,3 @@ _(sub_team_sponsors)
 
 </article>
 </div><!--paper-->
-<script type="text/javascript" src="../js/scroll-sections.js"></script>

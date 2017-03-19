@@ -42,6 +42,7 @@ function page_header {
 	fi
 	print '	<script type="text/javascript" src="../js/jquery-3.1.1.min.js"></script>
 	<script type="text/javascript" src="../js/smoothscroll.js"></script>
+	<script type="text/javascript" src="../js/scroll-sections.js"></script>
 </head>
 <body>'
 }

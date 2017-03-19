@@ -60,4 +60,3 @@ _(rescue_as_ambassador)
 </section><!--intro-->
 </article>
 </div><!--paper-->
-<script type="text/javascript" src="../js/scroll-sections.js"></script>
