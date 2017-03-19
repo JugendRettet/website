@@ -9,6 +9,26 @@ _(index_menu_intro)
 _(crewing_menu)
 
   </a>
+  <a href="#positions">
+
+_(crewing_menu_positions)
+
+  </a>
+  <a href="#nautical">
+
+_(crewing_menu_nautical)
+
+  </a>
+  <a href="#SAR">
+
+_(crewing_menu_sar)
+
+  </a>
+  <a href="#press">
+
+_(crewing_menu_press)
+
+  </a>
 </nav>
 
 <div id="paper">
@@ -17,9 +37,28 @@ _(crewing_menu)
 
 _(crewing_title)
 
+_(crewing_intro)
+
 </section><!--top-->
+<section id="positions" class="scroll-section">
 
-_(crewing)
+_(crewing_positions)
 
+</section>
+<section id="nautical" class="scroll-section">
+
+_(crewing_nautical)
+
+</section>
+<section id="SAR" class="scroll-section">
+
+_(crewing_sar)
+
+</section>
+<section id="press" class="scroll-section">
+
+_(crewing_press)
+
+</section>
 </article>
 </div><!--paper-->
