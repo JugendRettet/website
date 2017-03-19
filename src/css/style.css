@@ -188,7 +188,8 @@ nav a.dark, div.box-dark, .a-dark a {
 }
 
 div.a-dark a {
-	padding: 0.8ch;
+	padding: 0.3ch;
+	line-height: 175%;
 }
 div.a-dark a, div.box-dark a {
 	border: none;
@@ -213,8 +214,8 @@ div.box-dark, div.box-highlight {
 div.box-highlight div.box-dark{
 	padding: initial;
 }
-div.hor {
-	margin-top: 1em;
+div.box-dark, div.box-highlight, div.hor {
+	margin-bottom: 1em;
 }
 div.box-highlight div.box-dark {
 	margin-bottom: 0;
