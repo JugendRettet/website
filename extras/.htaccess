@@ -43,6 +43,9 @@ RewriteRule ^(.*)$ /de/$1 [R=302,L]
 RewriteCond %{REQUEST_URI} ^/(js|f)(/|$) [NC]
 RewriteRule ^(.*)$ https://en.jugendrettet.org/$1 [R=302,L]
 
+RewriteCond %{REQUEST_URI} ^/$
+RewriteRule ^(.*)$ /de/$1 [R=302,L]
+
 RewriteCond %{REQUEST_URI} ^/en/ [NC]
 RewriteRule ^(.*)$ https://en.jugendrettet.org/$1 [R=302,L]
 
