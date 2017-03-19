@@ -24,6 +24,8 @@ RewriteRule ^/?presse$ /press [R=302,NC,L]
 RewriteRule ^/?impressum$ /legal [R=302,NC,L]
 RewriteRule ^/?transparenz$ /about#transparency [R=302,NC,L]
 
+
+RewriteRule ^/?crew$ https://docs.google.com/forms/d/e/1FAIpQLSe7f6vBZpndmyP3mr5hsg6IW54F78tGBLQOrvDhiy382uZU8g/viewform [R=302,NC,L]
 RewriteRule ^/?betterplace$ https://www.betterplace.org/projects/48425-rette-mit-spende-fur-mission-unity [R=302,NC,L]
 RewriteRule ^/?umbau$ https://betterplace.org/p52216 [R=302,NC,L]
 RewriteRule ^/?merch$ https://diraction.org/cat/index/sCategory/257 [R=302,NC,L]
