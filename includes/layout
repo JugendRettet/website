@@ -10,8 +10,8 @@ function page_header {
     <meta name="author" content="'"${TR_TITLE}"'" />
     <meta property="og:title" content="'"${WSH_GENF_TITLE}"'" />
     <meta property="og:description" content="'"${TR_DESCRIPTION}"'" />
-    <meta property="og:image" content="'"${WSH_URL}"'/images/jr-banner.jpg" />
-    <meta property="og:image:secure_url" content="'"${WSH_URL}"'/images/jr-banner.jpg" />
+    <meta property="og:image" content="'"${WSH_URL}"'/graphics/card.jpg" />
+    <meta property="og:image:secure_url" content="'"${WSH_URL}"'/graphics/card.jpg" />
     <meta property="og:image:width" content="960" />
     <meta property="og:image:height" content="500" />
     <meta property="og:type" content="website" />
