@@ -55,7 +55,7 @@ _(crewing_nautical)
 _(crewing_sar)
 
 </section>
-<section id="press" class="scroll-section">
+<section id="press" class="scroll-section scroll-last">
 
 _(crewing_press)
 
