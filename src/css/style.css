@@ -791,6 +791,9 @@ section#more {
     display:block;
 }
 #mc_embed_signup{clear:left; width:100%;}
+article.archive h4 {
+	font-weight: normal;
+}
 /* end styling */
 @media screen and (max-width: 1000px) {
 	section#team_embassies ul {

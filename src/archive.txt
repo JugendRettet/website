@@ -26,7 +26,7 @@ _(archive_2015_menu)
   </a>
 </nav>
 <div id="paper">
-<article>
+<article class="archive">
 <section id="top" class="scroll-section big-margin">
 
 _(archive_title)
