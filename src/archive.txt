@@ -34,8 +34,6 @@ _(archive_title)
 </section><!--top-->
 <section id="2017" class="scroll-section">
 
-_(news_news_item)
-
 _(archive_2017)
 
 </section>
