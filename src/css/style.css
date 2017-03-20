@@ -595,6 +595,11 @@ section#team_embassies ul {
 section#team_embassies li {
 	display: inline;
 }
+section.clearfix img {
+	float: left;
+	width: 48%;
+	margin-right: 2ch;
+}
 .clearfix::after {
     content: "";
     clear: both;

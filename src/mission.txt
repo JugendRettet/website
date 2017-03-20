@@ -19,6 +19,11 @@ _(mission_current_menu)
 _(mission_procedure_menu)
 
   </a>
+  <a href="#archive">
+
+_(mission_archive_menu)
+
+  </a>
 </nav>
 
 <div id="paper">
@@ -33,11 +38,15 @@ _(mission_title)
 _(mission_current)
 
 </section>
-<section id="procedure" class="scroll-section scroll-last">
+<section id="procedure" class="scroll-section">
 
 _(mission_procedure)
 
 </section>
+<section id="archive" class="scroll-section scroll-last clearfix">
 
+_(mission_archive)
+
+</section>
 </article>
 </div><!--paper-->
