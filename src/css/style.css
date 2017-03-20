@@ -291,7 +291,7 @@ h2, h3 {
 }
 video.header-video {
 	object-fit: cover;
-	height: 100vh;
+	height: calc(100vh - 41px);
 	width: 100%;
 	z-index: -2;
 	position: fixed;
@@ -322,7 +322,7 @@ body {
 	min-width: 332px;
 }
 section#header {
-	height: 100vh;
+	height: calc(100vh - 41px);
 	display:flex;
 	justify-content:center;
 	align-items:center;
