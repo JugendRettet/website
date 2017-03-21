@@ -253,7 +253,7 @@ div.hor-el {
   /*border: thin solid white;*/
 }
 div.hor-overflow iframe {
-	max-height: 500px;
+	max-height: 400px;
 	overflow-y: auto;
 }
 div.hor-overflow-fallback {
@@ -814,7 +814,7 @@ article.archive h4 {
 	  margin-bottom: 0;
 	}
 	div.hor-overflow {
-	  display: none;
+	  /*display: none;*/
 	}
 	div.opverflow-fallback {
 	  display: block;
