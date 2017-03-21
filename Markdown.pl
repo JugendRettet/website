@@ -832,6 +832,9 @@ sub _DoHeaders {
 	#	  Header 3
 	#	  ........
 	#
+	#	  Header 6
+	#	  ,,,,,,,,
+	#
 	$text =~ s{ ^(.+)[ \t]*\n=+[ \t]*\n+ }{
 		my $heading = _RunSpanGamut($1);
 		"<h1>"  .  $heading  .  "</h1>\n\n";
