@@ -339,6 +339,8 @@ div#center {
 	width: 50%;
 	bottom: 30px; /* arrow is 30px, so we adjust */
 	/*height: 50vh;*/
+	top: 41px;
+	margin-top: 2ch;
 }
 div#center p {
 	margin: 0;
