@@ -851,6 +851,12 @@ sub _DoHeaders {
 		"<h3 id=\"" . $name . "\">"  .  $heading  .  "</h3>\n\n";
 	}egmx;
 
+	$text =~ s{ ^(.+)[ \t]*\n,+[ \t]*\n+ }{
+		my $name = _RunSpanGamut($1);
+		my $heading = $name;
+		$name =~ s/[^(a-z)|(A-Z)|(0-9)|-]+/_/g;
+		"<h6 id=\"" . $name . "\">"  .  $heading  .  "</h6>\n\n";
+	}egmx;
 
 	# atx-style headers:
 	#	# Header 1
