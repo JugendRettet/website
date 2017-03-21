@@ -5,7 +5,7 @@ $(function() {
       target = target.length ? target : $('[id=' + this.hash.slice(1) +']');
       if (target.length) {
         $('html, body').animate({
-          scrollTop: target.offset().top - 45 // Little more than the nav's height
+          scrollTop: target.offset().top - 75 // Little more than the nav's height
         }, 1000);
         return false;
       }
