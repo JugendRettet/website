@@ -445,14 +445,6 @@ nav a {
   color 0.2s linear,
   border 0.2s;
 }
-nav a:hover, nav a:hover.red, nav a:hover.dark, nav a.active, nav a.red.active {
-	background: #286482;
-	color: white;
-	border-bottom: none;
-}
-nav a:hover.red, nav a.red.active {
-	background: rgb(249,69,0);
-}
 nav a, nav a.inactive {
   background: inherit;
   color: #286482;
@@ -463,6 +455,14 @@ nav a.red, nav a.red.inactive {
 }
 nav a.red, nav a.red.inactive, .bold {
 	font-weight: bold;
+}
+nav a:hover, nav a:hover.red, nav a:hover.dark, nav a.active, nav a.red.active {
+	background: #286482;
+	color: white;
+	border-bottom: none;
+}
+nav a:hover.red, nav a.red.active {
+	background: rgb(249,69,0);
 }
 nav a:hover.dark {
 	color: #142d3c;
