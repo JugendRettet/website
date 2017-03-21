@@ -221,7 +221,7 @@ _(index_rescue_as_sponsor)
           </div><!--hor-el-->
         </div><!--hor-->
       </section><!--rescue-->
-      <section id="faq" class="text-center big-margin scroll-section">
+      <section id="faq" class="text-center scroll-section">
 
 _(index_faq_title)
 
