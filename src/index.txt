@@ -1,15 +1,18 @@
 <div id="fb-root"></div>
+
+<script>
 $(document).ready(function() {
-  <script>(function(d, s, id) {
+(function(d, s, id) {
     var js, fjs = d.getElementsByTagName(s)[0];
     if (d.getElementById(id)) return;
     js = d.createElement(s); js.id = id;
-    js.src = "https://connect.facebook.net/_(lang_long)/sdk.js#xfbml=1&version=v2.8&appId=107811646279095";
+    js.src = "//connect.facebook.net/_(lang_long)/sdk.js#xfbml=1&version=v2.8&appId=107811646279095";
     fjs.parentNode.insertBefore(js, fjs);
-  }(document, 'script', 'facebook-jssdk'));</script> 
-  <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-  <script async defer src="//platform.instagram.com/en_US/embeds.js"></script>
+  }(document, 'script', 'facebook-jssdk'));
+  $.getScript("//platform.twitter.com/widgets.js");
+  $.getScript("//platform.instagram.com/en_US/embeds.js");
 });
+</script> 
 
 <a href="#intro" class="introlink">
   <section id="header" class="scroll-section">
@@ -313,26 +316,26 @@ _(donate_title)
 
         <div class="hor resp">
           <div id="bp-column" class="hor-el hor-3">
-            $(document).ready(function() {
-              <script type="text/javascript">
-              /* Configure at https://www.betterplace.org/de/projects/42019-rette-mit-einsatz-zur-seenotrettung-auf-dem-mittelmeer/manage/iframe_donation_form */
-              var _bp_iframe        = _bp_iframe || {};
-              _bp_iframe.project_id = 48425; /* REQUIRED */
-              _bp_iframe.lang       = 'de'; /* Language of the form */
-              /* Remove "//" for further customization but *only* if you really need to! */
-              // _bp_iframe.width = 600; /* Custom iframe-tag-width, integer */
-              _bp_iframe.color = '286482'; /* Button and banderole color, hex without "#" */
-              _bp_iframe.background_color = 'f8f8f7'; /* Background-color, hex without "#" */
-              // _bp_iframe.default_amount = 50; /* Donation-amount, integer 1-99 */
-              // _bp_iframe.default_data_transfer_accepted = false; /* true (default), false */
-              // _bp_iframe.recurring_interval = 'single'; /* Interval for recurring donations, string out of ["single", "monthly", "quarter_yearly", "half_yearly", "yearly"] */
-              (function() {
-              var bp = document.createElement('script'); bp.type = 'text/javascript'; bp.async = true;
-              bp.src = 'https://asset1.betterplace.org/assets/load_donation_iframe.js';
-              var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(bp, s);
-              })();
-              </script>
-            });
+            <script type="text/javascript">
+              $(document).ready(function() {
+                /* Configure at https://www.betterplace.org/de/projects/42019-rette-mit-einsatz-zur-seenotrettung-auf-dem-mittelmeer/manage/iframe_donation_form */
+                var _bp_iframe        = _bp_iframe || {};
+                _bp_iframe.project_id = 48425; /* REQUIRED */
+                _bp_iframe.lang       = 'de'; /* Language of the form */
+                /* Remove "//" for further customization but *only* if you really need to! */
+                // _bp_iframe.width = 600; /* Custom iframe-tag-width, integer */
+                _bp_iframe.color = '286482'; /* Button and banderole color, hex without "#" */
+                _bp_iframe.background_color = 'f8f8f7'; /* Background-color, hex without "#" */
+                // _bp_iframe.default_amount = 50; /* Donation-amount, integer 1-99 */
+                // _bp_iframe.default_data_transfer_accepted = false; /* true (default), false */
+                // _bp_iframe.recurring_interval = 'single'; /* Interval for recurring donations, string out of ["single", "monthly", "quarter_yearly", "half_yearly", "yearly"] */
+                (function() {
+                var bp = document.createElement('script'); bp.type = 'text/javascript'; bp.async = true;
+                bp.src = 'https://asset1.betterplace.org/assets/load_donation_iframe.js';
+                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(bp, s);
+                })();
+              });
+            </script>
             <div id="betterplace_donation_iframe" style="background: transparent url('https://www.betterplace.org/assets/new_spinner.gif') 275px 20px no-repeat;"><strong><a href="https://www.betterplace.org/projects/48425-rette-mit-spende-fur-rettungseinsatze-auf-dem-mittelmeer/donations/new">
 
 <!--mkd-->_(donate_betterplace_text)
