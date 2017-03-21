@@ -248,7 +248,7 @@ div.hor-el {
   vertical-align: top;
   overflow-x: auto;
   overflow-y: hidden;
-  min-width: 100px;
+  /*min-width: 100px;*/
   margin-bottom: 1em;
   /*border: thin solid white;*/
 }
@@ -824,12 +824,12 @@ article.archive h4 {
 	}
 }
 @media screen and (max-width: 600px) {
-	/*div.hor-5 {
+	div.hor-5 {
 	  font-size: x-small;
 	}
 	body, div.hor-2 {
 	  font-size: medium;
-	}*/
+	}
 	section#team_embassies iframe#team_emb_map {
 		float: none;
 		width: 100%;
@@ -841,15 +841,23 @@ article.archive h4 {
 	}
 }
 @media screen and (max-width: 500px) {
-	/*div.hor-4 {
+	div.hor-4 {
 	  font-size: x-small;
 	}
 	div.hor-2 {
 	  font-size: smaller;
 	}
-	div.box-pic-s img {
+	/*div.box-pic-s img {
 	  height: 25vh;
 	}*/
+	div.box-pic-s, div.box-pic-s figure {
+	    height: 200px;
+	    max-width: 266px;
+	}
+	div.box-pic, div.box-pic figure {
+	    height: 300px;
+	    max-width: 400px;
+	}
 	section#team_embassies ul {
 		text-align: initial;
 	}
@@ -858,9 +866,9 @@ article.archive h4 {
 	nav a {
 	  font-size: small;
 	}
-	/*div.hor-2 {
+	div.hor-2 {
 	  font-size: small;
-	}*/
+	}
 }
 video::-webkit-media-controls-start-playback-button {
   display: none !important;
