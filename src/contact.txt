@@ -13,7 +13,7 @@ _(index_menu_contact)
 
 <div id="paper">
 <article>
-<section id="top" class="scroll-section big-margin">
+<section id="top" class="scroll-section scroll-last big-margin">
 
 _(contact)
 
