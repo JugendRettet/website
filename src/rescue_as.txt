@@ -48,12 +48,12 @@ _(rescue_as_sponsor)
 _(rescue_as_donor)
 
 </section><!--intro-->
-<section id="helper" class="scroll-section clearfix">
+<section id="helper" class="scroll-section">
 
 _(rescue_as_helper)
 
 </section><!--intro-->
-<section id="ambassador" class="scroll-section">
+<section id="ambassador" class="scroll-section scroll-last">
 
 _(rescue_as_ambassador)
 
