@@ -137,6 +137,7 @@ _(ideals_proposals_text)
         </div><!--hor-->
 
 _(ideals_actions)
+
       </section><!--intro-->
       <section id="about" class="scroll-section">
 
