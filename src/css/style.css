@@ -318,7 +318,7 @@ div.hidden {
 }
 /* end classes */
 /* structure */
-body {
+body, div.scroll-down {
 	min-width: 332px;
 }
 section#header {
