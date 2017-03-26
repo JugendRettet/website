@@ -835,6 +835,56 @@ div#counter span.m.funded {
 div#counter div.hover-content {
     margin-top: 4ch;
 }
+div#counter div.m div.hover-content {
+	width: 95vw;
+	margin-top: 0;
+}
+div#counter div.m#divm1 div.hover-content {
+    margin-left: 0px;
+}
+div#counter div.m#divm2 div.hover-content {
+    margin-left: calc(-1 * 6vw * 1);
+}
+div#counter div.m#divm3 div.hover-content {
+    margin-left: calc(-1 * 6vw * 2);
+}
+div#counter div.m#divm4 div.hover-content {
+    margin-left: calc(-1 * 6vw * 3);
+}
+div#counter div.m#divm5 div.hover-content {
+    margin-left: calc(-1 * 6vw * 4);
+}
+div#counter div.m#divm6 div.hover-content {
+    margin-left: calc(-1 * 6vw * 5);
+}
+div#counter div.m#divm7 div.hover-content {
+    margin-left: calc(-1 * 6vw * 6);
+}
+div#counter div.m#divm8 div.hover-content {
+    margin-left: calc(-1 * 6vw * 7);
+}
+div#counter div.m#divm9 div.hover-content {
+    margin-left: calc(-1 * 6vw * 8);
+}
+div#counter div.m#divm10 div.hover-content {
+    margin-left: calc(-1 * 6vw * 9);
+}
+div#counter div.m#divm11 div.hover-content {
+    margin-left: calc(-1 * 6vw * 10);
+}
+div#counter div.m#divm12 div.hover-content {
+    margin-left: calc(-1 * 6vw * 11);
+}
+div#counter div.m#divm13 div.hover-content {
+    margin-left: calc(-1 * 6vw * 12);
+}
+div#counter div.m#divm14 div.hover-content {
+    margin-left: calc(-1 * 6vw * 13;
+}
+div#counter div.m#divm15 div.hover-content {
+    margin-left: calc(-1 * 6vw * 14);
+}
+
 /* end styling */
 @media screen and (max-width: 1000px) {
 	section#team_embassies ul {

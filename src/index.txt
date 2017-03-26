@@ -334,6 +334,11 @@ _(donate_title)
 <div id="counter" class="hover-parent">
   <div id="divm1" class="m hover-parent">
     <span id="md1" class="m done"></span>
+    <div class="hover-content">
+
+
+
+    </div>
   </div>
   <div id="divm2" class="m hover-parent">
     <span id="md2" class="m ongoing"></span>
