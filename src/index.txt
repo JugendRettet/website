@@ -331,60 +331,6 @@ _(news_follow_iuv)
 
 _(donate_title)
 
-<div id="counter" class="hover-parent">
-  <div id="divm1" class="m hover-parent">
-    <span id="md1" class="m done"></span>
-  </div>
-  <div id="divm2" class="m hover-parent">
-    <span id="md2" class="m ongoing"></span>
-  </div>
-  <div id="divm3" class="m hover-parent">
-    <span id="md3" class="m funded"></span>
-  </div>
-  <div id="divm4" class="m hover-parent">
-    <span id="md4" class="m hover-parent"></span>
-  </div>
-  <div id="divm5" class="m hover-parent">
-    <span id="md5" class="m hover-parent"></span>
-  </div>
-  <div id="divm6" class="m hover-parent">
-    <span id="md6" class="m hover-parent"></span>
-  </div>
-  <div id="divm7" class="m hover-parent">
-    <span id="md7" class="m hover-parent"></span>
-  </div>
-  <div id="divm8" class="m hover-parent">
-    <span id="md8" class="m hover-parent"></span>
-  </div>
-  <div id="divm9" class="m hover-parent">
-    <span id="md9" class="m hover-parent"></span>
-  </div>
-  <div id="divm10" class="m hover-parent">
-    <span id="md10" class="m hover-parent"></span>
-  </div>
-  <div id="divm11" class="m hover-parent">
-    <span id="md11" class="m hover-parent"></span>
-  </div>
-  <div id="divm12" class="m hover-parent">
-    <span id="md12" class="m hover-parent"></span>
-  </div>
-  <div id="divm13" class="m hover-parent">
-    <span id="md13" class="m hover-parent"></span>
-  </div>
-  <div id="divm14" class="m hover-parent">
-    <span id="md14" class="m hover-parent"></span>
-  </div>
-  <div id="divm15" class="m hover-parent">
-    <span id="md15" class="m hover-parent"></span>
-  </div>
-  <div class="hover-content">
-
-_(donate_animation_mission)
-
-_(donate_animation_text)
-
-  </div>
-</div><!--counter-->
         <div class="hor resp">
           <div id="bp-column" class="hor-el hor-3">
             <div id="betterplace_donation_iframe" style="background: transparent url('https://www.betterplace.org/assets/new_spinner.gif') 275px 20px no-repeat;"><strong><a href="https://www.betterplace.org/projects/48425-rette-mit-spende-fur-rettungseinsatze-auf-dem-mittelmeer/donations/new">
