@@ -832,27 +832,34 @@ sub _DoHeaders {
 	#	  Header 3
 	#	  ........
 	#
+	#	  Header 6
+	#	  ,,,,,,,,
+	#
 	$text =~ s{ ^(.+)[ \t]*\n=+[ \t]*\n+ }{
-		my $name = _RunSpanGamut($1);
-		my $heading = $name;
-		$name =~ s/[^(a-z)|(A-Z)|(0-9)|-]+/_/g;
-		"<h1 name=\"" . $name . "\">"  .  $heading  .  "</h1>\n\n";
+		my $heading = _RunSpanGamut($1);
+		"<h1>"  .  $heading  .  "</h1>\n\n";
 	}egmx;
 
 	$text =~ s{ ^(.+)[ \t]*\n-+[ \t]*\n+ }{
 		my $name = _RunSpanGamut($1);
 		my $heading = $name;
 		$name =~ s/[^(a-z)|(A-Z)|(0-9)|-]+/_/g;
-		"<h2 name=\"" . $name . "\">"  .  $heading  .  "</h2>\n\n";
+		"<h2 id=\"" . $name . "\">"  .  $heading  .  "</h2>\n\n";
 	}egmx;
 
 	$text =~ s{ ^(.+)[ \t]*\n\.+[ \t]*\n+ }{
 		my $name = _RunSpanGamut($1);
 		my $heading = $name;
 		$name =~ s/[^(a-z)|(A-Z)|(0-9)|-]+/_/g;
-		"<h3 name=\"" . $name . "\">"  .  $heading  .  "</h3>\n\n";
+		"<h3 id=\"" . $name . "\">"  .  $heading  .  "</h3>\n\n";
 	}egmx;
 
+	$text =~ s{ ^(.+)[ \t]*\n,+[ \t]*\n+ }{
+		my $name = _RunSpanGamut($1);
+		my $heading = $name;
+		$name =~ s/[^(a-z)|(A-Z)|(0-9)|-]+/_/g;
+		"<h6 id=\"" . $name . "\">"  .  $heading  .  "</h6>\n\n";
+	}egmx;
 
 	# atx-style headers:
 	#	# Header 1
@@ -870,10 +877,8 @@ sub _DoHeaders {
 			\n+
 		}{
 			my $h_level = length($1);
-			my $name = _RunSpanGamut($2);
-			my $heading = $name;
-			$name =~ s/[^(a-z)|(A-Z)|(0-9)|-]+/_/g;
-			"<h$h_level name=\"" . $name . "\">"  .  $heading  .  "</h$h_level>\n\n";
+			my $heading = _RunSpanGamut($2);
+			"<h$h_level>"  .  $heading  .  "</h$h_level>\n\n";
 		}egmx;
 
 	return $text;

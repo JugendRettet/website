@@ -253,7 +253,7 @@ div.hor-el {
   /*border: thin solid white;*/
 }
 div.hor-overflow iframe {
-	max-height: 500px;
+	max-height: 400px;
 	overflow-y: auto;
 }
 div.hor-overflow-fallback {
@@ -318,7 +318,7 @@ div.hidden {
 }
 /* end classes */
 /* structure */
-body {
+body, div.scroll-down {
 	min-width: 332px;
 }
 section#header {
@@ -339,6 +339,8 @@ div#center {
 	width: 50%;
 	bottom: 30px; /* arrow is 30px, so we adjust */
 	/*height: 50vh;*/
+	top: 41px;
+	margin-top: 2ch;
 }
 div#center p {
 	margin: 0;
@@ -373,9 +375,9 @@ div#lastlinks {
 article {
 	z-index: 1;
 	padding-top: 3ch;
-	margin-left: 3ch;
-	margin-right: 3ch;
 	padding-bottom: 3ch;
+	width: 95%;
+	margin: auto;
 	margin-top: 100px;
 }
 article img {
@@ -661,7 +663,7 @@ div.hor div.box-highlight div.hor-el p {
     position: absolute; /* prevents it from being visible thru rubber band scrolling. I'm looking at you, safari. */
     width: 100%;
     right: 0;
-    bottom: 20px;
+    bottom: 0;
     left: 0;
 }
 .scroll-down:hover {
@@ -796,6 +798,43 @@ section#more {
 article.archive h4 {
 	font-weight: normal;
 }
+div#counter {
+    width: 95%;
+    margin: auto;
+    margin-bottom: 2ch;
+    overflow: hidden;
+}
+div#counter div.m {
+    background: inherit;
+    width: 6.66%;
+    z-index: 2;
+    float: left;
+    display: inline-block;
+}
+div#counter span.m {
+    background: inherit;
+    display: block;
+    height: 10px;
+    width: 10px;
+    border-radius: 50%;
+    border: solid;
+    border-color: rgb(249,69,0);
+    z-index: 2;
+}
+div#counter span.m.ongoing {
+    border-color: rgb(219, 233, 238);
+    background: #286482;
+}
+div#counter span.m.done {
+    border-color: #286482;
+    background: #286482;
+}
+div#counter span.m.funded {
+    border-color: #286482;
+}
+div#counter div.hover-content {
+    margin-top: 4ch;
+}
 /* end styling */
 @media screen and (max-width: 1000px) {
 	section#team_embassies ul {
@@ -814,7 +853,7 @@ article.archive h4 {
 	  margin-bottom: 0;
 	}
 	div.hor-overflow {
-	  display: none;
+	  /*display: none;*/
 	}
 	div.opverflow-fallback {
 	  display: block;
