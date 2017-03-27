@@ -512,7 +512,7 @@ p {
 ul {
 	margin: auto;
 }
-p, ul, h4, h5, h6 {
+p, ul, h4, h5, h6, div#counter {
 	max-width: 80ch;
 }
 div.p-highlight {
