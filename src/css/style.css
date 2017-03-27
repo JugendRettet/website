@@ -763,14 +763,14 @@ nav.sub {
 	background: #286482;
 	color: white;
 }
+nav.sub a, nav.sub a.inactive {
+	background: inherit;
+	color: white;
+}
 nav.sub a:hover, nav.sub a:hover.red, nav.sub a:hover.dark, nav.sub a.active, nav.sub a.red.active {
 	background: #f8f8f7;
 	color: #286482;
 	border-bottom: none;
-}
-nav.sub a, nav.sub a.inactive {
-	background: inherit;
-	color: white;
 }
 hr {
     border-bottom-style: none;
