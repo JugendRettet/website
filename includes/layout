@@ -29,7 +29,7 @@ function page_header {
     	print '	<link rel="alternate" hreflang="'"${lang}"'" href="'"${WSH_URL}"'/'"${lang}"'/" />'
 	done <<<"${TR_LANGS}"
 	if (( WSH_CSS == 1 )); then
-		print "\t<link rel=\"stylesheet\" type=\"text/css\" href=\"${WSH_CSSF}\" />"
+		print "\t<link rel=\"stylesheet\" type=\"text/css\" href=\"${WSH_CSSF}?0\" />"
 	fi
 	if [[ -n "${WSH_GENF_TITLE}" ]]; then
 		if [ "${TR_TITLE}" != "${WSH_GENF_TITLE}" ]; then
