@@ -331,59 +331,59 @@ _(news_follow_iuv)
 
 _(donate_title)
 
-<div id="counter" class="hover-parent">
-  <div id="divm1" class="m">
-    <span id="md1" class="m done"></span>
-  </div>
-  <div id="divm2" class="m">
-    <span id="md2" class="m ongoing"></span>
-  </div>
-  <div id="divm3" class="m">
-    <span id="md3" class="m funded"></span>
-  </div>
-  <div id="divm4" class="m">
-    <span id="md4" class="m funded"></span>
-  </div>
-  <div id="divm5" class="m">
-    <span id="md5" class="m funded"></span>
-  </div>
-  <div id="divm6" class="m">
-    <span id="md6" class="m funded"></span>
-  </div>
-  <div id="divm7" class="m">
-    <span id="md7" class="m funded"></span>
-  </div>
-  <div id="divm8" class="m">
-    <span id="md8" class="m funded"></span>
-  </div>
-  <div id="divm9" class="m">
-    <span id="md9" class="m"></span>
-  </div>
-  <div id="divm10" class="m">
-    <span id="md10" class="m"></span>
-  </div>
-  <div id="divm11" class="m">
-    <span id="md11" class="m"></span>
-  </div>
-  <div id="divm12" class="m">
-    <span id="md12" class="m"></span>
-  </div>
-  <div id="divm13" class="m">
-    <span id="md13" class="m"></span>
-  </div>
-  <div id="divm14" class="m">
-    <span id="md14" class="m"></span>
-  </div>
-  <div id="divm15" class="m">
-    <span id="md15" class="m"></span>
-  </div>
-  <div class="hover-content">
+<div id="counter">
+  <div id="dots">
+    <div id="divm1" class="m">
+      <span id="md1" class="m done"></span>
+    </div>
+    <div id="divm2" class="m">
+      <span id="md2" class="m ongoing"></span>
+    </div>
+    <div id="divm3" class="m">
+      <span id="md3" class="m funded"></span>
+    </div>
+    <div id="divm4" class="m">
+      <span id="md4" class="m funded"></span>
+    </div>
+    <div id="divm5" class="m">
+      <span id="md5" class="m funded"></span>
+    </div>
+    <div id="divm6" class="m">
+      <span id="md6" class="m funded"></span>
+    </div>
+    <div id="divm7" class="m">
+      <span id="md7" class="m funded"></span>
+    </div>
+    <div id="divm8" class="m">
+      <span id="md8" class="m funded"></span>
+    </div>
+    <div id="divm9" class="m">
+      <span id="md9" class="m"></span>
+    </div>
+    <div id="divm10" class="m">
+      <span id="md10" class="m"></span>
+    </div>
+    <div id="divm11" class="m">
+      <span id="md11" class="m"></span>
+    </div>
+    <div id="divm12" class="m">
+      <span id="md12" class="m"></span>
+    </div>
+    <div id="divm13" class="m">
+      <span id="md13" class="m"></span>
+    </div>
+    <div id="divm14" class="m">
+      <span id="md14" class="m"></span>
+    </div>
+    <div id="divm15" class="m">
+      <span id="md15" class="m"></span>
+    </div>
+  </div><!--dots-->
 
 _(donate_animation_mission)
 
 _(donate_animation_text)
 
-  </div>
 </div><!--counter-->
         <div class="hor resp">
           <div id="bp-column" class="hor-el hor-3">

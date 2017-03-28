@@ -801,8 +801,10 @@ article.archive h4 {
 div#counter {
     width: 95%;
     margin: auto;
-    margin-bottom: 2ch;
-    overflow: hidden;
+}
+div#dots, div#counter {
+	margin-bottom: 2ch;
+	overflow: hidden;
 }
 div#counter div.m {
     background: inherit;
