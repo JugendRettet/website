@@ -173,35 +173,35 @@ _(index_team_title)
 
         <div class="hor">
           <div class="hor-el hor-5 box-pic-s">
-            <a href="team#team_berlin">
+            <a href="team#berlin">
 
 _(index_team_berlin)
 
             </a>
           </div><!--hor-el-->
           <div class="hor-el hor-5 box-pic-s">
-            <a href="team#team_crew">
+            <a href="team#crew">
 
 _(index_team_crew)
 
             </a>
           </div><!--hor-el-->
           <div class="hor-el hor-5 box-pic-s">
-            <a href="team#team_embassies">
+            <a href="team#embassies">
 
 _(index_team_embassies)
 
             </a>
           </div><!--hor-el-->
           <div class="hor-el hor-5 box-pic-s">
-            <a href="team#team_donations">
+            <a href="team#donations">
 
 _(index_team_donations)
 
             </a>
           </div><!--hor-el-->
           <div class="hor-el hor-5  box-pic-s">
-            <a href="team#team_sponsors">
+            <a href="team#sponsors">
 
 _(index_team_sponsors)
 
