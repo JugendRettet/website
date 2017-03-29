@@ -584,18 +584,18 @@ div.box-pic figure, div.box-pic-s figure {
 iframe {
 	border: none;
 }
-section#team_embassies iframe#team_emb_map {
+article#team section#embassies iframe#team_emb_map {
 	float: left;
 	width: 48%;
 	height: 90vh;
 }
-section#team_embassies ul {
+article#team section#embassies ul {
 	float: right;
 	width: 48%;
 	text-align: justify;
 	padding: 0;
 }
-section#team_embassies li {
+article#team section#embassies li {
 	display: inline;
 }
 section.clearfix img {
@@ -608,17 +608,17 @@ section.clearfix img {
     clear: both;
     display: table;
 }
-section#team_embassies ul {
+article#team section#embassies ul {
 	padding: 0;
 }
-section#team_sponsors ul {
+article#team section#sponsors ul {
 	padding: 0;
 	text-align: center;
 }
-section#team_sponsors li {
+article#team section#sponsors li {
 	display: inline;
 }
-section#team_sponsors li img {
+article#team section#sponsors li img {
 	max-width: 300px;
 	max-height: 100px;
 	margin: 5px;
@@ -840,7 +840,7 @@ div#counter div.hover-content {
 }
 /* end styling */
 @media screen and (max-width: 1000px) {
-	section#team_embassies ul {
+	article#team section#embassies ul {
 		text-align: initial;
 	}
 }
@@ -872,11 +872,11 @@ div#counter div.hover-content {
 	body, div.hor-2 {
 	  font-size: medium;
 	}
-	section#team_embassies iframe#team_emb_map {
+	article#team section#embassies iframe#team_emb_map {
 		float: none;
 		width: 100%;
 	}
-	section#team_embassies ul {
+	article#team section#embassies ul {
 		float: none;
 		width: 100%;
 		text-align: justify;
@@ -900,7 +900,7 @@ div#counter div.hover-content {
 	    height: 300px;
 	    max-width: 400px;
 	}
-	section#team_embassies ul {
+	article#team section#embassies ul {
 		text-align: initial;
 	}
 }
