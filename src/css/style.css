@@ -252,9 +252,10 @@ div.hor-el {
   margin-bottom: 1em;
   /*border: thin solid white;*/
 }
-div.hor-overflow iframe {
-	max-height: 400px;
-	overflow-y: auto;
+div.hor-overflow {
+    max-height: 400px;
+    overflow: auto;
+    margin-bottom: 2ch;
 }
 div.hor-overflow-fallback {
 	display: none;
