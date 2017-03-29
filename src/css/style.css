@@ -849,9 +849,6 @@ div#counter div.hover-content {
 	  width: 100%;
 	  max-width: 100%;
 	}
-	div.resp div.hor-el {
-	  margin-bottom: 0;
-	}
 	div.hor-overflow {
 	  /*display: none;*/
 	}
