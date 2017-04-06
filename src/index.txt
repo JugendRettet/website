@@ -3,7 +3,7 @@
 <script>
   var _bp_iframe        = _bp_iframe || {};
     _bp_iframe.project_id = 48425; /* REQUIRED */
-    _bp_iframe.lang       = 'de'; /* Language of the form */
+    _bp_iframe.lang       = '_(lang)'; /* Language of the form */
     /* Remove "//" for further customization but *only* if you really need to! */
     // _bp_iframe.width = 600; /* Custom iframe-tag-width, integer */
     _bp_iframe.color = '286482'; /* Button and banderole color, hex without "#" */
