@@ -11,8 +11,8 @@ while read lingua; do
   export TR_LANG
   ./sanitize.awk ./translations/"${TR_LANG}"/meta.md > meta.tmp
   ./sanitize.awk ./translations/"${TR_LANG}"/general.md > general.tmp
-  . meta.tmp
-  . general.tmp
+  . ./meta.tmp
+  . ./general.tmp
   rm meta.tmp general.tmp
   TR_DESCRIPTION=" $(sed -e '1d; $d'<<<"${description}" )"
   TR_TITLE="$(sed -e '1d; $d'<<<"${title}" )"
