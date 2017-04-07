@@ -119,7 +119,7 @@ _(ideals_iuv_text)
               </div><!--text-long-->
               <div class="a-dark">
 
-_(ideals_iuv_link)
+_(news_follow_iuv)
 
               </div><!--a-dark-->
             </div><!--hor-el-->

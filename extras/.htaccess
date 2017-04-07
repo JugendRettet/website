@@ -14,7 +14,7 @@ RewriteRule \.(jpg|jpeg|png|gif|svg)$ - [NC,F,L]
 
 RewriteRule ^/?donate$ /#donate [R=302,NC,NE,L]
 RewriteRule ^/?spende$ /#donate [R=302,NC,NE,L]
-RewriteRule ^/?iuventa$ /about#iuventa [R=302,NC,NE,L]
+RewriteRule ^/?iuventa$ /mission#current [R=302,NC,NE,L]
 
 RewriteRule ^/?donate$ /#donate [R=302,NC,NE,L]
 RewriteRule ^/?news$ /#news [R=302,NC,NE,L]
