@@ -6,7 +6,7 @@ RewriteCond %{ENV:HTTPS} !=on
 RewriteRule .* https://%{SERVER_NAME}%{REQUEST_URI} [R=301,L]
 
 RewriteCond %{HTTP_HOST} !=jugendrettet.org
-RewriteRule (.*) https://jugendrettet.org/$1 [R=301,L]
+RewriteRule (.*) https://new.jugendrettet.org/$1 [R=301,L]
 
 RewriteCond %{HTTP_REFERER} !^$
 RewriteCond %{HTTP_REFERER} !^http(s)?://(www\.)?new.jugendrettet.org [NC]
