@@ -1,7 +1,7 @@
 <nav class="center text-center sub">
   <a href="./#faq">
 
-_(index_menu_intro)
+&larr; _(index_menu_intro)
 
   </a>
   <a href="#top" class="bold">

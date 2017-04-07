@@ -1,7 +1,7 @@
 <nav class="center text-center sub">
   <a href="./#team">
 
-_(index_menu_intro)
+&larr; _(index_menu_intro)
 
   </a>
   <a href="#top" class="bold">
@@ -9,27 +9,27 @@ _(index_menu_intro)
 _(index_menu_team)
 
   </a>
-  <a href="#team_berlin">
+  <a href="#berlin">
 
 _(sub_team_berlin_menu)
 
   </a>
-  <a href="#team_crew">
+  <a href="#crew">
 
 _(sub_team_crew_menu)
 
   </a>
-  <a href="#team_embassies">
+  <a href="#embassies">
 
 _(sub_team_embassies_menu)
 
   </a>
-  <a href="#team_donations">
+  <a href="#donations">
 
 _(sub_team_donations_menu)
 
   </a>
-  <a href="#team_sponsors">
+  <a href="#sponsors">
 
 _(sub_team_sponsors_menu)
 
@@ -37,41 +37,41 @@ _(sub_team_sponsors_menu)
 </nav>
 
 <div id="paper">
-<article>
+<article id="team">
 <section id="top" class="scroll-section big-margin">
 
 _(sub_team_title)
 
 </section><!--top-->
-<section id="team_berlin" class="scroll-section">
+<section id="berlin" class="scroll-section">
 
 _(sub_team_berlin_title)
 
 _(sub_team_berlin)
 
 </section><!--intro-->
-<section id="team_crew" class="scroll-section">
+<section id="crew" class="scroll-section">
 
 _(sub_team_crew_title)
 
 _(sub_team_crew)
 
 </section><!--intro-->
-<section id="team_embassies" class="scroll-section clearfix">
+<section id="embassies" class="scroll-section clearfix">
 
 _(sub_team_embassies_title)
 
 _(sub_team_embassies)
 
 </section><!--intro-->
-<section id="team_donations" class="scroll-section">
+<section id="donations" class="scroll-section">
 
 _(sub_team_donations_title)
 
 _(sub_team_donations)
 
 </section><!--intro-->
-<section id="team_sponsors" class="scroll-section">
+<section id="sponsors" class="scroll-section">
 
 _(sub_team_sponsors_title)
 
