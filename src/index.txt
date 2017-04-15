@@ -16,7 +16,7 @@
         var js, fjs = d.getElementsByTagName(s)[0];
         if (d.getElementById(id)) return;
         js = d.createElement(s); js.id = id;
-        js.src = "//connect.facebook.net/de_DE/sdk.js#xfbml=1&version=v2.8&appId=107811646279095";
+        js.src = "//connect.facebook.net/_(lang_long)/sdk.js#xfbml=1&version=v2.8&appId=107811646279095";
         fjs.parentNode.insertBefore(js, fjs);
       }(document, 'script', 'facebook-jssdk'));
         /* Configure at https://www.betterplace.org/de/projects/42019-rette-mit-einsatz-zur-seenotrettung-auf-dem-mittelmeer/manage/iframe_donation_form */
