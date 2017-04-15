@@ -254,7 +254,7 @@ div.hor-el {
 }
 div.hor-overflow {
     max-height: 400px;
-    overflow: auto;
+    overflow-y: scroll;
     margin-bottom: 2ch;
 }
 div.hor-overflow-fallback {
