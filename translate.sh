@@ -6,9 +6,10 @@ TEXT="${in}"
 
 # File containing translations.
 
-translations_dir=$1
+translations_dir="$1"
+common_dir="$2"
 
-files="$( find "${translations_dir}"/ -type f -name "*.md" -not -path "*/.git/*" )"
+files="$( find "${translations_dir}"/ "${common_dir}"/ -type f -name "*.md" -not -path "*/.git/*" )"
 
 # sanitize a little first
 
