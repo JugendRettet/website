@@ -35,6 +35,10 @@ _(about_title)
 </section><!--top-->
 <section id="our_story" class="scroll-section">
 
+_(about_our_story_title)
+
+_(index_about_us_our_story_pic)
+
 _(about_our_story)
 
 </section>
@@ -42,10 +46,16 @@ _(about_our_story)
 
 _(about_iuventa_title)
 
+_(index_about_us_iuv_pic)
+
 _(about_iuventa)
 
 </section>
 <section id="transparency" class="scroll-section">
+
+_(about_transparency_title)
+
+_(about_us_transparency_pic)
 
 _(about_transparency)
 

@@ -47,12 +47,16 @@ _(sub_team_title)
 
 _(sub_team_berlin_title)
 
+_(index_team_berlin_pic)
+
 _(sub_team_berlin)
 
 </section><!--intro-->
 <section id="crew" class="scroll-section">
 
 _(sub_team_crew_title)
+
+_(index_team_crew_pic)
 
 _(sub_team_crew)
 
@@ -67,6 +71,8 @@ _(sub_team_embassies)
 <section id="donations" class="scroll-section">
 
 _(sub_team_donations_title)
+
+_(index_team_donations_pic)
 
 _(sub_team_donations)
 

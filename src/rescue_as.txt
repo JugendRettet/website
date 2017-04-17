@@ -40,20 +40,36 @@ _(rescue_as_title)
 </section><!--top-->
 <section id="sponsor" class="scroll-section">
 
+_(rescue_as_sponsor_title)
+
+_(index_rescue_as_sponsor_pic)
+
 _(rescue_as_sponsor)
 
 </section><!--intro-->
 <section id="donor" class="scroll-section">
+
+_(rescue_as_donor_title)
+
+_(index_rescue_as_donator_pic)
 
 _(rescue_as_donor)
 
 </section><!--intro-->
 <section id="helper" class="scroll-section">
 
+_(rescue_as_helper_title)
+
+_(index_rescue_as_voluntary_pic)
+
 _(rescue_as_helper)
 
 </section><!--intro-->
 <section id="ambassador" class="scroll-section scroll-last">
+
+_(rescue_as_ambassador_title)
+
+_(index_rescue_as_ambassador_pic)
 
 _(rescue_as_ambassador)
 
