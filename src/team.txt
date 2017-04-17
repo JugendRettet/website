@@ -83,6 +83,8 @@ _(sub_team_donations)
 
 _(sub_team_sponsors_title)
 
+_(sub_team_sponsors_intro)
+
 _(sub_team_sponsors)
 
 </section><!--intro-->
