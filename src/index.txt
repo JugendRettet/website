@@ -149,6 +149,8 @@ _(index_about_us_title)
 
 _(index_about_us_our_story_title)
 
+_(index_about_us_our_story_pic)
+
             </a>
           </div><!--hor-el-->
           <div class="hor-el hor-3 box-pic">
@@ -156,12 +158,16 @@ _(index_about_us_our_story_title)
 
 _(index_about_us_iuv_title)
 
+_(index_about_us_iuv_pic)
+
             </a>
           </div><!--hor-el-->
           <div class="hor-el hor-3 box-pic">
             <a href="about#transparency">
 
 _(index_about_us_transparency_title)
+
+_(index_about_us_transparency_pic)
 
             </a>
           </div><!--hor-el-->
@@ -177,12 +183,16 @@ _(index_team_title)
 
 _(index_team_berlin)
 
+_(index_team_berlin_pic)
+
             </a>
           </div><!--hor-el-->
           <div class="hor-el hor-5 box-pic-s">
             <a href="team#crew">
 
 _(index_team_crew)
+
+_(index_team_crew_pic)
 
             </a>
           </div><!--hor-el-->
@@ -191,6 +201,8 @@ _(index_team_crew)
 
 _(index_team_embassies)
 
+_(index_team_embassies_pic)
+
             </a>
           </div><!--hor-el-->
           <div class="hor-el hor-5 box-pic-s">
@@ -198,12 +210,16 @@ _(index_team_embassies)
 
 _(index_team_donations)
 
+_(index_team_donations_pic)
+
             </a>
           </div><!--hor-el-->
           <div class="hor-el hor-5  box-pic-s">
             <a href="team#sponsors">
 
 _(index_team_sponsors)
+
+_(index_team_sponsors_pic)
 
             </a>
           </div><!--hor-el-->
@@ -220,12 +236,17 @@ _(index_rescue_as_title)
 
 _(index_rescue_as_voluntary)
 
+_(index_rescue_as_voluntary_pic)
+
+
             </a>
           </div><!--hor-el-->
           <div class="hor-el hor-4 box-pic-s">
             <a href="rescue_as#ambassador">
 
 _(index_rescue_as_ambassador)
+
+_(index_rescue_as_ambassador_pic)
 
             </a>
           </div><!--hor-el-->
@@ -234,12 +255,16 @@ _(index_rescue_as_ambassador)
 
 _(index_rescue_as_donator)
 
+_(index_rescue_as_donator_pic)
+
             </a>
           </div><!--hor-el-->
           <div class="hor-el hor-4 box-pic-s">
             <a href="rescue_as#sponsor">
 
 _(index_rescue_as_sponsor)
+
+_(index_rescue_as_sponsor_pic)
 
             </a>
           </div><!--hor-el-->
