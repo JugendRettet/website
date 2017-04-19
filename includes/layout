@@ -26,7 +26,11 @@ function page_header {
 		print '	<meta property="og:url" content="'"${WSH_URL}"'" />'
 	fi
     while read lang; do
-    	print '	<link rel="alternate" hreflang="'"${lang}"'" href="'"${WSH_URL}"'/'"${lang}"'/" />'
+		if [ "${WSH_PAGE}" != 'index' ]; then
+			print '	<link rel="alternate" hreflang="'"${lang}"'" href="'"${WSH_URL}"'/'"${lang}"'/'"${WSH_PAGE}"'" />'
+		else
+			print '	<link rel="alternate" hreflang="'"${lang}"'" href="'"${WSH_URL}"'/'"${lang}"'/" />'
+		fi
 	done <<<"${TR_LANGS}"
 	if (( WSH_CSS == 1 )); then
 		print "\t<link rel=\"stylesheet\" type=\"text/css\" href=\"${WSH_CSSF}?4\" />"
