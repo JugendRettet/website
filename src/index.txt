@@ -368,10 +368,10 @@ _(donate_title)
       <span id="md3" class="m done"></span>
     </div>
     <div id="divm4" class="m">
-      <span id="md4" class="m ongoing"></span>
+      <span id="md4" class="m done"></span>
     </div>
     <div id="divm5" class="m">
-      <span id="md5" class="m funded"></span>
+      <span id="md5" class="m ongoing"></span>
     </div>
     <div id="divm6" class="m">
       <span id="md6" class="m funded"></span>
