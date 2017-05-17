@@ -454,7 +454,7 @@ nav a, nav a.inactive {
 }
 nav a.red, nav a.red.inactive {
 	background: rgb(249,69,0);
-	color: transparent;
+	color: #f8f8f7;
 }
 nav a.red, nav a.red.inactive, .bold {
 	font-weight: bold;
