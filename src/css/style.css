@@ -462,11 +462,11 @@ nav a.red, nav a.red.inactive, .bold {
 nav a:hover, nav a:hover.red, nav a:hover.dark, nav a.active, nav a.red.active {
 	background: #286482;
 	color: white;
-	border-bottom: none;
 }
 nav a:hover.red, nav a.red.active {
 	color: rgb(249,69,0);
 	background: transparent;
+	border-bottom: solid thin;
 }
 nav a:hover.dark {
 	color: #142d3c;
