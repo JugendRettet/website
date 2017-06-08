@@ -386,10 +386,10 @@ _(donate_title)
       <span id="md9" class="m funded"></span>
     </div>
     <div id="divm10" class="m">
-      <span id="md10" class="m"></span>
+      <span id="md10" class="m funded"></span>
     </div>
     <div id="divm11" class="m">
-      <span id="md11" class="m"></span>
+      <span id="md11" class="m funded"></span>
     </div>
     <div id="divm12" class="m">
       <span id="md12" class="m"></span>
