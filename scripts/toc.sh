@@ -10,6 +10,6 @@ printf "%s\n" '<ul>'
 printf "%s\n" '</ul>'
 )"
 
-awk -v toc="${TOC}" '/<!--TOC-->/{sub(/<!--TOC-->/,toc)};{print}' \
+gawk -v toc="${TOC}" '/<!--TOC-->/{sub(/<!--TOC-->/,toc)};{print}' \
   "${FILE}" > "${FILE}".tmp
 mv "${FILE}".tmp "${FILE}"
