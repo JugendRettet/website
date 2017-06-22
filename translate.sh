@@ -24,6 +24,22 @@ done <<<"${files}"
 
 declare NEW_TEXT
 
+# special preprocessed snippets
+
+NEW_TEXT="$(
+  NEWEST_NEWS="$(
+    echo
+    echo
+    echo "${archive_current}" | ./scripts/nth_occurrences.sh -s '####' -n 3
+  )"
+
+  gawk -v m='<!--newest_news-->' -v n="${NEWEST_NEWS}" \
+  '{gsub(m,n)}1' <<<"${TEXT}"
+)"
+
+TEXT="${NEW_TEXT}"
+
+
 # All phrases that shall be replaced.
 snippets="$( grep -o -E "_\(.+\)" <<<"${in}" )"
 
