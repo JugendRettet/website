@@ -141,7 +141,7 @@
 .text-center, .hor, div.box-highlight {
 	text-align: center;
 }
-.text-long p {
+.text-long p, .text-long ul, .text-long h4 {
 	text-align: left;
 }
 .monospace {
@@ -230,10 +230,6 @@ div.box-highlight div.box-dark {
 	color: inherit;
 	background: inherit;
 }
-div.box-pic {
-}
-div.box-pic-s {
-}
 div.box-pic, div.box-pic-s {
   position: relative;
 }
@@ -251,6 +247,18 @@ div.hor-el {
   /*min-width: 100px;*/
   margin-bottom: 1em;
   /*border: thin solid white;*/
+  margin-left: 1ch;
+  margin-right: 1ch;
+}
+div.hor-el:first-child {
+  margin-left: 0;
+}
+div.hor-el:last-child {
+  margin-right: 0;
+}
+div.box-pic, div.box-pic-s {
+  margin-left: 0;
+  margin-right: 0;
 }
 div.hor-overflow {
     max-height: 400px;
@@ -261,13 +269,13 @@ div.hor-overflow-fallback {
 	display: none;
 }
 div.hor-2 {
-  width: 48%;
+  width: calc(50% - 2ch);
 }
 div.hor-3 {
-  width: 32%;
+  width: calc(33% - 2ch);
 }
 div.hor-3.box-pic, div.hor.fix div.hor-3 {
-  width: 32%;
+  width: calc(33% - 3ch); 
   overflow-x: hidden;
 }
 div.hor-4 {
@@ -516,6 +524,12 @@ ul {
 }
 p, ul, h4, h5, h6, div#counter {
 	max-width: 80ch;
+}
+div.hor.narrow-s {
+  max-width: calc(84ch * 6 / 5);
+}
+div.hor.narrow-m {
+  max-width: calc(84ch * 4 / 3);
 }
 div.p-highlight {
 	/*margin: 0.5em;*/
@@ -846,7 +860,7 @@ div#counter div.hover-content {
 	}
 }
 @media screen and (max-width: 690px) {
-	div.resp div.hor-3, div.resp.fix div.hor-3 {
+	div.resp div.hor-el, div.resp.fix div.hor-el, div.hor.narrow-s, div.hor.narrow-m {
 	  width: 100%;
 	  max-width: 100%;
 	}

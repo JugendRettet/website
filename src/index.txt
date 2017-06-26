@@ -404,33 +404,40 @@ _(donate_title)
       <span id="md15" class="m"></span>
     </div>
   </div><!--dots-->
+</div><!--counter-->
+
+_(donate_calc_text)
 
 _(donate_animation_mission)
 
+        <div class="hor narrow-s">
+          <div class="hor-el hor-2">
+            <div class="text-long">
+
 _(donate_animation_text)
 
-</div><!--counter-->
-        <div class="hor resp">
-          <div id="bp-column" class="hor-el hor-3">
+            </div><!--text-long-->
+          </div><!--hor-el-->
+          <div class="hor-el hor-2">
+            <div class="box-highlight">
+
+_(donate_more_info)
+
+            </div><!--box-highlight-->
+          </div><!--hor-el-->
+        </div><!--hor-->
+        <div class="hor resp narrow-m">
+          <div id="bp-column" class="hor-el hor-2">
+
+_(donate_betterplace_title)
+
             <div id="betterplace_donation_iframe" style="background: transparent url('https://www.betterplace.org/assets/new_spinner.gif') 275px 20px no-repeat;"><strong><a href="https://www.betterplace.org/projects/48425-rette-mit-spende-fur-rettungseinsatze-auf-dem-mittelmeer/donations/new">
 
 <!--mkd-->_(donate_betterplace_text)
 
             </a></strong></div>
           </div><!--hor-el-->
-          <div class="hor-el hor-3">
-            <div class="box-highlight">
-
-_(donate_calc_text)
-
-            </div><!--box-highlight-->
-            <div class="box-dark">
-
-_(donate_merch_link)
-
-            </div><!--box-dark-->
-          </div><!--hor-el-->
-          <div class="hor-el hor-3 highlight">
+          <div class="hor-el hor-2">
 
 _(donate_donations_account)
 
@@ -439,6 +446,11 @@ _(donate_donations_account)
 _(donate_account_info)
 
             </div><!--text-long-->
+            <div class="box-dark">
+
+_(donate_merch_link)
+
+            </div><!--box-dark-->
           </div><!--hor-el-->
         </div><!--hor-->
       </section><!--donate-->
