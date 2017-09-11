@@ -96,6 +96,12 @@ _(index_menu_donate)
 
 _(intro_title)
 
+	<div class="box-highlight text-long">
+
+_(breaking)
+
+	</div><!--box-highlight-->
+
         <div class="text-lighter text-center">
 
 _(intro)
@@ -377,7 +383,7 @@ _(donate_title)
       <span id="md6" class="m done"></span>
     </div>
     <div id="divm7" class="m">
-      <span id="md7" class="m ongoing"></span>
+      <span id="md7" class="m done"></span>
     </div>
     <div id="divm8" class="m">
       <span id="md8" class="m funded"></span>

@@ -31,6 +31,12 @@ _(archive_2015_menu)
 
 _(archive_title)
 
+        <div class="box-highlight text-long">
+
+_(breaking)
+
+        </div><!--box-highlight-->
+
 </section><!--top-->
 <section id="2017" class="scroll-section">
 

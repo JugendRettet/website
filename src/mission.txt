@@ -52,6 +52,12 @@ var default_maptype=2;
 
 _(mission_current)
 
+        <div class="box-highlight text-long">
+
+_(breaking)
+
+        </div><!--box-highlight-->
+
 </section>
 <section id="procedure" class="scroll-section">
 
