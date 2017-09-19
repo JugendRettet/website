@@ -37,6 +37,7 @@ RewriteRule ^/?events.php$ /events [R=301,NC,L]
 RewriteRule ^/?events$ https://www.facebook.com/JugendRettet/events [R=302,NC,L]
 RewriteRule ^/?chronologie$ https://dl.jugendrettet.org [R=302,NC,L]
 RewriteRule ^/?chronology$ https://dl.jugendrettet.org [R=302,NC,L]
+RewriteRule ^/?material$ https://dl.jugendrettet.org [R=302,NC,L]
 
 # url has no subdir -> redirect to Accept-Language
 # or /en/ if we have no dir for Accept-Language
