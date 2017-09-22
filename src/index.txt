@@ -100,6 +100,8 @@ _(intro_title)
 
 _(breaking)
 
+_(news_press_release)
+
 _(news_press_kit)
 
 	</div><!--box-highlight-->
