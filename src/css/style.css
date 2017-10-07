@@ -815,7 +815,7 @@ section#more {
     display:block;
 }
 #mc_embed_signup{clear:left; width:100%;}
-article.archive h4 {
+article.archive h4, section#news h4 {
 	font-weight: normal;
 }
 div#counter {

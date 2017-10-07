@@ -304,18 +304,17 @@ _(news_archive)
 
 _(news_news_mission)
 
+              <div class="a-dark">
+
+_(news_follow_iuv)
+
+              </div><!--a-dark-->
             </div><!--hor-el-->
             <div class="hor-el hor-3">
 
 _(news_press_release)
 
 _(news_press_kit)
-
-              <div class="a-dark">
-
-_(news_follow_iuv)
-
-              </div><!--a-dark-->
 
             </div><!--hor-el-->
             <div class="hor-el hor-3">
