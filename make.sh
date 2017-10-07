@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/usr/local/bin/bash
 
 TR_LANGS="de en"
 
@@ -14,8 +14,8 @@ while read lingua; do
   . ./meta.tmp
   . ./general.tmp
   rm meta.tmp general.tmp
-  TR_DESCRIPTION=" $(sed -e '1d; $d'<<<"${description}" )"
-  TR_TITLE="$(sed -e '1d; $d'<<<"${title}" )"
+  TR_DESCRIPTION=" $(gsed -e '1d; $d'<<<"${description}" )"
+  TR_TITLE="$(gsed -e '1d; $d'<<<"${title}" )"
   export TR_DESCRIPTION
   export TR_TITLE
   echo "Handling language ${TR_LANG}"
