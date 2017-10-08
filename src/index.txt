@@ -96,7 +96,7 @@ _(index_menu_donate)
 
 _(intro_title)
 
-	<div class="box-highlight text-long">
+        <div class="box-highlight text-long">
 
 _(breaking)
 
@@ -104,7 +104,7 @@ _(news_press_release)
 
 _(news_press_kit)
 
-	</div><!--box-highlight-->
+        </div><!--box-highlight-->
 
         <div class="text-lighter text-center">
 

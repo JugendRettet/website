@@ -1,4 +1,4 @@
-#!/usr/local/bin/bash
+#!/usr/bin/env bash
 
 in="$(</dev/stdin)"
 
@@ -9,7 +9,7 @@ TEXT="${in}"
 translations_dir="$1"
 common_dir="$2"
 
-files="$( gfind "${translations_dir}"/ "${common_dir}"/ -type f -name "*.md" -not -path "*/.git/*" )"
+files="$( find "${translations_dir}"/ "${common_dir}"/ -type f -name "*.md" -o -path "*/.git/*" -prune )"
 
 # sanitize a little first
 
@@ -41,19 +41,21 @@ TEXT="${NEW_TEXT}"
 
 
 # All phrases that shall be replaced.
-snippets="$( grep -o -E "_\(.+\)" <<<"${in}" )"
+snippets="$( grep -o -E "_\(.+\)" <<<"${in}" | sed '/^[[:space:]]*$/d' )"
 
 while read snippet; do
-  # Get the name of the translated phrase in the translations file.
-  translation_name="$( gawk '{gsub(/^_\(|\)$/,"");print}' <<<"${snippet}" )"
-  # Put translation into variable.
-  translation_content="$( gsed -e '1d; $d' -e 's/\&/\\\\&/g' <<<"${!translation_name}" )"
-  # Replace current phrase with translation.
-  NEW_TEXT="$(
-    gawk -v n="_\\\("${translation_name}"\\\)" -v c="${translation_content}" \
-    '{gsub(n,c)}1' <<<"${TEXT}"
-  )"
-  TEXT="${NEW_TEXT}"
+  if [ ! -z "${snippet}" ]; then
+    # Get the name of the translated phrase in the translations file.
+    translation_name="$( awk '{gsub(/^_\(|\)$/,"");print}' <<<"${snippet}" )"
+    # Put translation into variable.
+    translation_content="$( sed -e '1d; $d' -e 's/\&/\\\\&/g' <<<"${!translation_name}" )"
+    # Replace current phrase with translation.
+    NEW_TEXT="$(
+      gawk -v n="_\\\("${translation_name}"\\\)" -v c="${translation_content}" \
+      '{gsub(n,c)}1' <<<"${TEXT}"
+    )"
+    TEXT="${NEW_TEXT}"
+  fi
 done <<<"${snippets}"
 
 echo "${TEXT}"

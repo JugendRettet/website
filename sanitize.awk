@@ -1,5 +1,6 @@
-#!/usr/local/bin/gawk -f
+#!/usr/bin/awk -f
 
 !/(.*='|^')$/ {
   gsub(/'/,"'\\''")
 }1
+
