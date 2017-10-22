@@ -489,7 +489,7 @@ nav a p {
 div#paper, nav a:hover, div#lastlinks a:hover {
 	/* border: solid; */
 }
-article {
+article, section.news h4 {
 	line-height:140%;
 	word-wrap:break-word;
 }

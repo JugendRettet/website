@@ -290,7 +290,7 @@ _(index_faq)
 
         </div><!--a-dark-->
       </section><!--faq-->
-      <section id="news" class="scroll-section">
+      <section id="news" class="scroll-section news">
 
 _(news_title)
 

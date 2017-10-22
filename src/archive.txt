@@ -38,17 +38,17 @@ _(breaking)
         </div><!--box-highlight-->
 
 </section><!--top-->
-<section id="2017" class="scroll-section">
+<section id="2017" class="scroll-section news">
 
 _(archive_current)
 
 </section>
-<section id="2016" class="scroll-section">
+<section id="2016" class="scroll-section news">
 
 _(archive_2016)
 
 </section>
-<section id="2015" class="scroll-section">
+<section id="2015" class="scroll-section news">
 
 _(archive_2015)
 
