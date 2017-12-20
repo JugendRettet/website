@@ -189,9 +189,9 @@ _(index_team_title)
 
         <div class="hor">
           <div class="hor-el hor-5 box-pic-s">
-            <a href="team#berlin">
+            <a href="team#org">
 
-_(index_team_berlin)
+_(index_team_org)
 
 _(index_team_berlin_pic)
 

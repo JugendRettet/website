@@ -9,9 +9,9 @@
 _(index_menu_team)
 
   </a>
-  <a href="#berlin">
+  <a href="#org">
 
-_(sub_team_berlin_menu)
+_(sub_team_org_menu)
 
   </a>
   <a href="#crew">
@@ -43,13 +43,13 @@ _(sub_team_sponsors_menu)
 _(sub_team_title)
 
 </section><!--top-->
-<section id="berlin" class="scroll-section">
+<section id="org" class="scroll-section">
 
-_(sub_team_berlin_title)
+_(sub_team_org_title)
 
 _(index_team_berlin_pic)
 
-_(sub_team_berlin)
+_(sub_team_org)
 
 </section><!--intro-->
 <section id="crew" class="scroll-section">
