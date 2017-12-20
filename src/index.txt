@@ -360,6 +360,7 @@ _(news_events) &rarr;
 
 _(donate_title)
 
+<!--
 <div id="counter">
   <div id="dots">
     <div id="divm1" class="m">
@@ -407,8 +408,11 @@ _(donate_title)
     <div id="divm15" class="m">
       <span id="md15" class="m"></span>
     </div>
-  </div><!--dots-->
-</div><!--counter-->
+  </div><
+</div>
+-->
+<!--dots-->
+<!--counter-->
 
 _(donate_calc_text)
 
