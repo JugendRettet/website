@@ -37,7 +37,7 @@ _(crewing_menu_press)
 
 _(crewing_title)
 
-_(crewing_intro)
+_(breaking)
 
 </section><!--top-->
 <section id="positions" class="scroll-section">
