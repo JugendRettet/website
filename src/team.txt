@@ -67,6 +67,8 @@ _(sub_team_embassies_title)
 
 _(sub_team_embassies_intro)
 
+_(sub_team_embassies_map)
+
 _(sub_team_embassies)
 
 </section><!--intro-->

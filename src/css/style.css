@@ -609,8 +609,8 @@ article#team section#embassies iframe#team_emb_map {
 	height: 90vh;
 }
 article#team section#embassies ul {
-	float: right;
-	width: 48%;
+	/*float: right;
+	width: 48%;*/
 	text-align: justify;
 	padding: 0;
 }
