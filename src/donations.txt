@@ -19,7 +19,7 @@ _(sub_donate_title)
 
 _(sub_donate_intro)
 
-_(donate_betterplace_text)
+_(donate_betterplace_text) &rarr;
 
 _(sub_donate_list)
 

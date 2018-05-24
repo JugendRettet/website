@@ -383,7 +383,7 @@ _(donate_more_info)
 
 _(donate_betterplace_title)
 
-_(donate_betterplace_text)
+_(donate_betterplace_text) &rarr;
 
           </div><!--hor-el-->
           <div class="hor-el hor-2">
@@ -397,7 +397,7 @@ _(donate_account_info)
             </div><!--text-long-->
             <div class="box-dark">
 
-_(donate_merch_link)
+_(donate_merch_link) &rarr;
 
             </div><!--box-dark-->
           </div><!--hor-el-->
