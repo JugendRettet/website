@@ -417,15 +417,16 @@ span.text-center {
 	display: block;
 }
 div.box-pic img, div.box-pic-s img {
-	max-width: none;
-	/* dirty hack to center overflowing img inside parent */
+    max-width: none;
+    min-height: 100%;
+    max-height: 166%;
+    /* dirty hack to center overflowing img inside parent */
     position: absolute;
     top: -99999px;
     bottom: -99999px;
     left: -99999px;
     right: -99999px;
     margin: auto;
-    height: 100%;
 }
 /* end structure */
 /* styling */
