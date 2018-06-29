@@ -1,0 +1,15 @@
+<nav>
+  <a href="./">
+
+&larr; _(index_menu_intro)
+  
+  </a>
+</nav>
+
+<div id="paper">
+<article>
+
+_(netiquette)
+
+</article>
+</div><!--paper-->
