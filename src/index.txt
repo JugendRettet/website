@@ -425,6 +425,11 @@ _(index_menu_privacy)
 _(index_menu_contact)
 
           </a>
+          <a href="./netiquette">
+
+_(index_menu_netiquette)
+
+          </a>
           <span>|</span>
           <a href="../en/">
 
