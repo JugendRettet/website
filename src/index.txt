@@ -278,7 +278,7 @@ _(news_follow_iuv)
 
               </div><!--a-dark-->
             </div><!--hor-el-->
-            <div class="hor-el hor-3">
+            <div class="hor-el hor-3 text-long">
 
 _(news_press_release)
 
