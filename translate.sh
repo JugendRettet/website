@@ -30,7 +30,8 @@ NEW_TEXT="$(
   NEWEST_NEWS="$(
     echo
     echo
-    echo "${archive_current}" | ./scripts/nth_occurrences.sh -s '####' -n 3
+    echo "${archive_current}" | ./scripts/nth_occurrences.sh -s '####' -n 3 \
+    | sed -e '1d; $d' -e 's/\&/\\\\&/g'
   )"
 
   gawk -v m='<!--newest_news-->' -v n="${NEWEST_NEWS}" \
