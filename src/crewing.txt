@@ -42,6 +42,8 @@ _(breaking)
 </section><!--top-->
 <section id="positions" class="scroll-section">
 
+_(jobs)
+
 _(crewing_positions)
 
 </section>
