@@ -1,0 +1,23 @@
+<nav class="center text-center sub">
+  <a href="./">
+
+&larr; _(index_menu_intro)
+
+  </a>
+  <a href="#top" class="bold">
+
+_(index_menu_r2r)
+
+  </a>
+</nav>
+
+<div id="paper">
+<article>
+<section id="top" class="scroll-section big-margin">
+
+_(right2rescue)
+
+</section><!--top-->
+</article>
+</div><!--paper-->
+
